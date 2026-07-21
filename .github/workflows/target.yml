@@ -71,7 +71,13 @@ jobs:
                       timeout=180,
                   )
                   if r.status_code == 200:
-                      return r.json()["content"][0]["text"]
+                      bloques = r.json().get("content", [])
+                      texto = "".join(b.get("text", "") for b in bloques
+                                      if b.get("type") == "text")
+                      if texto.strip():
+                          return texto
+                      print("[aviso] respuesta sin bloque de texto")
+                      raise RuntimeError("respuesta vacia")
                   print("[API " + str(r.status_code) + "] " + r.text[:400])
                   if r.status_code in (401, 403):
                       raise SystemExit("Clave rechazada. Revisa el secret ANTHROPIC_API_KEY y el saldo en console.anthropic.com")
