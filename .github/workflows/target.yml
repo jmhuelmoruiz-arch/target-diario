@@ -109,28 +109,46 @@ jobs:
                         "Formato: [[0,12,31],[4,18,22]]")
               return parse_json(claude(prompt, system, MODELO_RAPIDO))[:MAX_HISTORIAS]
 
-          def analyze(cluster):
+          def analyze(cluster, todos_los_medios):
               piezas = "\n".join("- [" + h["outlet"] + "] " + h["title"] for h in cluster)
-              system = ("Eres el redactor jefe de Target, un medio cuya promesa es separar "
-                        "hechos verificables de encuadres editoriales. REGLA INNEGOCIABLE: en "
-                        "'facts' solo entra informacion deducible de los titulares aportados. "
-                        "No anadas datos de tu memoria, no completes cifras, no supongas "
-                        "contexto. Un dato inventado destruye el producto. Responde SOLO JSON.")
+              system = ("Eres el redactor jefe de Target, un medio cuya promesa es hacer "
+                        "VISIBLE el encuadre editorial. REGLA INNEGOCIABLE: en 'facts' solo "
+                        "entra informacion deducible de los titulares aportados. No anadas "
+                        "datos de tu memoria, no completes cifras, no supongas contexto. "
+                        "Cuando dos medios den cifras distintas, atribuye cada una a su "
+                        "medio. Responde SOLO JSON.")
               prompt = ("Estos medios cubren hoy la misma noticia:\n\n" + piezas +
-                        "\n\nDevuelve este JSON:\n"
+                        "\n\nPRIMERO decide si entre estos titulares hay una divergencia "
+                        "real de encuadre: distinto protagonista, distinta causa atribuida, "
+                        "distinto responsable, distinto aspecto destacado. Si todos dicen "
+                        "esencialmente lo mismo, hay_divergencia es false y no fuerces "
+                        "diferencias inexistentes.\n\n"
+                        "SI hay divergencia: nombra el EJE concreto de esta historia (no un "
+                        "eje izquierda-derecha generico) con sus dos polos, ordena los medios "
+                        "a lo largo de ese eje y reparte las posiciones usando TODO el rango. "
+                        "El medio mas cercano a un polo recibe entre 0 y 15; el mas cercano "
+                        "al polo opuesto, entre 85 y 100; los demas se distribuyen entre "
+                        "ambos. Es una ordenacion RELATIVA entre estos medios, no una nota "
+                        "absoluta.\n\n"
+                        "SI no hay divergencia: hay_divergencia false, eje null, y todas las "
+                        "posiciones a 50.\n\n"
+                        "Devuelve este JSON:\n"
                         '{"neutral_headline": "titular descriptivo sin adjetivos valorativos",\n'
                         ' "section": "Politica | Economia | Internacional | Sociedad | Cultura | Deportes",\n'
                         ' "facts": ["hecho verificable 1", "hecho 2"],\n'
+                        ' "hay_divergencia": true,\n'
+                        ' "eje": {"polo_a": "etiqueta breve del extremo 0", '
+                        '"polo_b": "etiqueta breve del extremo 100", '
+                        '"resumen": "en una frase, en que se dividen los medios"},\n'
                         ' "frames": [{"outlet": "medio", "headline": "su titular literal", '
-                        '"position": 50, "focus": "en que pone el foco, una frase"}],\n'
-                        ' "discrepancia": "baja | media | alta"}\n\n'
-                        "position: 0-100. 0 = encuadre mas progresista, 50 = neutro o "
-                        "meramente informativo, 100 = mas conservador. Puntua ESTE titular "
-                        "concreto, no la reputacion del medio.")
+                        '"position": 0, "focus": "que destaca y que omite este encuadre"}],\n'
+                        ' "discrepancia": "baja | media | alta"}')
               data = parse_json(claude(prompt, system, MODELO_BUENO))
               links = {h["outlet"]: h["link"] for h in cluster}
               for f in data.get("frames", []):
                   f["link"] = links.get(f["outlet"], "")
+              cubren = set(f.get("outlet") for f in data.get("frames", []))
+              data["silenciosos"] = sorted(m for m in todos_los_medios if m not in cubren)
               return data
 
           def main():
@@ -148,7 +166,7 @@ jobs:
                       continue
                   print("  analizando historia " + str(idx) + " (" + str(len(cluster)) + " piezas)")
                   try:
-                      historias.append(analyze(cluster))
+                      historias.append(analyze(cluster, list(FEEDS.keys())))
                   except Exception as err:
                       print("  [aviso] descartada: " + str(err))
               if not historias:
