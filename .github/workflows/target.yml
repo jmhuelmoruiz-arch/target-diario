@@ -110,44 +110,83 @@ jobs:
               return parse_json(claude(prompt, system, MODELO_RAPIDO))[:MAX_HISTORIAS]
 
           def analyze(cluster, todos_los_medios):
-              piezas = "\n".join("- [" + h["outlet"] + "] " + h["title"] for h in cluster)
+              piezas = "\n".join(str(i) + ". [" + h["outlet"] + "] " + h["title"]
+                                 for i, h in enumerate(cluster))
               system = ("Eres el redactor jefe de Target, un medio cuya promesa es hacer "
-                        "VISIBLE el encuadre editorial. REGLA INNEGOCIABLE: en 'facts' solo "
-                        "entra informacion deducible de los titulares aportados. No anadas "
-                        "datos de tu memoria, no completes cifras, no supongas contexto. "
-                        "Cuando dos medios den cifras distintas, atribuye cada una a su "
-                        "medio. Responde SOLO JSON.")
-              prompt = ("Estos medios cubren hoy la misma noticia:\n\n" + piezas +
-                        "\n\nPRIMERO decide si entre estos titulares hay una divergencia "
-                        "real de encuadre: distinto protagonista, distinta causa atribuida, "
-                        "distinto responsable, distinto aspecto destacado. Si todos dicen "
-                        "esencialmente lo mismo, hay_divergencia es false y no fuerces "
-                        "diferencias inexistentes.\n\n"
-                        "SI hay divergencia: nombra el EJE concreto de esta historia (no un "
-                        "eje izquierda-derecha generico) con sus dos polos, ordena los medios "
-                        "a lo largo de ese eje y reparte las posiciones usando TODO el rango. "
-                        "El medio mas cercano a un polo recibe entre 0 y 15; el mas cercano "
-                        "al polo opuesto, entre 85 y 100; los demas se distribuyen entre "
-                        "ambos. Es una ordenacion RELATIVA entre estos medios, no una nota "
-                        "absoluta.\n\n"
-                        "SI no hay divergencia: hay_divergencia false, eje null, y todas las "
+                        "visible el encuadre editorial SIN INVENTARLO. Prefieres decir que "
+                        "no hay divergencia antes que fabricar una. REGLA INNEGOCIABLE: en "
+                        "'facts' solo entra informacion deducible de los titulares "
+                        "aportados; cuando dos medios den cifras distintas, atribuye cada "
+                        "una a su medio. Responde SOLO JSON.")
+              prompt = ("Piezas de hoy sobre el mismo hecho (cada una con su indice):\n\n" +
+                        piezas +
+                        "\n\nPASO 1. Clasifica el tipo de divergencia entre estos titulares:\n"
+                        "- 'editorial': difieren en la causa atribuida, el responsable "
+                        "senalado, el protagonista elegido o el juicio implicito. Son dos "
+                        "lecturas distintas del mismo hecho.\n"
+                        "- 'cronologica': dicen lo mismo pero en momentos distintos. Cifras "
+                        "que crecen, situaciones que evolucionan, uno actualizo antes que "
+                        "otro. NO es sesgo, es hora de cierre.\n"
+                        "- 'ninguna': todos cuentan lo mismo del mismo modo.\n\n"
+                        "Se estricto: ante la duda entre 'editorial' y 'cronologica', elige "
+                        "'cronologica'. Acusar de sesgo a quien solo publico antes es un "
+                        "error grave.\n\n"
+                        "PASO 2. Si y solo si el tipo es 'editorial': nombra el eje concreto "
+                        "de esta historia con sus dos polos, ordena las piezas a lo largo de "
+                        "ese eje y reparte posiciones usando TODO el rango (la mas cercana a "
+                        "un polo entre 0 y 15; la del polo opuesto entre 85 y 100). Es una "
+                        "ordenacion RELATIVA entre estas piezas.\n"
+                        "Si el tipo es 'cronologica' o 'ninguna': eje null y todas las "
                         "posiciones a 50.\n\n"
-                        "Devuelve este JSON:\n"
+                        "Devuelve este JSON. Incluye UNA entrada en 'frames' por cada pieza "
+                        "listada arriba, con su 'idx' exacto:\n"
                         '{"neutral_headline": "titular descriptivo sin adjetivos valorativos",\n'
                         ' "section": "Politica | Economia | Internacional | Sociedad | Cultura | Deportes",\n'
                         ' "facts": ["hecho verificable 1", "hecho 2"],\n'
-                        ' "hay_divergencia": true,\n'
+                        ' "tipo_divergencia": "editorial | cronologica | ninguna",\n'
                         ' "eje": {"polo_a": "etiqueta breve del extremo 0", '
                         '"polo_b": "etiqueta breve del extremo 100", '
                         '"resumen": "en una frase, en que se dividen los medios"},\n'
-                        ' "frames": [{"outlet": "medio", "headline": "su titular literal", '
-                        '"position": 0, "focus": "que destaca y que omite este encuadre"}],\n'
-                        ' "discrepancia": "baja | media | alta"}')
+                        ' "frames": [{"idx": 0, "position": 0, '
+                        '"focus": "que destaca y que omite este encuadre"}]}')
               data = parse_json(claude(prompt, system, MODELO_BUENO))
-              links = {h["outlet"]: h["link"] for h in cluster}
+
+              tipo = data.get("tipo_divergencia", "ninguna")
+              if tipo != "editorial":
+                  data["eje"] = None
+
+              # Enlaces y titulares por PIEZA (via idx), no por medio:
+              # un mismo medio puede publicar dos piezas del mismo hecho.
+              frames = []
               for f in data.get("frames", []):
-                  f["link"] = links.get(f["outlet"], "")
-              cubren = set(f.get("outlet") for f in data.get("frames", []))
+                  i = f.get("idx")
+                  if not isinstance(i, int) or i < 0 or i >= len(cluster):
+                      continue
+                  pieza = cluster[i]
+                  pos = f.get("position", 50)
+                  if tipo != "editorial":
+                      pos = 50
+                  frames.append({
+                      "outlet": pieza["outlet"],
+                      "headline": pieza["title"],
+                      "link": pieza["link"],
+                      "position": pos,
+                      "focus": f.get("focus", ""),
+                  })
+              data["frames"] = frames
+
+              # Discrepancia medida, no opinada: dispersion real de posiciones.
+              if tipo == "editorial" and len(frames) > 1:
+                  posiciones = [f["position"] for f in frames]
+                  rango = max(posiciones) - min(posiciones)
+                  data["rango"] = rango
+                  data["discrepancia"] = ("alta" if rango >= 60 else
+                                          "media" if rango >= 30 else "baja")
+              else:
+                  data["rango"] = 0
+                  data["discrepancia"] = "baja"
+
+              cubren = set(f["outlet"] for f in frames)
               data["silenciosos"] = sorted(m for m in todos_los_medios if m not in cubren)
               return data
 
