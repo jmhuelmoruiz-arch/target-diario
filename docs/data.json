@@ -1,163 +1,216 @@
 {
-  "fecha": "2026-07-21T13:13:54.546498+00:00",
+  "fecha": "2026-07-21T13:22:13.054740+00:00",
   "historias": [
     {
-      "neutral_headline": "Celebración en Madrid por la segunda estrella de la selección española de fútbol",
+      "neutral_headline": "Celebración de la selección española por la segunda estrella en Cibeles, Madrid",
       "section": "Deportes",
       "facts": [
-        "La selección española celebró la obtención de su segunda estrella",
-        "La celebración tuvo lugar en Madrid, en la plaza de Cibeles",
-        "20minutos cifra en dos millones los aficionados presentes en la fiesta"
+        "La selección española obtuvo la segunda estrella (título mundial)",
+        "La celebración se realizó en Cibeles, Madrid",
+        "20minutos afirma que asistieron dos millones de aficionados",
+        "El Mundo recoge la frase de los jugadores: 'Juntos somos más fuertes, viva España'",
+        "Aitana Bonmatí bailó con los jugadores y se hizo un selfie con la copa del Mundo, según 20minutos"
       ],
+      "hay_divergencia": true,
+      "eje": {
+        "polo_a": "Celebración colectiva (equipo/afición)",
+        "polo_b": "Protagonismo individual (figura destacada)",
+        "resumen": "La mayoría de medios centra la noticia en la fiesta colectiva de equipo y afición, mientras una pieza de 20minutos individualiza el relato en Aitana Bonmatí como 'superestrella' del evento"
+      },
       "frames": [
         {
-          "outlet": "El Pais",
-          "headline": "Madrid ruge con la segunda estrella de España",
-          "position": 50,
-          "focus": "Ambiente y magnitud de la celebración en Madrid",
-          "link": "https://elpais.com/deportes/mundial-futbol/2026-07-20/madrid-ruge-con-la-segunda-estrella-de-espana.html"
+          "outlet": "20minutos",
+          "headline": "Pasión y éxtasis por la Roja: dos millones de aficionados vibran con la fiesta de la segunda estrella de España",
+          "position": 15,
+          "focus": "Destaca la magnitud de la afición (cifra de dos millones) y el fervor colectivo, omite protagonismos individuales",
+          "link": "https://www.20minutos.es/gente/aitana-acabo-siendo-superestrella-fiesta-espana-por-mundial-su-baile-con-los-jugadores-su-selfie-con-copa_7016983_0.html"
         },
         {
           "outlet": "El Mundo",
           "headline": "Éxtasis en Cibeles con los campeones: \"Juntos somos más fuertes, viva España\"",
-          "position": 55,
-          "focus": "Cita de los jugadores y exaltación patriótica del momento",
+          "position": 25,
+          "focus": "Enfatiza el mensaje unitario y patriótico del equipo mediante cita textual, foco en el colectivo campeón",
           "link": "https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/20/6a5e939afdddffd1328b4594.html"
+        },
+        {
+          "outlet": "El Pais",
+          "headline": "Madrid ruge con la segunda estrella de España",
+          "position": 30,
+          "focus": "Centra el relato en la ciudad y el ambiente general de celebración, sin detalles individuales",
+          "link": "https://elpais.com/deportes/mundial-futbol/2026-07-20/madrid-ruge-con-la-segunda-estrella-de-espana.html"
         },
         {
           "outlet": "La Vanguardia",
           "headline": "Así celebró la selección la segunda estrella por las calles de Madrid",
-          "position": 50,
-          "focus": "Descripción del recorrido y forma de la celebración",
+          "position": 35,
+          "focus": "Descriptivo, sigue el recorrido de la celebración por la ciudad, foco en la selección como conjunto",
           "link": "https://www.lavanguardia.com/deportes/20260720/11596886/seleccion-espanola-celebra-segunda-estrella-aficion-madrid.html"
         },
         {
           "outlet": "20minutos",
-          "headline": "Pasión y éxtasis por la Roja: dos millones de aficionados vibran con la fiesta de la segunda estrella de España",
-          "position": 50,
-          "focus": "Magnitud numérica de la afluencia de público",
-          "link": "https://www.20minutos.es/deportes/futbol/espana-victoria-mundial-celebracion-seleccion-madrid-cibeles-directo_7016308_6.html"
+          "headline": "Aitana acabó siendo la 'superestrella' de la fiesta: su baile con los jugadores y su 'selfie' con la copa del Mundo",
+          "position": 90,
+          "focus": "Individualiza el relato en Aitana Bonmatí, destacando sus acciones personales durante la fiesta, deja en segundo plano al resto del equipo y la afición",
+          "link": "https://www.20minutos.es/gente/aitana-acabo-siendo-superestrella-fiesta-espana-por-mundial-su-baile-con-los-jugadores-su-selfie-con-copa_7016983_0.html"
         }
       ],
-      "discrepancia": "baja"
+      "discrepancia": "media",
+      "silenciosos": [
+        "ABC",
+        "El Confidencial",
+        "eldiario.es"
+      ]
     },
     {
-      "neutral_headline": "El incendio de Guadalajara afecta a entre 29.000 y 30.000 hectáreas y provoca la evacuación de varios municipios",
+      "neutral_headline": "Incendio en Guadalajara afecta a miles de hectáreas y varios municipios",
       "section": "Sociedad",
       "facts": [
-        "Hay un incendio forestal activo en la provincia de Guadalajara",
-        "El Pais cifra la superficie quemada en cerca de 30.000 hectáreas",
-        "El Pais indica que 34 municipios han sido desalojados",
+        "El País indica que el incendio roza las 30.000 hectáreas quemadas",
+        "El País indica que hay 34 municipios desalojados",
+        "La Vanguardia indica que el incendio frena su avance hacia Soria",
         "La Vanguardia cifra la superficie afectada en unas 29.000 hectáreas",
-        "La Vanguardia indica que el incendio ha frenado su avance hacia la provincia de Soria",
-        "El Confidencial identifica varios pueblos afectados, incluyendo La Mierla e Hiendelaencina"
+        "El Confidencial enumera los pueblos afectados, desde La Mierla hasta Hiendelaencina"
       ],
+      "hay_divergencia": true,
+      "eje": {
+        "polo_a": "Escalada y gravedad del incendio",
+        "polo_b": "Contención y control del incendio",
+        "resumen": "Los medios difieren entre enfatizar el crecimiento y el impacto del fuego o su freno y control, mientras otro se limita a describir el territorio afectado"
+      },
       "frames": [
         {
           "outlet": "El Pais",
           "headline": "El incendio de Guadalajara roza las 30.000 hectáreas quemadas y ya hay 34 municipios desalojados",
-          "position": 50,
-          "focus": "Magnitud del incendio y número de desalojos",
+          "position": 10,
+          "focus": "Destaca la magnitud creciente del fuego y el número de desalojos, sin mencionar si avanza o se frena",
           "link": "https://elpais.com/espana/2026-07-21/el-incendio-de-guadalajara-roza-las-30000-hectareas-quemadas-y-ya-hay-34-municipios-desalojados.html"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "El incendio de Guadalajara frena su avance a Soria y afecta ya a unas 29.000 hectáreas",
-          "position": 50,
-          "focus": "Evolución del incendio y contención hacia Soria",
-          "link": "https://www.lavanguardia.com/vida/20260721/11597434/incendio-guadalajara-frena-avance-soria-afecta-29-000-hectareas.html"
         },
         {
           "outlet": "El Confidencial",
           "headline": "De La Mierla a Hiendelaencina: todos los pueblos afectados por el incendio de Guadalajara",
           "position": 50,
-          "focus": "Listado detallado de localidades afectadas",
+          "focus": "Se centra en el listado territorial de localidades afectadas, sin valorar la evolución ni la gravedad del incendio",
           "link": "https://www.elconfidencial.com/espana/2026-07-21/pueblos-afectados-incendio-guadalajara-1qrt-1tna_4392847/"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "El incendio de Guadalajara frena su avance a Soria y afecta ya a unas 29.000 hectáreas",
+          "position": 90,
+          "focus": "Enfatiza que el incendio se está frenando, con una cifra de hectáreas menor y un tono de contención",
+          "link": "https://www.lavanguardia.com/vida/20260721/11597434/incendio-guadalajara-frena-avance-soria-afecta-29-000-hectareas.html"
         }
       ],
-      "discrepancia": "baja"
+      "discrepancia": "media",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Mundo",
+        "eldiario.es"
+      ]
     },
     {
-      "neutral_headline": "Meliá completa su salida de Cuba y cancelará todos sus contratos y servicios en la isla el 24 de julio",
+      "neutral_headline": "Meliá completa su salida de Cuba y cancelará contratos y servicios el 24 de julio",
       "section": "Economia",
       "facts": [
         "Meliá completa su salida de Cuba",
-        "La compañía cancelará todos sus contratos y servicios en la isla el 24 de julio",
-        "ABC y 20minutos vinculan la salida a nuevas sanciones del Gobierno de Trump",
-        "20minutos indica que la salida implica el cierre de todos sus hoteles en Cuba"
+        "Cancelará todos sus contratos y servicios en la isla el 24 de julio",
+        "ABC y 20minutos atribuyen la salida a nuevas sanciones del Gobierno de Trump",
+        "20minutos añade que Meliá cierra todos sus hoteles en Cuba"
       ],
+      "hay_divergencia": true,
+      "eje": {
+        "polo_a": "Foco en el hecho operativo (cancelación de contratos)",
+        "polo_b": "Foco en la causa política (sanciones de Trump)",
+        "resumen": "El País y El Mundo describen la salida como un hecho empresarial sin atribuir causa explícita, mientras ABC y 20minutos enmarcan la decisión como consecuencia directa de las sanciones de Trump"
+      },
       "frames": [
         {
           "outlet": "El Pais",
           "headline": "Meliá completa su salida de Cuba y cancelará todos sus contratos y servicios en la isla el 24 de julio",
-          "position": 45,
-          "focus": "Describe el hecho y la fecha concreta de cancelación de contratos",
+          "position": 5,
+          "focus": "Destaca el proceso y la fecha de cancelación, sin mencionar causa política",
           "link": "https://elpais.com/economia/2026-07-21/melia-completa-su-salida-de-cuba-y-cancelara-todos-sus-contratos-y-servicios-en-la-isla-el-24-de-julio.html"
         },
         {
           "outlet": "El Mundo",
           "headline": "Meliá completa su salida de Cuba: cancelará todos sus contratos y servicios el 24 de julio",
-          "position": 45,
-          "focus": "Misma descripción factual centrada en fecha y alcance de la cancelación",
+          "position": 10,
+          "focus": "Idéntico enfoque operativo, sin atribuir motivo",
           "link": "https://www.elmundo.es/economia/2026/07/21/6a5f451421efa03d3a8b459d.html"
         },
         {
           "outlet": "ABC",
           "headline": "Meliá abandona definitivamente Cuba tras las nuevas sanciones del Gobierno de Trump",
-          "position": 55,
-          "focus": "Atribuye la salida como consecuencia directa de las sanciones de Trump",
+          "position": 90,
+          "focus": "Vincula directamente la salida a las sanciones de Trump, presentándolas como causa determinante",
           "link": "https://www.abc.es/economia/melia-abandona-definitivamente-cuba-tras-nuevas-sanciones-20260721113706-nt.html"
         },
         {
           "outlet": "20minutos",
           "headline": "Meliá abandona definitivamente Cuba tras las nuevas sanciones de Trump: cierra todos sus hoteles",
-          "position": 55,
-          "focus": "Vincula la salida a las sanciones de Trump y añade el cierre total de hoteles",
+          "position": 95,
+          "focus": "Atribuye la salida a las sanciones de Trump y añade el detalle del cierre total de hoteles",
           "link": "https://www.20minutos.es/lainformacion/empresas/melia-culmina-su-retirada-cuba-ante-las-sanciones-estados-unidos_7017130_0.html"
         }
       ],
-      "discrepancia": "media"
+      "discrepancia": "media",
+      "silenciosos": [
+        "El Confidencial",
+        "La Vanguardia",
+        "eldiario.es"
+      ]
     },
     {
-      "neutral_headline": "El CGPJ aplaza su decisión sobre las quejas presentadas contra el juez Peinado por el caso Begoña Gómez",
+      "neutral_headline": "El CGPJ no alcanza un acuerdo sobre las quejas presentadas contra el juez Peinado y aplaza su decisión",
       "section": "Politica",
       "facts": [
-        "El Consejo General del Poder Judicial (CGPJ) no llegó a un acuerdo sobre las quejas presentadas contra el juez Peinado",
-        "Las quejas están relacionadas con el caso de Begoña Gómez",
-        "La decisión sobre si expedientar o archivar las quejas queda aplazada",
-        "El CGPJ continuará deliberando sobre el asunto"
+        "El Poder Judicial (CGPJ) ha debatido si expedientar o archivar las quejas contra el juez Peinado",
+        "No se ha alcanzado un acuerdo en la deliberación",
+        "El caso está relacionado con la investigación a Begoña Gómez",
+        "La decisión queda aplazada y el CGPJ seguirá deliberando, según El Confidencial"
       ],
+      "hay_divergencia": true,
+      "eje": {
+        "polo_a": "proceso institucional/deliberación en curso",
+        "polo_b": "división y conflicto interno del organismo",
+        "resumen": "Unos medios describen el hecho como un trámite institucional aplazado, mientras otros lo enmarcan como una fractura o desacuerdo interno dentro del CGPJ"
+      },
       "frames": [
         {
           "outlet": "El Pais",
           "headline": "El Poder Judicial aplaza su decisión sobre si expedienta a Peinado tras no llegar a un acuerdo",
-          "position": 50,
-          "focus": "El aplazamiento de la decisión por falta de consenso",
+          "position": 10,
+          "focus": "Destaca el aplazamiento como trámite procesal; omite calificar el desacuerdo como división",
           "link": "https://elpais.com/espana/2026-07-21/el-poder-judicial-aplaza-su-decision-sobre-si-expedienta-a-peinado-tras-no-llegar-a-un-acuerdo.html"
+        },
+        {
+          "outlet": "El Confidencial",
+          "headline": "El CGPJ no llega a un acuerdo sobre las quejas contra Peinado y seguirá deliberando",
+          "position": 30,
+          "focus": "Enfatiza la continuidad del proceso deliberativo, tono descriptivo y neutro",
+          "link": "https://www.elconfidencial.com/espana/2026-07-21/cgpj-archiva-diligencias-peinado-1tps_4393358/"
         },
         {
           "outlet": "eldiario.es",
           "headline": "El Poder Judicial se divide sobre si archivar o no las quejas contra el juez Peinado por el caso de Begoña Gómez",
-          "position": 45,
-          "focus": "La división interna del CGPJ ante el caso",
+          "position": 65,
+          "focus": "Subraya la división interna entre los miembros del CGPJ y vincula explícitamente el caso a Begoña Gómez",
           "link": "https://www.eldiario.es/politica/judicial-divide-si-archivar-no-quejas-juez-peinado-caso-begona-gomez_1_13395621.html"
         },
         {
           "outlet": "La Vanguardia",
           "headline": "El gobierno de los jueces no se pone de acuerdo sobre qué hacer con las quejas contra Peinado",
-          "position": 40,
-          "focus": "La falta de consenso presentada como disfunción institucional del órgano judicial",
+          "position": 90,
+          "focus": "Usa la expresión crítica 'gobierno de los jueces' y enfatiza la falta de consenso como conflicto institucional",
           "link": "https://www.lavanguardia.com/politica/20260721/11597531/gobierno-jueces-logra-acuerdo-sobre-archivar-quejas-peinado.html"
-        },
-        {
-          "outlet": "El Confidencial",
-          "headline": "El CGPJ no llega a un acuerdo sobre las quejas contra Peinado y seguirá deliberando",
-          "position": 50,
-          "focus": "La ausencia de acuerdo y la continuidad del proceso deliberativo",
-          "link": "https://www.elconfidencial.com/espana/2026-07-21/cgpj-archiva-diligencias-peinado-1tps_4393358/"
         }
       ],
-      "discrepancia": "baja"
+      "discrepancia": "media",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Mundo"
+      ]
     }
   ]
 }
