@@ -1,0 +1,166 @@
+name: Edicion matinal de Target
+
+on:
+  schedule:
+    - cron: "30 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install feedparser requests
+
+      - name: Generar edicion
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          cat > backend.py <<'FIN_DEL_SCRIPT'
+          import feedparser, json, os, re, time, requests
+          from datetime import datetime, timezone
+
+          FEEDS = {
+              "El Pais":         "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
+              "El Mundo":        "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml",
+              "ABC":             "https://www.abc.es/rss/2.0/portada/",
+              "eldiario.es":     "https://www.eldiario.es/rss/",
+              "La Vanguardia":   "https://www.lavanguardia.com/rss/home.xml",
+              "El Confidencial": "https://rss.elconfidencial.com/espana/",
+              "20minutos":       "https://www.20minutos.es/rss/",
+          }
+          MAX_POR_MEDIO = 15
+          MAX_HISTORIAS = 6
+          API_URL = "https://api.anthropic.com/v1/messages"
+          API_KEY = os.environ["ANTHROPIC_API_KEY"].strip()
+          MODELO_RAPIDO = "claude-haiku-4-5"
+          MODELO_BUENO = "claude-sonnet-5"
+
+          def fetch_headlines():
+              items = []
+              for outlet, url in FEEDS.items():
+                  try:
+                      feed = feedparser.parse(url)
+                      for e in feed.entries[:MAX_POR_MEDIO]:
+                          t = e.get("title", "").strip()
+                          if t:
+                              items.append({"outlet": outlet, "title": t, "link": e.get("link", "")})
+                  except Exception as err:
+                      print("[aviso] " + outlet + ": " + str(err))
+              print("Leidos " + str(len(items)) + " titulares.")
+              return items
+
+          def claude(prompt, system, modelo, max_tokens=2000, intentos=3):
+              for n in range(1, intentos + 1):
+                  r = requests.post(
+                      API_URL,
+                      headers={"x-api-key": API_KEY,
+                               "anthropic-version": "2023-06-01",
+                               "content-type": "application/json"},
+                      json={"model": modelo, "max_tokens": max_tokens, "temperature": 0,
+                            "system": system,
+                            "messages": [{"role": "user", "content": prompt}]},
+                      timeout=180,
+                  )
+                  if r.status_code == 200:
+                      return r.json()["content"][0]["text"]
+                  print("[API " + str(r.status_code) + "] " + r.text[:400])
+                  if r.status_code in (401, 403):
+                      raise SystemExit("Clave rechazada. Revisa el secret ANTHROPIC_API_KEY y el saldo en console.anthropic.com")
+                  if n < intentos:
+                      time.sleep(5 * n)
+                      continue
+                  r.raise_for_status()
+              raise RuntimeError("Sin respuesta")
+
+          def parse_json(text):
+              limpio = re.sub(r"```(?:json)?", "", text).strip()
+              m = re.search(r"[\[{].*[\]}]", limpio, re.DOTALL)
+              if not m:
+                  raise ValueError("Sin JSON: " + text[:200])
+              return json.loads(m.group())
+
+          def cluster_stories(headlines):
+              listado = "\n".join(str(i) + ". [" + h["outlet"] + "] " + h["title"]
+                                  for i, h in enumerate(headlines))
+              system = ("Eres un editor de mesa. Agrupas titulares que cubren EL MISMO hecho "
+                        "noticioso concreto: mismo suceso, mismo dia, mismos protagonistas. "
+                        "Dos piezas del mismo tema general pero distintos hechos NO van juntas. "
+                        "Respondes SOLO con JSON.")
+              prompt = ("Titulares de hoy:\n\n" + listado +
+                        "\n\nDevuelve un array JSON de grupos. Cada grupo es un array con los "
+                        "indices de los titulares que cubren el mismo hecho. Solo grupos con "
+                        "piezas de AL MENOS 3 medios distintos. Ordena de mayor a menor "
+                        "cobertura. Maximo " + str(MAX_HISTORIAS) + " grupos. "
+                        "Formato: [[0,12,31],[4,18,22]]")
+              return parse_json(claude(prompt, system, MODELO_RAPIDO))[:MAX_HISTORIAS]
+
+          def analyze(cluster):
+              piezas = "\n".join("- [" + h["outlet"] + "] " + h["title"] for h in cluster)
+              system = ("Eres el redactor jefe de Target, un medio cuya promesa es separar "
+                        "hechos verificables de encuadres editoriales. REGLA INNEGOCIABLE: en "
+                        "'facts' solo entra informacion deducible de los titulares aportados. "
+                        "No anadas datos de tu memoria, no completes cifras, no supongas "
+                        "contexto. Un dato inventado destruye el producto. Responde SOLO JSON.")
+              prompt = ("Estos medios cubren hoy la misma noticia:\n\n" + piezas +
+                        "\n\nDevuelve este JSON:\n"
+                        '{"neutral_headline": "titular descriptivo sin adjetivos valorativos",\n'
+                        ' "section": "Politica | Economia | Internacional | Sociedad | Cultura | Deportes",\n'
+                        ' "facts": ["hecho verificable 1", "hecho 2"],\n'
+                        ' "frames": [{"outlet": "medio", "headline": "su titular literal", '
+                        '"position": 50, "focus": "en que pone el foco, una frase"}],\n'
+                        ' "discrepancia": "baja | media | alta"}\n\n'
+                        "position: 0-100. 0 = encuadre mas progresista, 50 = neutro o "
+                        "meramente informativo, 100 = mas conservador. Puntua ESTE titular "
+                        "concreto, no la reputacion del medio.")
+              data = parse_json(claude(prompt, system, MODELO_BUENO))
+              links = {h["outlet"]: h["link"] for h in cluster}
+              for f in data.get("frames", []):
+                  f["link"] = links.get(f["outlet"], "")
+              return data
+
+          def main():
+              headlines = fetch_headlines()
+              if not headlines:
+                  raise SystemExit("Ningun RSS respondio.")
+              grupos = cluster_stories(headlines)
+              print("Detectadas " + str(len(grupos)) + " historias.")
+              historias = []
+              for idx, indices in enumerate(grupos, 1):
+                  cluster = [headlines[i] for i in indices
+                             if isinstance(i, int) and i < len(headlines)]
+                  if len(set(h["outlet"] for h in cluster)) < 3:
+                      print("  historia " + str(idx) + " descartada: menos de 3 medios")
+                      continue
+                  print("  analizando historia " + str(idx) + " (" + str(len(cluster)) + " piezas)")
+                  try:
+                      historias.append(analyze(cluster))
+                  except Exception as err:
+                      print("  [aviso] descartada: " + str(err))
+              if not historias:
+                  raise SystemExit("Ninguna historia supero el analisis.")
+              os.makedirs("docs", exist_ok=True)
+              with open("docs/data.json", "w", encoding="utf-8") as f:
+                  json.dump({"fecha": datetime.now(timezone.utc).isoformat(),
+                             "historias": historias}, f, ensure_ascii=False, indent=2)
+              print("Edicion publicada: " + str(len(historias)) + " historias.")
+
+          main()
+          FIN_DEL_SCRIPT
+          python backend.py
+
+      - name: Publicar
+        run: |
+          git config user.name "target-bot"
+          git config user.email "bot@target"
+          git add docs/data.json
+          git commit -m "Edicion $(date +%F)" || echo "Sin cambios"
+          git push
