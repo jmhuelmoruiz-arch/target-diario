@@ -1,0 +1,163 @@
+{
+  "fecha": "2026-07-21T13:13:54.546498+00:00",
+  "historias": [
+    {
+      "neutral_headline": "Celebración en Madrid por la segunda estrella de la selección española de fútbol",
+      "section": "Deportes",
+      "facts": [
+        "La selección española celebró la obtención de su segunda estrella",
+        "La celebración tuvo lugar en Madrid, en la plaza de Cibeles",
+        "20minutos cifra en dos millones los aficionados presentes en la fiesta"
+      ],
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Madrid ruge con la segunda estrella de España",
+          "position": 50,
+          "focus": "Ambiente y magnitud de la celebración en Madrid",
+          "link": "https://elpais.com/deportes/mundial-futbol/2026-07-20/madrid-ruge-con-la-segunda-estrella-de-espana.html"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Éxtasis en Cibeles con los campeones: \"Juntos somos más fuertes, viva España\"",
+          "position": 55,
+          "focus": "Cita de los jugadores y exaltación patriótica del momento",
+          "link": "https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/20/6a5e939afdddffd1328b4594.html"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Así celebró la selección la segunda estrella por las calles de Madrid",
+          "position": 50,
+          "focus": "Descripción del recorrido y forma de la celebración",
+          "link": "https://www.lavanguardia.com/deportes/20260720/11596886/seleccion-espanola-celebra-segunda-estrella-aficion-madrid.html"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Pasión y éxtasis por la Roja: dos millones de aficionados vibran con la fiesta de la segunda estrella de España",
+          "position": 50,
+          "focus": "Magnitud numérica de la afluencia de público",
+          "link": "https://www.20minutos.es/deportes/futbol/espana-victoria-mundial-celebracion-seleccion-madrid-cibeles-directo_7016308_6.html"
+        }
+      ],
+      "discrepancia": "baja"
+    },
+    {
+      "neutral_headline": "El incendio de Guadalajara afecta a entre 29.000 y 30.000 hectáreas y provoca la evacuación de varios municipios",
+      "section": "Sociedad",
+      "facts": [
+        "Hay un incendio forestal activo en la provincia de Guadalajara",
+        "El Pais cifra la superficie quemada en cerca de 30.000 hectáreas",
+        "El Pais indica que 34 municipios han sido desalojados",
+        "La Vanguardia cifra la superficie afectada en unas 29.000 hectáreas",
+        "La Vanguardia indica que el incendio ha frenado su avance hacia la provincia de Soria",
+        "El Confidencial identifica varios pueblos afectados, incluyendo La Mierla e Hiendelaencina"
+      ],
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "El incendio de Guadalajara roza las 30.000 hectáreas quemadas y ya hay 34 municipios desalojados",
+          "position": 50,
+          "focus": "Magnitud del incendio y número de desalojos",
+          "link": "https://elpais.com/espana/2026-07-21/el-incendio-de-guadalajara-roza-las-30000-hectareas-quemadas-y-ya-hay-34-municipios-desalojados.html"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "El incendio de Guadalajara frena su avance a Soria y afecta ya a unas 29.000 hectáreas",
+          "position": 50,
+          "focus": "Evolución del incendio y contención hacia Soria",
+          "link": "https://www.lavanguardia.com/vida/20260721/11597434/incendio-guadalajara-frena-avance-soria-afecta-29-000-hectareas.html"
+        },
+        {
+          "outlet": "El Confidencial",
+          "headline": "De La Mierla a Hiendelaencina: todos los pueblos afectados por el incendio de Guadalajara",
+          "position": 50,
+          "focus": "Listado detallado de localidades afectadas",
+          "link": "https://www.elconfidencial.com/espana/2026-07-21/pueblos-afectados-incendio-guadalajara-1qrt-1tna_4392847/"
+        }
+      ],
+      "discrepancia": "baja"
+    },
+    {
+      "neutral_headline": "Meliá completa su salida de Cuba y cancelará todos sus contratos y servicios en la isla el 24 de julio",
+      "section": "Economia",
+      "facts": [
+        "Meliá completa su salida de Cuba",
+        "La compañía cancelará todos sus contratos y servicios en la isla el 24 de julio",
+        "ABC y 20minutos vinculan la salida a nuevas sanciones del Gobierno de Trump",
+        "20minutos indica que la salida implica el cierre de todos sus hoteles en Cuba"
+      ],
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Meliá completa su salida de Cuba y cancelará todos sus contratos y servicios en la isla el 24 de julio",
+          "position": 45,
+          "focus": "Describe el hecho y la fecha concreta de cancelación de contratos",
+          "link": "https://elpais.com/economia/2026-07-21/melia-completa-su-salida-de-cuba-y-cancelara-todos-sus-contratos-y-servicios-en-la-isla-el-24-de-julio.html"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Meliá completa su salida de Cuba: cancelará todos sus contratos y servicios el 24 de julio",
+          "position": 45,
+          "focus": "Misma descripción factual centrada en fecha y alcance de la cancelación",
+          "link": "https://www.elmundo.es/economia/2026/07/21/6a5f451421efa03d3a8b459d.html"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Meliá abandona definitivamente Cuba tras las nuevas sanciones del Gobierno de Trump",
+          "position": 55,
+          "focus": "Atribuye la salida como consecuencia directa de las sanciones de Trump",
+          "link": "https://www.abc.es/economia/melia-abandona-definitivamente-cuba-tras-nuevas-sanciones-20260721113706-nt.html"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Meliá abandona definitivamente Cuba tras las nuevas sanciones de Trump: cierra todos sus hoteles",
+          "position": 55,
+          "focus": "Vincula la salida a las sanciones de Trump y añade el cierre total de hoteles",
+          "link": "https://www.20minutos.es/lainformacion/empresas/melia-culmina-su-retirada-cuba-ante-las-sanciones-estados-unidos_7017130_0.html"
+        }
+      ],
+      "discrepancia": "media"
+    },
+    {
+      "neutral_headline": "El CGPJ aplaza su decisión sobre las quejas presentadas contra el juez Peinado por el caso Begoña Gómez",
+      "section": "Politica",
+      "facts": [
+        "El Consejo General del Poder Judicial (CGPJ) no llegó a un acuerdo sobre las quejas presentadas contra el juez Peinado",
+        "Las quejas están relacionadas con el caso de Begoña Gómez",
+        "La decisión sobre si expedientar o archivar las quejas queda aplazada",
+        "El CGPJ continuará deliberando sobre el asunto"
+      ],
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "El Poder Judicial aplaza su decisión sobre si expedienta a Peinado tras no llegar a un acuerdo",
+          "position": 50,
+          "focus": "El aplazamiento de la decisión por falta de consenso",
+          "link": "https://elpais.com/espana/2026-07-21/el-poder-judicial-aplaza-su-decision-sobre-si-expedienta-a-peinado-tras-no-llegar-a-un-acuerdo.html"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "El Poder Judicial se divide sobre si archivar o no las quejas contra el juez Peinado por el caso de Begoña Gómez",
+          "position": 45,
+          "focus": "La división interna del CGPJ ante el caso",
+          "link": "https://www.eldiario.es/politica/judicial-divide-si-archivar-no-quejas-juez-peinado-caso-begona-gomez_1_13395621.html"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "El gobierno de los jueces no se pone de acuerdo sobre qué hacer con las quejas contra Peinado",
+          "position": 40,
+          "focus": "La falta de consenso presentada como disfunción institucional del órgano judicial",
+          "link": "https://www.lavanguardia.com/politica/20260721/11597531/gobierno-jueces-logra-acuerdo-sobre-archivar-quejas-peinado.html"
+        },
+        {
+          "outlet": "El Confidencial",
+          "headline": "El CGPJ no llega a un acuerdo sobre las quejas contra Peinado y seguirá deliberando",
+          "position": 50,
+          "focus": "La ausencia de acuerdo y la continuidad del proceso deliberativo",
+          "link": "https://www.elconfidencial.com/espana/2026-07-21/cgpj-archiva-diligencias-peinado-1tps_4393358/"
+        }
+      ],
+      "discrepancia": "baja"
+    }
+  ]
+}
