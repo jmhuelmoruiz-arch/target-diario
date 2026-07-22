@@ -1,268 +1,248 @@
 {
-  "fecha": "2026-07-21T14:16:39.309780+00:00",
+  "fecha": "2026-07-22T11:29:15.685779+00:00",
   "historias": [
     {
-      "neutral_headline": "El incendio de Guadalajara (La Mierla) continúa activo, con miles de hectáreas quemadas y varios municipios desalojados",
-      "section": "Sociedad",
-      "facts": [
-        "El incendio se originó en la zona de La Mierla, Guadalajara",
-        "El Pais cifra la superficie quemada en cerca de 30.000 hectáreas",
-        "El Mundo y La Vanguardia cifran la superficie quemada en unas 29.000 hectáreas",
-        "El Pais indica que hay 34 municipios desalojados",
-        "El Mundo y La Vanguardia señalan que el incendio frena su avance hacia Soria",
-        "El Confidencial detalla los pueblos afectados, incluyendo La Mierla e Hiendelaencina"
-      ],
-      "tipo_divergencia": "cronologica",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "El incendio de Guadalajara roza las 30.000 hectáreas quemadas y ya hay 34 municipios desalojados",
-          "link": "https://elpais.com/espana/2026-07-21/el-incendio-de-guadalajara-roza-las-30000-hectareas-quemadas-y-ya-hay-34-municipios-desalojados.html",
-          "position": 50,
-          "focus": "Destaca la cifra de hectáreas quemadas (30.000) y el número de municipios desalojados (34), sin mencionar la evolución hacia Soria"
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "El incendio de La Mierla (Guadalajara) frena su avance a Soria y afecta ya a unas 29.000 hectáreas",
-          "link": "https://www.elmundo.es/espana/2026/07/21/6a5f1e63e4d4d842108b459d.html",
-          "position": 50,
-          "focus": "Destaca que el incendio frena su avance hacia Soria y da una cifra de 29.000 hectáreas, sin detallar desalojos"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "El incendio de Guadalajara frena su avance a Soria y afecta ya a unas 29.000 hectáreas",
-          "link": "https://www.lavanguardia.com/vida/20260721/11597434/incendio-guadalajara-frena-avance-soria-afecta-29-000-hectareas.html",
-          "position": 50,
-          "focus": "Coincide con El Mundo en la cifra de 29.000 hectáreas y en que el fuego frena su avance a Soria, sin mencionar desalojos"
-        },
-        {
-          "outlet": "El Confidencial",
-          "headline": "De La Mierla a Hiendelaencina: todos los pueblos afectados por el incendio de Guadalajara",
-          "link": "https://www.elconfidencial.com/espana/2026-07-21/pueblos-afectados-incendio-guadalajara-1qrt-1tna_4392847/",
-          "position": 50,
-          "focus": "Se centra en listar los pueblos afectados por el incendio, sin ofrecer cifras de hectáreas ni de desalojos"
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "20minutos",
-        "ABC",
-        "eldiario.es"
-      ]
-    },
-    {
-      "neutral_headline": "El Gobierno aprueba una nueva ley que prohíbe fumar y vapear a menores y amplía los espacios sin humo",
+      "neutral_headline": "Les Corts Valencianes aprueban los presupuestos con la 'prioridad nacional' impulsada por Vox",
       "section": "Politica",
       "facts": [
-        "La nueva ley prohíbe fumar y vapear a los menores de edad",
-        "La ley extiende la prohibición de fumar a playas, terrazas, campus universitarios, marquesinas y festivales según distintos medios",
-        "El Mundo señala que también se prohíben los 'vapers'",
-        "eldiario.es afirma que los padres deberán pagar las multas de los menores que fumen o vapeen",
-        "La Vanguardia cifra las multas a menores en 200 euros"
+        "Les Corts Valencianes aprobaron los presupuestos con el apoyo de PP y Vox",
+        "Los presupuestos incluyen la 'prioridad nacional', una medida promovida por Vox",
+        "Es la primera vez que esta medida se convierte en ley en una comunidad autónoma",
+        "El presidente autonómico es Pérez Llorca",
+        "El Confidencial señala que son presupuestos para cinco meses",
+        "El Mundo recoge que Vox promete llevar la medida a ley estatal 'más pronto que tarde'"
       ],
       "tipo_divergencia": "editorial",
       "eje": {
-        "polo_a": "Extensión de espacios sin humo",
-        "polo_b": "Responsabilidad legal ante el menor",
-        "resumen": "Los medios se dividen entre destacar la ampliación física de las zonas sin humo y quienes cargan el peso de la nueva ley (menores o sus padres) frente a las sanciones"
+        "polo_a": "PP subordinado a Vox",
+        "polo_b": "Llorca como protagonista institucional",
+        "resumen": "Los medios difieren en si el protagonismo y la responsabilidad recae en la sumisión del PP a Vox o en la gestión autónoma de Pérez Llorca"
       },
       "frames": [
         {
-          "outlet": "ABC",
-          "headline": "El Gobierno prohibirá fumar en playas además de en las terrazas de los bares",
-          "link": "https://www.abc.es/sociedad/gobierno-prohibira-fumar-playas-ademas-terrazas-bares-20260721135018-nt.html",
-          "position": 5,
-          "focus": "ABC centra la noticia en la ampliación de los espacios sin humo, citando playas y terrazas, sin mencionar sanciones ni responsables"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "El Gobierno lanza la ley antitabaco que prohibirá fumar a menores y extenderá los espacios sin humo a terrazas, marquesinas y festivales",
-          "link": "https://www.20minutos.es/nacional/luz-verde-ley-antitabaco-que-prohibe-fumar-menores-extiende-los-espacios-sin-humo-terrazas-marquesinas-festivales_7017108_0.html",
-          "position": 15,
-          "focus": "20minutos amplía el foco espacial a terrazas, marquesinas y festivales, presentando la ley como una extensión general de las zonas sin humo"
-        },
-        {
           "outlet": "El Pais",
-          "headline": "La nueva ley del tabaco prohíbe fumar a los menores y hacerlo en playas, terrazas y campus universitarios",
-          "link": "https://elpais.com/sociedad/2026-07-21/la-nueva-ley-del-tabaco-prohibe-fumar-a-los-menores-y-hacerlo-en-terrazas-y-campus-universitarios.html",
-          "position": 30,
-          "focus": "El País combina la prohibición a menores con la extensión espacial (playas, terrazas, campus), sin detallar sanciones"
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "Prohibidos los 'vapers' y sanciones al consumo en menores: así es la reforma que busca acorralar al tabaquismo",
-          "link": "https://www.elmundo.es/salud/2026/07/21/6a5f11c321efa05a548b4590.html",
-          "position": 55,
-          "focus": "El Mundo pone el acento en las sanciones al consumo de menores y en la prohibición de los vapers, enfatizando el componente punitivo"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Por primera vez se prohíbe fumar y vapear a los menores de edad, con multas de 200 euros",
-          "link": "https://www.lavanguardia.com/vida/20260721/11596535/ley-antitabaco-cigarrillos-vapers-terrazas-piscinas-campus-universitarios-conciertos-aire-libre.html",
-          "position": 70,
-          "focus": "La Vanguardia resalta la novedad histórica de prohibir a menores y concreta la sanción (200 euros), centrando el relato en el castigo al menor"
+          "headline": "El PP se pliega a Vox y Les Corts Valencianes aprueban los primeros presupuestos en España que incluyen la prioridad nacional",
+          "link": "https://elpais.com/espana/comunidad-valenciana/2026-07-22/les-corts-valencianes-aprueban-los-primeros-presupuestos-en-espana-que-incluyen-la-prioridad-nacional-de-vox.html",
+          "position": 5,
+          "focus": "Enmarca la aprobación como una claudicación del PP ante las exigencias de Vox, destacando la subordinación política"
         },
         {
           "outlet": "eldiario.es",
-          "headline": "La nueva ley antitabaco obligará a los padres a pagar las multas de los menores que fumen o vapeen",
-          "link": "https://www.eldiario.es/sociedad/nueva-ley-antitabaco-obligara-padres-pagar-multas-menores-fumen-vapeen_1_13395038.html",
+          "headline": "La alianza PP-Vox hace ley por primera vez la “prioridad nacional” en los presupuestos de la Comunitat Valenciana",
+          "link": "https://www.eldiario.es/comunitat-valenciana/politica/pp-vox-aprueban-presupuestos-perez-llorca-ultimos-legislatura-mencion-prioridad-nacional_1_13398223.html",
+          "position": 20,
+          "focus": "Habla de 'alianza PP-Vox' y pone el foco en el hito histórico de convertir en ley la medida, atribuyendo la acción a ambos partidos conjuntamente"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "El PP y Vox aprueban los presupuestos de Llorca e imprimen la «prioridad nacional» en una ley",
+          "link": "https://www.abc.es/espana/comunidad-valenciana/pp-vox-aprueban-presupuestos-llorca-imprimen-prioridad-20260722115958-nt.html",
+          "position": 50,
+          "focus": "Presenta a PP y Vox como sujetos conjuntos de la acción, sin jerarquizar responsabilidades, encuadre más neutro"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Llorca aprueba sus primeros presupuestos con la \"prioridad nacional\" que Vox promete llevar a ley estatal \"más pronto que tarde\"",
+          "link": "https://www.elmundo.es/comunidad-valenciana/2026/07/22/6a6080b1fdddffd20c8b4580.html",
+          "position": 80,
+          "focus": "Centra a Llorca como sujeto que aprueba los presupuestos, mencionando a Vox como actor externo que promete extender la medida a nivel estatal"
+        },
+        {
+          "outlet": "El Confidencial",
+          "headline": "Pérez Llorca saca adelante unos presupuestos para cinco meses tras asumir la prioridad nacional de Vox",
+          "link": "https://www.elconfidencial.com/espana/comunidad-valenciana/2026-07-22/llorca-voz-presupuestos-cinco-meses-prioridad-nacional_4394057/",
           "position": 95,
-          "focus": "eldiario.es desplaza la responsabilidad legal hacia los padres, subrayando que serán ellos quienes paguen las multas de los menores"
+          "focus": "Destaca a Pérez Llorca como protagonista que 'saca adelante' los presupuestos, mencionando la prioridad nacional como algo ya asumido, y añade el dato temporal de los cinco meses de vigencia"
         }
       ],
       "rango": 90,
       "discrepancia": "alta",
       "silenciosos": [
-        "El Confidencial"
+        "20minutos",
+        "La Vanguardia"
       ]
     },
     {
-      "neutral_headline": "Celebración multitudinaria en Madrid por la segunda estrella del Mundial femenino de España",
-      "section": "Deportes",
+      "neutral_headline": "Incendio de Guadalajara arrasa más de 32.000 hectáreas mientras Sánchez anuncia medidas contra el cambio climático",
+      "section": "Sociedad",
       "facts": [
-        "La selección española celebró la segunda estrella del Mundial por las calles de Madrid",
-        "20minutos cifra en dos millones los aficionados que participaron en la fiesta",
-        "Aitana bailó con los jugadores y se hizo un selfie con la copa del Mundo durante la celebración"
+        "El incendio de Guadalajara ha quemado más de 32.000 hectáreas",
+        "El incendio entra en fase de estabilización según El Pais",
+        "El comienzo de julio ha sido especialmente grave para los incendios en España",
+        "Sánchez visitó el incendio de La Mierla en Guadalajara",
+        "Sánchez pidió un pacto de Estado sobre emergencia climática",
+        "Sánchez anunció 300 millones de euros para innovación contra el cambio climático y los incendios",
+        "Los incendios de La Mierla y Selas evolucionan favorablemente según eldiario.es",
+        "Page criticó a quienes 'frivolizan o niegan' el cambio climático"
       ],
       "tipo_divergencia": "editorial",
       "eje": {
-        "polo_a": "protagonismo colectivo (la multitud/afición)",
-        "polo_b": "protagonismo individual (Aitana como figura destacada)",
-        "resumen": "Unas piezas centran el relato en la masa de aficionados que llenó Madrid, mientras otra elige a Aitana como protagonista individual de la jornada"
+        "polo_a": "cobertura técnica del incendio",
+        "polo_b": "uso político del incendio",
+        "resumen": "Algunos medios centran el relato en los datos y evolución del fuego, mientras otros lo usan como escenario para el debate político sobre el cambio climático"
       },
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "Madrid ruge con la segunda estrella de España",
-          "link": "https://elpais.com/deportes/mundial-futbol/2026-07-20/madrid-ruge-con-la-segunda-estrella-de-espana.html",
+          "headline": "El incendio de Guadalajara entra en fase de “estabilización” tras arrasar más de 32.000 hectáreas",
+          "link": "https://elpais.com/espana/2026-07-22/el-incendio-de-guadalajara-entra-en-fase-de-estabilizacion-tras-arrasar-mas-de-32000-hectareas.html",
+          "position": 0,
+          "focus": "Se centra en datos técnicos: hectáreas quemadas y fase de estabilización, sin mencionar actores políticos"
+        },
+        {
+          "outlet": "El Pais",
+          "headline": "El incendio de Guadalajara dispara la superficie quemada en España tras un nefasto comienzo de julio",
+          "link": "https://elpais.com/clima-y-medio-ambiente/2026-07-22/el-incendio-de-guadalajara-dispara-la-superficie-quemada-en-espana-tras-un-nefasto-comienzo-de-julio.html",
           "position": 10,
-          "focus": "Destaca la ciudad y el ambiente colectivo ('Madrid ruge'), omite protagonistas individuales"
+          "focus": "Contextualiza el incendio dentro de la temporada de incendios en España, foco estadístico"
         },
         {
-          "outlet": "La Vanguardia",
-          "headline": "Así celebró la selección la segunda estrella por las calles de Madrid",
-          "link": "https://www.lavanguardia.com/deportes/20260720/11596886/seleccion-espanola-celebra-segunda-estrella-aficion-madrid.html",
-          "position": 20,
-          "focus": "Describe la celebración callejera de la selección como conjunto, sin detenerse en figuras concretas"
+          "outlet": "El Mundo",
+          "headline": "Sánchez pide un gran pacto de Estado sobre emergencia climática en su visita al incendio de La Mierla en Guadalajara que ya ha arrasado 32.000 hectáreas",
+          "link": "https://www.elmundo.es/espana/2026/07/22/6a608eabfdddff493b8b4570.html",
+          "position": 75,
+          "focus": "Destaca la visita de Sánchez y su petición de un pacto de Estado, usando el incendio como telón político"
         },
         {
-          "outlet": "20minutos",
-          "headline": "Pasión y éxtasis por la Roja: dos millones de aficionados vibran con la fiesta de la segunda estrella de España",
-          "link": "https://www.20minutos.es/deportes/futbol/espana-victoria-mundial-celebracion-seleccion-madrid-cibeles-directo_7016308_6.html",
-          "position": 5,
-          "focus": "Pone el énfasis en la cifra masiva de aficionados (dos millones), reforzando el carácter popular y colectivo del evento"
+          "outlet": "ABC",
+          "headline": "Sánchez anuncia 300 millones para impulsar la innovación contra el cambio climático y los incendios",
+          "link": "https://www.abc.es/espana/castilla-la-mancha/sanchez-anuncia-300-millones-impulsar-innovacion-cambio-20260722123601-nt.html",
+          "position": 90,
+          "focus": "Resalta el anuncio económico de Sánchez, centrando la noticia en la política de innovación climática"
         },
         {
-          "outlet": "20minutos",
-          "headline": "Aitana acabó siendo la 'superestrella' de la fiesta: su baile con los jugadores y su 'selfie' con la copa del Mundo",
-          "link": "https://www.20minutos.es/gente/aitana-acabo-siendo-superestrella-fiesta-espana-por-mundial-su-baile-con-los-jugadores-su-selfie-con-copa_7016983_0.html",
-          "position": 95,
-          "focus": "Aísla a Aitana como protagonista concreta de la fiesta, con detalles de su baile y su gesto con la copa, dejando en segundo plano al resto"
+          "outlet": "eldiario.es",
+          "headline": "Pedro Sánchez anuncia 300 millones de euros para luchar contra el cambio climático y los incendios",
+          "link": "https://www.eldiario.es/sociedad/pedro-sanchez-anuncia-300-millones-euros-luchar-cambio-climatico-incendios_1_13398125.html",
+          "position": 92,
+          "focus": "Repite el anuncio de los 300 millones, enfatizando la respuesta gubernamental al cambio climático"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Última hora sobre los incendios en España: los incendios de La Mierla y Selas evolucionan favorablemente y Page critica a quienes \"frivolizan o niegan\" el cambio climático",
+          "link": "https://www.eldiario.es/sociedad/ultima-hora-incendios-espana-tesoros-naturales-guadalajara-siguen-ardiendo_133_13397624.html",
+          "position": 55,
+          "focus": "Combina la evolución favorable del incendio con la crítica política de Page hacia el negacionismo climático"
         }
       ],
-      "rango": 90,
+      "rango": 92,
       "discrepancia": "alta",
       "silenciosos": [
-        "ABC",
+        "20minutos",
         "El Confidencial",
-        "El Mundo",
-        "eldiario.es"
+        "La Vanguardia"
       ]
     },
     {
-      "neutral_headline": "El CGPJ no alcanza acuerdo sobre las quejas contra el juez Peinado y aplaza su decisión",
-      "section": "Politica",
+      "neutral_headline": "Zelenski destituye al jefe del ejército ucraniano tras varios días de protestas",
+      "section": "Internacional",
       "facts": [
-        "El Consejo General del Poder Judicial debatió las quejas presentadas contra el juez Peinado por el caso Begoña Gómez",
-        "No se alcanzó un acuerdo sobre si archivar o abrir expediente",
-        "El CGPJ continuará deliberando sobre el asunto"
+        "Zelenski destituyó al jefe del Ejército de Ucrania",
+        "La destitución se produjo tras protestas ciudadanas",
+        "El Pais señala que las protestas duraron seis días",
+        "ABC vincula las protestas al cese previo del ministro de Defensa"
       ],
       "tipo_divergencia": "ninguna",
       "eje": null,
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "El Poder Judicial aplaza su decisión sobre si expedienta a Peinado tras no llegar a un acuerdo",
-          "link": "https://elpais.com/espana/2026-07-21/el-poder-judicial-aplaza-su-decision-sobre-si-expedienta-a-peinado-tras-no-llegar-a-un-acuerdo.html",
+          "headline": "Zelenski releva al jefe del ejército en Ucrania tras seis días de protestas",
+          "link": "https://elpais.com/internacional/2026-07-21/zelenski-releva-al-jefe-del-ejercito-en-ucrania-tras-seis-dias-de-protestas.html",
           "position": 50,
-          "focus": "Destaca el aplazamiento de la decisión sobre expedientar a Peinado; omite detalles del debate interno"
+          "focus": "Destaca la duración de las protestas (seis días) como marco temporal del hecho"
         },
         {
-          "outlet": "eldiario.es",
-          "headline": "El Poder Judicial se divide sobre si archivar o no las quejas contra el juez Peinado por el caso de Begoña Gómez",
-          "link": "https://www.eldiario.es/politica/judicial-divide-si-archivar-no-quejas-juez-peinado-caso-begona-gomez_1_13395621.html",
+          "outlet": "ABC",
+          "headline": "Zelenski destituye al jefe del Ejército ucraniano tras las protestas por el cese del ministro de Defensa",
+          "link": "https://www.abc.es/internacional/zelenski-reemplaza-jefe-fuerzas-armadas-ucrania-20260722081645-nt.html",
           "position": 50,
-          "focus": "Destaca la división interna del CGPJ entre archivar o no; mismo hecho central"
+          "focus": "Añade el origen de las protestas: el cese previo del ministro de Defensa"
         },
         {
           "outlet": "La Vanguardia",
-          "headline": "El gobierno de los jueces no se pone de acuerdo sobre qué hacer con las quejas contra Peinado",
-          "link": "https://www.lavanguardia.com/politica/20260721/11597531/gobierno-jueces-logra-acuerdo-sobre-archivar-quejas-peinado.html",
+          "headline": "Zelenski destituye al jefe del ejército para atajar las protestas ciudadanas en Ucrania",
+          "link": "https://www.lavanguardia.com/internacional/20260722/11598173/zelenski-destituye-jefe-ejercito-atajar-protestas-ciudadanas-ucrania.html",
           "position": 50,
-          "focus": "Usa la expresión 'gobierno de los jueces' para referirse al CGPJ pero relata el mismo desacuerdo"
-        },
-        {
-          "outlet": "El Confidencial",
-          "headline": "El CGPJ no llega a un acuerdo sobre las quejas contra Peinado y seguirá deliberando",
-          "link": "https://www.elconfidencial.com/espana/2026-07-21/cgpj-archiva-diligencias-peinado-1tps_4393358/",
-          "position": 50,
-          "focus": "Enfatiza que las deliberaciones continuarán; mismo hecho de falta de acuerdo"
+          "focus": "Enfatiza el objetivo de la medida, atajar las protestas ciudadanas"
         }
       ],
       "rango": 0,
       "discrepancia": "baja",
       "silenciosos": [
         "20minutos",
-        "ABC",
-        "El Mundo"
+        "El Confidencial",
+        "El Mundo",
+        "eldiario.es"
       ]
     },
     {
-      "neutral_headline": "Meliá completa su salida de Cuba y cancelará todos sus contratos y servicios el 24 de julio",
-      "section": "Economia",
+      "neutral_headline": "La causa judicial sobre el rescate a Plus Ultra involucra al expresidente Zapatero",
+      "section": "Politica",
       "facts": [
-        "Meliá completa su salida de Cuba",
-        "Cancelará todos sus contratos y servicios en la isla",
-        "La fecha límite es el 24 de julio",
-        "20minutos vincula la salida a las nuevas sanciones de Trump"
+        "Existe una causa judicial relacionada con el rescate estatal a Plus Ultra",
+        "El Pais senala que la investigacion ahora se centra en la cupula de Plus Ultra tras contradecir la version de Zapatero",
+        "El Mundo afirma que Zapatero ordeno camuflar en varios pagos una comision del 1%",
+        "El Mundo afirma que Zapatero conocio en tiempo real la llegada de un informe necesario para el rescate",
+        "La Vanguardia recoge que Julio Martinez senala a Zapatero como el cerebro del negocio de venta de influencias",
+        "La Vanguardia informa que el Gobierno y el PSOE sostienen la inocencia de Zapatero pese al riesgo que ello implica"
       ],
       "tipo_divergencia": "editorial",
       "eje": {
-        "polo_a": "hecho sin causa atribuida",
-        "polo_b": "causa atribuida a sanciones de Trump",
-        "resumen": "El Pais y El Mundo narran la salida de Meliá como un hecho empresarial sin explicar el motivo, mientras 20minutos lo enmarca explícitamente como consecuencia de las sanciones de Trump"
+        "polo_a": "Zapatero desvinculado / foco en otros actores",
+        "polo_b": "Zapatero como responsable directo",
+        "resumen": "Los medios difieren entre situar a Zapatero como figura exculpada cuyo caso se desplaza hacia otros implicados, o como responsable directo y protagonista del presunto delito"
       },
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "Meliá completa su salida de Cuba y cancelará todos sus contratos y servicios en la isla el 24 de julio",
-          "link": "https://elpais.com/economia/2026-07-21/melia-completa-su-salida-de-cuba-y-cancelara-todos-sus-contratos-y-servicios-en-la-isla-el-24-de-julio.html",
-          "position": 10,
-          "focus": "Describe la salida y la cancelación de contratos sin mencionar causa política alguna"
+          "headline": "La causa contra Zapatero sitúa ahora el foco en la cúpula de Plus Ultra tras contradecir la versión del expresidente",
+          "link": "https://elpais.com/espana/2026-07-22/la-causa-contra-zapatero-situa-ahora-el-foco-en-la-cupula-de-plus-ultra-tras-contradecir-la-version-del-expresidente.html",
+          "position": 8,
+          "focus": "Desplaza el foco investigador hacia la cupula de Plus Ultra, sugiriendo que la version de Zapatero fue contradicha pero sin situarlo como eje central de la acusacion"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Gobierno y PSOE asumen el “riesgo” de sostener la inocencia de Zapatero",
+          "link": "https://www.lavanguardia.com/politica/20260722/11597947/gobierno-psoe-asumen-riesgo-sostener-inocencia-zapatero.html",
+          "position": 30,
+          "focus": "Recoge la defensa oficial de la inocencia de Zapatero por parte del Gobierno y el PSOE, aunque reconoce que sostenerla implica un riesgo politico"
         },
         {
           "outlet": "El Mundo",
-          "headline": "Meliá completa su salida de Cuba: cancelará todos sus contratos y servicios el 24 de julio",
-          "link": "https://www.elmundo.es/economia/2026/07/21/6a5f451421efa03d3a8b459d.html",
-          "position": 12,
-          "focus": "Idéntico enfoque que El Pais: hechos operativos sin atribuir responsabilidad externa"
+          "headline": "Zapatero conoció en tiempo real la llegada al Gobierno del último informe necesario para aprobar el rescate a Plus Ultra",
+          "link": "https://www.elmundo.es/espana/2026/07/21/6a5fca0421efa065748b4580.html",
+          "position": 55,
+          "focus": "Implica a Zapatero por conocimiento directo y en tiempo real de un tramite clave del rescate, sin acusarlo aun de ordenar nada"
         },
         {
-          "outlet": "20minutos",
-          "headline": "Meliá abandona definitivamente Cuba tras las nuevas sanciones de Trump: cierra todos sus hoteles",
-          "link": "https://www.20minutos.es/lainformacion/empresas/melia-culmina-su-retirada-cuba-ante-las-sanciones-estados-unidos_7017130_0.html",
-          "position": 90,
-          "focus": "Atribuye explícitamente la salida a las nuevas sanciones de Trump, introduciendo un responsable político como causa del hecho"
+          "outlet": "El Mundo",
+          "headline": "Zapatero ordenó camuflar en varios pagos la comisión del 1% en el rescate de Plus Ultra",
+          "link": "https://www.elmundo.es/espana/2026/07/21/6a5fbadb21efa0b26b8b458b.html",
+          "position": 75,
+          "focus": "Atribuye a Zapatero la orden expresa de camuflar una comision ilegal, situandolo como autor material de una accion concreta"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Julio Martínez señala a Zapatero como el cerebro del negocio de vender influencias",
+          "link": "https://www.lavanguardia.com/politica/20260722/11597903/julio-martinez-senala-zapatero-cerebro-negocio-vender-influencias.html",
+          "position": 88,
+          "focus": "Recoge la declaracion de un testigo que senala a Zapatero como el cerebro de toda la trama de trafico de influencias"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "La mancha de Zapatero",
+          "link": "https://www.lavanguardia.com/opinion/20260722/11597978/mancha-zapatero.html",
+          "position": 95,
+          "focus": "Usa un titular valorativo ('la mancha') que atribuye responsabilidad moral y personal a Zapatero de forma directa, sin matizar version alguna"
         }
       ],
-      "rango": 80,
+      "rango": 87,
       "discrepancia": "alta",
       "silenciosos": [
+        "20minutos",
         "ABC",
         "El Confidencial",
-        "La Vanguardia",
         "eldiario.es"
       ]
     }
