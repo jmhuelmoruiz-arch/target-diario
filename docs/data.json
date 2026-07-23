@@ -1,249 +1,146 @@
 {
-  "fecha": "2026-07-22T11:29:15.685779+00:00",
+  "fecha": "2026-07-23T11:30:56.950744+00:00",
   "historias": [
     {
-      "neutral_headline": "Les Corts Valencianes aprueban los presupuestos con la 'prioridad nacional' impulsada por Vox",
+      "neutral_headline": "El Gobierno propone a Yolanda Díaz como candidata a dirigir la OIT",
       "section": "Politica",
       "facts": [
-        "Les Corts Valencianes aprobaron los presupuestos con el apoyo de PP y Vox",
-        "Los presupuestos incluyen la 'prioridad nacional', una medida promovida por Vox",
-        "Es la primera vez que esta medida se convierte en ley en una comunidad autónoma",
-        "El presidente autonómico es Pérez Llorca",
-        "El Confidencial señala que son presupuestos para cinco meses",
-        "El Mundo recoge que Vox promete llevar la medida a ley estatal 'más pronto que tarde'"
-      ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "PP subordinado a Vox",
-        "polo_b": "Llorca como protagonista institucional",
-        "resumen": "Los medios difieren en si el protagonismo y la responsabilidad recae en la sumisión del PP a Vox o en la gestión autónoma de Pérez Llorca"
-      },
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "El PP se pliega a Vox y Les Corts Valencianes aprueban los primeros presupuestos en España que incluyen la prioridad nacional",
-          "link": "https://elpais.com/espana/comunidad-valenciana/2026-07-22/les-corts-valencianes-aprueban-los-primeros-presupuestos-en-espana-que-incluyen-la-prioridad-nacional-de-vox.html",
-          "position": 5,
-          "focus": "Enmarca la aprobación como una claudicación del PP ante las exigencias de Vox, destacando la subordinación política"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "La alianza PP-Vox hace ley por primera vez la “prioridad nacional” en los presupuestos de la Comunitat Valenciana",
-          "link": "https://www.eldiario.es/comunitat-valenciana/politica/pp-vox-aprueban-presupuestos-perez-llorca-ultimos-legislatura-mencion-prioridad-nacional_1_13398223.html",
-          "position": 20,
-          "focus": "Habla de 'alianza PP-Vox' y pone el foco en el hito histórico de convertir en ley la medida, atribuyendo la acción a ambos partidos conjuntamente"
-        },
-        {
-          "outlet": "ABC",
-          "headline": "El PP y Vox aprueban los presupuestos de Llorca e imprimen la «prioridad nacional» en una ley",
-          "link": "https://www.abc.es/espana/comunidad-valenciana/pp-vox-aprueban-presupuestos-llorca-imprimen-prioridad-20260722115958-nt.html",
-          "position": 50,
-          "focus": "Presenta a PP y Vox como sujetos conjuntos de la acción, sin jerarquizar responsabilidades, encuadre más neutro"
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "Llorca aprueba sus primeros presupuestos con la \"prioridad nacional\" que Vox promete llevar a ley estatal \"más pronto que tarde\"",
-          "link": "https://www.elmundo.es/comunidad-valenciana/2026/07/22/6a6080b1fdddffd20c8b4580.html",
-          "position": 80,
-          "focus": "Centra a Llorca como sujeto que aprueba los presupuestos, mencionando a Vox como actor externo que promete extender la medida a nivel estatal"
-        },
-        {
-          "outlet": "El Confidencial",
-          "headline": "Pérez Llorca saca adelante unos presupuestos para cinco meses tras asumir la prioridad nacional de Vox",
-          "link": "https://www.elconfidencial.com/espana/comunidad-valenciana/2026-07-22/llorca-voz-presupuestos-cinco-meses-prioridad-nacional_4394057/",
-          "position": 95,
-          "focus": "Destaca a Pérez Llorca como protagonista que 'saca adelante' los presupuestos, mencionando la prioridad nacional como algo ya asumido, y añade el dato temporal de los cinco meses de vigencia"
-        }
-      ],
-      "rango": 90,
-      "discrepancia": "alta",
-      "silenciosos": [
-        "20minutos",
-        "La Vanguardia"
-      ]
-    },
-    {
-      "neutral_headline": "Incendio de Guadalajara arrasa más de 32.000 hectáreas mientras Sánchez anuncia medidas contra el cambio climático",
-      "section": "Sociedad",
-      "facts": [
-        "El incendio de Guadalajara ha quemado más de 32.000 hectáreas",
-        "El incendio entra en fase de estabilización según El Pais",
-        "El comienzo de julio ha sido especialmente grave para los incendios en España",
-        "Sánchez visitó el incendio de La Mierla en Guadalajara",
-        "Sánchez pidió un pacto de Estado sobre emergencia climática",
-        "Sánchez anunció 300 millones de euros para innovación contra el cambio climático y los incendios",
-        "Los incendios de La Mierla y Selas evolucionan favorablemente según eldiario.es",
-        "Page criticó a quienes 'frivolizan o niegan' el cambio climático"
-      ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "cobertura técnica del incendio",
-        "polo_b": "uso político del incendio",
-        "resumen": "Algunos medios centran el relato en los datos y evolución del fuego, mientras otros lo usan como escenario para el debate político sobre el cambio climático"
-      },
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "El incendio de Guadalajara entra en fase de “estabilización” tras arrasar más de 32.000 hectáreas",
-          "link": "https://elpais.com/espana/2026-07-22/el-incendio-de-guadalajara-entra-en-fase-de-estabilizacion-tras-arrasar-mas-de-32000-hectareas.html",
-          "position": 0,
-          "focus": "Se centra en datos técnicos: hectáreas quemadas y fase de estabilización, sin mencionar actores políticos"
-        },
-        {
-          "outlet": "El Pais",
-          "headline": "El incendio de Guadalajara dispara la superficie quemada en España tras un nefasto comienzo de julio",
-          "link": "https://elpais.com/clima-y-medio-ambiente/2026-07-22/el-incendio-de-guadalajara-dispara-la-superficie-quemada-en-espana-tras-un-nefasto-comienzo-de-julio.html",
-          "position": 10,
-          "focus": "Contextualiza el incendio dentro de la temporada de incendios en España, foco estadístico"
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "Sánchez pide un gran pacto de Estado sobre emergencia climática en su visita al incendio de La Mierla en Guadalajara que ya ha arrasado 32.000 hectáreas",
-          "link": "https://www.elmundo.es/espana/2026/07/22/6a608eabfdddff493b8b4570.html",
-          "position": 75,
-          "focus": "Destaca la visita de Sánchez y su petición de un pacto de Estado, usando el incendio como telón político"
-        },
-        {
-          "outlet": "ABC",
-          "headline": "Sánchez anuncia 300 millones para impulsar la innovación contra el cambio climático y los incendios",
-          "link": "https://www.abc.es/espana/castilla-la-mancha/sanchez-anuncia-300-millones-impulsar-innovacion-cambio-20260722123601-nt.html",
-          "position": 90,
-          "focus": "Resalta el anuncio económico de Sánchez, centrando la noticia en la política de innovación climática"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "Pedro Sánchez anuncia 300 millones de euros para luchar contra el cambio climático y los incendios",
-          "link": "https://www.eldiario.es/sociedad/pedro-sanchez-anuncia-300-millones-euros-luchar-cambio-climatico-incendios_1_13398125.html",
-          "position": 92,
-          "focus": "Repite el anuncio de los 300 millones, enfatizando la respuesta gubernamental al cambio climático"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "Última hora sobre los incendios en España: los incendios de La Mierla y Selas evolucionan favorablemente y Page critica a quienes \"frivolizan o niegan\" el cambio climático",
-          "link": "https://www.eldiario.es/sociedad/ultima-hora-incendios-espana-tesoros-naturales-guadalajara-siguen-ardiendo_133_13397624.html",
-          "position": 55,
-          "focus": "Combina la evolución favorable del incendio con la crítica política de Page hacia el negacionismo climático"
-        }
-      ],
-      "rango": 92,
-      "discrepancia": "alta",
-      "silenciosos": [
-        "20minutos",
-        "El Confidencial",
-        "La Vanguardia"
-      ]
-    },
-    {
-      "neutral_headline": "Zelenski destituye al jefe del ejército ucraniano tras varios días de protestas",
-      "section": "Internacional",
-      "facts": [
-        "Zelenski destituyó al jefe del Ejército de Ucrania",
-        "La destitución se produjo tras protestas ciudadanas",
-        "El Pais señala que las protestas duraron seis días",
-        "ABC vincula las protestas al cese previo del ministro de Defensa"
+        "El Gobierno ha propuesto a Yolanda Díaz como candidata para la dirección general de la OIT",
+        "Yolanda Díaz es la vicepresidenta del Gobierno",
+        "La OIT es un organismo de la ONU dedicado a temas laborales"
       ],
       "tipo_divergencia": "ninguna",
       "eje": null,
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "Zelenski releva al jefe del ejército en Ucrania tras seis días de protestas",
-          "link": "https://elpais.com/internacional/2026-07-21/zelenski-releva-al-jefe-del-ejercito-en-ucrania-tras-seis-dias-de-protestas.html",
+          "headline": "El Gobierno propone a Yolanda Díaz como directora general de la OIT, el organismo de la ONU dedicado al trabajo",
+          "link": "https://elpais.com/economia/2026-07-23/el-gobierno-propone-a-yolanda-diaz-como-directora-general-de-la-oit-el-organismo-de-la-onu-dedicado-al-trabajo.html",
           "position": 50,
-          "focus": "Destaca la duración de las protestas (seis días) como marco temporal del hecho"
+          "focus": "Describe el hecho y añade contexto sobre qué es la OIT como organismo de la ONU"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "El Gobierno propone a Yolanda Díaz para dirigir la Organización Internacional del Trabajo",
+          "link": "https://www.elmundo.es/economia/2026/07/23/6a61bd11e4d4d85a3e8b456f.html",
+          "position": 50,
+          "focus": "Describe el hecho central sin añadir contexto adicional"
         },
         {
           "outlet": "ABC",
-          "headline": "Zelenski destituye al jefe del Ejército ucraniano tras las protestas por el cese del ministro de Defensa",
-          "link": "https://www.abc.es/internacional/zelenski-reemplaza-jefe-fuerzas-armadas-ucrania-20260722081645-nt.html",
+          "headline": "El Gobierno lanza a Yolanda Díaz como candidata para dirigir la OIT",
+          "link": "https://www.abc.es/espana/moncloa-propone-yolanda-diaz-optar-direccion-general-20260723090113-nt.html",
           "position": 50,
-          "focus": "Añade el origen de las protestas: el cese previo del ministro de Defensa"
+          "focus": "Usa el verbo 'lanza' para describir la misma propuesta, mismo hecho central"
         },
         {
-          "outlet": "La Vanguardia",
-          "headline": "Zelenski destituye al jefe del ejército para atajar las protestas ciudadanas en Ucrania",
-          "link": "https://www.lavanguardia.com/internacional/20260722/11598173/zelenski-destituye-jefe-ejercito-atajar-protestas-ciudadanas-ucrania.html",
+          "outlet": "eldiario.es",
+          "headline": "El Gobierno propone a la vicepresidenta Yolanda Díaz como candidata a dirigir la OIT",
+          "link": "https://www.eldiario.es/economia/gobierno-propone-vicepresidenta-yolanda-diaz-candidata-dirigir-oit_1_13400602.html",
           "position": 50,
-          "focus": "Enfatiza el objetivo de la medida, atajar las protestas ciudadanas"
+          "focus": "Enfatiza el cargo de vicepresidenta de Díaz junto al hecho central"
+        },
+        {
+          "outlet": "El Confidencial",
+          "headline": "Qué es la OIT: el organismo de Naciones Unidas para el que Yolanda Díaz ha sido propuesta para la dirección general por el Gobierno",
+          "link": "https://www.elconfidencial.com/espana/2026-07-23/que-es-oit-onu-yolanda-diaz-candidata-1qrt_4394690/",
+          "position": 50,
+          "focus": "Explica en detalle qué es la OIT como marco explicativo del hecho"
         }
       ],
       "rango": 0,
       "discrepancia": "baja",
       "silenciosos": [
         "20minutos",
-        "El Confidencial",
-        "El Mundo",
-        "eldiario.es"
+        "La Vanguardia"
       ]
     },
     {
-      "neutral_headline": "La causa judicial sobre el rescate a Plus Ultra involucra al expresidente Zapatero",
-      "section": "Politica",
+      "neutral_headline": "Incendios forestales en Toledo, Madrid y Guadalajara: evolución, evacuaciones y daños",
+      "section": "Sociedad",
       "facts": [
-        "Existe una causa judicial relacionada con el rescate estatal a Plus Ultra",
-        "El Pais senala que la investigacion ahora se centra en la cupula de Plus Ultra tras contradecir la version de Zapatero",
-        "El Mundo afirma que Zapatero ordeno camuflar en varios pagos una comision del 1%",
-        "El Mundo afirma que Zapatero conocio en tiempo real la llegada de un informe necesario para el rescate",
-        "La Vanguardia recoge que Julio Martinez senala a Zapatero como el cerebro del negocio de venta de influencias",
-        "La Vanguardia informa que el Gobierno y el PSOE sostienen la inocencia de Zapatero pese al riesgo que ello implica"
+        "El incendio de Almorox (Toledo) está perimetrado",
+        "El Pais cifra en unas 1.000 hectáreas quemadas en Almorox",
+        "20minutos cifra en 890 hectáreas quemadas, 600 de ellas en Madrid",
+        "eldiario.es señala que el fuego de Toledo llegó a Madrid y ya está perimetrado",
+        "eldiario.es indica que el incendio de La Mierla evoluciona 'favorablemente' / 'muy positiva'",
+        "Hubo evacuaciones de vecinos en Guadalajara y confinamiento en Villa del Prado",
+        "Se registraron daños en viviendas y coches calcinados en la zona de Almorox",
+        "Un pastor se quedó en su pueblo pese a las llamas para proteger a sus animales",
+        "Se vigila la evolución del viento durante la tarde según 20minutos"
       ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "Zapatero desvinculado / foco en otros actores",
-        "polo_b": "Zapatero como responsable directo",
-        "resumen": "Los medios difieren entre situar a Zapatero como figura exculpada cuyo caso se desplaza hacia otros implicados, o como responsable directo y protagonista del presunto delito"
-      },
+      "tipo_divergencia": "cronologica",
+      "eje": null,
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "La causa contra Zapatero sitúa ahora el foco en la cúpula de Plus Ultra tras contradecir la versión del expresidente",
-          "link": "https://elpais.com/espana/2026-07-22/la-causa-contra-zapatero-situa-ahora-el-foco-en-la-cupula-de-plus-ultra-tras-contradecir-la-version-del-expresidente.html",
-          "position": 8,
-          "focus": "Desplaza el foco investigador hacia la cupula de Plus Ultra, sugiriendo que la version de Zapatero fue contradicha pero sin situarlo como eje central de la acusacion"
+          "headline": "Última hora de los incendios forestales, en directo | Perimetrado el incendio de Almorox (Toledo) tras quemar unas 1.000 hectáreas",
+          "link": "https://elpais.com/espana/2026-07-23/ultima-hora-de-los-incendios-forestales-en-directo.html",
+          "position": 50,
+          "focus": "Actualización en directo del perímetro y hectáreas quemadas en Almorox"
         },
         {
-          "outlet": "La Vanguardia",
-          "headline": "Gobierno y PSOE asumen el “riesgo” de sostener la inocencia de Zapatero",
-          "link": "https://www.lavanguardia.com/politica/20260722/11597947/gobierno-psoe-asumen-riesgo-sostener-inocencia-zapatero.html",
-          "position": 30,
-          "focus": "Recoge la defensa oficial de la inocencia de Zapatero por parte del Gobierno y el PSOE, aunque reconoce que sostenerla implica un riesgo politico"
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "Zapatero conoció en tiempo real la llegada al Gobierno del último informe necesario para aprobar el rescate a Plus Ultra",
-          "link": "https://www.elmundo.es/espana/2026/07/21/6a5fca0421efa065748b4580.html",
-          "position": 55,
-          "focus": "Implica a Zapatero por conocimiento directo y en tiempo real de un tramite clave del rescate, sin acusarlo aun de ordenar nada"
+          "outlet": "El Pais",
+          "headline": "El regreso de algunos vecinos de Guadalajara tras la pesadilla del fuego: “Se escuchaba cómo venía el infierno”",
+          "link": "https://elpais.com/espana/2026-07-23/el-regreso-de-algunos-vecinos-de-guadalajara-tras-la-pesadilla-del-fuego-se-escuchaba-como-venia-el-infierno.html",
+          "position": 50,
+          "focus": "Testimonio del regreso de vecinos evacuados en Guadalajara"
         },
         {
           "outlet": "El Mundo",
-          "headline": "Zapatero ordenó camuflar en varios pagos la comisión del 1% en el rescate de Plus Ultra",
-          "link": "https://www.elmundo.es/espana/2026/07/21/6a5fbadb21efa0b26b8b458b.html",
-          "position": 75,
-          "focus": "Atribuye a Zapatero la orden expresa de camuflar una comision ilegal, situandolo como autor material de una accion concreta"
+          "headline": "Las 1.001 vidas de los evacuados en el incendio de Guadalajara y el pastor que desafió a la Guardia Civil quedándose en su pueblo pese a las llamas: \"No podía permitir que se quemaran mis ovejas y mis colmenas\"",
+          "link": "https://www.elmundo.es/espana/2026/07/22/6a61154afdddff34498b45ba.html",
+          "position": 50,
+          "focus": "Historias humanas de evacuados y el caso del pastor que desafió la evacuación"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Última hora sobre los incendios en España: el fuego de Toledo que llegó a Madrid ya está perimetrado mientras La Mierla evoluciona \"favorablemente\"",
+          "link": "https://www.eldiario.es/sociedad/ultima-hora-incendios-espana-llamas-toledo-llegan-madrid-levantan-desalojos-mierla_133_13400528.html",
+          "position": 50,
+          "focus": "Estado actualizado de dos incendios distintos: Toledo/Madrid y La Mierla"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Daños en viviendas a causa del incendio de Almorox, que ya está perimetrado y evoluciona de forma \"muy positiva\"",
+          "link": "https://www.eldiario.es/castilla-la-mancha/provincias/toledo/incendio-almorox-evoluciona-forma-positiva-mantiene-desalojada-urbanizacion_1_13400625.html",
+          "position": 50,
+          "focus": "Daños materiales en viviendas y evolución positiva del incendio"
         },
         {
           "outlet": "La Vanguardia",
-          "headline": "Julio Martínez señala a Zapatero como el cerebro del negocio de vender influencias",
-          "link": "https://www.lavanguardia.com/politica/20260722/11597903/julio-martinez-senala-zapatero-cerebro-negocio-vender-influencias.html",
-          "position": 88,
-          "focus": "Recoge la declaracion de un testigo que senala a Zapatero como el cerebro de toda la trama de trafico de influencias"
+          "headline": "La Mierla: desolación e indignación por uno de los mayores incendios de España",
+          "link": "https://www.lavanguardia.com/vida/20260723/11598791/mierla-desolacion-e-indignacion-mayores-incendios-espana.html",
+          "position": 50,
+          "focus": "Impacto emocional y magnitud del incendio de La Mierla"
         },
         {
           "outlet": "La Vanguardia",
-          "headline": "La mancha de Zapatero",
-          "link": "https://www.lavanguardia.com/opinion/20260722/11597978/mancha-zapatero.html",
-          "position": 95,
-          "focus": "Usa un titular valorativo ('la mancha') que atribuye responsabilidad moral y personal a Zapatero de forma directa, sin matizar version alguna"
+          "headline": "Confinan la Villa del Prado y evacuan varias urbanizaciones de Madrid por el incendio en Almorox (Toledo)",
+          "link": "https://www.lavanguardia.com/vida/20260722/11598810/confinan-villa-prado-evacuan-urbanizacion-incendio-almorox-toledo.html",
+          "position": 50,
+          "focus": "Medidas de confinamiento y evacuación en Madrid por el incendio de Almorox"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Casas y coches calcinados, rescates contrarreloj... las impactantes imágenes del incendio de Almorox",
+          "link": "https://www.20minutos.es/madrid/casas-coches-calcinados-rescates-contrarreloj-las-impactantes-imagenes-incendio-almorox_7017972_0.html",
+          "position": 50,
+          "focus": "Imágenes de daños materiales y rescates durante el incendio"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "El incendio de Almorox y Villa del Prado arrasa 890 hectáreas, 600 en Madrid, y se vigila la evolución del viento durante la tarde",
+          "link": "https://www.20minutos.es/madrid/incendio-almorox-villa-prado-arrasa-890-hectareas-600-madrid-se-vigila-evolucion-viento-durante-tarde_7018101_0.html",
+          "position": 50,
+          "focus": "Datos técnicos sobre hectáreas quemadas y condiciones meteorológicas"
         }
       ],
-      "rango": 87,
-      "discrepancia": "alta",
+      "rango": 0,
+      "discrepancia": "baja",
       "silenciosos": [
-        "20minutos",
         "ABC",
-        "El Confidencial",
-        "eldiario.es"
+        "El Confidencial"
       ]
     }
   ]
