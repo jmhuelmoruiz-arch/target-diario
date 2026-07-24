@@ -1,146 +1,251 @@
 {
-  "fecha": "2026-07-23T11:30:56.950744+00:00",
+  "fecha": "2026-07-24T11:19:30.216887+00:00",
   "historias": [
     {
-      "neutral_headline": "El Gobierno propone a Yolanda Díaz como candidata a dirigir la OIT",
-      "section": "Politica",
-      "facts": [
-        "El Gobierno ha propuesto a Yolanda Díaz como candidata para la dirección general de la OIT",
-        "Yolanda Díaz es la vicepresidenta del Gobierno",
-        "La OIT es un organismo de la ONU dedicado a temas laborales"
-      ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "El Gobierno propone a Yolanda Díaz como directora general de la OIT, el organismo de la ONU dedicado al trabajo",
-          "link": "https://elpais.com/economia/2026-07-23/el-gobierno-propone-a-yolanda-diaz-como-directora-general-de-la-oit-el-organismo-de-la-onu-dedicado-al-trabajo.html",
-          "position": 50,
-          "focus": "Describe el hecho y añade contexto sobre qué es la OIT como organismo de la ONU"
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "El Gobierno propone a Yolanda Díaz para dirigir la Organización Internacional del Trabajo",
-          "link": "https://www.elmundo.es/economia/2026/07/23/6a61bd11e4d4d85a3e8b456f.html",
-          "position": 50,
-          "focus": "Describe el hecho central sin añadir contexto adicional"
-        },
-        {
-          "outlet": "ABC",
-          "headline": "El Gobierno lanza a Yolanda Díaz como candidata para dirigir la OIT",
-          "link": "https://www.abc.es/espana/moncloa-propone-yolanda-diaz-optar-direccion-general-20260723090113-nt.html",
-          "position": 50,
-          "focus": "Usa el verbo 'lanza' para describir la misma propuesta, mismo hecho central"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "El Gobierno propone a la vicepresidenta Yolanda Díaz como candidata a dirigir la OIT",
-          "link": "https://www.eldiario.es/economia/gobierno-propone-vicepresidenta-yolanda-diaz-candidata-dirigir-oit_1_13400602.html",
-          "position": 50,
-          "focus": "Enfatiza el cargo de vicepresidenta de Díaz junto al hecho central"
-        },
-        {
-          "outlet": "El Confidencial",
-          "headline": "Qué es la OIT: el organismo de Naciones Unidas para el que Yolanda Díaz ha sido propuesta para la dirección general por el Gobierno",
-          "link": "https://www.elconfidencial.com/espana/2026-07-23/que-es-oit-onu-yolanda-diaz-candidata-1qrt_4394690/",
-          "position": 50,
-          "focus": "Explica en detalle qué es la OIT como marco explicativo del hecho"
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "20minutos",
-        "La Vanguardia"
-      ]
-    },
-    {
-      "neutral_headline": "Incendios forestales en Toledo, Madrid y Guadalajara: evolución, evacuaciones y daños",
+      "neutral_headline": "Los incendios en Madrid y Ávila se unen en un frente único, fuera de control, y obligan a evacuar a miles de personas",
       "section": "Sociedad",
       "facts": [
-        "El incendio de Almorox (Toledo) está perimetrado",
-        "El Pais cifra en unas 1.000 hectáreas quemadas en Almorox",
-        "20minutos cifra en 890 hectáreas quemadas, 600 de ellas en Madrid",
-        "eldiario.es señala que el fuego de Toledo llegó a Madrid y ya está perimetrado",
-        "eldiario.es indica que el incendio de La Mierla evoluciona 'favorablemente' / 'muy positiva'",
-        "Hubo evacuaciones de vecinos en Guadalajara y confinamiento en Villa del Prado",
-        "Se registraron daños en viviendas y coches calcinados en la zona de Almorox",
-        "Un pastor se quedó en su pueblo pese a las llamas para proteger a sus animales",
-        "Se vigila la evolución del viento durante la tarde según 20minutos"
+        "Los incendios de la Comunidad de Madrid se han unido en un solo frente",
+        "Los fuegos amenazan y obligan a evacuar nuevos municipios",
+        "El Pais cifra en más de 10.000 los evacuados por tres incendios simultáneos",
+        "20minutos cifra en casi 20.000 las personas desalojadas y en 6.000 las hectáreas arrasadas",
+        "El ministro Marlaska calificó la jornada como 'un día crítico'",
+        "El consejero madrileño advirtió de que 'vienen horas muy duras'",
+        "La Vanguardia señala que dos de los incendios siguen fuera de control aunque se ha limitado su avance"
       ],
       "tipo_divergencia": "cronologica",
       "eje": null,
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "Última hora de los incendios forestales, en directo | Perimetrado el incendio de Almorox (Toledo) tras quemar unas 1.000 hectáreas",
-          "link": "https://elpais.com/espana/2026-07-23/ultima-hora-de-los-incendios-forestales-en-directo.html",
+          "headline": "Los incendios que arrasan Madrid y Ávila siguen ardiendo sin control: “Es un día muy difícil con una situación muy adversa”",
+          "link": "https://elpais.com/espana/madrid/2026-07-24/los-tres-incendios-que-arrasan-madrid-siguen-ardiendo-sin-control.html",
           "position": 50,
-          "focus": "Actualización en directo del perímetro y hectáreas quemadas en Almorox"
+          "focus": "Describe la situación como muy adversa y sin control, con declaraciones oficiales de dificultad"
         },
         {
           "outlet": "El Pais",
-          "headline": "El regreso de algunos vecinos de Guadalajara tras la pesadilla del fuego: “Se escuchaba cómo venía el infierno”",
-          "link": "https://elpais.com/espana/2026-07-23/el-regreso-de-algunos-vecinos-de-guadalajara-tras-la-pesadilla-del-fuego-se-escuchaba-como-venia-el-infierno.html",
+          "headline": "Última hora de los incendios forestales, en directo | Los incendios de la Comunidad de Madrid se unen en un solo frente y amenazan a nuevos municipios",
+          "link": "https://elpais.com/espana/2026-07-24/ultima-hora-de-los-incendios-forestales-en-directo.html",
           "position": 50,
-          "focus": "Testimonio del regreso de vecinos evacuados en Guadalajara"
+          "focus": "Actualización en directo: los incendios se unen en un frente y amenazan nuevos municipios"
+        },
+        {
+          "outlet": "El Pais",
+          "headline": "Más de 10.000 evacuados por tres incendios simultáneos en Madrid: “El fuego vino como un cohete”",
+          "link": "https://elpais.com/espana/madrid/2026-07-23/mas-de-10000-evacuados-por-tres-fuegos-simultaneos-en-madrid-el-fuego-vino-como-un-cohete.html",
+          "position": 50,
+          "focus": "Cifra en más de 10.000 los evacuados por tres incendios simultáneos, con testimonio de rapidez del fuego"
+        },
+        {
+          "outlet": "El Pais",
+          "headline": "¿Cuántas hectáreas han ardido? El mapa de los incendios activos más graves",
+          "link": "https://elpais.com/clima-y-medio-ambiente/2026-07-24/cuantas-hectareas-han-ardido-el-mapa-de-los-incendios-activos-mas-graves.html",
+          "position": 50,
+          "focus": "Aporta un mapa con las hectáreas quemadas en los incendios más graves"
         },
         {
           "outlet": "El Mundo",
-          "headline": "Las 1.001 vidas de los evacuados en el incendio de Guadalajara y el pastor que desafió a la Guardia Civil quedándose en su pueblo pese a las llamas: \"No podía permitir que se quemaran mis ovejas y mis colmenas\"",
-          "link": "https://www.elmundo.es/espana/2026/07/22/6a61154afdddff34498b45ba.html",
+          "headline": "Marlaska admite que \"hoy es un día crítico\" sobre los incendios y el consejero madrileño dice que \"vienen horas muy duras\"",
+          "link": "https://www.elmundo.es/espana/2026/07/24/6a632fdce85ece8e1b8b456f.html",
           "position": 50,
-          "focus": "Historias humanas de evacuados y el caso del pastor que desafió la evacuación"
+          "focus": "Recoge declaraciones institucionales (Marlaska y consejero) sobre la gravedad del día"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Los incendios en Madrid se unen en un solo frente y obligan a evacuar más municipios",
+          "link": "https://www.abc.es/espana/madrid/incendios-comunidad-madrid-unen-solo-frente-obligan-20260724130200-nt.html",
+          "position": 50,
+          "focus": "Informa de la unión de los incendios en un frente y las evacuaciones de municipios"
         },
         {
           "outlet": "eldiario.es",
-          "headline": "Última hora sobre los incendios en España: el fuego de Toledo que llegó a Madrid ya está perimetrado mientras La Mierla evoluciona \"favorablemente\"",
-          "link": "https://www.eldiario.es/sociedad/ultima-hora-incendios-espana-llamas-toledo-llegan-madrid-levantan-desalojos-mierla_133_13400528.html",
+          "headline": "Última hora sobre los incendios: los fuegos en Madrid se unen en un frente común y obligan a desalojar más municipios",
+          "link": "https://www.eldiario.es/sociedad/ultima-hora-incendios-espana-interior-asume-direccion-lucha-fuego-madrid-avila_133_13403506.html",
           "position": 50,
-          "focus": "Estado actualizado de dos incendios distintos: Toledo/Madrid y La Mierla"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "Daños en viviendas a causa del incendio de Almorox, que ya está perimetrado y evoluciona de forma \"muy positiva\"",
-          "link": "https://www.eldiario.es/castilla-la-mancha/provincias/toledo/incendio-almorox-evoluciona-forma-positiva-mantiene-desalojada-urbanizacion_1_13400625.html",
-          "position": 50,
-          "focus": "Daños materiales en viviendas y evolución positiva del incendio"
+          "focus": "Actualización en directo sobre la unión de los fuegos y los desalojos"
         },
         {
           "outlet": "La Vanguardia",
-          "headline": "La Mierla: desolación e indignación por uno de los mayores incendios de España",
-          "link": "https://www.lavanguardia.com/vida/20260723/11598791/mierla-desolacion-e-indignacion-mayores-incendios-espana.html",
+          "headline": "Dos de los incendios de Madrid siguen fuera de control aunque se ha limitado su avance",
+          "link": "https://www.lavanguardia.com/natural/20260724/11600077/dos-incendios-madrid-siguen-fuera-control-limitado-avance.html",
           "position": 50,
-          "focus": "Impacto emocional y magnitud del incendio de La Mierla"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Confinan la Villa del Prado y evacuan varias urbanizaciones de Madrid por el incendio en Almorox (Toledo)",
-          "link": "https://www.lavanguardia.com/vida/20260722/11598810/confinan-villa-prado-evacuan-urbanizacion-incendio-almorox-toledo.html",
-          "position": 50,
-          "focus": "Medidas de confinamiento y evacuación en Madrid por el incendio de Almorox"
+          "focus": "Matiza que aunque siguen fuera de control, se ha limitado el avance de dos incendios"
         },
         {
           "outlet": "20minutos",
-          "headline": "Casas y coches calcinados, rescates contrarreloj... las impactantes imágenes del incendio de Almorox",
-          "link": "https://www.20minutos.es/madrid/casas-coches-calcinados-rescates-contrarreloj-las-impactantes-imagenes-incendio-almorox_7017972_0.html",
+          "headline": "Los dos fuegos de Madrid se unen en un solo frente y se agrava la situación: \"Va a ser un día crítico\"",
+          "link": "https://www.20minutos.es/nacional/incendios-espana-directo-ultima-hora-fuego-hectareas-confinamientos-evacuaciones_7017956_6.html",
           "position": 50,
-          "focus": "Imágenes de daños materiales y rescates durante el incendio"
+          "focus": "Anuncia la unión de los fuegos y advierte de que será un día crítico"
         },
         {
           "outlet": "20minutos",
-          "headline": "El incendio de Almorox y Villa del Prado arrasa 890 hectáreas, 600 en Madrid, y se vigila la evolución del viento durante la tarde",
-          "link": "https://www.20minutos.es/madrid/incendio-almorox-villa-prado-arrasa-890-hectareas-600-madrid-se-vigila-evolucion-viento-durante-tarde_7018101_0.html",
+          "headline": "Los incendios en Madrid siguen fuera de control: 6.000 hectáreas arrasadas y casi 20.000 personas desalojadas",
+          "link": "https://www.20minutos.es/madrid/los-incendios-sin-control-madrid-6-000-hectareas-arrasadas-mas-desalojos-navas-rey-colmenar-arroyo-chapineria_7018590_0.html",
           "position": 50,
-          "focus": "Datos técnicos sobre hectáreas quemadas y condiciones meteorológicas"
+          "focus": "Actualiza cifras a 6.000 hectáreas arrasadas y casi 20.000 desalojados"
         }
       ],
       "rango": 0,
       "discrepancia": "baja",
       "silenciosos": [
-        "ABC",
         "El Confidencial"
+      ]
+    },
+    {
+      "neutral_headline": "El Gobierno declara la emergencia nacional en Madrid y Ávila por los incendios",
+      "section": "Politica",
+      "facts": [
+        "El Gobierno ha declarado la emergencia nacional en la Comunidad de Madrid y Ávila por los incendios",
+        "La declaración de emergencia nacional otorga poderes al Gobierno central",
+        "El apagón de 2025 es citado como precedente de este tipo de declaración",
+        "El Pais menciona un bulo relacionado con la frase 'si quieren ayuda, que la pidan'"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "cobertura informativa/explicativa",
+        "polo_b": "cobertura política/controversia sobre el poder central",
+        "resumen": "Los medios se dividen entre explicar de forma técnica qué es y qué implica la emergencia nacional, y enmarcarla como un asunto de controversia política y concentración de poder en el Gobierno central."
+      },
+      "frames": [
+        {
+          "outlet": "eldiario.es",
+          "headline": "El Gobierno declara la emergencia nacional en la Comunidad de Madrid y Ávila por los incendios",
+          "link": "https://www.eldiario.es/madrid/ayuso-pide-gobierno-declare-emergencia-nacional-tome-control-incendios-madrid_1_13403313.html",
+          "position": 5,
+          "focus": "Anuncio directo y factual de la declaración del Gobierno, sin entrar en polémicas ni antecedentes"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Qué es la emergencia nacional activada por los incendios de Madrid y Ávila y qué implica",
+          "link": "https://www.eldiario.es/sociedad/emergencia-nacional-activada-incendios-implica_1_13403677.html",
+          "position": 15,
+          "focus": "Explica de forma técnica qué es la emergencia nacional y qué implica, con tono divulgativo"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Emergencia nacional por catástrofe, una figura que da el poder al Gobierno central: el apagón de 2025 es el único precedente",
+          "link": "https://www.20minutos.es/nacional/emergencia-nacional-por-catastrofe-una-figura-que-da-poder-gobierno-central-apagon-2025-es-unico-precedente_7018534_0.html",
+          "position": 75,
+          "focus": "Enfatiza que la figura da poder al Gobierno central, situando el foco en la dimensión política e institucional, usando el apagón como único precedente"
+        },
+        {
+          "outlet": "El Pais",
+          "headline": "Precedentes y polémicas de la declaración de emergencia nacional: del bulo del “si quieren ayuda, que la pidan” al apagón",
+          "link": "https://elpais.com/espana/2026-07-24/precedentes-y-polemicas-de-la-declaracion-de-emergencia-nacional-del-bulo-del-si-quieren-ayuda-que-la-pidan-al-apagon.html",
+          "position": 95,
+          "focus": "Centra el relato en polémicas y precedentes, incluyendo un bulo político, enmarcando la declaración como tema de controversia"
+        }
+      ],
+      "rango": 90,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "ABC",
+        "El Confidencial",
+        "El Mundo",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "El juez Calama cita a declarar a directivos de Plus Ultra y rechaza la nulidad del caso pedida por Zapatero",
+      "section": "Politica",
+      "facts": [
+        "El juez Calama cita a declarar a los directivos de Plus Ultra",
+        "El juez Calama rechaza la nulidad del caso que pedía Zapatero",
+        "El Mundo y ABC señalan que el rechazo se debe a que el recurso de la defensa de Zapatero se presentó fuera de plazo",
+        "El Pais y eldiario.es afirman que los directivos citados han implicado o señalado a Zapatero en el rescate"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "Zapatero como señalado por los directivos",
+        "polo_b": "Zapatero como responsable del fallo procesal",
+        "resumen": "Unos medios centran el titular en que los directivos implicaron a Zapatero, mientras otros ponen el foco en que su defensa perdió el recurso por presentarlo fuera de plazo"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "El juez Calama cita a declarar a los directivos de Plus Ultra que implicaron a Zapatero en el rescate",
+          "link": "https://elpais.com/espana/2026-07-24/el-juez-calama-cita-a-declarar-a-los-directivos-de-plus-ultra-que-implicaron-a-zapatero-en-el-rescate.html",
+          "position": 10,
+          "focus": "Destaca que los directivos citados han implicado a Zapatero; omite el motivo procesal del rechazo de la nulidad"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "El juez Calama cita a declarar a los directivos de Plus Ultra que han señalado a Zapatero y rechaza la nulidad que pedía el expresidente",
+          "link": "https://www.eldiario.es/politica/juez-calama-cita-declarar-septiembre-presidente-ceo-plus-ultra-han-senalado-zapatero_1_13404233.html",
+          "position": 20,
+          "focus": "Combina ambos elementos pero antepone el señalamiento a Zapatero por los directivos"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "El juez Calama rechaza la nulidad del caso que pretendía Zapatero por pedirlo su defensa fuera de plazo y cita a declarar a los directivos de Plus Ultra",
+          "link": "https://www.elmundo.es/espana/2026/07/24/6a6338d6e4d4d8466c8b4583.html",
+          "position": 70,
+          "focus": "Antepone el rechazo de la nulidad por motivo procesal (fuera de plazo) y añade en segundo plano la citación a los directivos"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "El juez rechaza la nulidad del caso Plus Ultra pedida por Zapatero porque recurrió fuera de plazo",
+          "link": "https://www.abc.es/espana/juez-rechaza-incidente-nulidad-zapatero-presento-plazo-20260724121649-nt.html",
+          "position": 95,
+          "focus": "Se centra exclusivamente en el rechazo de la nulidad por presentación fuera de plazo, sin mencionar la implicación de Zapatero por los directivos"
+        }
+      ],
+      "rango": 85,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "El Confidencial",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "Anticorrupción solicita al juez ampliar la información sobre las joyas requisadas a Zapatero",
+      "section": "Politica",
+      "facts": [
+        "La Fiscalía Anticorrupción pide al juez ampliar la información sobre las joyas de Zapatero",
+        "El objetivo declarado es determinar la fecha exacta del montaje o datación de las joyas",
+        "La datación busca evitar la prescripción del caso"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Anticorrupción pide al juez ampliar la información sobre las joyas de Zapatero",
+          "link": "https://elpais.com/espana/2026-07-24/anticorrupcion-pide-al-juez-ampliar-la-informacion-sobre-las-joyas-de-zapatero.html",
+          "position": 50,
+          "focus": "Informa de la petición de Anticorrupción sin detallar el motivo específico de la ampliación"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Anticorrupción pide ampliar el análisis de las joyas de Zapatero para averiguar la fecha exacta de su montaje",
+          "link": "https://www.elmundo.es/espana/2026/07/23/6a625e4bfc6c83151b8b4586.html",
+          "position": 50,
+          "focus": "Añade el detalle de que se busca la fecha exacta del montaje de las joyas"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Anticorrupción pide ampliar la información de las joyas requisadas a Zapatero",
+          "link": "https://www.abc.es/espana/anticorrupcion-pide-ampliar-informacion-joyas-requisadas-zapatero-20260724105723-nt.html",
+          "position": 50,
+          "focus": "Se centra en el hecho de que las joyas fueron requisadas a Zapatero, sin más detalle sobre el propósito"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Anticorrupción busca conocer la datación de las joyas de Zapatero para evitar la prescripción",
+          "link": "https://www.lavanguardia.com/politica/20260724/11600081/anticorrupcion-pide-ampliar-tasacion-joyas-zapatero-conocer-valor-actual-mercado.html",
+          "position": 50,
+          "focus": "Explica que la datación busca evitar la prescripción del caso, aportando el motivo legal"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "El Confidencial",
+        "eldiario.es"
       ]
     }
   ]
