@@ -1,251 +1,138 @@
 {
-  "fecha": "2026-07-24T11:19:30.216887+00:00",
+  "fecha": "2026-07-25T10:17:03.866054+00:00",
   "historias": [
     {
-      "neutral_headline": "Los incendios en Madrid y Ávila se unen en un frente único, fuera de control, y obligan a evacuar a miles de personas",
-      "section": "Sociedad",
+      "neutral_headline": "El fuego en el suroeste de Francia avanza hacia Burdeos y obliga a nuevas evacuaciones",
+      "section": "Internacional",
       "facts": [
-        "Los incendios de la Comunidad de Madrid se han unido en un solo frente",
-        "Los fuegos amenazan y obligan a evacuar nuevos municipios",
-        "El Pais cifra en más de 10.000 los evacuados por tres incendios simultáneos",
-        "20minutos cifra en casi 20.000 las personas desalojadas y en 6.000 las hectáreas arrasadas",
-        "El ministro Marlaska calificó la jornada como 'un día crítico'",
-        "El consejero madrileño advirtió de que 'vienen horas muy duras'",
-        "La Vanguardia señala que dos de los incendios siguen fuera de control aunque se ha limitado su avance"
+        "El fuego se ubica en el suroeste de Francia y avanza hacia Burdeos",
+        "El incendio avanza sin control o sin freno",
+        "Se han producido nuevas evacuaciones",
+        "eldiario.es cifra en al menos 140.000 los evacuados"
       ],
       "tipo_divergencia": "cronologica",
       "eje": null,
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "Los incendios que arrasan Madrid y Ávila siguen ardiendo sin control: “Es un día muy difícil con una situación muy adversa”",
-          "link": "https://elpais.com/espana/madrid/2026-07-24/los-tres-incendios-que-arrasan-madrid-siguen-ardiendo-sin-control.html",
+          "headline": "El fuego en el suroeste de Francia avanza sin control hacia Burdeos y obliga a nuevas evacuaciones",
+          "link": "https://elpais.com/internacional/2026-07-25/el-fuego-en-el-suroeste-de-francia-avanza-sin-control-hacia-burdeos-y-obliga-a-nuevas-evacuaciones.html",
           "position": 50,
-          "focus": "Describe la situación como muy adversa y sin control, con declaraciones oficiales de dificultad"
-        },
-        {
-          "outlet": "El Pais",
-          "headline": "Última hora de los incendios forestales, en directo | Los incendios de la Comunidad de Madrid se unen en un solo frente y amenazan a nuevos municipios",
-          "link": "https://elpais.com/espana/2026-07-24/ultima-hora-de-los-incendios-forestales-en-directo.html",
-          "position": 50,
-          "focus": "Actualización en directo: los incendios se unen en un frente y amenazan nuevos municipios"
-        },
-        {
-          "outlet": "El Pais",
-          "headline": "Más de 10.000 evacuados por tres incendios simultáneos en Madrid: “El fuego vino como un cohete”",
-          "link": "https://elpais.com/espana/madrid/2026-07-23/mas-de-10000-evacuados-por-tres-fuegos-simultaneos-en-madrid-el-fuego-vino-como-un-cohete.html",
-          "position": 50,
-          "focus": "Cifra en más de 10.000 los evacuados por tres incendios simultáneos, con testimonio de rapidez del fuego"
-        },
-        {
-          "outlet": "El Pais",
-          "headline": "¿Cuántas hectáreas han ardido? El mapa de los incendios activos más graves",
-          "link": "https://elpais.com/clima-y-medio-ambiente/2026-07-24/cuantas-hectareas-han-ardido-el-mapa-de-los-incendios-activos-mas-graves.html",
-          "position": 50,
-          "focus": "Aporta un mapa con las hectáreas quemadas en los incendios más graves"
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "Marlaska admite que \"hoy es un día crítico\" sobre los incendios y el consejero madrileño dice que \"vienen horas muy duras\"",
-          "link": "https://www.elmundo.es/espana/2026/07/24/6a632fdce85ece8e1b8b456f.html",
-          "position": 50,
-          "focus": "Recoge declaraciones institucionales (Marlaska y consejero) sobre la gravedad del día"
-        },
-        {
-          "outlet": "ABC",
-          "headline": "Los incendios en Madrid se unen en un solo frente y obligan a evacuar más municipios",
-          "link": "https://www.abc.es/espana/madrid/incendios-comunidad-madrid-unen-solo-frente-obligan-20260724130200-nt.html",
-          "position": 50,
-          "focus": "Informa de la unión de los incendios en un frente y las evacuaciones de municipios"
+          "focus": "Destaca el avance sin control del fuego hacia Burdeos y las nuevas evacuaciones, sin precisar cifras"
         },
         {
           "outlet": "eldiario.es",
-          "headline": "Última hora sobre los incendios: los fuegos en Madrid se unen en un frente común y obligan a desalojar más municipios",
-          "link": "https://www.eldiario.es/sociedad/ultima-hora-incendios-espana-interior-asume-direccion-lucha-fuego-madrid-avila_133_13403506.html",
+          "headline": "Los fuegos del sur de Francia avanzan sin freno hacia Burdeos y dejan al menos 140.000 evacuados:",
+          "link": "https://www.eldiario.es/internacional/fuegos-sur-francia-avanzan-freno-burdeos-dejan-140-000-evacuados_1_13406406.html",
           "position": 50,
-          "focus": "Actualización en directo sobre la unión de los fuegos y los desalojos"
+          "focus": "Aporta una cifra concreta de evacuados (140.000) y describe el fuego como 'fuegos' en plural avanzando sin freno"
         },
         {
           "outlet": "La Vanguardia",
-          "headline": "Dos de los incendios de Madrid siguen fuera de control aunque se ha limitado su avance",
-          "link": "https://www.lavanguardia.com/natural/20260724/11600077/dos-incendios-madrid-siguen-fuera-control-limitado-avance.html",
+          "headline": "El fuego se acerca a Burdeos y obliga a más evacuaciones",
+          "link": "https://www.lavanguardia.com/internacional/20260725/11600898/fuego-acerca-burdeos-obliga-mas-evacuaciones.html",
           "position": 50,
-          "focus": "Matiza que aunque siguen fuera de control, se ha limitado el avance de dos incendios"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "Los dos fuegos de Madrid se unen en un solo frente y se agrava la situación: \"Va a ser un día crítico\"",
-          "link": "https://www.20minutos.es/nacional/incendios-espana-directo-ultima-hora-fuego-hectareas-confinamientos-evacuaciones_7017956_6.html",
-          "position": 50,
-          "focus": "Anuncia la unión de los fuegos y advierte de que será un día crítico"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "Los incendios en Madrid siguen fuera de control: 6.000 hectáreas arrasadas y casi 20.000 personas desalojadas",
-          "link": "https://www.20minutos.es/madrid/los-incendios-sin-control-madrid-6-000-hectareas-arrasadas-mas-desalojos-navas-rey-colmenar-arroyo-chapineria_7018590_0.html",
-          "position": 50,
-          "focus": "Actualiza cifras a 6.000 hectáreas arrasadas y casi 20.000 desalojados"
+          "focus": "Se centra en la proximidad del fuego a Burdeos y las evacuaciones, de forma más escueta y sin cifras"
         }
       ],
       "rango": 0,
       "discrepancia": "baja",
       "silenciosos": [
-        "El Confidencial"
-      ]
-    },
-    {
-      "neutral_headline": "El Gobierno declara la emergencia nacional en Madrid y Ávila por los incendios",
-      "section": "Politica",
-      "facts": [
-        "El Gobierno ha declarado la emergencia nacional en la Comunidad de Madrid y Ávila por los incendios",
-        "La declaración de emergencia nacional otorga poderes al Gobierno central",
-        "El apagón de 2025 es citado como precedente de este tipo de declaración",
-        "El Pais menciona un bulo relacionado con la frase 'si quieren ayuda, que la pidan'"
-      ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "cobertura informativa/explicativa",
-        "polo_b": "cobertura política/controversia sobre el poder central",
-        "resumen": "Los medios se dividen entre explicar de forma técnica qué es y qué implica la emergencia nacional, y enmarcarla como un asunto de controversia política y concentración de poder en el Gobierno central."
-      },
-      "frames": [
-        {
-          "outlet": "eldiario.es",
-          "headline": "El Gobierno declara la emergencia nacional en la Comunidad de Madrid y Ávila por los incendios",
-          "link": "https://www.eldiario.es/madrid/ayuso-pide-gobierno-declare-emergencia-nacional-tome-control-incendios-madrid_1_13403313.html",
-          "position": 5,
-          "focus": "Anuncio directo y factual de la declaración del Gobierno, sin entrar en polémicas ni antecedentes"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "Qué es la emergencia nacional activada por los incendios de Madrid y Ávila y qué implica",
-          "link": "https://www.eldiario.es/sociedad/emergencia-nacional-activada-incendios-implica_1_13403677.html",
-          "position": 15,
-          "focus": "Explica de forma técnica qué es la emergencia nacional y qué implica, con tono divulgativo"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "Emergencia nacional por catástrofe, una figura que da el poder al Gobierno central: el apagón de 2025 es el único precedente",
-          "link": "https://www.20minutos.es/nacional/emergencia-nacional-por-catastrofe-una-figura-que-da-poder-gobierno-central-apagon-2025-es-unico-precedente_7018534_0.html",
-          "position": 75,
-          "focus": "Enfatiza que la figura da poder al Gobierno central, situando el foco en la dimensión política e institucional, usando el apagón como único precedente"
-        },
-        {
-          "outlet": "El Pais",
-          "headline": "Precedentes y polémicas de la declaración de emergencia nacional: del bulo del “si quieren ayuda, que la pidan” al apagón",
-          "link": "https://elpais.com/espana/2026-07-24/precedentes-y-polemicas-de-la-declaracion-de-emergencia-nacional-del-bulo-del-si-quieren-ayuda-que-la-pidan-al-apagon.html",
-          "position": 95,
-          "focus": "Centra el relato en polémicas y precedentes, incluyendo un bulo político, enmarcando la declaración como tema de controversia"
-        }
-      ],
-      "rango": 90,
-      "discrepancia": "alta",
-      "silenciosos": [
+        "20minutos",
         "ABC",
         "El Confidencial",
-        "El Mundo",
-        "La Vanguardia"
+        "El Mundo"
       ]
     },
     {
-      "neutral_headline": "El juez Calama cita a declarar a directivos de Plus Ultra y rechaza la nulidad del caso pedida por Zapatero",
+      "neutral_headline": "Óscar Puente critica a Ayuso por la gestión de los incendios y el trato a bomberos",
       "section": "Politica",
       "facts": [
-        "El juez Calama cita a declarar a los directivos de Plus Ultra",
-        "El juez Calama rechaza la nulidad del caso que pedía Zapatero",
-        "El Mundo y ABC señalan que el rechazo se debe a que el recurso de la defensa de Zapatero se presentó fuera de plazo",
-        "El Pais y eldiario.es afirman que los directivos citados han implicado o señalado a Zapatero en el rescate"
-      ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "Zapatero como señalado por los directivos",
-        "polo_b": "Zapatero como responsable del fallo procesal",
-        "resumen": "Unos medios centran el titular en que los directivos implicaron a Zapatero, mientras otros ponen el foco en que su defensa perdió el recurso por presentarlo fuera de plazo"
-      },
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "El juez Calama cita a declarar a los directivos de Plus Ultra que implicaron a Zapatero en el rescate",
-          "link": "https://elpais.com/espana/2026-07-24/el-juez-calama-cita-a-declarar-a-los-directivos-de-plus-ultra-que-implicaron-a-zapatero-en-el-rescate.html",
-          "position": 10,
-          "focus": "Destaca que los directivos citados han implicado a Zapatero; omite el motivo procesal del rechazo de la nulidad"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "El juez Calama cita a declarar a los directivos de Plus Ultra que han señalado a Zapatero y rechaza la nulidad que pedía el expresidente",
-          "link": "https://www.eldiario.es/politica/juez-calama-cita-declarar-septiembre-presidente-ceo-plus-ultra-han-senalado-zapatero_1_13404233.html",
-          "position": 20,
-          "focus": "Combina ambos elementos pero antepone el señalamiento a Zapatero por los directivos"
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "El juez Calama rechaza la nulidad del caso que pretendía Zapatero por pedirlo su defensa fuera de plazo y cita a declarar a los directivos de Plus Ultra",
-          "link": "https://www.elmundo.es/espana/2026/07/24/6a6338d6e4d4d8466c8b4583.html",
-          "position": 70,
-          "focus": "Antepone el rechazo de la nulidad por motivo procesal (fuera de plazo) y añade en segundo plano la citación a los directivos"
-        },
-        {
-          "outlet": "ABC",
-          "headline": "El juez rechaza la nulidad del caso Plus Ultra pedida por Zapatero porque recurrió fuera de plazo",
-          "link": "https://www.abc.es/espana/juez-rechaza-incidente-nulidad-zapatero-presento-plazo-20260724121649-nt.html",
-          "position": 95,
-          "focus": "Se centra exclusivamente en el rechazo de la nulidad por presentación fuera de plazo, sin mencionar la implicación de Zapatero por los directivos"
-        }
-      ],
-      "rango": 85,
-      "discrepancia": "alta",
-      "silenciosos": [
-        "20minutos",
-        "El Confidencial",
-        "La Vanguardia"
-      ]
-    },
-    {
-      "neutral_headline": "Anticorrupción solicita al juez ampliar la información sobre las joyas requisadas a Zapatero",
-      "section": "Politica",
-      "facts": [
-        "La Fiscalía Anticorrupción pide al juez ampliar la información sobre las joyas de Zapatero",
-        "El objetivo declarado es determinar la fecha exacta del montaje o datación de las joyas",
-        "La datación busca evitar la prescripción del caso"
+        "Óscar Puente hizo declaraciones contra Isabel Díaz Ayuso en el contexto de los incendios en Madrid",
+        "Puente dijo textualmente 'Si hay una mamarracha en España, esa eres tú' dirigido a Ayuso",
+        "Puente acusó a Ayuso de 'perseguir' a los bomberos y afirmó que 'hay motivos para tener miedo a esta gente'",
+        "ABC menciona que Puente utilizó a la UME en sus declaraciones contra gobiernos del PP"
       ],
       "tipo_divergencia": "ninguna",
       "eje": null,
       "frames": [
         {
-          "outlet": "El Pais",
-          "headline": "Anticorrupción pide al juez ampliar la información sobre las joyas de Zapatero",
-          "link": "https://elpais.com/espana/2026-07-24/anticorrupcion-pide-al-juez-ampliar-la-informacion-sobre-las-joyas-de-zapatero.html",
-          "position": 50,
-          "focus": "Informa de la petición de Anticorrupción sin detallar el motivo específico de la ampliación"
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "Anticorrupción pide ampliar el análisis de las joyas de Zapatero para averiguar la fecha exacta de su montaje",
-          "link": "https://www.elmundo.es/espana/2026/07/23/6a625e4bfc6c83151b8b4586.html",
-          "position": 50,
-          "focus": "Añade el detalle de que se busca la fecha exacta del montaje de las joyas"
-        },
-        {
           "outlet": "ABC",
-          "headline": "Anticorrupción pide ampliar la información de las joyas requisadas a Zapatero",
-          "link": "https://www.abc.es/espana/anticorrupcion-pide-ampliar-informacion-joyas-requisadas-zapatero-20260724105723-nt.html",
+          "headline": "Óscar Puente utiliza a la UME para cargar contra los gobiernos del PP y ataca a Ayuso: «Si hay una mamarracha en España, esa eres tú»",
+          "link": "https://www.abc.es/espana/oscar-puente-utiliza-ume-cargar-gobiernos-pp-20260724144425-nt.html",
           "position": 50,
-          "focus": "Se centra en el hecho de que las joyas fueron requisadas a Zapatero, sin más detalle sobre el propósito"
+          "focus": "Destaca el uso de la UME por parte de Puente para atacar a gobiernos del PP en general, con foco en la frase 'mamarracha' dirigida a Ayuso"
         },
         {
-          "outlet": "La Vanguardia",
-          "headline": "Anticorrupción busca conocer la datación de las joyas de Zapatero para evitar la prescripción",
-          "link": "https://www.lavanguardia.com/politica/20260724/11600081/anticorrupcion-pide-ampliar-tasacion-joyas-zapatero-conocer-valor-actual-mercado.html",
+          "outlet": "El Confidencial",
+          "headline": "Puente a Ayuso por los incendios en Madrid: \"Si hay una mamarracha en España, esa eres tú\"",
+          "link": "https://www.elconfidencial.com/espana/2026-07-24/puente-ayuso-incendios-madrid-mamarracha-1qrt_4395672/",
           "position": 50,
-          "focus": "Explica que la datación busca evitar la prescripción del caso, aportando el motivo legal"
+          "focus": "Se centra específicamente en la cita 'mamarracha' de Puente hacia Ayuso en el contexto de los incendios en Madrid"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Óscar Puente vuelve a cargar contra Ayuso y la acusa de \"perseguir\" a los bomberos: \"Hay motivos para tener miedo a esta gente\"",
+          "link": "https://www.20minutos.es/nacional/oscar-puente-vuelve-cargar-ayuso-acusa-perseguir-bomberos-motivos-tener-mucho-miedo-gente_7018863_0.html",
+          "position": 50,
+          "focus": "Recoge una declaración distinta de Puente, centrada en la acusación de 'perseguir' a los bomberos y el miedo que genera"
         }
       ],
       "rango": 0,
       "discrepancia": "baja",
       "silenciosos": [
+        "El Mundo",
+        "El Pais",
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Trump interviene en la cena de corresponsales de la Casa Blanca",
+      "section": "Internacional",
+      "facts": [
+        "Trump participó en la cena de corresponsales de la Casa Blanca",
+        "Trump hizo comentarios sobre las 'noticias falsas'",
+        "La cena se celebra tras un intento de atentado, según eldiario.es",
+        "Trump mencionó la posibilidad de presentarse de nuevo a la presidencia, según eldiario.es",
+        "Es un regreso de Trump a este evento, según ABC"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "retrato hostil/critico",
+        "polo_b": "retrato empatico/humanizado",
+        "resumen": "los medios difieren en si presentan a Trump como agresivo e insultante o como sincero y cercano en el mismo evento"
+      },
+      "frames": [
+        {
+          "outlet": "eldiario.es",
+          "headline": "Trump reparte insultos en la cena de corresponsales repetida por el intento de atentado y amaga con presentarse de nuevo a la presidencia",
+          "link": "https://www.eldiario.es/internacional/trump-reparte-insultos-cena-corresponsales-repetida-atentado-amaga-presentarse-nuevo-presidencia_1_13406184.html",
+          "position": 10,
+          "focus": "Destaca los insultos de Trump y el contexto del intento de atentado, ademas de su posible candidatura futura; omite cualquier matiz positivo del evento"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Trump arremete contra las \"noticias falsas\" en la cena de corresponsales de la Casa Blanca",
+          "link": "https://www.elmundo.es/internacional/2026/07/25/6a6457b6e4d4d8b77c8b4590.html",
+          "position": 45,
+          "focus": "Centra el foco en el ataque de Trump a las 'noticias falsas', tono critico pero mas descriptivo que valorativo; omite el contexto del atentado o la candidatura"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Un Trump desconocido se sincera con la prensa en su regreso a la cena de corresponsales",
+          "link": "https://www.abc.es/internacional/trump-desconocido-sincera-prensa-regreso-cena-corresponsales-20260725073613-nt.html",
+          "position": 90,
+          "focus": "Presenta a Trump como alguien que se sincera y muestra una faceta desconocida, con tono empatico; omite cualquier mencion a insultos o ataques"
+        }
+      ],
+      "rango": 80,
+      "discrepancia": "alta",
+      "silenciosos": [
         "20minutos",
         "El Confidencial",
-        "eldiario.es"
+        "El Pais",
+        "La Vanguardia"
       ]
     }
   ]
