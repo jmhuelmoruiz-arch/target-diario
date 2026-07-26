@@ -1,42 +1,111 @@
 {
-  "fecha": "2026-07-25T10:17:03.866054+00:00",
+  "fecha": "2026-07-26T10:28:54.215788+00:00",
   "historias": [
     {
-      "neutral_headline": "El fuego en el suroeste de Francia avanza hacia Burdeos y obliga a nuevas evacuaciones",
-      "section": "Internacional",
+      "neutral_headline": "Incendio en La Vall d'Uixó (Castellón) obliga a desalojar miles de personas en varios municipios",
+      "section": "Sociedad",
       "facts": [
-        "El fuego se ubica en el suroeste de Francia y avanza hacia Burdeos",
-        "El incendio avanza sin control o sin freno",
-        "Se han producido nuevas evacuaciones",
-        "eldiario.es cifra en al menos 140.000 los evacuados"
+        "Hay un incendio forestal fuera de control en La Vall d'Uixó, Castellón, que afecta al parque natural de Sierra de Espadán",
+        "El Pais y La Vanguardia cifran en 16.000 las personas desalojadas",
+        "El Mundo cifra en 16.000 los desalojados en 15 municipios y añade siete heridos",
+        "20minutos habla de mas de 16.000 desalojados",
+        "ABC señala mas de 15 municipios desalojados sin precisar numero de personas",
+        "El Mundo menciona ademas un incendio en Manises (Valencia) que ha causado una muerte",
+        "eldiario.es describe la noche como 'larga' y relata que el fuego se acerco al casco urbano"
       ],
       "tipo_divergencia": "cronologica",
       "eje": null,
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "El fuego en el suroeste de Francia avanza sin control hacia Burdeos y obliga a nuevas evacuaciones",
-          "link": "https://elpais.com/internacional/2026-07-25/el-fuego-en-el-suroeste-de-francia-avanza-sin-control-hacia-burdeos-y-obliga-a-nuevas-evacuaciones.html",
+          "headline": "El fuego de La Vall d’Uixó (Castellón) avanza sin control por el parque natural de Sierra de Espadán con 16.000 evacuados",
+          "link": "https://elpais.com/espana/comunidad-valenciana/2026-07-26/el-fuego-de-la-vall-duixo-avanza-sin-control-por-el-parque-natural-de-sierra-de-espadan-con-15000-evacuados.html",
           "position": 50,
-          "focus": "Destaca el avance sin control del fuego hacia Burdeos y las nuevas evacuaciones, sin precisar cifras"
+          "focus": "Destaca la cifra de 16.000 evacuados y la falta de control del fuego en el parque natural; no menciona heridos ni otros incendios"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Un incendio fuera de control en Vall d'Uixò (Castellón) deja 16.000 desalojados en 15 municipios y siete heridos y otro en Manises (Valencia) causa la muerte de una persona",
+          "link": "https://www.elmundo.es/comunidad-valenciana/2026/07/25/6a64de75fc6c83f1498b4574.html",
+          "position": 50,
+          "focus": "Ofrece el dato mas completo: 16.000 desalojados, 15 municipios, siete heridos y un fallecido en otro incendio en Manises"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "El incendio de La Vall d'Uixó avanza sin control y mantiene a más de 15 municipios desalojados",
+          "link": "https://www.abc.es/espana/comunidad-valenciana/incendio-vall-duixo-avanza-control-mantiene-municipios-20260726104556-nt.html",
+          "position": 50,
+          "focus": "Se centra en el numero de municipios desalojados (mas de 15) sin precisar cifra total de personas"
         },
         {
           "outlet": "eldiario.es",
-          "headline": "Los fuegos del sur de Francia avanzan sin freno hacia Burdeos y dejan al menos 140.000 evacuados:",
-          "link": "https://www.eldiario.es/internacional/fuegos-sur-francia-avanzan-freno-burdeos-dejan-140-000-evacuados_1_13406406.html",
+          "headline": "La noche ha sido \"larga\" en la Vall d'Uixó, que ha visto acercarse el fuego al casco urbano",
+          "link": "https://www.eldiario.es/comunitat-valenciana/noche-sido-larga-vall-d-uixo-visto-acercarse-fuego-casco-urbano_1_13407449.html",
           "position": 50,
-          "focus": "Aporta una cifra concreta de evacuados (140.000) y describe el fuego como 'fuegos' en plural avanzando sin freno"
+          "focus": "Narra la experiencia nocturna y el avance del fuego hacia el casco urbano, con enfoque mas descriptivo y testimonial"
         },
         {
           "outlet": "La Vanguardia",
-          "headline": "El fuego se acerca a Burdeos y obliga a más evacuaciones",
-          "link": "https://www.lavanguardia.com/internacional/20260725/11600898/fuego-acerca-burdeos-obliga-mas-evacuaciones.html",
+          "headline": "Se elevan a 16.000 las personas desalojadas por el incendio de La Vall d'Uixò",
+          "link": "https://www.lavanguardia.com/local/valencia/20260726/11601350/elevan-16-000-personas-desalojadas-incendio-vall-d-uixo-castellon.html",
           "position": 50,
-          "focus": "Se centra en la proximidad del fuego a Burdeos y las evacuaciones, de forma más escueta y sin cifras"
+          "focus": "Actualiza la cifra de desalojados a 16.000, siguiendo la evolucion numerica del suceso"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "El incendio de Castellón se descontrola y deja más de 16.000 desalojados: \"La peor noche de nuestra historia\"",
+          "link": "https://www.20minutos.es/comunidad-valenciana/castellon/incendio-castellon-descontrola-deja-mas-personas-desalojadas-peor-noche-nuestra-historia_7019018_0.html",
+          "position": 50,
+          "focus": "Usa una cita textual ('la peor noche de nuestra historia') y cifra en mas de 16.000 los desalojados, con tono mas dramatico"
         }
       ],
       "rango": 0,
       "discrepancia": "baja",
+      "silenciosos": [
+        "El Confidencial"
+      ]
+    },
+    {
+      "neutral_headline": "Incendio forestal en el suroeste de Francia provoca evacuaciones y afecta conexiones con España",
+      "section": "Internacional",
+      "facts": [
+        "Hay un incendio forestal activo en el suroeste de Francia",
+        "El fuego ha provocado evacuaciones de la población",
+        "eldiario.es cifra en 220.000 los evacuados",
+        "El incendio afecta a las conexiones por carretera y tren entre Francia y España, según La Vanguardia",
+        "El fuego continúa avanzando según El País y eldiario.es"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "impacto humanitario en Francia (evacuados)",
+        "polo_b": "impacto en España (conexiones y logística)"
+      },
+      "resumen": "El País y eldiario.es centran la noticia en la magnitud humana del incendio y las evacuaciones en Francia, mientras La Vanguardia enfoca el hecho desde su repercusión práctica para España, priorizando el protagonista distinto: el viajero/afectado español.",
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "El fuego del suroeste de Francia gana terreno y obliga a nuevas evacuaciones masivas",
+          "link": "https://elpais.com/internacional/2026-07-26/el-fuego-del-suroeste-de-francia-gana-terreno-y-obliga-a-nuevas-evacuaciones-masivas.html",
+          "position": 10,
+          "focus": "Destaca el avance del fuego y las evacuaciones masivas en Francia; omite cualquier mención al impacto en España"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Ascienden a 220.000 los evacuados por el fuego en el suroeste de Francia, que sigue avanzando y fuera de control",
+          "link": "https://www.eldiario.es/internacional/ascienden-220-000-evacuados-fuego-suroeste-francia-sigue-avanzando-fuera-control_1_13407474.html",
+          "position": 5,
+          "focus": "Detalla cifra concreta de evacuados (220.000) y el descontrol del incendio; se centra en la crisis humanitaria francesa, sin mencionar España"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "El incendio de Burdeos altera la conexión por carretera y tren con España",
+          "link": "https://www.lavanguardia.com/internacional/20260726/11601388/incendio-burdeos-altera-conexion-carretera-tren-espana.html",
+          "position": 95,
+          "focus": "Prioriza el efecto colateral del incendio en las conexiones de transporte con España, dejando en segundo plano la magnitud de las evacuaciones en Francia"
+        }
+      ],
+      "rango": 90,
+      "discrepancia": "alta",
       "silenciosos": [
         "20minutos",
         "ABC",
@@ -45,94 +114,49 @@
       ]
     },
     {
-      "neutral_headline": "Óscar Puente critica a Ayuso por la gestión de los incendios y el trato a bomberos",
-      "section": "Politica",
+      "neutral_headline": "Incendio provoca desalojos en Sotillo de la Adrada y Casavieja, en Ávila",
+      "section": "Sociedad",
       "facts": [
-        "Óscar Puente hizo declaraciones contra Isabel Díaz Ayuso en el contexto de los incendios en Madrid",
-        "Puente dijo textualmente 'Si hay una mamarracha en España, esa eres tú' dirigido a Ayuso",
-        "Puente acusó a Ayuso de 'perseguir' a los bomberos y afirmó que 'hay motivos para tener miedo a esta gente'",
-        "ABC menciona que Puente utilizó a la UME en sus declaraciones contra gobiernos del PP"
-      ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "ABC",
-          "headline": "Óscar Puente utiliza a la UME para cargar contra los gobiernos del PP y ataca a Ayuso: «Si hay una mamarracha en España, esa eres tú»",
-          "link": "https://www.abc.es/espana/oscar-puente-utiliza-ume-cargar-gobiernos-pp-20260724144425-nt.html",
-          "position": 50,
-          "focus": "Destaca el uso de la UME por parte de Puente para atacar a gobiernos del PP en general, con foco en la frase 'mamarracha' dirigida a Ayuso"
-        },
-        {
-          "outlet": "El Confidencial",
-          "headline": "Puente a Ayuso por los incendios en Madrid: \"Si hay una mamarracha en España, esa eres tú\"",
-          "link": "https://www.elconfidencial.com/espana/2026-07-24/puente-ayuso-incendios-madrid-mamarracha-1qrt_4395672/",
-          "position": 50,
-          "focus": "Se centra específicamente en la cita 'mamarracha' de Puente hacia Ayuso en el contexto de los incendios en Madrid"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "Óscar Puente vuelve a cargar contra Ayuso y la acusa de \"perseguir\" a los bomberos: \"Hay motivos para tener miedo a esta gente\"",
-          "link": "https://www.20minutos.es/nacional/oscar-puente-vuelve-cargar-ayuso-acusa-perseguir-bomberos-motivos-tener-mucho-miedo-gente_7018863_0.html",
-          "position": 50,
-          "focus": "Recoge una declaración distinta de Puente, centrada en la acusación de 'perseguir' a los bomberos y el miedo que genera"
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "El Mundo",
-        "El Pais",
-        "La Vanguardia",
-        "eldiario.es"
-      ]
-    },
-    {
-      "neutral_headline": "Trump interviene en la cena de corresponsales de la Casa Blanca",
-      "section": "Internacional",
-      "facts": [
-        "Trump participó en la cena de corresponsales de la Casa Blanca",
-        "Trump hizo comentarios sobre las 'noticias falsas'",
-        "La cena se celebra tras un intento de atentado, según eldiario.es",
-        "Trump mencionó la posibilidad de presentarse de nuevo a la presidencia, según eldiario.es",
-        "Es un regreso de Trump a este evento, según ABC"
+        "Se ha producido un incendio que afecta a la zona de Casavieja y Sotillo de la Adrada, en Ávila",
+        "Se ha ordenado el desalojo de Sotillo de la Adrada por el incendio",
+        "Isabel Díaz Ayuso, cuyo pueblo es Sotillo de la Adrada, acudió a recoger pertenencias ante el desalojo"
       ],
       "tipo_divergencia": "editorial",
       "eje": {
-        "polo_a": "retrato hostil/critico",
-        "polo_b": "retrato empatico/humanizado",
-        "resumen": "los medios difieren en si presentan a Trump como agresivo e insultante o como sincero y cercano en el mismo evento"
+        "polo_a": "protagonista ciudadano anónimo",
+        "polo_b": "protagonista político (Ayuso)",
+        "resumen": "Los medios difieren en si el foco de la historia es la amenaza al territorio, el testimonio de un vecino corriente o la presencia de una figura política conocida"
       },
       "frames": [
         {
-          "outlet": "eldiario.es",
-          "headline": "Trump reparte insultos en la cena de corresponsales repetida por el intento de atentado y amaga con presentarse de nuevo a la presidencia",
-          "link": "https://www.eldiario.es/internacional/trump-reparte-insultos-cena-corresponsales-repetida-atentado-amaga-presentarse-nuevo-presidencia_1_13406184.html",
-          "position": 10,
-          "focus": "Destaca los insultos de Trump y el contexto del intento de atentado, ademas de su posible candidatura futura; omite cualquier matiz positivo del evento"
+          "outlet": "El Pais",
+          "headline": "Protegiendo a Casavieja del diablo de fuego",
+          "link": "https://elpais.com/espana/2026-07-26/protegiendo-a-casavieja-del-diablo-de-fuego.html",
+          "position": 40,
+          "focus": "Centra el relato en la localidad de Casavieja y el esfuerzo por protegerla del fuego, sin protagonistas individuales; omite cualquier mención a Ayuso o a testimonios personales"
         },
         {
           "outlet": "El Mundo",
-          "headline": "Trump arremete contra las \"noticias falsas\" en la cena de corresponsales de la Casa Blanca",
-          "link": "https://www.elmundo.es/internacional/2026/07/25/6a6457b6e4d4d8b77c8b4590.html",
-          "position": 45,
-          "focus": "Centra el foco en el ataque de Trump a las 'noticias falsas', tono critico pero mas descriptivo que valorativo; omite el contexto del atentado o la candidatura"
+          "headline": "El desalojo de Sotillo de la Adrada en primera persona: \"No va a pasar nada, que está la Virgen de los Remedios con nosotros\"",
+          "link": "https://www.elmundo.es/espana/2026/07/26/6a650988fdddff5d308b4575.html",
+          "position": 10,
+          "focus": "Da voz a un vecino anónimo desalojado, con una cita personal y religiosa que humaniza la evacuación; no menciona a Ayuso ni a autoridades"
         },
         {
-          "outlet": "ABC",
-          "headline": "Un Trump desconocido se sincera con la prensa en su regreso a la cena de corresponsales",
-          "link": "https://www.abc.es/internacional/trump-desconocido-sincera-prensa-regreso-cena-corresponsales-20260725073613-nt.html",
-          "position": 90,
-          "focus": "Presenta a Trump como alguien que se sincera y muestra una faceta desconocida, con tono empatico; omite cualquier mencion a insultos o ataques"
+          "outlet": "20minutos",
+          "headline": "Ayuso acude a su pueblo, Sotillo de la Adrada, para recoger pertenencias ante el desalojo por el incendio",
+          "link": "https://www.20minutos.es/nacional/isabel-diaz-ayuso-acude-pueblo-sotillo-adrada-recoger-pertenencias-personales-desalojo-incendio_7018976_0.html",
+          "position": 95,
+          "focus": "Convierte a Ayuso, presidenta de la Comunidad de Madrid, en protagonista de la noticia por ser vecina del pueblo desalojado, priorizando su figura política sobre otros afectados"
         }
       ],
-      "rango": 80,
+      "rango": 85,
       "discrepancia": "alta",
       "silenciosos": [
-        "20minutos",
+        "ABC",
         "El Confidencial",
-        "El Pais",
-        "La Vanguardia"
+        "La Vanguardia",
+        "eldiario.es"
       ]
     }
   ]
