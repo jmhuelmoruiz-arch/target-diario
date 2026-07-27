@@ -1,161 +1,344 @@
 {
-  "fecha": "2026-07-26T10:28:54.215788+00:00",
+  "fecha": "2026-07-27T13:47:03.910185+00:00",
   "historias": [
     {
-      "neutral_headline": "Incendio en La Vall d'Uixó (Castellón) obliga a desalojar miles de personas en varios municipios",
+      "neutral_headline": "Múltiples incendios forestales activos en España obligan a evacuaciones mientras Sánchez pide extremar la precaución",
       "section": "Sociedad",
       "facts": [
-        "Hay un incendio forestal fuera de control en La Vall d'Uixó, Castellón, que afecta al parque natural de Sierra de Espadán",
-        "El Pais y La Vanguardia cifran en 16.000 las personas desalojadas",
-        "El Mundo cifra en 16.000 los desalojados en 15 municipios y añade siete heridos",
-        "20minutos habla de mas de 16.000 desalojados",
-        "ABC señala mas de 15 municipios desalojados sin precisar numero de personas",
-        "El Mundo menciona ademas un incendio en Manises (Valencia) que ha causado una muerte",
-        "eldiario.es describe la noche como 'larga' y relata que el fuego se acerco al casco urbano"
+        "El País informa de que el incendio de La Vall d'Uixó (Castellón) ha arrasado 7.200 hectáreas",
+        "El País informa de que los incendios de Madrid, Ávila y Toledo han obligado a evacuar o confinar a más de 90.000 personas",
+        "eldiario.es informa de que el avance del fuego en Madrid y Ávila ha obligado a desalojar Valdemaqueda",
+        "20minutos informa de que el incendio de Castellón ha dejado más de 16.000 personas desalojadas",
+        "Sánchez ha alertado de que 'quedan horas difíciles' por la ola de calor y ha pedido extremar la precaución, según El País y La Vanguardia",
+        "20minutos informa de que Sánchez ha garantizado que el Gobierno 'estará en la recuperación'",
+        "20minutos informa de que los fuegos de Madrid y Ávila afrontan un día crucial mientras Castellón sigue sin control"
       ],
       "tipo_divergencia": "cronologica",
       "eje": null,
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "El fuego de La Vall d’Uixó (Castellón) avanza sin control por el parque natural de Sierra de Espadán con 16.000 evacuados",
-          "link": "https://elpais.com/espana/comunidad-valenciana/2026-07-26/el-fuego-de-la-vall-duixo-avanza-sin-control-por-el-parque-natural-de-sierra-de-espadan-con-15000-evacuados.html",
+          "headline": "Última hora de los incendios forestales en España, en directo | Sánchez alerta de que “quedan horas difíciles” por la nueva ola de calor y pide extremar la precaución",
+          "link": "https://elpais.com/espana/2026-07-27/ultima-hora-de-los-incendios-forestales-en-espana-en-directo.html",
           "position": 50,
-          "focus": "Destaca la cifra de 16.000 evacuados y la falta de control del fuego en el parque natural; no menciona heridos ni otros incendios"
+          "focus": "Cobertura en directo general de los incendios y declaraciones de Sánchez sobre la ola de calor"
         },
         {
-          "outlet": "El Mundo",
-          "headline": "Un incendio fuera de control en Vall d'Uixò (Castellón) deja 16.000 desalojados en 15 municipios y siete heridos y otro en Manises (Valencia) causa la muerte de una persona",
-          "link": "https://www.elmundo.es/comunidad-valenciana/2026/07/25/6a64de75fc6c83f1498b4574.html",
+          "outlet": "El Pais",
+          "headline": "Los bomberos ante la gran crisis del fuego: “Nunca había visto un incendio tirar con tanta fuerza”",
+          "link": "https://elpais.com/espana/2026-07-27/la-ojala-ultima-cena-de-los-bomberos-tras-la-gran-crisis-de-fuego.html",
           "position": 50,
-          "focus": "Ofrece el dato mas completo: 16.000 desalojados, 15 municipios, siete heridos y un fallecido en otro incendio en Manises"
+          "focus": "Testimonio de bomberos sobre la intensidad inusual del fuego"
         },
         {
-          "outlet": "ABC",
-          "headline": "El incendio de La Vall d'Uixó avanza sin control y mantiene a más de 15 municipios desalojados",
-          "link": "https://www.abc.es/espana/comunidad-valenciana/incendio-vall-duixo-avanza-control-mantiene-municipios-20260726104556-nt.html",
+          "outlet": "El Pais",
+          "headline": "El incendio de La Vall d’Uixó ya arrasa 7.200 hectáreas y encara horas críticas",
+          "link": "https://elpais.com/espana/2026-07-27/sanchez-advierte-de-que-el-incendio-de-la-vall-duixo-afronta-horas-dificiles-y-complejas.html",
           "position": 50,
-          "focus": "Se centra en el numero de municipios desalojados (mas de 15) sin precisar cifra total de personas"
+          "focus": "Cifra de hectáreas arrasadas en La Vall d'Uixó y horas críticas por venir"
+        },
+        {
+          "outlet": "El Pais",
+          "headline": "Los incendios de Madrid, Ávila y Toledo obligan a evacuar o confinar a más de 90.000 personas: “Es una situación endemoniada”",
+          "link": "https://elpais.com/espana/2026-07-27/los-incendios-de-madrid-avila-y-toledo-afectan-ya-a-77000-hectareas-y-obligan-a-evacuar-o-confinar-a-90000-personas.html",
+          "position": 50,
+          "focus": "Impacto humano de los incendios de Madrid, Ávila y Toledo con cifra de evacuados/confinados"
+        },
+        {
+          "outlet": "El Pais",
+          "headline": "¿Cuántas hectáreas han ardido? El mapa de los incendios activos más graves",
+          "link": "https://elpais.com/clima-y-medio-ambiente/2026-07-24/cuantas-hectareas-han-ardido-el-mapa-de-los-incendios-activos-mas-graves.html",
+          "position": 50,
+          "focus": "Visión de conjunto mediante mapa de hectáreas quemadas en los incendios más graves"
         },
         {
           "outlet": "eldiario.es",
-          "headline": "La noche ha sido \"larga\" en la Vall d'Uixó, que ha visto acercarse el fuego al casco urbano",
-          "link": "https://www.eldiario.es/comunitat-valenciana/noche-sido-larga-vall-d-uixo-visto-acercarse-fuego-casco-urbano_1_13407449.html",
+          "headline": "Última hora de los incendios de Madrid y Ávila: el avance del fuego obliga a desalojar Valdemaqueda y preocupa que se dirija a la sierra norte",
+          "link": "https://www.eldiario.es/sociedad/ultima-hora-incendios-madrid-avila-toledo-mayor-fuego-historia-espana-afronta-dia-clave-contencion_133_13408423.html",
           "position": 50,
-          "focus": "Narra la experiencia nocturna y el avance del fuego hacia el casco urbano, con enfoque mas descriptivo y testimonial"
+          "focus": "Actualización en directo del avance del fuego en Madrid y Ávila y desalojo de Valdemaqueda"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "MAPA | El avance del incendio en Madrid y Ávila en un frente casi único: las llamas siguen fuera de control en medio del temor al viento",
+          "link": "https://www.eldiario.es/madrid/mapa-incendio-madrid-avila-toledo-frena-avance-sigue-fuera-control_1_13408719.html",
+          "position": 50,
+          "focus": "Mapa del frente de fuego en Madrid y Ávila fuera de control por el viento"
         },
         {
           "outlet": "La Vanguardia",
-          "headline": "Se elevan a 16.000 las personas desalojadas por el incendio de La Vall d'Uixò",
-          "link": "https://www.lavanguardia.com/local/valencia/20260726/11601350/elevan-16-000-personas-desalojadas-incendio-vall-d-uixo-castellon.html",
+          "headline": "Sánchez pide “extremar la precaución” ante los incendios porque “quedan horas difíciles”",
+          "link": "https://www.lavanguardia.com/vida/20260727/11601553/incendio-forestal-comunidad-madrid-avila-toledo-emergencia-nacional-evacuados-ultima-hora-hoy-en-directo.html",
           "position": 50,
-          "focus": "Actualiza la cifra de desalojados a 16.000, siguiendo la evolucion numerica del suceso"
+          "focus": "Declaraciones de Sánchez pidiendo precaución ante los incendios"
         },
         {
           "outlet": "20minutos",
-          "headline": "El incendio de Castellón se descontrola y deja más de 16.000 desalojados: \"La peor noche de nuestra historia\"",
+          "headline": "Los fuegos de Madrid y Ávila afrontan un día crucial y Castellón sigue sin control",
+          "link": "https://www.20minutos.es/nacional/incendios-madrid-avila-toledo-castellon-espana-directo-ultima-hora-fuego-hectareas-confinamientos-evacuaciones_7017956_6.html",
+          "position": 50,
+          "focus": "Panorama conjunto de los fuegos de Madrid, Ávila y Castellón en un día crucial"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "El incendio de Madrid sigue sin estabilizarse: dos focos principales, temor por el frente de Ávila y evacuación de Valdemaqueda",
+          "link": "https://www.20minutos.es/madrid/incendio-madrid-reduce-su-avance-pero-sin-estabilizarse-tres-focos-activos-rio-cofio-pantano-san-juan-villa-prado_7019205_0.html",
+          "position": 50,
+          "focus": "Detalle de los dos focos principales del incendio de Madrid y temor por Ávila"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "El incendio de Castellón se descontrola y deja más de 16.000 personas desalojadas: \"Ha sido la peor noche de nuestra historia\"",
           "link": "https://www.20minutos.es/comunidad-valenciana/castellon/incendio-castellon-descontrola-deja-mas-personas-desalojadas-peor-noche-nuestra-historia_7019018_0.html",
           "position": 50,
-          "focus": "Usa una cita textual ('la peor noche de nuestra historia') y cifra en mas de 16.000 los desalojados, con tono mas dramatico"
+          "focus": "Descontrol del incendio de Castellón con cifra de 16.000 desalojados y testimonio de la 'peor noche'"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Sánchez alerta de la ola de calor ante la virulencia del incendio en Castellón y garantiza que el Gobierno \"estará en la recuperación\"",
+          "link": "https://www.20minutos.es/comunidad-valenciana/castellon/sanchez-alerta-nueva-ola-calor-ante-virulencia-fuego-castellon-garantiza-que-gobierno-estara-recuperacion_7019366_0.html",
+          "position": 50,
+          "focus": "Alerta de Sánchez por la ola de calor y compromiso de recuperación tras el incendio de Castellón"
         }
       ],
       "rango": 0,
       "discrepancia": "baja",
       "silenciosos": [
-        "El Confidencial"
-      ]
-    },
-    {
-      "neutral_headline": "Incendio forestal en el suroeste de Francia provoca evacuaciones y afecta conexiones con España",
-      "section": "Internacional",
-      "facts": [
-        "Hay un incendio forestal activo en el suroeste de Francia",
-        "El fuego ha provocado evacuaciones de la población",
-        "eldiario.es cifra en 220.000 los evacuados",
-        "El incendio afecta a las conexiones por carretera y tren entre Francia y España, según La Vanguardia",
-        "El fuego continúa avanzando según El País y eldiario.es"
-      ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "impacto humanitario en Francia (evacuados)",
-        "polo_b": "impacto en España (conexiones y logística)"
-      },
-      "resumen": "El País y eldiario.es centran la noticia en la magnitud humana del incendio y las evacuaciones en Francia, mientras La Vanguardia enfoca el hecho desde su repercusión práctica para España, priorizando el protagonista distinto: el viajero/afectado español.",
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "El fuego del suroeste de Francia gana terreno y obliga a nuevas evacuaciones masivas",
-          "link": "https://elpais.com/internacional/2026-07-26/el-fuego-del-suroeste-de-francia-gana-terreno-y-obliga-a-nuevas-evacuaciones-masivas.html",
-          "position": 10,
-          "focus": "Destaca el avance del fuego y las evacuaciones masivas en Francia; omite cualquier mención al impacto en España"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "Ascienden a 220.000 los evacuados por el fuego en el suroeste de Francia, que sigue avanzando y fuera de control",
-          "link": "https://www.eldiario.es/internacional/ascienden-220-000-evacuados-fuego-suroeste-francia-sigue-avanzando-fuera-control_1_13407474.html",
-          "position": 5,
-          "focus": "Detalla cifra concreta de evacuados (220.000) y el descontrol del incendio; se centra en la crisis humanitaria francesa, sin mencionar España"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "El incendio de Burdeos altera la conexión por carretera y tren con España",
-          "link": "https://www.lavanguardia.com/internacional/20260726/11601388/incendio-burdeos-altera-conexion-carretera-tren-espana.html",
-          "position": 95,
-          "focus": "Prioriza el efecto colateral del incendio en las conexiones de transporte con España, dejando en segundo plano la magnitud de las evacuaciones en Francia"
-        }
-      ],
-      "rango": 90,
-      "discrepancia": "alta",
-      "silenciosos": [
-        "20minutos",
         "ABC",
         "El Confidencial",
         "El Mundo"
       ]
     },
     {
-      "neutral_headline": "Incendio provoca desalojos en Sotillo de la Adrada y Casavieja, en Ávila",
+      "neutral_headline": "El incendio de la Vall d'Uixó continúa activo mientras se debate su repercusión política",
       "section": "Sociedad",
       "facts": [
-        "Se ha producido un incendio que afecta a la zona de Casavieja y Sotillo de la Adrada, en Ávila",
-        "Se ha ordenado el desalojo de Sotillo de la Adrada por el incendio",
-        "Isabel Díaz Ayuso, cuyo pueblo es Sotillo de la Adrada, acudió a recoger pertenencias ante el desalojo"
+        "El incendio de la Vall d'Uixó ha arrasado 7.200 hectáreas según El País",
+        "Los bomberos han logrado limitar la extensión del fuego en su tercer día, según eldiario.es",
+        "El fuego sigue sin estar controlado, según eldiario.es y La Vanguardia",
+        "El fuego está activo, ni estabilizado ni controlado, según La Vanguardia",
+        "Pedro Sánchez pidió un pacto de Estado contra el cambio climático desde el lugar del incendio, según El Mundo"
       ],
       "tipo_divergencia": "editorial",
       "eje": {
-        "polo_a": "protagonista ciudadano anónimo",
-        "polo_b": "protagonista político (Ayuso)",
-        "resumen": "Los medios difieren en si el foco de la historia es la amenaza al territorio, el testimonio de un vecino corriente o la presencia de una figura política conocida"
+        "polo_a": "cobertura operativa del incendio",
+        "polo_b": "uso político del incendio",
+        "resumen": "Unos medios se centran en el estado técnico y la extensión del fuego mientras otro destaca la declaración política de Sánchez sobre el cambio climático"
       },
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "Protegiendo a Casavieja del diablo de fuego",
-          "link": "https://elpais.com/espana/2026-07-26/protegiendo-a-casavieja-del-diablo-de-fuego.html",
-          "position": 40,
-          "focus": "Centra el relato en la localidad de Casavieja y el esfuerzo por protegerla del fuego, sin protagonistas individuales; omite cualquier mención a Ayuso o a testimonios personales"
+          "headline": "El incendio de La Vall d’Uixó ya arrasa 7.200 hectáreas y encara horas críticas",
+          "link": "https://elpais.com/espana/2026-07-27/sanchez-advierte-de-que-el-incendio-de-la-vall-duixo-afronta-horas-dificiles-y-complejas.html",
+          "position": 10,
+          "focus": "Destaca la magnitud del incendio (hectáreas arrasadas) y la gravedad de la situación, sin mencionar aspectos políticos"
         },
         {
           "outlet": "El Mundo",
-          "headline": "El desalojo de Sotillo de la Adrada en primera persona: \"No va a pasar nada, que está la Virgen de los Remedios con nosotros\"",
-          "link": "https://www.elmundo.es/espana/2026/07/26/6a650988fdddff5d308b4575.html",
-          "position": 10,
-          "focus": "Da voz a un vecino anónimo desalojado, con una cita personal y religiosa que humaniza la evacuación; no menciona a Ayuso ni a autoridades"
+          "headline": "Sánchez pide \"de una vez por todas\" un pacto de Estado contra el cambio climático desde el incendio de la Vall d'Uixó",
+          "link": "https://www.elmundo.es/comunidad-valenciana/2026/07/27/6a671f50fdddff9b428b45a5.html",
+          "position": 90,
+          "focus": "Centra la noticia en la declaración política de Sánchez y su llamado a un pacto de Estado, usando el incendio como contexto"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "MAPA | La evolución del incendio de la Vall d'Uixó en su tercer día: los bomberos limitan su extensión, pero sigue sin estar controlado",
+          "link": "https://www.eldiario.es/comunitat-valenciana/mapa-evolucion-incendio-vall-d-uixo-tercer-dia-bomberos-limitan-extension-sigue-controlado_1_13409044.html",
+          "position": 15,
+          "focus": "Se enfoca en la evolución técnica del incendio y el trabajo de los bomberos, con datos cartográficos"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "El fuego de la Vall d'Uixó está aún activo, “ni estabilizado ni controlado”",
+          "link": "https://www.lavanguardia.com/local/valencia/20260727/11601759/siguen-confinadas-64-000-personas-evacuadas-16-000-causa-fuego-vall-d-uixo.html",
+          "position": 12,
+          "focus": "Resalta el estado actual del fuego (activo, no controlado) desde una perspectiva puramente informativa sobre la emergencia"
+        }
+      ],
+      "rango": 80,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Confidencial"
+      ]
+    },
+    {
+      "neutral_headline": "La AEMET anuncia la cuarta ola de calor del año, que comenzará el miércoles y se extenderá hasta el domingo",
+      "section": "Sociedad",
+      "facts": [
+        "La AEMET anuncia una cuarta ola de calor",
+        "La ola de calor comenzará el miércoles",
+        "Durará al menos hasta el domingo",
+        "El anuncio coincide con una crisis por incendios (El Pais)",
+        "El Confidencial explica el fenómeno del 'domo de calor' como posible causa",
+        "El meteorólogo Samuel Biener declara que las temperaturas repuntarán (El Confidencial)"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "La Aemet anuncia una cuarta ola de calor de miércoles a domingo en plena crisis por los incendios",
+          "link": "https://elpais.com/clima-y-medio-ambiente/2026-07-27/la-aemet-anuncia-una-cuarta-ola-de-calor-de-miercoles-a-domingo-en-plena-crisis-por-los-incendios.html",
+          "position": 50,
+          "focus": "Vincula la ola de calor con la crisis de incendios en curso"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "La AEMET anuncia la cuarta ola de calor del año a partir del miércoles",
+          "link": "https://www.eldiario.es/sociedad/aemet-anuncia-cuarta-ola-calor-ano-partir-miercoles_1_13408836.html",
+          "position": 50,
+          "focus": "Informa de forma directa sobre el anuncio de la AEMET y sus fechas"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "La cuarta ola de calor del verano empezará este miércoles y durará, al menos, hasta el domingo",
+          "link": "https://www.lavanguardia.com/natural/20260727/11601886/nuevo-ascenso-temperaturas-apunta-cuarta-ola-calor-proximos-dias.html",
+          "position": 50,
+          "focus": "Detalla la duración exacta del fenómeno, de miércoles a domingo"
+        },
+        {
+          "outlet": "El Confidencial",
+          "headline": "Qué es un domo de calor: el fenómeno meteorológico que podría afectar a España a partir de esta semana",
+          "link": "https://www.elconfidencial.com/espana/2026-07-27/domo-de-calor-afecta-espana_4396371/",
+          "position": 50,
+          "focus": "Explica el concepto meteorológico del 'domo de calor' como posible causa"
+        },
+        {
+          "outlet": "El Confidencial",
+          "headline": "Samuel Biener, meteorólogo, sobre la llegada de una nueva ola de calor en España: \"Las temperaturas repuntarán\"",
+          "link": "https://www.elconfidencial.com/espana/2026-07-27/samuel-biener-meteorologo-ola-calor-espana-temperaturas-repuntaran-1qrt_4396391/",
+          "position": 50,
+          "focus": "Recoge la opinión experta de un meteorólogo sobre el repunte de temperaturas"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Mundo"
+      ]
+    },
+    {
+      "neutral_headline": "El Gobierno prepara una prestación para los trabajadores afectados por los incendios",
+      "section": "Politica",
+      "facts": [
+        "El Gobierno prepara una medida de protección para trabajadores afectados por los incendios",
+        "El Pais y eldiario.es usan el verbo 'aprobará', La Vanguardia y 20minutos usan 'ultima', El Mundo usa 'lanza'",
+        "eldiario.es califica la prestación como 'extraordinaria'",
+        "La Vanguardia habla de un real decreto para 'incrementar la protección' en lugar de una prestación concreta",
+        "20minutos añade que los incendios 'asolan el país'"
+      ],
+      "tipo_divergencia": "cronologica",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "El Gobierno aprobará una prestación para los trabajadores afectados por los incendios",
+          "link": "https://elpais.com/economia/2026-07-27/el-gobierno-aprobara-una-prestacion-para-los-trabajadores-afectados-por-los-incendios.html",
+          "position": 50,
+          "focus": "Anuncia la aprobación de la prestación, sin detalles adicionales sobre su alcance"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Trabajo lanza una prestación especial para los trabajadores afectados por los incendios",
+          "link": "https://www.elmundo.es/economia/2026/07/27/6a674776e9cf4a0d718b4586.html",
+          "position": 50,
+          "focus": "Presenta la medida como ya lanzada por el Ministerio de Trabajo"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "El Gobierno aprobará una prestación extraordinaria para afectados por los incendios",
+          "link": "https://www.eldiario.es/economia/gobierno-aprobara-prestacion-extraordinaria-afectados-incendios_1_13409399.html",
+          "position": 50,
+          "focus": "Anuncia la aprobación destacando el carácter extraordinario de la prestación"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "El Gobierno ultima un real decreto para incrementar la protección de los trabajadores afectados por los incendios",
+          "link": "https://www.lavanguardia.com/economia/20260727/11602009/gobierno-ultima-real-decreto-incrementar-proteccion-trabajadores-afectado-incendios.html",
+          "position": 50,
+          "focus": "Describe la medida en fase de ultimación, enfocándose en el real decreto y el incremento de protección general"
         },
         {
           "outlet": "20minutos",
-          "headline": "Ayuso acude a su pueblo, Sotillo de la Adrada, para recoger pertenencias ante el desalojo por el incendio",
-          "link": "https://www.20minutos.es/nacional/isabel-diaz-ayuso-acude-pueblo-sotillo-adrada-recoger-pertenencias-personales-desalojo-incendio_7018976_0.html",
-          "position": 95,
-          "focus": "Convierte a Ayuso, presidenta de la Comunidad de Madrid, en protagonista de la noticia por ser vecina del pueblo desalojado, priorizando su figura política sobre otros afectados"
+          "headline": "El Gobierno ultima una prestación para los trabajadores afectados por los incendios que asolan el país",
+          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/gobierno-prestacion-trabajadores-afectados-incendio_7019394_0.html",
+          "position": 50,
+          "focus": "Describe la medida en fase de ultimación, añadiendo contexto sobre la magnitud de los incendios"
         }
       ],
-      "rango": 85,
-      "discrepancia": "alta",
+      "rango": 0,
+      "discrepancia": "baja",
       "silenciosos": [
         "ABC",
-        "El Confidencial",
-        "La Vanguardia",
+        "El Confidencial"
+      ]
+    },
+    {
+      "neutral_headline": "Sánchez habla sobre incendios forestales y pide pacto de Estado climático mientras Ayuso rechaza la propuesta",
+      "section": "Politica",
+      "facts": [
+        "Sánchez advirtió que 'quedan horas difíciles' por la ola de calor y pidió extremar la precaución ante los incendios",
+        "Sánchez pidió 'de una vez por todas' un pacto de Estado contra el cambio climático desde el incendio de la Vall d'Uixó",
+        "Ayuso descartó el pacto de Estado propuesto por Sánchez y advirtió que 'siguen los confinamientos, la situación es grave'"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "emergencia por incendios",
+        "polo_b": "conflicto político partidista",
+        "resumen": "los medios se dividen entre centrar la historia en la emergencia por incendios y la precaución ciudadana, o en el enfrentamiento político entre Sánchez y Ayuso por el pacto de Estado"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Última hora de los incendios forestales en España, en directo | Sánchez alerta de que “quedan horas difíciles” por la nueva ola de calor y pide extremar la precaución",
+          "link": "https://elpais.com/espana/2026-07-27/ultima-hora-de-los-incendios-forestales-en-espana-en-directo.html",
+          "position": 5,
+          "focus": "centra en la alerta de Sánchez sobre horas difíciles y la precaución ante incendios, sin mencionar el pacto político"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Sánchez pide \"de una vez por todas\" un pacto de Estado contra el cambio climático desde el incendio de la Vall d'Uixó",
+          "link": "https://www.elmundo.es/comunidad-valenciana/2026/07/27/6a671f50fdddff9b428b45a5.html",
+          "position": 45,
+          "focus": "destaca la petición de pacto de Estado climático como demanda política reiterada, usando el incendio como contexto"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Sánchez insiste en su Pacto de Estado contra la emergencia climática",
+          "link": "https://www.abc.es/espana/sanchez-presenta-red-refugios-climaticos-ante-intensidad-20260727105856-nt.html",
+          "position": 50,
+          "focus": "enfatiza la insistencia de Sánchez en el pacto de Estado, con foco político sin mencionar la respuesta opositora"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Sánchez pide “extremar la precaución” ante los incendios porque “quedan horas difíciles”",
+          "link": "https://www.lavanguardia.com/vida/20260727/11601553/incendio-forestal-comunidad-madrid-avila-toledo-emergencia-nacional-evacuados-ultima-hora-hoy-en-directo.html",
+          "position": 8,
+          "focus": "similar a El País, prioriza la advertencia sobre horas difíciles y precaución ante incendios"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "El incendio incontrolado de la política",
+          "link": "https://www.lavanguardia.com/politica/20260727/11601522/incendio-incontrolado-politica.html",
+          "position": 90,
+          "focus": "usa metáfora de 'incendio político' para señalar el conflicto entre partidos, desplazando el foco del hecho natural al enfrentamiento"
+        },
+        {
+          "outlet": "El Confidencial",
+          "headline": "Ayuso descarta el pacto de Estado de Sánchez y advierte: \"Siguen los confinamientos, la situación es grave\"",
+          "link": "https://www.elconfidencial.com/espana/2026-07-27/ayuso-descarta-pacto-estado-incendios-madrid_4396561/",
+          "position": 95,
+          "focus": "centra en el rechazo de Ayuso al pacto y su crítica a la gestión, mostrando el enfrentamiento partidista abiertamente"
+        }
+      ],
+      "rango": 90,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
         "eldiario.es"
       ]
     }
