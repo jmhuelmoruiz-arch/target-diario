@@ -1,86 +1,109 @@
 {
-  "fecha": "2026-07-29T12:25:42.300398+00:00",
+  "fecha": "2026-07-30T11:33:55.234296+00:00",
   "historias": [
     {
-      "neutral_headline": "Begoña Gómez cambia de abogado de cara al juicio con jurado",
-      "section": "Politica",
+      "neutral_headline": "El Gobierno da por finalizada la emergencia nacional por los incendios de Madrid y Ávila al bajar a nivel 2",
+      "section": "Sociedad",
       "facts": [
-        "Begoña Gómez cambia de abogado antes de su juicio ante el tribunal del jurado",
-        "El nuevo abogado es el penalista Jaime Campaner, según El Mundo",
-        "Según 20minutos, también solicita ampliar el plazo para presentar su escrito de defensa"
+        "Pedro Sánchez anunció el fin de la emergencia nacional por los incendios de Madrid y Ávila",
+        "La situación operativa de los incendios bajó a nivel 2",
+        "La Comunidad de Madrid asume el mando del incendio de Sierra Oeste tras la bajada de nivel"
       ],
       "tipo_divergencia": "ninguna",
       "eje": null,
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "Begoña Gómez cambia de abogado de cara al juicio con jurado",
-          "link": "https://elpais.com/espana/2026-07-29/begona-gomez-comunica-al-juez-peinado-que-cambia-de-abogado.html",
+          "headline": "Última hora de los incendios forestales, en directo | Sánchez anuncia el fin de la emergencia nacional en Ávila y Madrid",
+          "link": "https://elpais.com/espana/2026-07-30/ultima-hora-de-los-incendios-forestales-en-directo.html",
           "position": 50,
-          "focus": "Informa del cambio de abogado sin detalles adicionales sobre el nuevo letrado ni gestiones procesales"
+          "focus": "Cobertura en directo centrada en el anuncio de Sánchez sobre el fin de la emergencia nacional"
         },
         {
           "outlet": "El Mundo",
-          "headline": "Begoña Gómez decide cambiar de abogado antes de su juicio y ficha al penalista Jaime Campaner",
-          "link": "https://www.elmundo.es/espana/2026/07/29/6a69d420e4d4d8a8088b4594.html",
+          "headline": "El Gobierno decreta el fin de la emergencia nacional por la evolución favorable de los incendios de Madrid y Ávila",
+          "link": "https://www.elmundo.es/espana/2026/07/30/6a6b1532fc6c834b478b4574.html",
           "position": 50,
-          "focus": "Añade el nombre del nuevo abogado, Jaime Campaner, como dato adicional"
+          "focus": "Destaca la decisión del Gobierno y la justifica por la evolución favorable de los incendios"
         },
         {
-          "outlet": "eldiario.es",
-          "headline": "Begoña Gómez tendrá un nuevo abogado para el juicio ante el tribunal del jurado",
-          "link": "https://www.eldiario.es/politica/begona-gomez-tendra-nuevo-abogado-juicio-tribunal-jurado_1_13414412.html",
+          "outlet": "El Confidencial",
+          "headline": "Sánchez anuncia el fin de la emergencia nacional para los incendios de Ávila y Madrid y bajan a nivel 2",
+          "link": "https://www.elconfidencial.com/espana/2026-07-30/incendios-avila-madrid-emergencia-1tps_4398345/",
           "position": 50,
-          "focus": "Confirma el cambio de abogado centrado en el tribunal del jurado, sin más detalles"
+          "focus": "Combina el anuncio de Sánchez con el detalle técnico de la bajada a nivel 2"
         },
         {
           "outlet": "20minutos",
-          "headline": "Begoña Gómez cambia de abogado y solicita ampliar el plazo para presentar su escrito de defensa",
-          "link": "https://www.20minutos.es/nacional/begona-gomez-cambia-abogado-solicita-juez-peinado-ampliar-plazo-para-presentar-su-escrito-defensa_7020319_0.html",
+          "headline": "Pedro Sánchez anuncia el fin de la emergencia nacional por los incendios de Madrid y Ávila",
+          "link": "https://www.20minutos.es/nacional/sanchez-anuncia-fin-emergencia-nacional-por-los-incendios-madrid-avila_7020777_0.html",
           "position": 50,
-          "focus": "Añade que también se solicita ampliar el plazo para el escrito de defensa"
+          "focus": "Se centra en el anuncio de Sánchez como protagonista de la noticia"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "La Comunidad de Madrid asume el mando del incendio de Sierra Oeste al bajar la situación operativa a nivel 2",
+          "link": "https://www.20minutos.es/madrid/comunidad-madrid-asume-mando-incendio-sierra-oeste-bajar-situacion-operativa-nivel-2_7020786_0.html",
+          "position": 50,
+          "focus": "Pone el foco en la gestión autonómica al asumir Madrid el mando del incendio tras el cambio de nivel"
         }
       ],
       "rango": 0,
       "discrepancia": "baja",
       "silenciosos": [
         "ABC",
-        "El Confidencial",
-        "La Vanguardia"
+        "La Vanguardia",
+        "eldiario.es"
       ]
     },
     {
-      "neutral_headline": "AEMET activa alertas por ola de calor con riesgos para la salud, tormentas e incendios en varias comunidades",
+      "neutral_headline": "Evolución del incendio de La Vall d'Uixó: evacuados que regresan y otros que siguen fuera",
       "section": "Sociedad",
       "facts": [
-        "La AEMET declaró alerta naranja en nueve comunidades autónomas",
-        "Se trata de la cuarta ola de calor del verano",
-        "Existen alertas por riesgo para la salud en distintos municipios",
-        "Se prevén posibles tormentas, peligro de incendio y calima en algunas zonas"
+        "Más de 1.000 personas evacuadas pueden volver a sus casas",
+        "7.000 personas siguen evacuadas según El País",
+        "El incendio lleva ya seis días activo",
+        "El fuego está perimetrado aunque sigue activo según eldiario.es",
+        "Algunos vecinos relatan que tardarán 20 o 30 años en recuperar la zona",
+        "Una persona afectada expresa miedo a vivir cerca del bosque tras el incendio"
       ],
       "tipo_divergencia": "ninguna",
       "eje": null,
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "¿Dónde hay alertas por calor? Consulte en qué municipios hay riesgo para la salud",
-          "link": "https://elpais.com/clima-y-medio-ambiente/2026-07-29/donde-hay-alertas-por-calor-consulte-en-que-municipios-hay-riesgo-para-la-salud.html",
+          "headline": "Mil vecinos vuelven a casa mientras 7.000 siguen evacuados por el incendio de La Vall d’Uixó",
+          "link": "https://elpais.com/espana/comunidad-valenciana/2026-07-30/el-fuego-que-afecta-al-parque-natural-de-la-sierra-de-espadan-de-castellon-continua-vivo-al-sexto-dia-de-su-inicio.html",
           "position": 50,
-          "focus": "Pone el foco en la consulta práctica de riesgo sanitario por municipios, sin detallar el nivel de alerta ni el número de comunidades afectadas"
+          "focus": "Contrasta cifras de quienes regresan y quienes siguen evacuados, dando panorama numérico global"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "La vuelta de Olga y Javier a una casa en el epicentro del fuego: \"Tardaremos 20 o 30 años en recuperar la zona\"",
+          "link": "https://www.eldiario.es/sociedad/vuelta-olga-javier-casa-epicentro-fuego-tardaremos-20-30-anos-recuperar-zona_1_13416320.html",
+          "position": 50,
+          "focus": "Testimonio humano de una pareja que regresa a una zona devastada, enfoque en el impacto personal y la recuperación a largo plazo"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "El incendio de la Vall d'Uixó encara su sexto día contra un fuego activo pero ya perimetrado",
+          "link": "https://www.eldiario.es/comunitat-valenciana/incendio-vall-d-uixo-mantiene-perimetro-afronta-noche-critica_1_13416402.html",
+          "position": 50,
+          "focus": "Actualización técnica sobre el estado del incendio, destaca que ya está perimetrado tras seis días"
         },
         {
           "outlet": "La Vanguardia",
-          "headline": "La Aemet lanza la alerta naranja para nueve comunidades ante la cuarta ola de calor",
-          "link": "https://www.lavanguardia.com/natural/20260729/11603403/aemet-lanza-alerta-naranja-nueve-comunidades-cuarta-ola-calor.html",
+          "headline": "Más de 1.000 personas evacuadas por el incendio de La Vall d'Uixó pueden volver a sus casas",
+          "link": "https://www.lavanguardia.com/local/valencia/20260730/11604259/incendio-vall-d-uixo-encara-sexto-dia-fuego-activo-perimetrado.html",
           "position": 50,
-          "focus": "Destaca el nivel de alerta (naranja) y el número de comunidades afectadas, situando el episodio como la cuarta ola de calor del verano"
+          "focus": "Informa sobre el regreso de más de 1.000 evacuados, con enfoque en la normalización de la situación"
         },
         {
-          "outlet": "El Confidencial",
-          "headline": "Estas son las zonas con temperaturas extremas en España según la AEMET: posibles tormentas, peligro de incendio y calima",
-          "link": "https://www.elconfidencial.com/espana/2026-07-29/zonas-temperaturas-extremas-espana_4397548/",
+          "outlet": "La Vanguardia",
+          "headline": "“Ahora tengo miedo de vivir en medio del bosque por el fuego”",
+          "link": "https://www.lavanguardia.com/vida/20260729/11603968/amparo-miedo-vivir-medio-bosque-fuego.html",
           "position": 50,
-          "focus": "Amplía el encuadre a riesgos asociados como tormentas, incendios y calima, más allá del calor extremo en sí"
+          "focus": "Testimonio emocional de un afectado sobre el miedo a vivir en zona forestal tras el fuego"
         }
       ],
       "rango": 0,
@@ -88,48 +111,51 @@
       "silenciosos": [
         "20minutos",
         "ABC",
-        "El Mundo",
-        "eldiario.es"
+        "El Confidencial",
+        "El Mundo"
       ]
     },
     {
-      "neutral_headline": "Muere un minero en Súria tras un desprendimiento en una galería",
-      "section": "Sociedad",
+      "neutral_headline": "Muere a los 62 años el actor español Manolo Solo",
+      "section": "Cultura",
       "facts": [
-        "Un minero ha muerto en Súria",
-        "La muerte se produjo tras un desprendimiento en una galería de las minas de Súria"
+        "Manolo Solo ha muerto a los 62 años",
+        "Era actor",
+        "El Mundo lo describe como protagonista del reciente esplendor del cine español",
+        "ABC lo describe como actor imprescindible del último cine español",
+        "20minutos señala que ganó el Goya por 'Tarde para la ira'"
       ],
       "tipo_divergencia": "ninguna",
       "eje": null,
       "frames": [
         {
-          "outlet": "ABC",
-          "headline": "Muere un minero en Súria tras el desprendimiento en una de las galerías",
-          "link": "https://www.abc.es/espana/cataluna/muere-minero-suria-tras-desprendimiento-galerias-20260729134223-nt.html",
+          "outlet": "El Mundo",
+          "headline": "Muere a los 62 años el actor Manolo Solo, protagonista del reciente esplendor del cine español",
+          "link": "https://www.elmundo.es/cultura/cine/2026/07/30/6a6b1c6321efa03a7d8b4584.html",
           "position": 50,
-          "focus": "Menciona el desprendimiento como causa, ubica el hecho en Súria y en una galería"
+          "focus": "Destaca su papel en el auge reciente del cine español, sin mencionar premios concretos"
         },
         {
-          "outlet": "La Vanguardia",
-          "headline": "Muere un minero en Súria",
-          "link": "https://www.lavanguardia.com/sucesos/20260729/11603679/muere-minero-suria.html",
+          "outlet": "ABC",
+          "headline": "Muere a los 62 años Manolo Solo, actor imprescindible del último cine español",
+          "link": "https://www.abc.es/cultura/muere-actor-manolo-solo-anos-20260730123309-nt.html",
           "position": 50,
-          "focus": "Titular más breve, solo confirma el hecho y la localización sin detalles del desprendimiento"
+          "focus": "Lo califica de imprescindible en el cine español reciente, sin citar galardones específicos"
         },
         {
           "outlet": "20minutos",
-          "headline": "Fallece un minero tras un desprendimiento en una galería de las minas de Súria",
-          "link": "https://www.20minutos.es/cataluna/barcelona/muere-un-minero-las-minas-potasa-suria_7020364_0.html",
+          "headline": "Muere a los 62 años el actor Manolo Solo, ganador del Goya por 'Tarde para la ira'",
+          "link": "https://www.20minutos.es/cinemania/noticias/manolo-solo-actor-muere-ganador-goya-por-tarde-para-ira_7020824_0.html",
           "position": 50,
-          "focus": "Detalla que el desprendimiento ocurrió en una galería de las minas de Súria"
+          "focus": "Se centra en el dato concreto de su Goya por 'Tarde para la ira', omitiendo valoraciones generales sobre su trayectoria"
         }
       ],
       "rango": 0,
       "discrepancia": "baja",
       "silenciosos": [
         "El Confidencial",
-        "El Mundo",
         "El Pais",
+        "La Vanguardia",
         "eldiario.es"
       ]
     }
