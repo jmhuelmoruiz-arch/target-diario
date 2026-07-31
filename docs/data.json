@@ -1,109 +1,55 @@
 {
-  "fecha": "2026-07-30T11:33:55.234296+00:00",
+  "fecha": "2026-07-31T12:21:16.543847+00:00",
   "historias": [
     {
-      "neutral_headline": "El Gobierno da por finalizada la emergencia nacional por los incendios de Madrid y Ávila al bajar a nivel 2",
-      "section": "Sociedad",
+      "neutral_headline": "PP y Vox critican al Gobierno por la crisis migratoria en Ceuta y la relacionan con la regularización de migrantes",
+      "section": "Politica",
       "facts": [
-        "Pedro Sánchez anunció el fin de la emergencia nacional por los incendios de Madrid y Ávila",
-        "La situación operativa de los incendios bajó a nivel 2",
-        "La Comunidad de Madrid asume el mando del incendio de Sierra Oeste tras la bajada de nivel"
+        "Miles de personas llegaron a Ceuta",
+        "El PP pide un cambio en la ley de extranjería",
+        "El PP exige la comparecencia urgente de Sánchez en el Congreso",
+        "Feijóo pide el uso de 'instrumentos excepcionales' en Ceuta",
+        "Feijóo declaró que Ceuta sufre 'una avalancha sin precedentes' y pidió un despliegue de medios masivo",
+        "PP y Vox vinculan la llegada masiva con la regularización de migrantes",
+        "Conservadores y ultras europeos también criticaron a Sánchez por la crisis"
       ],
       "tipo_divergencia": "ninguna",
       "eje": null,
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "Última hora de los incendios forestales, en directo | Sánchez anuncia el fin de la emergencia nacional en Ávila y Madrid",
-          "link": "https://elpais.com/espana/2026-07-30/ultima-hora-de-los-incendios-forestales-en-directo.html",
+          "headline": "El PP exige cambiar la ley de extranjería y la comparecencia urgente de Sánchez en el Congreso por la crisis de Ceuta",
+          "link": "https://elpais.com/espana/2026-07-31/el-pp-exige-cambiar-la-ley-de-extranjeria-y-la-comparecencia-urgente-de-sanchez-en-el-congreso-por-la-crisis-de-ceuta.html",
           "position": 50,
-          "focus": "Cobertura en directo centrada en el anuncio de Sánchez sobre el fin de la emergencia nacional"
+          "focus": "Destaca las exigencias concretas del PP: cambio legal y comparecencia de Sánchez; omite detalles del despliegue en Ceuta"
         },
         {
-          "outlet": "El Mundo",
-          "headline": "El Gobierno decreta el fin de la emergencia nacional por la evolución favorable de los incendios de Madrid y Ávila",
-          "link": "https://www.elmundo.es/espana/2026/07/30/6a6b1532fc6c834b478b4574.html",
+          "outlet": "El Pais",
+          "headline": "Conservadores y ultras europeos salen en tromba contra Sánchez por la crisis de Ceuta y la vincula con la regularización masiva",
+          "link": "https://elpais.com/espana/2026-07-31/el-pp-europeo-sale-en-tromba-contra-sanchez-por-la-crisis-de-ceuta-y-la-vincula-con-la-regularizacion-masiva.html",
           "position": 50,
-          "focus": "Destaca la decisión del Gobierno y la justifica por la evolución favorable de los incendios"
+          "focus": "Amplía el foco a actores europeos conservadores y ultras, mismo vínculo con la regularización"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "PP y Vox cargan contra el Gobierno por la llegada de miles de personas a Ceuta y la vinculan con la regularización de migrantes",
+          "link": "https://www.eldiario.es/politica/pp-vox-cargan-gobierno-llegada-miles-personas-ceuta-vinculan-regularizacion-migrantes_1_13419707.html",
+          "position": 50,
+          "focus": "Se centra en la crítica conjunta de PP y Vox al Gobierno y el vínculo con la regularización"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Feijóo exige el uso de “instrumentos excepcionales” en Ceuta",
+          "link": "https://www.lavanguardia.com/politica/20260731/11605081/feijoo-exige-instrumentos-excepcionales-ceuta.html",
+          "position": 50,
+          "focus": "Cita textual de Feijóo pidiendo medidas excepcionales, sin detallar la vinculación con la regularización"
         },
         {
           "outlet": "El Confidencial",
-          "headline": "Sánchez anuncia el fin de la emergencia nacional para los incendios de Ávila y Madrid y bajan a nivel 2",
-          "link": "https://www.elconfidencial.com/espana/2026-07-30/incendios-avila-madrid-emergencia-1tps_4398345/",
+          "headline": "Alberto Núñez Feijóo, presidente del PP: \"Ceuta está sufriendo una avalancha sin precedentes y el despliegue de medios tiene que ser masivo\"",
+          "link": "https://www.elconfidencial.com/espana/2026-07-31/alberto-nunez-feijoo-presidente-pp-ceuta-despliegue-tiene-que-ser-masivo-1qrt_4398985/",
           "position": 50,
-          "focus": "Combina el anuncio de Sánchez con el detalle técnico de la bajada a nivel 2"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "Pedro Sánchez anuncia el fin de la emergencia nacional por los incendios de Madrid y Ávila",
-          "link": "https://www.20minutos.es/nacional/sanchez-anuncia-fin-emergencia-nacional-por-los-incendios-madrid-avila_7020777_0.html",
-          "position": 50,
-          "focus": "Se centra en el anuncio de Sánchez como protagonista de la noticia"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "La Comunidad de Madrid asume el mando del incendio de Sierra Oeste al bajar la situación operativa a nivel 2",
-          "link": "https://www.20minutos.es/madrid/comunidad-madrid-asume-mando-incendio-sierra-oeste-bajar-situacion-operativa-nivel-2_7020786_0.html",
-          "position": 50,
-          "focus": "Pone el foco en la gestión autonómica al asumir Madrid el mando del incendio tras el cambio de nivel"
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "ABC",
-        "La Vanguardia",
-        "eldiario.es"
-      ]
-    },
-    {
-      "neutral_headline": "Evolución del incendio de La Vall d'Uixó: evacuados que regresan y otros que siguen fuera",
-      "section": "Sociedad",
-      "facts": [
-        "Más de 1.000 personas evacuadas pueden volver a sus casas",
-        "7.000 personas siguen evacuadas según El País",
-        "El incendio lleva ya seis días activo",
-        "El fuego está perimetrado aunque sigue activo según eldiario.es",
-        "Algunos vecinos relatan que tardarán 20 o 30 años en recuperar la zona",
-        "Una persona afectada expresa miedo a vivir cerca del bosque tras el incendio"
-      ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "Mil vecinos vuelven a casa mientras 7.000 siguen evacuados por el incendio de La Vall d’Uixó",
-          "link": "https://elpais.com/espana/comunidad-valenciana/2026-07-30/el-fuego-que-afecta-al-parque-natural-de-la-sierra-de-espadan-de-castellon-continua-vivo-al-sexto-dia-de-su-inicio.html",
-          "position": 50,
-          "focus": "Contrasta cifras de quienes regresan y quienes siguen evacuados, dando panorama numérico global"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "La vuelta de Olga y Javier a una casa en el epicentro del fuego: \"Tardaremos 20 o 30 años en recuperar la zona\"",
-          "link": "https://www.eldiario.es/sociedad/vuelta-olga-javier-casa-epicentro-fuego-tardaremos-20-30-anos-recuperar-zona_1_13416320.html",
-          "position": 50,
-          "focus": "Testimonio humano de una pareja que regresa a una zona devastada, enfoque en el impacto personal y la recuperación a largo plazo"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "El incendio de la Vall d'Uixó encara su sexto día contra un fuego activo pero ya perimetrado",
-          "link": "https://www.eldiario.es/comunitat-valenciana/incendio-vall-d-uixo-mantiene-perimetro-afronta-noche-critica_1_13416402.html",
-          "position": 50,
-          "focus": "Actualización técnica sobre el estado del incendio, destaca que ya está perimetrado tras seis días"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Más de 1.000 personas evacuadas por el incendio de La Vall d'Uixó pueden volver a sus casas",
-          "link": "https://www.lavanguardia.com/local/valencia/20260730/11604259/incendio-vall-d-uixo-encara-sexto-dia-fuego-activo-perimetrado.html",
-          "position": 50,
-          "focus": "Informa sobre el regreso de más de 1.000 evacuados, con enfoque en la normalización de la situación"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "“Ahora tengo miedo de vivir en medio del bosque por el fuego”",
-          "link": "https://www.lavanguardia.com/vida/20260729/11603968/amparo-miedo-vivir-medio-bosque-fuego.html",
-          "position": 50,
-          "focus": "Testimonio emocional de un afectado sobre el miedo a vivir en zona forestal tras el fuego"
+          "focus": "Reproduce declaraciones de Feijóo sobre la magnitud de la crisis y la necesidad de más medios"
         }
       ],
       "rango": 0,
@@ -111,52 +57,152 @@
       "silenciosos": [
         "20minutos",
         "ABC",
-        "El Confidencial",
         "El Mundo"
       ]
     },
     {
-      "neutral_headline": "Muere a los 62 años el actor español Manolo Solo",
-      "section": "Cultura",
+      "neutral_headline": "Cobertura de la ola de incendios forestales en España: daños, evacuados, causas y consecuencias",
+      "section": "Sociedad",
       "facts": [
-        "Manolo Solo ha muerto a los 62 años",
-        "Era actor",
-        "El Mundo lo describe como protagonista del reciente esplendor del cine español",
-        "ABC lo describe como actor imprescindible del último cine español",
-        "20minutos señala que ganó el Goya por 'Tarde para la ira'"
+        "Un incendio forestal en Chapinería (Madrid) quemó 120 coches de una empresa de alquiler para rodajes",
+        "Se declaró un nuevo incendio forestal en Cáceres",
+        "La situación mejoró en el incendio de Fermoselle, Zamora",
+        "Hubo evacuados por el incendio de Castellón que regresaron a sus casas",
+        "Hubo evacuados por incendios en Madrid y Ávila que regresaron a sus casas",
+        "Un presunto autor del incendio de l'Anoia llevaba 27 mecheros encima",
+        "El incendio de Sierra Oeste (Madrid) amenazó núcleos con un millón de habitantes",
+        "Existen estudios que vinculan el cambio climático con la multiplicación de condiciones propicias para incendios"
       ],
       "tipo_divergencia": "ninguna",
       "eje": null,
       "frames": [
         {
           "outlet": "El Mundo",
-          "headline": "Muere a los 62 años el actor Manolo Solo, protagonista del reciente esplendor del cine español",
-          "link": "https://www.elmundo.es/cultura/cine/2026/07/30/6a6b1c6321efa03a7d8b4584.html",
+          "headline": "El incendio forestal de Madrid carboniza 120 coches de cine en Chapinería que se alquilaban para rodajes: \"He perdido 700.000 euros y no sé si lo recuperaré\"",
+          "link": "https://www.elmundo.es/madrid/2026/07/30/6a6b97a3fdddff3f1e8b458e.html",
           "position": 50,
-          "focus": "Destaca su papel en el auge reciente del cine español, sin mencionar premios concretos"
+          "focus": "Pérdidas económicas de un negocio afectado por el incendio de Chapinería"
         },
         {
-          "outlet": "ABC",
-          "headline": "Muere a los 62 años Manolo Solo, actor imprescindible del último cine español",
-          "link": "https://www.abc.es/cultura/muere-actor-manolo-solo-anos-20260730123309-nt.html",
+          "outlet": "El Mundo",
+          "headline": "Se declara un nuevo incendio forestal en Cáceres, mientras mejora la situación en el de Fermoselle, en Zamora",
+          "link": "https://www.elmundo.es/espana/2026/07/31/6a6c5287e9cf4a50378b45b0.html",
           "position": 50,
-          "focus": "Lo califica de imprescindible en el cine español reciente, sin citar galardones específicos"
+          "focus": "Actualización de focos activos: nuevo incendio en Cáceres y mejora en Zamora"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "¿Qué hacer después del fuego?: “Volver al mismo paisaje no va a ser posible”",
+          "link": "https://www.eldiario.es/sociedad/despues-fuego-hay-incendios-intensos-acaban-reservorio-semillas_1_13416786.html",
+          "position": 50,
+          "focus": "Reflexión sobre la recuperación del paisaje tras el fuego"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Los evacuados por el incendio de Castellón regresan con temor a nuevos rebrotes",
+          "link": "https://www.lavanguardia.com/local/valencia/20260731/11604663/evacuados-incendio-castellon-regresan-temor-nuevos-rebrotes.html",
+          "position": 50,
+          "focus": "Regreso de evacuados en Castellón con miedo a rebrotes"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Elena Pita: “El negacionismo se cobra vidas humanas”",
+          "link": "https://www.lavanguardia.com/natural/20260731/11604708/elena-pita-negacionismo-cobra-vidas-humanas.html",
+          "position": 50,
+          "focus": "Declaraciones sobre el negacionismo climático y sus consecuencias"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "El presunto pirómano del incendio de l'Anoia llevaba 27 mecheros encima",
+          "link": "https://www.lavanguardia.com/local/anoia/20260730/11604395/detenido-hombre-58-anos-causar-tres-incendios-forestales-l-anoia.html",
+          "position": 50,
+          "focus": "Detalle sobre el presunto pirómano de l'Anoia"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "El cambio climático multiplicó por 20 las condiciones propicias para los incendios",
+          "link": "https://www.lavanguardia.com/natural/cambio-climatico/20260731/11604739/cambio-climatico-multiplico-20-condiciones-propicias-incendios-centro-peninsular.html",
+          "position": 50,
+          "focus": "Vínculo entre cambio climático y riesgo de incendios"
         },
         {
           "outlet": "20minutos",
-          "headline": "Muere a los 62 años el actor Manolo Solo, ganador del Goya por 'Tarde para la ira'",
-          "link": "https://www.20minutos.es/cinemania/noticias/manolo-solo-actor-muere-ganador-goya-por-tarde-para-ira_7020824_0.html",
+          "headline": "Los evacuados de Madrid y Ávila vuelven tras los fuegos con el corazón en vilo: \"Solo me quedan los zapatos\"",
+          "link": "https://www.20minutos.es/madrid/los-evacuados-madrid-avila-vuelven-tras-los-incendios-con-corazon-vilo-solo-me-quedan-los-zapatos-ropa-con-que-sali_7020565_0.html",
           "position": 50,
-          "focus": "Se centra en el dato concreto de su Goya por 'Tarde para la ira', omitiendo valoraciones generales sobre su trayectoria"
+          "focus": "Testimonios de evacuados de Madrid y Ávila al regresar"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Qué son los ceniceros tras un incendio y cuáles son sus efectos nocivos sobre la tierra",
+          "link": "https://www.20minutos.es/nacional/que-son-los-ceniceros-tras-un-incendio-cuales-son-sus-efectos-nocivos-sobre-tierra_7020798_0.html",
+          "position": 50,
+          "focus": "Explicación técnica sobre los ceniceros y sus efectos en el suelo"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "El incendio de Sierra Oeste rozó una tragedia mayor: amenazaba núcleos con un millón de madrileños",
+          "link": "https://www.20minutos.es/madrid/incendio-sierra-oeste-amenazo-los-pueblos-un-millon-madrilenos-rozo-tragedia-su-avance-guadarrama-gredos_7021013_0.html",
+          "position": 50,
+          "focus": "Riesgo potencial del incendio de Sierra Oeste para zonas pobladas"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Seguridad, ventilación, humedad... Consejos para una limpieza segura tras un incendio",
+          "link": "https://www.20minutos.es/nacional/seguridad-ventilacion-humedad-consejos-para-una-limpieza-segura-tras-un-incendio_7020885_0.html",
+          "position": 50,
+          "focus": "Consejos prácticos para la limpieza tras un incendio"
         }
       ],
       "rango": 0,
       "discrepancia": "baja",
       "silenciosos": [
+        "ABC",
         "El Confidencial",
+        "El Pais"
+      ]
+    },
+    {
+      "neutral_headline": "El juez abre una pieza separada para investigar pagos del PSOE a Leire Díez",
+      "section": "Politica",
+      "facts": [
+        "Un juez ha abierto una pieza separada económica dentro del caso Leire Díez",
+        "La pieza busca rastrear pagos del PSOE hacia la exmilitante",
+        "El Confidencial identifica al juez como Pedraz",
+        "El Confidencial señala que se autoriza el rastreo de decenas de cuentas vinculadas al PSOE y las cloacas"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "El juez abre una pieza separada económica para rastrear pagos del PSOE a Leire Díez y las cloacas",
+          "link": "https://www.elmundo.es/espana/2026/07/31/6a6c6c28fc6c83fd5e8b4599.html",
+          "position": 50,
+          "focus": "Menciona pagos del PSOE a Leire Díez y las cloacas, sin identificar al juez por nombre"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "El juez del caso Leire Díez abre una pieza separada para buscar pagos del PSOE hacia la exmilitante",
+          "link": "https://www.eldiario.es/politica/juez-caso-leire-diez-abre-pieza-separada-buscar-pagos-psoe-exmilitante_1_13419991.html",
+          "position": 50,
+          "focus": "Se centra en la apertura de la pieza separada para buscar pagos del PSOE a la exmilitante"
+        },
+        {
+          "outlet": "El Confidencial",
+          "headline": "Pedraz abre una pieza separada y autoriza el rastreo de decenas de cuentas vinculadas al PSOE y las cloacas",
+          "link": "https://www.elconfidencial.com/espana/2026-07-31/pedraz-abre-una-pieza-separada-y-autoriza-el-rastreo-de-decenas-de-cuentas-del-psoe-y-las-cloacas_4398943/",
+          "position": 50,
+          "focus": "Añade el nombre del juez (Pedraz) y detalla que se autoriza el rastreo de decenas de cuentas"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
         "El Pais",
-        "La Vanguardia",
-        "eldiario.es"
+        "La Vanguardia"
       ]
     }
   ]
