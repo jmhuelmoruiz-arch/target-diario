@@ -1,208 +1,114 @@
 {
-  "fecha": "2026-07-31T12:21:16.543847+00:00",
+  "fecha": "2026-08-02T10:22:30.334915+00:00",
   "historias": [
     {
-      "neutral_headline": "PP y Vox critican al Gobierno por la crisis migratoria en Ceuta y la relacionan con la regularización de migrantes",
-      "section": "Politica",
+      "neutral_headline": "Una avioneta se estrella en el sur de Perú y mueren 13 personas, entre ellas dos turistas españoles",
+      "section": "Internacional",
       "facts": [
-        "Miles de personas llegaron a Ceuta",
-        "El PP pide un cambio en la ley de extranjería",
-        "El PP exige la comparecencia urgente de Sánchez en el Congreso",
-        "Feijóo pide el uso de 'instrumentos excepcionales' en Ceuta",
-        "Feijóo declaró que Ceuta sufre 'una avalancha sin precedentes' y pidió un despliegue de medios masivo",
-        "PP y Vox vinculan la llegada masiva con la regularización de migrantes",
-        "Conservadores y ultras europeos también criticaron a Sánchez por la crisis"
-      ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "El PP exige cambiar la ley de extranjería y la comparecencia urgente de Sánchez en el Congreso por la crisis de Ceuta",
-          "link": "https://elpais.com/espana/2026-07-31/el-pp-exige-cambiar-la-ley-de-extranjeria-y-la-comparecencia-urgente-de-sanchez-en-el-congreso-por-la-crisis-de-ceuta.html",
-          "position": 50,
-          "focus": "Destaca las exigencias concretas del PP: cambio legal y comparecencia de Sánchez; omite detalles del despliegue en Ceuta"
-        },
-        {
-          "outlet": "El Pais",
-          "headline": "Conservadores y ultras europeos salen en tromba contra Sánchez por la crisis de Ceuta y la vincula con la regularización masiva",
-          "link": "https://elpais.com/espana/2026-07-31/el-pp-europeo-sale-en-tromba-contra-sanchez-por-la-crisis-de-ceuta-y-la-vincula-con-la-regularizacion-masiva.html",
-          "position": 50,
-          "focus": "Amplía el foco a actores europeos conservadores y ultras, mismo vínculo con la regularización"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "PP y Vox cargan contra el Gobierno por la llegada de miles de personas a Ceuta y la vinculan con la regularización de migrantes",
-          "link": "https://www.eldiario.es/politica/pp-vox-cargan-gobierno-llegada-miles-personas-ceuta-vinculan-regularizacion-migrantes_1_13419707.html",
-          "position": 50,
-          "focus": "Se centra en la crítica conjunta de PP y Vox al Gobierno y el vínculo con la regularización"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Feijóo exige el uso de “instrumentos excepcionales” en Ceuta",
-          "link": "https://www.lavanguardia.com/politica/20260731/11605081/feijoo-exige-instrumentos-excepcionales-ceuta.html",
-          "position": 50,
-          "focus": "Cita textual de Feijóo pidiendo medidas excepcionales, sin detallar la vinculación con la regularización"
-        },
-        {
-          "outlet": "El Confidencial",
-          "headline": "Alberto Núñez Feijóo, presidente del PP: \"Ceuta está sufriendo una avalancha sin precedentes y el despliegue de medios tiene que ser masivo\"",
-          "link": "https://www.elconfidencial.com/espana/2026-07-31/alberto-nunez-feijoo-presidente-pp-ceuta-despliegue-tiene-que-ser-masivo-1qrt_4398985/",
-          "position": 50,
-          "focus": "Reproduce declaraciones de Feijóo sobre la magnitud de la crisis y la necesidad de más medios"
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "20minutos",
-        "ABC",
-        "El Mundo"
-      ]
-    },
-    {
-      "neutral_headline": "Cobertura de la ola de incendios forestales en España: daños, evacuados, causas y consecuencias",
-      "section": "Sociedad",
-      "facts": [
-        "Un incendio forestal en Chapinería (Madrid) quemó 120 coches de una empresa de alquiler para rodajes",
-        "Se declaró un nuevo incendio forestal en Cáceres",
-        "La situación mejoró en el incendio de Fermoselle, Zamora",
-        "Hubo evacuados por el incendio de Castellón que regresaron a sus casas",
-        "Hubo evacuados por incendios en Madrid y Ávila que regresaron a sus casas",
-        "Un presunto autor del incendio de l'Anoia llevaba 27 mecheros encima",
-        "El incendio de Sierra Oeste (Madrid) amenazó núcleos con un millón de habitantes",
-        "Existen estudios que vinculan el cambio climático con la multiplicación de condiciones propicias para incendios"
+        "Una avioneta se estrelló en el sur de Perú",
+        "La avioneta sobrevolaba las líneas de Nazca",
+        "Murieron 13 personas en el accidente",
+        "Entre los fallecidos había dos turistas españoles"
       ],
       "tipo_divergencia": "ninguna",
       "eje": null,
       "frames": [
         {
           "outlet": "El Mundo",
-          "headline": "El incendio forestal de Madrid carboniza 120 coches de cine en Chapinería que se alquilaban para rodajes: \"He perdido 700.000 euros y no sé si lo recuperaré\"",
-          "link": "https://www.elmundo.es/madrid/2026/07/30/6a6b97a3fdddff3f1e8b458e.html",
+          "headline": "Dos turistas españoles, entre los 13 muertos tras estrellarse una avioneta en el sur de Perú",
+          "link": "https://www.elmundo.es/internacional/2026/08/01/6a6e5b1ce9cf4a04698b45bc.html",
           "position": 50,
-          "focus": "Pérdidas económicas de un negocio afectado por el incendio de Chapinería"
+          "focus": "Destaca la nacionalidad española de dos víctimas y el balance total de 13 muertos"
         },
         {
           "outlet": "El Mundo",
-          "headline": "Se declara un nuevo incendio forestal en Cáceres, mientras mejora la situación en el de Fermoselle, en Zamora",
-          "link": "https://www.elmundo.es/espana/2026/07/31/6a6c5287e9cf4a50378b45b0.html",
+          "headline": "La alianza Rusia-Irán funde las guerras de Ucrania y el Golfo",
+          "link": "https://www.elmundo.es/internacional/2026/08/01/6a6b96e221efa08a058b45b0.html",
           "position": 50,
-          "focus": "Actualización de focos activos: nuevo incendio en Cáceres y mejora en Zamora"
+          "focus": "Pieza no relacionada con el accidente aéreo, trata sobre geopolítica Rusia-Irán"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Mueren 13 personas, entre ellos dos españoles, tras caer una avioneta que sobrevolaba las líneas de Nazca, en Perú",
+          "link": "https://www.abc.es/internacional/trece-muertos-tras-estrellarse-avioneta-turistica-peru-20260801223935-nt.html",
+          "position": 50,
+          "focus": "Detalla el número de víctimas y ubica el accidente sobre las líneas de Nazca"
         },
         {
           "outlet": "eldiario.es",
-          "headline": "¿Qué hacer después del fuego?: “Volver al mismo paisaje no va a ser posible”",
-          "link": "https://www.eldiario.es/sociedad/despues-fuego-hay-incendios-intensos-acaban-reservorio-semillas_1_13416786.html",
+          "headline": "Dos turistas españoles, entre los trece muertos al estrellarse una avioneta en el sur de Perú",
+          "link": "https://www.eldiario.es/internacional/turistas-espanoles-trece-muertos-estrellarse-avioneta-sur-peru_1_13423396.html",
           "position": 50,
-          "focus": "Reflexión sobre la recuperación del paisaje tras el fuego"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Los evacuados por el incendio de Castellón regresan con temor a nuevos rebrotes",
-          "link": "https://www.lavanguardia.com/local/valencia/20260731/11604663/evacuados-incendio-castellon-regresan-temor-nuevos-rebrotes.html",
-          "position": 50,
-          "focus": "Regreso de evacuados en Castellón con miedo a rebrotes"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Elena Pita: “El negacionismo se cobra vidas humanas”",
-          "link": "https://www.lavanguardia.com/natural/20260731/11604708/elena-pita-negacionismo-cobra-vidas-humanas.html",
-          "position": 50,
-          "focus": "Declaraciones sobre el negacionismo climático y sus consecuencias"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "El presunto pirómano del incendio de l'Anoia llevaba 27 mecheros encima",
-          "link": "https://www.lavanguardia.com/local/anoia/20260730/11604395/detenido-hombre-58-anos-causar-tres-incendios-forestales-l-anoia.html",
-          "position": 50,
-          "focus": "Detalle sobre el presunto pirómano de l'Anoia"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "El cambio climático multiplicó por 20 las condiciones propicias para los incendios",
-          "link": "https://www.lavanguardia.com/natural/cambio-climatico/20260731/11604739/cambio-climatico-multiplico-20-condiciones-propicias-incendios-centro-peninsular.html",
-          "position": 50,
-          "focus": "Vínculo entre cambio climático y riesgo de incendios"
+          "focus": "Coincide en cifra de fallecidos y nacionalidad de los turistas españoles"
         },
         {
           "outlet": "20minutos",
-          "headline": "Los evacuados de Madrid y Ávila vuelven tras los fuegos con el corazón en vilo: \"Solo me quedan los zapatos\"",
-          "link": "https://www.20minutos.es/madrid/los-evacuados-madrid-avila-vuelven-tras-los-incendios-con-corazon-vilo-solo-me-quedan-los-zapatos-ropa-con-que-sali_7020565_0.html",
+          "headline": "Dos turistas españoles, entre los muertos en el accidente de avioneta en las líneas de Nazca en Perú",
+          "link": "https://www.20minutos.es/internacional/turistas-espanoles-muertos-accidente-avioneta-lineas-nazca-peru_7021702_0.html",
           "position": 50,
-          "focus": "Testimonios de evacuados de Madrid y Ávila al regresar"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "Qué son los ceniceros tras un incendio y cuáles son sus efectos nocivos sobre la tierra",
-          "link": "https://www.20minutos.es/nacional/que-son-los-ceniceros-tras-un-incendio-cuales-son-sus-efectos-nocivos-sobre-tierra_7020798_0.html",
-          "position": 50,
-          "focus": "Explicación técnica sobre los ceniceros y sus efectos en el suelo"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "El incendio de Sierra Oeste rozó una tragedia mayor: amenazaba núcleos con un millón de madrileños",
-          "link": "https://www.20minutos.es/madrid/incendio-sierra-oeste-amenazo-los-pueblos-un-millon-madrilenos-rozo-tragedia-su-avance-guadarrama-gredos_7021013_0.html",
-          "position": 50,
-          "focus": "Riesgo potencial del incendio de Sierra Oeste para zonas pobladas"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "Seguridad, ventilación, humedad... Consejos para una limpieza segura tras un incendio",
-          "link": "https://www.20minutos.es/nacional/seguridad-ventilacion-humedad-consejos-para-una-limpieza-segura-tras-un-incendio_7020885_0.html",
-          "position": 50,
-          "focus": "Consejos prácticos para la limpieza tras un incendio"
+          "focus": "Sitúa el accidente en las líneas de Nazca y menciona a los turistas españoles"
         }
       ],
       "rango": 0,
       "discrepancia": "baja",
       "silenciosos": [
-        "ABC",
         "El Confidencial",
-        "El Pais"
-      ]
-    },
-    {
-      "neutral_headline": "El juez abre una pieza separada para investigar pagos del PSOE a Leire Díez",
-      "section": "Politica",
-      "facts": [
-        "Un juez ha abierto una pieza separada económica dentro del caso Leire Díez",
-        "La pieza busca rastrear pagos del PSOE hacia la exmilitante",
-        "El Confidencial identifica al juez como Pedraz",
-        "El Confidencial señala que se autoriza el rastreo de decenas de cuentas vinculadas al PSOE y las cloacas"
-      ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "El Mundo",
-          "headline": "El juez abre una pieza separada económica para rastrear pagos del PSOE a Leire Díez y las cloacas",
-          "link": "https://www.elmundo.es/espana/2026/07/31/6a6c6c28fc6c83fd5e8b4599.html",
-          "position": 50,
-          "focus": "Menciona pagos del PSOE a Leire Díez y las cloacas, sin identificar al juez por nombre"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "El juez del caso Leire Díez abre una pieza separada para buscar pagos del PSOE hacia la exmilitante",
-          "link": "https://www.eldiario.es/politica/juez-caso-leire-diez-abre-pieza-separada-buscar-pagos-psoe-exmilitante_1_13419991.html",
-          "position": 50,
-          "focus": "Se centra en la apertura de la pieza separada para buscar pagos del PSOE a la exmilitante"
-        },
-        {
-          "outlet": "El Confidencial",
-          "headline": "Pedraz abre una pieza separada y autoriza el rastreo de decenas de cuentas vinculadas al PSOE y las cloacas",
-          "link": "https://www.elconfidencial.com/espana/2026-07-31/pedraz-abre-una-pieza-separada-y-autoriza-el-rastreo-de-decenas-de-cuentas-del-psoe-y-las-cloacas_4398943/",
-          "position": 50,
-          "focus": "Añade el nombre del juez (Pedraz) y detalla que se autoriza el rastreo de decenas de cuentas"
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "20minutos",
-        "ABC",
         "El Pais",
         "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "Distintas piezas sobre el cambio climático: hundimiento de Yakarta, incendio en Casas de Millán y debate político",
+      "section": "Sociedad",
+      "facts": [
+        "Yakarta es descrita como la ciudad más poblada del mundo y se hunde en el mar de Java, según El País",
+        "El incendio de Casas de Millán se encamina a la estabilización y los 800 evacuados regresan a sus casas, según eldiario.es",
+        "Expertos citados por eldiario.es afirman que el cambio climático agrava y multiplica los grandes incendios",
+        "La Vanguardia describe una 'guerra fría' entre PSOE y PP en torno a la crisis climática"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "enfoque cientifico-factico",
+        "polo_b": "enfoque politico-partidista",
+        "resumen": "Unos medios documentan hechos y consecuencias del cambio climático (hundimiento de ciudades, incendios, opinión de expertos), mientras otro encuadra el tema como confrontación entre partidos políticos"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Yakarta, la ciudad más poblada del mundo, se hunde en el mar de Java",
+          "link": "https://elpais.com/internacional/2026-08-02/yakarta-la-ciudad-mas-poblada-del-mundo-se-hunde-en-el-mar-de-java.html",
+          "position": 5,
+          "focus": "Destaca un fenómeno físico concreto (hundimiento de Yakarta) como evidencia del cambio climático, sin mencionar actores políticos"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "El incendio de Casas de Millán se encamina a la estabilización y los 800 evacuados regresan a sus casas",
+          "link": "https://www.eldiario.es/extremadura/sociedad/incendio-casas-millan-encamina-estabilizacion-800-evacuados-regresan-casas_1_13423466.html",
+          "position": 10,
+          "focus": "Se centra en el desenlace factual de un incendio concreto y el regreso de evacuados, sin atribuir causas ni responsabilidades"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Los expertos lo tienen claro: el cambio climático agrava y multiplica los grandes incendios",
+          "link": "https://www.eldiario.es/sociedad/expertos-claro-cambio-climatico-agrava-multiplica-grandes-incendios_1_13415266.html",
+          "position": 15,
+          "focus": "Recoge el consenso experto sobre la relación causal entre cambio climático e incendios, con enfoque científico"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Guerra fría PSOE-PP ante la crisis climática",
+          "link": "https://www.lavanguardia.com/politica/20260802/11605873/guerra-fria-crisis-climatica.html",
+          "position": 95,
+          "focus": "Enmarca la crisis climática como terreno de disputa partidista entre PSOE y PP, omitiendo datos científicos o factuales concretos"
+        }
+      ],
+      "rango": 90,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Confidencial",
+        "El Mundo"
       ]
     }
   ]
