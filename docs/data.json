@@ -1,119 +1,71 @@
 {
-  "fecha": "2026-08-03T13:59:41.720650+00:00",
+  "fecha": "2026-08-04T12:21:49.502248+00:00",
   "historias": [
     {
-      "neutral_headline": "Pogačar competirá en La Vuelta a España siete años después de su última participación",
-      "section": "Deportes",
+      "neutral_headline": "Distintas coberturas sobre el eclipse solar total y sus circunstancias (meteorología, ubicaciones, turismo)",
+      "section": "Sociedad",
       "facts": [
-        "Tadej Pogačar participará en La Vuelta a España",
-        "Pogačar no había corrido la Vuelta en los últimos siete años",
-        "Pogačar ha ganado cinco ediciones del Tour de Francia",
-        "Felipe VI ha retomado la navegación tras diez días dedicados a la crisis de Ceuta y los incendios"
+        "Habrá un eclipse solar total la semana del 10 al 16",
+        "La franja de totalidad afecta a zonas de la España vaciada y al trazado del Camino de Santiago",
+        "La duración de la fase total ronda el minuto y medio en algunas localizaciones",
+        "Existe incertidumbre meteorológica sobre la posible nubosidad, especialmente en la costa norte",
+        "Un meteorólogo (Samuel Biener) señala que los mapas indican un punto de inflexión para la semana del eclipse",
+        "En un pueblo de la Sierra de Madrid la oscuridad total durará 1 minuto y 29 segundos",
+        "En un albergue de la España vaciada se ha pedido hasta 1000 euros por una habitación para ver el eclipse"
       ],
       "tipo_divergencia": "ninguna",
       "eje": null,
       "frames": [
         {
-          "outlet": "El Mundo",
-          "headline": "Pogacar regresa a la Vuelta a España siete años después",
-          "link": "https://www.elmundo.es/deportes/ciclismo/vuelta-a-espana/2026/08/03/6a70542fe9cf4abd328b457f.html",
+          "outlet": "El Pais",
+          "headline": "El minuto y medio de fama de la España vaciada: el eclipse total ocultará el Camino de Santiago",
+          "link": "https://elpais.com/ciencia/2026-08-04/el-minuto-y-medio-de-fama-de-la-espana-vaciada-el-eclipse-total-ocultara-el-camino-de-santiago.html",
           "position": 50,
-          "focus": "Se centra en el regreso de Pogačar a la Vuelta tras siete años de ausencia, sin valorar su palmarés."
+          "focus": "Destaca el impacto simbólico y geográfico del eclipse sobre la España vaciada y el Camino de Santiago; omite datos meteorológicos o de precios"
         },
         {
-          "outlet": "ABC",
-          "headline": "Pogacar se apunta a La Vuelta para completar su estratosférico palmarés",
-          "link": "https://www.abc.es/deportes/ciclismo/pogacar-correra-vuelta-unico-grande-falta-palmares-20260803110014-nt.html",
+          "outlet": "El Pais",
+          "headline": "¿Te preocupa el tiempo que hará donde vas a ver el eclipse? De momento, incertidumbre, sobre todo en la costa norte",
+          "link": "https://elpais.com/ciencia/2026-08-04/te-preocupa-el-tiempo-que-hara-donde-vas-a-ver-el-eclipse-de-momento-incertidumbre-sobre-todo-en-la-costa-norte.html",
           "position": 50,
-          "focus": "Destaca la inscripción de Pogačar y la enmarca como parte de un palmarés excepcional, aunque no aporta datos adicionales verificables."
+          "focus": "Centra en la incertidumbre climática para los espectadores, especialmente en la costa norte; no aborda duración ni turismo"
         },
         {
-          "outlet": "ABC",
-          "headline": "Felipe VI vuelve a navegar tras diez días volcado en la crisis de Ceuta y los incendios",
-          "link": "https://www.abc.es/espana/felipe-vuelve-navegar-tras-diez-dias-volcado-20260803122352-nt.html",
+          "outlet": "eldiario.es",
+          "headline": "¿Habrá nubes durante el eclipse? Aún hay \"mucha incertidumbre\" pero los expertos ya dan algunas pistas",
+          "link": "https://www.eldiario.es/sociedad/habra-nubes-durante-eclipse-hay-incertidumbre-expertos-dan-pistas_1_13427092.html",
           "position": 50,
-          "focus": "Trata un hecho distinto y no relacionado: la vuelta de Felipe VI a la navegación tras gestionar la crisis de Ceuta y los incendios; no hay comparación posible con las piezas sobre Pogačar."
+          "focus": "Aporta pistas expertas sobre la nubosidad prevista; se enfoca en la parte científica/meteorológica"
         },
         {
-          "outlet": "20minutos",
-          "headline": "Tadej Pogacar estará en La Vuelta: el campeón de cinco Tours estará en la carrera española siete años después",
-          "link": "https://www.20minutos.es/deportes/tadej-pogacar-estara-vuelta-campeon-cinco-tours-estara-carrera-espanola-siete-anos-despues-su-unica-participacion_7021920_0.html",
+          "outlet": "eldiario.es",
+          "headline": "Mil euros por una habitación para ver el eclipse de sol en un albergue de la España vaciada: “Estás de suerte”",
+          "link": "https://www.eldiario.es/cantabria/mil-euros-habitacion-noche-eclipse-albergue-pueblo-valderredible_1_13425581.html",
           "position": 50,
-          "focus": "Combina el dato del regreso tras siete años con el palmarés de cinco Tours, ofreciendo el mismo hecho central que El Mundo y ABC sin introducir un ángulo distinto."
+          "focus": "Muestra el impacto económico y turístico del evento, con precios elevados en alojamientos; omite meteorología"
+        },
+        {
+          "outlet": "El Confidencial",
+          "headline": "Samuel Biener, meteorólogo: \"Para la semana del 10 al 16, la del eclipse, los mapas insisten en que será un punto de inflexión\"",
+          "link": "https://www.elconfidencial.com/espana/2026-08-04/samuel-biener-meteorologo-eclipse-mapas-insisten_4399051/",
+          "position": 50,
+          "focus": "Recoge la previsión meteorológica de un experto, hablando de un 'punto de inflexión' en los mapas; no menciona turismo ni ubicaciones concretas"
+        },
+        {
+          "outlet": "El Confidencial",
+          "headline": "El pueblo de la Sierra de Madrid donde mejor se verá el eclipse solar: estará totalmente a oscuras durante 1 minuto y 29 segundos",
+          "link": "https://www.elconfidencial.com/espana/2026-08-04/pueblo-sierra-madrid-donde-mejor-ver-eclipse-solar-1qrt_4400329/",
+          "position": 50,
+          "focus": "Detalla la mejor ubicación en la Sierra de Madrid y la duración exacta de la oscuridad; no trata meteorología ni precios"
         }
       ],
       "rango": 0,
       "discrepancia": "baja",
       "silenciosos": [
-        "El Confidencial",
-        "El Pais",
-        "La Vanguardia",
-        "eldiario.es"
-      ]
-    },
-    {
-      "neutral_headline": "Von der Leyen felicita a España y Marruecos por la gestión de la crisis migratoria en Ceuta y advierte sobre el uso de la inmigración como presión",
-      "section": "Politica",
-      "facts": [
-        "Von der Leyen felicitó a España y Marruecos por la gestión de la crisis en Ceuta",
-        "Von der Leyen afirmó que no se aceptará usar la inmigración irregular como medio de presión contra España",
-        "El Pais menciona que Von der Leyen pidió reforzar las fronteras",
-        "eldiario.es señala que la crisis dejó más de 80 personas muertas"
-      ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "Elogio sin reservas",
-        "polo_b": "Señalamiento crítico (a Marruecos o al coste humano)",
-        "resumen": "Los medios se dividen entre destacar únicamente el elogio de Von der Leyen a la gestión conjunta y quienes subrayan su advertencia hacia Marruecos o el coste humano de la crisis"
-      },
-      "frames": [
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Von der Leyen elogia gestión española y marroquí de la crisis de Ceuta",
-          "link": "https://www.lavanguardia.com/politica/20260803/11606757/von-der-leyen-elogia-gestion-espanola-marroqui-crisis-ceuta.html",
-          "position": 5,
-          "focus": "Solo resalta el elogio a la gestión española y marroquí, sin mencionar advertencias ni víctimas"
-        },
-        {
-          "outlet": "El Pais",
-          "headline": "Von der Leyen felicita a España y Marruecos por la gestión de la crisis en Ceuta, pero pide reforzar las fronteras",
-          "link": "https://elpais.com/espana/2026-08-03/von-der-leyen-felicita-a-espana-y-marruecos-por-la-gestion-de-la-crisis-en-ceuta-pero-pide-reforzar-las-fronteras.html",
-          "position": 25,
-          "focus": "Combina el elogio con una petición genérica de reforzar fronteras, sin señalar directamente a Marruecos"
-        },
-        {
-          "outlet": "ABC",
-          "headline": "Von der Leyen felicita a España y Marruecos pero avisa que no aceptará usar la inmigración como medida de «presión»",
-          "link": "https://www.abc.es/noticias/von-der-leyen-felicita-espana-marruecos-advierte-20260803132420-nt.html",
-          "position": 55,
-          "focus": "Equilibra felicitación con aviso sobre no aceptar la inmigración como presión, entre comillas suaves"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "Von der Leyen, tajante sobre la crisis en Ceuta: \"No aceptaremos la inmigración como presión\"",
-          "link": "https://www.20minutos.es/internacional/von-der-leyen-afirma-que-ue-debe-hacer-mas-para-vigilar-sus-fronteras-advierte-no-aceptaremos-migracion-como-presion_7022075_0.html",
-          "position": 70,
-          "focus": "Enfatiza el tono tajante de la advertencia, citando la frase textual como titular principal"
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "Von der Leyen sí apunta a Marruecos por la crisis en Ceuta: \"No se puede aceptar ningún intento de utilizar la migración irregular como medio para presionar\" a España",
-          "link": "https://www.elmundo.es/espana/2026/08/03/6a706cfd21efa03b408b4592.html",
-          "position": 80,
-          "focus": "Señala explícitamente a Marruecos como el actor que podría usar la migración como presión, citando la frase completa"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "Von der Leyen felicita a España y Marruecos por su gestión en Ceuta pese a la muerte de más de 80 personas",
-          "link": "https://www.eldiario.es/politica/von-der-leyen-felicita-espana-marruecos-gestion-ceuta-pese-muerte-80-personas_1_13424877.html",
-          "position": 90,
-          "focus": "Contrapone el elogio institucional con el coste humano de más de 80 muertes, cuestionando implícitamente la gestión"
-        }
-      ],
-      "rango": 85,
-      "discrepancia": "alta",
-      "silenciosos": [
-        "El Confidencial"
+        "20minutos",
+        "ABC",
+        "El Mundo",
+        "La Vanguardia"
       ]
     }
   ]
