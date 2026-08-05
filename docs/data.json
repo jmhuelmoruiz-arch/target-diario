@@ -1,70 +1,63 @@
 {
-  "fecha": "2026-08-04T12:21:49.502248+00:00",
+  "fecha": "2026-08-05T11:49:07.295778+00:00",
   "historias": [
     {
-      "neutral_headline": "Distintas coberturas sobre el eclipse solar total y sus circunstancias (meteorología, ubicaciones, turismo)",
-      "section": "Sociedad",
+      "neutral_headline": "La Audiencia Nacional pregunta a la Guardia Civil si tuvo información previa sobre la entrada masiva de inmigrantes en Ceuta",
+      "section": "Politica",
       "facts": [
-        "Habrá un eclipse solar total la semana del 10 al 16",
-        "La franja de totalidad afecta a zonas de la España vaciada y al trazado del Camino de Santiago",
-        "La duración de la fase total ronda el minuto y medio en algunas localizaciones",
-        "Existe incertidumbre meteorológica sobre la posible nubosidad, especialmente en la costa norte",
-        "Un meteorólogo (Samuel Biener) señala que los mapas indican un punto de inflexión para la semana del eclipse",
-        "En un pueblo de la Sierra de Madrid la oscuridad total durará 1 minuto y 29 segundos",
-        "En un albergue de la España vaciada se ha pedido hasta 1000 euros por una habitación para ver el eclipse"
+        "La Audiencia Nacional ha preguntado a la Guardia Civil sobre la entrada masiva de inmigrantes en Ceuta",
+        "La pregunta se refiere a si hubo alertas o avisos previos sobre dicha entrada"
       ],
       "tipo_divergencia": "ninguna",
       "eje": null,
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "El minuto y medio de fama de la España vaciada: el eclipse total ocultará el Camino de Santiago",
-          "link": "https://elpais.com/ciencia/2026-08-04/el-minuto-y-medio-de-fama-de-la-espana-vaciada-el-eclipse-total-ocultara-el-camino-de-santiago.html",
+          "headline": "La Audiencia Nacional pregunta a la Guardia Civil si tuvo alguna información que pudiese “alertar” de la entrada masiva en Ceuta",
+          "link": "https://elpais.com/espana/2026-08-05/la-audiencia-nacional-pregunta-a-la-guardia-civil-si-tuvo-alguna-informacion-que-pudiese-alertar-de-la-entrada-masiva-en-ceuta.html",
           "position": 50,
-          "focus": "Destaca el impacto simbólico y geográfico del eclipse sobre la España vaciada y el Camino de Santiago; omite datos meteorológicos o de precios"
+          "focus": "Se centra en si la Guardia Civil tuvo información que pudiese alertar de la entrada"
         },
         {
           "outlet": "El Pais",
-          "headline": "¿Te preocupa el tiempo que hará donde vas a ver el eclipse? De momento, incertidumbre, sobre todo en la costa norte",
-          "link": "https://elpais.com/ciencia/2026-08-04/te-preocupa-el-tiempo-que-hara-donde-vas-a-ver-el-eclipse-de-momento-incertidumbre-sobre-todo-en-la-costa-norte.html",
+          "headline": "Última hora de la entrada de inmigrantes a Ceuta, en directo | La Audiencia pide a la Guardia Civil que aclare si recibió alguna alerta sobre la entrada masiva",
+          "link": "https://elpais.com/espana/2026-08-05/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
           "position": 50,
-          "focus": "Centra en la incertidumbre climática para los espectadores, especialmente en la costa norte; no aborda duración ni turismo"
+          "focus": "Formato de directo, misma pregunta sobre alerta recibida"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "La Audiencia Nacional pregunta a la Guardia Civil si fue alertada de la crisis migratoria en Ceuta durante los días previos",
+          "link": "https://www.elmundo.es/espana/2026/08/05/6a7310a421efa0eb368b4582.html",
+          "position": 50,
+          "focus": "Pregunta si la Guardia Civil fue alertada durante los días previos"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "La Audiencia Nacional pregunta a la Guardia Civil si se registraron avisos previos de la entrada masiva en Ceuta",
+          "link": "https://www.abc.es/espana/audiencia-nacional-pregunta-guardia-civil-registraron-avisos-20260805114112-nt.html",
+          "position": 50,
+          "focus": "Pregunta si se registraron avisos previos"
         },
         {
           "outlet": "eldiario.es",
-          "headline": "¿Habrá nubes durante el eclipse? Aún hay \"mucha incertidumbre\" pero los expertos ya dan algunas pistas",
-          "link": "https://www.eldiario.es/sociedad/habra-nubes-durante-eclipse-hay-incertidumbre-expertos-dan-pistas_1_13427092.html",
+          "headline": "La Audiencia Nacional pregunta a la Guardia Civil si recibió alguna alerta previa sobre la posible llegada de miles de personas a Ceuta",
+          "link": "https://www.eldiario.es/politica/audiencia-nacional-pregunta-guardia-civil-si-recibio-alerta-ceuta-dias-previos_1_13429258.html",
           "position": 50,
-          "focus": "Aporta pistas expertas sobre la nubosidad prevista; se enfoca en la parte científica/meteorológica"
+          "focus": "Pregunta si hubo alerta previa sobre la posible llegada de miles de personas"
         },
         {
-          "outlet": "eldiario.es",
-          "headline": "Mil euros por una habitación para ver el eclipse de sol en un albergue de la España vaciada: “Estás de suerte”",
-          "link": "https://www.eldiario.es/cantabria/mil-euros-habitacion-noche-eclipse-albergue-pueblo-valderredible_1_13425581.html",
+          "outlet": "20minutos",
+          "headline": "La Audiencia Nacional pregunta a la Guardia Civil si hubo avisos antes de la entrada masiva en Ceuta",
+          "link": "https://www.20minutos.es/ceuta/ultima-hora-crisis-migratoria-ceuta-directo-nuevas-entradas_7022675_6.html",
           "position": 50,
-          "focus": "Muestra el impacto económico y turístico del evento, con precios elevados en alojamientos; omite meteorología"
-        },
-        {
-          "outlet": "El Confidencial",
-          "headline": "Samuel Biener, meteorólogo: \"Para la semana del 10 al 16, la del eclipse, los mapas insisten en que será un punto de inflexión\"",
-          "link": "https://www.elconfidencial.com/espana/2026-08-04/samuel-biener-meteorologo-eclipse-mapas-insisten_4399051/",
-          "position": 50,
-          "focus": "Recoge la previsión meteorológica de un experto, hablando de un 'punto de inflexión' en los mapas; no menciona turismo ni ubicaciones concretas"
-        },
-        {
-          "outlet": "El Confidencial",
-          "headline": "El pueblo de la Sierra de Madrid donde mejor se verá el eclipse solar: estará totalmente a oscuras durante 1 minuto y 29 segundos",
-          "link": "https://www.elconfidencial.com/espana/2026-08-04/pueblo-sierra-madrid-donde-mejor-ver-eclipse-solar-1qrt_4400329/",
-          "position": 50,
-          "focus": "Detalla la mejor ubicación en la Sierra de Madrid y la duración exacta de la oscuridad; no trata meteorología ni precios"
+          "focus": "Pregunta si hubo avisos antes de la entrada masiva"
         }
       ],
       "rango": 0,
       "discrepancia": "baja",
       "silenciosos": [
-        "20minutos",
-        "ABC",
-        "El Mundo",
+        "El Confidencial",
         "La Vanguardia"
       ]
     }
