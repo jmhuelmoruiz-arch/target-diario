@@ -1,64 +1,103 @@
 {
-  "fecha": "2026-08-05T11:49:07.295778+00:00",
+  "fecha": "2026-08-06T12:23:42.691386+00:00",
   "historias": [
     {
-      "neutral_headline": "La Audiencia Nacional pregunta a la Guardia Civil si tuvo información previa sobre la entrada masiva de inmigrantes en Ceuta",
+      "neutral_headline": "PP, Vox y Gobierno se posicionan sobre el reparto de menores migrantes desde Ceuta",
       "section": "Politica",
       "facts": [
-        "La Audiencia Nacional ha preguntado a la Guardia Civil sobre la entrada masiva de inmigrantes en Ceuta",
-        "La pregunta se refiere a si hubo alertas o avisos previos sobre dicha entrada"
+        "El PP reconoce que acogerá a los menores migrantes en sus comunidades autónomas",
+        "Vox aleja la posibilidad de ruptura de los gobiernos autonómicos compartidos con el PP por el reparto de menores",
+        "El Gobierno confía en no tener que acudir a la Justicia para resolver el reparto de menores",
+        "El PP pide la apertura del Congreso por la crisis de los menores"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "cooperación institucional",
+        "polo_b": "conflicto político",
+        "resumen": "los medios difieren en si presentan el reparto de menores como un proceso de colaboración entre gobiernos o como un foco de tensión política"
+      },
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "Vox aleja una ruptura de los gobiernos con el PP por el reparto de los menores migrantes desde Ceuta: \"La situación actual es diferente\"",
+          "link": "https://www.elmundo.es/espana/2026/08/06/6a746efdfc6c8381288b4573.html",
+          "position": 10,
+          "focus": "Destaca la distensión entre Vox y PP, mostrando que la coalición se mantiene pese a las diferencias; omite la presión política del PP hacia el Gobierno"
+        },
+        {
+          "outlet": "El Pais",
+          "headline": "El PP reconoce que acogerá a los menores en sus comunidades: “El Partido Popular siempre cumple la ley, en esta ocasión, también”",
+          "link": "https://elpais.com/espana/2026-08-06/el-pp-reconoce-que-acogera-a-los-menores-en-sus-comunidades-el-partido-popular-siempre-cumple-la-ley-en-esta-ocasion-tambien.html",
+          "position": 45,
+          "focus": "Centra la atención en el PP como actor que cumple la ley y acoge a los menores, sin profundizar en el conflicto institucional ni en la respuesta del Gobierno"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "El Gobierno confía en no tener que acudir a la Justicia por el reparto de menores mientras el PP pide la apertura del Congreso por la crisis",
+          "link": "https://www.20minutos.es/nacional/gobierno-confia-no-tener-que-acudir-justicia-por-reparto-menores-mientras-pp-baja-tono-vox-presiona-las-regiones_7022869_0.html",
+          "position": 90,
+          "focus": "Pone el foco en la confrontación política: el Gobierno evita la vía judicial mientras el PP exige la apertura del Congreso, resaltando el enfrentamiento entre instituciones"
+        }
+      ],
+      "rango": 80,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "ABC",
+        "El Confidencial",
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Dos hombres detenidos por asesinar a sus exparejas, en Llanes (Asturias) y en Murcia",
+      "section": "Sociedad",
+      "facts": [
+        "Un guardia civil mató a su exmujer en el cuartel de Llanes",
+        "Según eldiario.es, ese guardia civil tenía una orden de alejamiento vencida y estaba pendiente de expulsión del cuerpo",
+        "Según La Vanguardia, el guardia civil se coló en el cuartel con un arma robada y disparó a bocajarro",
+        "En un caso distinto, un hombre fue detenido por asesinar a su exmujer en un centro comercial en Murcia",
+        "Según eldiario.es, ese detenido tenía una orden de alejamiento vigente",
+        "Según El Confidencial, el detenido se dio a la fuga tras el crimen y fue arrestado en Puerto Lumbreras"
       ],
       "tipo_divergencia": "ninguna",
       "eje": null,
       "frames": [
         {
-          "outlet": "El Pais",
-          "headline": "La Audiencia Nacional pregunta a la Guardia Civil si tuvo alguna información que pudiese “alertar” de la entrada masiva en Ceuta",
-          "link": "https://elpais.com/espana/2026-08-05/la-audiencia-nacional-pregunta-a-la-guardia-civil-si-tuvo-alguna-informacion-que-pudiese-alertar-de-la-entrada-masiva-en-ceuta.html",
+          "outlet": "eldiario.es",
+          "headline": "El guardia civil que asesinó a su exmujer en el cuartel de Llanes tenía una orden de alejamiento vencida e iba a ser expulsado del cuerpo",
+          "link": "https://www.eldiario.es/asturias/llanes-decreta-dias-luto-guardia-civil-asesinada-tiros-exmarido-guardia-civil_1_13431140.html",
           "position": 50,
-          "focus": "Se centra en si la Guardia Civil tuvo información que pudiese alertar de la entrada"
-        },
-        {
-          "outlet": "El Pais",
-          "headline": "Última hora de la entrada de inmigrantes a Ceuta, en directo | La Audiencia pide a la Guardia Civil que aclare si recibió alguna alerta sobre la entrada masiva",
-          "link": "https://elpais.com/espana/2026-08-05/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
-          "position": 50,
-          "focus": "Formato de directo, misma pregunta sobre alerta recibida"
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "La Audiencia Nacional pregunta a la Guardia Civil si fue alertada de la crisis migratoria en Ceuta durante los días previos",
-          "link": "https://www.elmundo.es/espana/2026/08/05/6a7310a421efa0eb368b4582.html",
-          "position": 50,
-          "focus": "Pregunta si la Guardia Civil fue alertada durante los días previos"
-        },
-        {
-          "outlet": "ABC",
-          "headline": "La Audiencia Nacional pregunta a la Guardia Civil si se registraron avisos previos de la entrada masiva en Ceuta",
-          "link": "https://www.abc.es/espana/audiencia-nacional-pregunta-guardia-civil-registraron-avisos-20260805114112-nt.html",
-          "position": 50,
-          "focus": "Pregunta si se registraron avisos previos"
+          "focus": "Destaca fallos institucionales previos (orden vencida, expulsión pendiente) en el caso de Llanes; no menciona el modo del ataque"
         },
         {
           "outlet": "eldiario.es",
-          "headline": "La Audiencia Nacional pregunta a la Guardia Civil si recibió alguna alerta previa sobre la posible llegada de miles de personas a Ceuta",
-          "link": "https://www.eldiario.es/politica/audiencia-nacional-pregunta-guardia-civil-si-recibio-alerta-ceuta-dias-previos_1_13429258.html",
+          "headline": "El detenido por asesinar a su exmujer en un centro comercial en Murcia tenía una orden de alejamiento vigente",
+          "link": "https://www.eldiario.es/murcia/hombre-mata-mujer-centro-comercial-murcia_1_13430845.html",
           "position": 50,
-          "focus": "Pregunta si hubo alerta previa sobre la posible llegada de miles de personas"
+          "focus": "Se centra en el caso de Murcia, señalando que la orden de alejamiento estaba vigente; no aporta detalles sobre la detención"
         },
         {
-          "outlet": "20minutos",
-          "headline": "La Audiencia Nacional pregunta a la Guardia Civil si hubo avisos antes de la entrada masiva en Ceuta",
-          "link": "https://www.20minutos.es/ceuta/ultima-hora-crisis-migratoria-ceuta-directo-nuevas-entradas_7022675_6.html",
+          "outlet": "La Vanguardia",
+          "headline": "El guardia civil de Llanes se coló en el cuartel con un arma robada para matar a su ex a bocajarro",
+          "link": "https://www.lavanguardia.com/vida/20260806/11608932/guardia-civil-llanes-cuartel-arma-robada-chaleco-antibalas-matar-ex-bocajarro.html",
           "position": 50,
-          "focus": "Pregunta si hubo avisos antes de la entrada masiva"
+          "focus": "Detalla el modus operandi del crimen de Llanes (arma robada, disparo a bocajarro); no menciona antecedentes judiciales del agresor"
+        },
+        {
+          "outlet": "El Confidencial",
+          "headline": "Detenido en Puerto Lumbreras (Murcia) el hombre que se dio a la fuga tras matar a su expareja",
+          "link": "https://www.elconfidencial.com/espana/2026-08-06/una-mujer-muere-acuchillada-a-manos-murcia_4401738/",
+          "position": 50,
+          "focus": "Informa de la detención del sospechoso en Murcia tras la fuga; no menciona la existencia de una orden de alejamiento"
         }
       ],
       "rango": 0,
       "discrepancia": "baja",
       "silenciosos": [
-        "El Confidencial",
-        "La Vanguardia"
+        "20minutos",
+        "ABC",
+        "El Mundo",
+        "El Pais"
       ]
     }
   ]
