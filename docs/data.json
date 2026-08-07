@@ -1,42 +1,48 @@
 {
-  "fecha": "2026-08-06T12:23:42.691386+00:00",
+  "fecha": "2026-08-07T08:35:15.218249+00:00",
   "historias": [
     {
-      "neutral_headline": "PP, Vox y Gobierno se posicionan sobre el reparto de menores migrantes desde Ceuta",
+      "neutral_headline": "Cuatro ministros comparecerán en el Congreso por la crisis migratoria en Ceuta",
       "section": "Politica",
       "facts": [
-        "El PP reconoce que acogerá a los menores migrantes en sus comunidades autónomas",
-        "Vox aleja la posibilidad de ruptura de los gobiernos autonómicos compartidos con el PP por el reparto de menores",
-        "El Gobierno confía en no tener que acudir a la Justicia para resolver el reparto de menores",
-        "El PP pide la apertura del Congreso por la crisis de los menores"
+        "Marlaska, Albares, Robles y Bolaños comparecerán en el Congreso por la situación en Ceuta",
+        "La comparecencia se producirá a finales de agosto, según La Vanguardia",
+        "El Mundo señala que la comparecencia llega casi un mes después del asalto a la frontera"
       ],
       "tipo_divergencia": "editorial",
       "eje": {
-        "polo_a": "cooperación institucional",
-        "polo_b": "conflicto político",
-        "resumen": "los medios difieren en si presentan el reparto de menores como un proceso de colaboración entre gobiernos o como un foco de tensión política"
+        "polo_a": "critica por tardanza",
+        "polo_b": "informacion neutra del hecho",
+        "resumen": "El Mundo enmarca la comparecencia como una respuesta tardia del Gobierno, mientras el resto se limita a anunciar el hecho sin ese juicio"
       },
       "frames": [
         {
-          "outlet": "El Mundo",
-          "headline": "Vox aleja una ruptura de los gobiernos con el PP por el reparto de los menores migrantes desde Ceuta: \"La situación actual es diferente\"",
-          "link": "https://www.elmundo.es/espana/2026/08/06/6a746efdfc6c8381288b4573.html",
-          "position": 10,
-          "focus": "Destaca la distensión entre Vox y PP, mostrando que la coalición se mantiene pese a las diferencias; omite la presión política del PP hacia el Gobierno"
+          "outlet": "El Pais",
+          "headline": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Marlaska, Albares, Robles y Bolaños comparecerán en el Congreso por la crisis en Ceuta",
+          "link": "https://elpais.com/espana/2026-08-07/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
+          "position": 90,
+          "focus": "Anuncia la comparecencia como parte de la cobertura en directo, sin subrayar demora alguna"
         },
         {
-          "outlet": "El Pais",
-          "headline": "El PP reconoce que acogerá a los menores en sus comunidades: “El Partido Popular siempre cumple la ley, en esta ocasión, también”",
-          "link": "https://elpais.com/espana/2026-08-06/el-pp-reconoce-que-acogera-a-los-menores-en-sus-comunidades-el-partido-popular-siempre-cumple-la-ley-en-esta-ocasion-tambien.html",
-          "position": 45,
-          "focus": "Centra la atención en el PP como actor que cumple la ley y acoge a los menores, sin profundizar en el conflicto institucional ni en la respuesta del Gobierno"
+          "outlet": "El Mundo",
+          "headline": "El Gobierno anuncia que cuatro ministros comparecerán en el Congreso casi un mes después del asalto a la frontera de Ceuta",
+          "link": "https://www.elmundo.es/espana/2026/08/07/6a7580ade85ece35688b457e.html",
+          "position": 10,
+          "focus": "Destaca explicitamente que la comparecencia llega casi un mes despues del asalto, sugiriendo lentitud del Gobierno"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Robles, Marlaska, Bolaños y Albares comparecerán en el Congreso a finales de agosto por Ceuta",
+          "link": "https://www.lavanguardia.com/politica/20260807/11609510/robles-marlaska-bolanos-albares-compareceran-congreso-finales-agosto-ceuta.html",
+          "position": 70,
+          "focus": "Aporta la fecha concreta (finales de agosto) de forma informativa, sin enfatizar critica temporal"
         },
         {
           "outlet": "20minutos",
-          "headline": "El Gobierno confía en no tener que acudir a la Justicia por el reparto de menores mientras el PP pide la apertura del Congreso por la crisis",
-          "link": "https://www.20minutos.es/nacional/gobierno-confia-no-tener-que-acudir-justicia-por-reparto-menores-mientras-pp-baja-tono-vox-presiona-las-regiones_7022869_0.html",
+          "headline": "Marlaska, Albares, Robles y Bolaños comparecerán en el Congreso por la crisis de Ceuta",
+          "link": "https://www.20minutos.es/nacional/cuatro-ministros-compareceran-agosto-congreso-los-diputados-para-informar-su-gestion-crisis-ceuta_7023464_0.html",
           "position": 90,
-          "focus": "Pone el foco en la confrontación política: el Gobierno evita la vía judicial mientras el PP exige la apertura del Congreso, resaltando el enfrentamiento entre instituciones"
+          "focus": "Informa del hecho de la comparecencia sin anadir valoracion sobre el tiempo transcurrido"
         }
       ],
       "rango": 80,
@@ -44,51 +50,134 @@
       "silenciosos": [
         "ABC",
         "El Confidencial",
-        "La Vanguardia",
         "eldiario.es"
       ]
     },
     {
-      "neutral_headline": "Dos hombres detenidos por asesinar a sus exparejas, en Llanes (Asturias) y en Murcia",
+      "neutral_headline": "Debate sobre el reparto de menores migrantes de Ceuta entre comunidades autónomas",
+      "section": "Politica",
+      "facts": [
+        "El Gobierno prepara un reparto de menores migrantes procedentes de Ceuta",
+        "El PP no se opone a dicho reparto según El Pais",
+        "Vox presiona al PP por la acogida de estos menores en comunidades donde gobiernan en coalición",
+        "La Vanguardia plantea la situación como una pregunta abierta sobre qué hacer con los menores"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "Cooperacion PP-Gobierno",
+        "polo_b": "Conflicto Vox-PP",
+        "resumen": "Los medios difieren en si el hecho relevante es el acuerdo entre PP y Gobierno o la tensión interna que genera Vox dentro de la coalición de derechas"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "El Gobierno se prepara para el reparto de los menores migrantes con la anuencia del PP",
+          "link": "https://elpais.com/espana/2026-08-07/el-gobierno-se-prepara-para-el-reparto-de-los-menores-migrantes-con-la-anuencia-del-pp.html",
+          "position": 10,
+          "focus": "Destaca la anuencia y colaboración del PP con el Gobierno en el reparto, omitiendo la presión interna de Vox"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Vox eleva la presión sobre el PP por la acogida de los menores de Ceuta en las comunidades que gobiernan en coalición",
+          "link": "https://www.eldiario.es/politica/vox-eleva-presion-pp-acogida-menores-ceuta-comunidades-gobiernan-coalicion_1_13431065.html",
+          "position": 90,
+          "focus": "Destaca la presión de Vox sobre el PP y la tensión en las coaliciones de gobierno, omitiendo el acuerdo con el Gobierno central"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "¿Qué hacemos con los menores de Ceuta?",
+          "link": "https://www.lavanguardia.com/opinion/20260807/11609298/que-menores-ceuta.html",
+          "position": 50,
+          "focus": "Plantea la cuestión de forma abierta y neutral, sin señalar responsables ni tensiones políticas concretas"
+        }
+      ],
+      "rango": 80,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Confidencial",
+        "El Mundo"
+      ]
+    },
+    {
+      "neutral_headline": "Migrantes cruzan a nado la frontera de Ceuta: rescate, identificación de desaparecidos y situación de menores",
       "section": "Sociedad",
       "facts": [
-        "Un guardia civil mató a su exmujer en el cuartel de Llanes",
-        "Según eldiario.es, ese guardia civil tenía una orden de alejamiento vencida y estaba pendiente de expulsión del cuerpo",
-        "Según La Vanguardia, el guardia civil se coló en el cuartel con un arma robada y disparó a bocajarro",
-        "En un caso distinto, un hombre fue detenido por asesinar a su exmujer en un centro comercial en Murcia",
-        "Según eldiario.es, ese detenido tenía una orden de alejamiento vigente",
-        "Según El Confidencial, el detenido se dio a la fuga tras el crimen y fue arrestado en Puerto Lumbreras"
+        "Se produjo un rescate de nadadores, incluidos un bebé y una familia, en la frontera de Ceuta",
+        "Existe una oficina dedicada a buscar a los desaparecidos de la tragedia de Ceuta, que utiliza tatuajes, cicatrices y ADN para identificarlos",
+        "Hay menores no acompañados que cruzaron la frontera en Ceuta y se está trabajando en su identificación y destino"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "Heroísmo del rescate",
+        "polo_b": "Crisis institucional y menores",
+        "resumen": "Los medios eligen protagonistas distintos: quienes salvan vidas, quienes buscan a los desaparecidos o quienes deciden el futuro de los menores."
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Las manos que salvaron a los nadadores en la frontera de Ceuta: “Sacar a un bebé y a una familia es una alegría”",
+          "link": "https://elpais.com/espana/2026-08-07/las-manos-que-salvaron-a-los-nadadores-en-la-frontera-de-ceuta-sacar-a-un-bebe-y-a-una-familia-es-una-alegria.html",
+          "position": 10,
+          "focus": "Destaca el acto humano de rescate y la emoción de salvar vidas, sin entrar en el proceso posterior de identificación o gestión institucional."
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Tatuajes, cicatrices y ADN: dentro de la oficina que busca a los desaparecidos de la tragedia de Ceuta",
+          "link": "https://www.eldiario.es/desalambre/tatuajes-cicatrices-adn-oficina-busca-desaparecidos-tragedia-ceuta_1_13432081.html",
+          "position": 50,
+          "focus": "Centra la atención en el trabajo técnico y forense de identificación de desaparecidos, mostrando la dimensión trágica y burocrática del suceso."
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Carrera para identificar a los menores sin techo: ¿Adónde irán tras cruzar la frontera en Ceuta?",
+          "link": "https://www.lavanguardia.com/politica/20260807/11609266/menores-nombre-techo-adonde-iran.html",
+          "position": 90,
+          "focus": "Pone el foco en la incertidumbre sobre el futuro de los menores no acompañados, resaltando el desafío institucional y social tras el cruce."
+        }
+      ],
+      "rango": 80,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Confidencial",
+        "El Mundo"
+      ]
+    },
+    {
+      "neutral_headline": "Refuerzo de vigilancia fronteriza en Ceuta y rescate de 57 personas en pateras llegadas a Cabrera y Formentera",
+      "section": "Sociedad",
+      "facts": [
+        "España mantiene la alerta en Ceuta",
+        "España estrecha coordinación con Marruecos tras nuevas llamadas a cruzar la frontera",
+        "Fueron rescatadas 57 personas",
+        "Llegaron en cuatro pateras a Cabrera y Formentera"
       ],
       "tipo_divergencia": "ninguna",
       "eje": null,
       "frames": [
         {
           "outlet": "eldiario.es",
-          "headline": "El guardia civil que asesinó a su exmujer en el cuartel de Llanes tenía una orden de alejamiento vencida e iba a ser expulsado del cuerpo",
-          "link": "https://www.eldiario.es/asturias/llanes-decreta-dias-luto-guardia-civil-asesinada-tiros-exmarido-guardia-civil_1_13431140.html",
+          "headline": "España mantiene la alerta en Ceuta y estrecha la coordinación con Marruecos tras nuevas llamadas a cruzar la frontera",
+          "link": "https://www.eldiario.es/politica/espana-mantiene-alerta-ceuta-estrecha-coordinacion-marruecos-nuevas-llamadas-cruzar-frontera_1_13432739.html",
           "position": 50,
-          "focus": "Destaca fallos institucionales previos (orden vencida, expulsión pendiente) en el caso de Llanes; no menciona el modo del ataque"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "El detenido por asesinar a su exmujer en un centro comercial en Murcia tenía una orden de alejamiento vigente",
-          "link": "https://www.eldiario.es/murcia/hombre-mata-mujer-centro-comercial-murcia_1_13430845.html",
-          "position": 50,
-          "focus": "Se centra en el caso de Murcia, señalando que la orden de alejamiento estaba vigente; no aporta detalles sobre la detención"
+          "focus": "Centra el foco en la situación fronteriza de Ceuta y la respuesta diplomática con Marruecos, sin mencionar las pateras en Baleares"
         },
         {
           "outlet": "La Vanguardia",
-          "headline": "El guardia civil de Llanes se coló en el cuartel con un arma robada para matar a su ex a bocajarro",
-          "link": "https://www.lavanguardia.com/vida/20260806/11608932/guardia-civil-llanes-cuartel-arma-robada-chaleco-antibalas-matar-ex-bocajarro.html",
+          "headline": "Rescatadas 57 personas llegadas en cuatro pateras a Cabrera y Formentera",
+          "link": "https://www.lavanguardia.com/local/baleares/20260807/11609504/rescatadas-57-personas-llegadas-cuatro-pateras-cabrera-formentera.html",
           "position": 50,
-          "focus": "Detalla el modus operandi del crimen de Llanes (arma robada, disparo a bocajarro); no menciona antecedentes judiciales del agresor"
+          "focus": "Informa del rescate de 57 personas en Cabrera y Formentera, sin relación con la situación en Ceuta"
         },
         {
           "outlet": "El Confidencial",
-          "headline": "Detenido en Puerto Lumbreras (Murcia) el hombre que se dio a la fuga tras matar a su expareja",
-          "link": "https://www.elconfidencial.com/espana/2026-08-06/una-mujer-muere-acuchillada-a-manos-murcia_4401738/",
+          "headline": "Rescatan a 57 personas llegadas en cuatro pateras a Cabrera y Formentera",
+          "link": "https://www.elconfidencial.com/espana/2026-08-07/rescate-migrantes-pateras-baleares-formentera-1tna-1tps_4402385/",
           "position": 50,
-          "focus": "Informa de la detención del sospechoso en Murcia tras la fuga; no menciona la existencia de una orden de alejamiento"
+          "focus": "Informa del rescate de 57 personas en Cabrera y Formentera, sin relación con la situación en Ceuta"
         }
       ],
       "rango": 0,
