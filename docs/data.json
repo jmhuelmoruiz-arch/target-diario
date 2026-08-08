@@ -1,94 +1,170 @@
 {
-  "fecha": "2026-08-07T08:35:15.218249+00:00",
+  "fecha": "2026-08-08T05:22:42.454355+00:00",
   "historias": [
     {
-      "neutral_headline": "Cuatro ministros comparecerán en el Congreso por la crisis migratoria en Ceuta",
+      "neutral_headline": "España impone controles fronterizos a viajeros procedentes de Italia tras la negativa de Meloni a retirar los suyos",
       "section": "Politica",
       "facts": [
-        "Marlaska, Albares, Robles y Bolaños comparecerán en el Congreso por la situación en Ceuta",
-        "La comparecencia se producirá a finales de agosto, según La Vanguardia",
-        "El Mundo señala que la comparecencia llega casi un mes después del asalto a la frontera"
+        "España ha establecido controles a los viajeros procedentes de Italia",
+        "Italia, liderada por Meloni, se ha negado a retirar sus propios controles a los viajeros españoles",
+        "La medida se relaciona con la crisis de Ceuta",
+        "El Mundo describe la situación como controles recíprocos entre España e Italia",
+        "La Vanguardia habla de suspensión de Schengen y de un ultimátum de Sánchez a Meloni"
       ],
       "tipo_divergencia": "editorial",
       "eje": {
-        "polo_a": "critica por tardanza",
-        "polo_b": "informacion neutra del hecho",
-        "resumen": "El Mundo enmarca la comparecencia como una respuesta tardia del Gobierno, mientras el resto se limita a anunciar el hecho sin ese juicio"
+        "polo_a": "conflicto político personal Meloni-Sánchez",
+        "polo_b": "medida administrativa como respuesta a la negativa de Meloni",
+        "resumen": "Algunos medios centran la noticia en el choque personal entre los líderes, mientras otros la presentan como una consecuencia técnica y factual de la negativa italiana"
       },
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Marlaska, Albares, Robles y Bolaños comparecerán en el Congreso por la crisis en Ceuta",
-          "link": "https://elpais.com/espana/2026-08-07/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
-          "position": 90,
-          "focus": "Anuncia la comparecencia como parte de la cobertura en directo, sin subrayar demora alguna"
+          "headline": "Meloni contra Sánchez: la crisis de Ceuta ahonda la brecha entre Roma y Madrid",
+          "link": "https://elpais.com/espana/2026-08-08/meloni-contra-sanchez-la-crisis-de-ceuta-ahonda-la-brecha-entre-roma-y-madrid.html",
+          "position": 10,
+          "focus": "Personaliza el conflicto como enfrentamiento directo entre Meloni y Sánchez, con foco en la relación bilateral Roma-Madrid"
         },
         {
           "outlet": "El Mundo",
-          "headline": "El Gobierno anuncia que cuatro ministros comparecerán en el Congreso casi un mes después del asalto a la frontera de Ceuta",
-          "link": "https://www.elmundo.es/espana/2026/08/07/6a7580ade85ece35688b457e.html",
-          "position": 10,
-          "focus": "Destaca explicitamente que la comparecencia llega casi un mes despues del asalto, sugiriendo lentitud del Gobierno"
+          "headline": "Sánchez y Meloni arrastran a Europa a una fractura histórica con controles recíprocos a los viajeros desde España e Italia en su choque por la crisis en Ceuta",
+          "link": "https://www.elmundo.es/espana/2026/08/07/6a7635a6fc6c8366668b45b6.html",
+          "position": 20,
+          "focus": "Amplía el conflicto a escala europea, hablando de 'fractura histórica' y controles recíprocos, manteniendo el enfoque en el choque de líderes"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "España impone controles a los viajeros procedentes de Italia tras el rechazo de Meloni a quitarlos",
+          "link": "https://www.eldiario.es/politica/espana-reintroduce-controles-viajeros-procedentes-italia-respuesta-negativa-meloni_1_13435354.html",
+          "position": 85,
+          "focus": "Describe la medida española como respuesta directa al rechazo de Meloni, con tono factual y menor carga narrativa sobre el enfrentamiento personal"
         },
         {
           "outlet": "La Vanguardia",
-          "headline": "Robles, Marlaska, Bolaños y Albares comparecerán en el Congreso a finales de agosto por Ceuta",
-          "link": "https://www.lavanguardia.com/politica/20260807/11609510/robles-marlaska-bolanos-albares-compareceran-congreso-finales-agosto-ceuta.html",
+          "headline": "España suspende Schengen con Italia tras rechazar Meloni el ultimátum de Sánchez",
+          "link": "https://www.lavanguardia.com/politica/20260807/11610034/espana-restablece-controles-fronterizos-viajeros-procedentes-italia.html",
           "position": 70,
-          "focus": "Aporta la fecha concreta (finales de agosto) de forma informativa, sin enfatizar critica temporal"
+          "focus": "Introduce el marco de 'ultimátum' de Sánchez, situándose entre el relato personalista y el factual"
+        },
+        {
+          "outlet": "El Confidencial",
+          "headline": "España impone controles fronterizos a viajeros procedentes de Italia tras negarse Meloni a restablecer Schengen",
+          "link": "https://www.elconfidencial.com/espana/2026-08-07/espana-insta-a-italia-a-levantar-la-suspension-del-espacio-schengen-en-dos-dias-o-tomara_4402659/",
+          "position": 90,
+          "focus": "Se centra en la acción administrativa española y la negativa italiana a restablecer Schengen, con lenguaje neutro"
         },
         {
           "outlet": "20minutos",
-          "headline": "Marlaska, Albares, Robles y Bolaños comparecerán en el Congreso por la crisis de Ceuta",
-          "link": "https://www.20minutos.es/nacional/cuatro-ministros-compareceran-agosto-congreso-los-diputados-para-informar-su-gestion-crisis-ceuta_7023464_0.html",
-          "position": 90,
-          "focus": "Informa del hecho de la comparecencia sin anadir valoracion sobre el tiempo transcurrido"
+          "headline": "España establece controles a los viajeros que vengan de Italia tras negarse Meloni a retirar los suyos a los españoles",
+          "link": "https://www.20minutos.es/nacional/espana-establece-controles-los-viajeros-que-vengan-italia-tras-negarse-meloni-retirar-los-suyos-los-espanoles_7023781_0.html",
+          "position": 95,
+          "focus": "Máximo enfoque factual: reporta la medida y su causa (negativa de Meloni) sin dramatizar el choque entre líderes"
         }
       ],
-      "rango": 80,
+      "rango": 85,
       "discrepancia": "alta",
       "silenciosos": [
-        "ABC",
+        "ABC"
+      ]
+    },
+    {
+      "neutral_headline": "De la Espriella toma posesión como presidente de Colombia",
+      "section": "Internacional",
+      "facts": [
+        "Abelardo de la Espriella asumió la presidencia de Colombia",
+        "Juró ante los congresistas y dio su primer discurso a los militares (El Pais)",
+        "Dijo: 'Colombia, desde ahora, deja de ser un paria' (El Pais)",
+        "Dijo: 'Ha comenzado el tiempo de la recuperación del orden, la autoridad y la libertad' (El Mundo)",
+        "Prometió una 'regeneración moral' en Colombia (ABC)",
+        "La Vanguardia describe su llegada como 'otro avance de la derecha dura'"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "cobertura institucional/neutral",
+        "polo_b": "crítica al giro derechista",
+        "resumen": "Los medios se dividen entre transmitir sin juicio las promesas del nuevo presidente y enmarcar su llegada como un avance ideológico de la derecha dura."
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Abelardo de la Espriella jura ante los congresistas pero da su primer discurso a los militares",
+          "link": "https://elpais.com/america-colombia/2026-08-08/abelardo-de-la-espriella-jura-ante-los-congresistas-pero-da-su-primer-discurso-a-los-militares.html",
+          "position": 70,
+          "focus": "Destaca que su primer discurso fue ante militares antes que ante el poder civil, insinuando una prioridad simbólica"
+        },
+        {
+          "outlet": "El Pais",
+          "headline": "Abelardo de la Espriella convierte su investidura en una cumbre de la derecha: “Colombia, desde ahora, deja de ser un paria”",
+          "link": "https://elpais.com/america-colombia/2026-08-08/abelardo-de-la-espriella-convierte-su-investidura-en-una-cumbre-de-la-derecha-colombia-desde-ahora-deja-de-ser-un-paria.html",
+          "position": 80,
+          "focus": "Enmarca la investidura como una 'cumbre de la derecha' y resalta la retórica de ruptura con el aislamiento internacional"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "De la Espriella, nuevo presidente de Colombia, tras tomar posesión: \"Ha comenzado el tiempo de la recuperación del orden, la autoridad y la libertad\"",
+          "link": "https://www.elmundo.es/internacional/2026/08/07/6a75fcf3e4d4d8106c8b4597.html",
+          "position": 10,
+          "focus": "Recoge literalmente su discurso sobre orden, autoridad y libertad sin calificarlo ideológicamente"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "De la Espriella promete una «regeneración moral» en Colombia",
+          "link": "https://www.abc.es/internacional/espriella-promete-seguridad-colombia-toma-posesion-20260807013136-nt.html",
+          "position": 15,
+          "focus": "Se centra en la promesa de 'regeneración moral', un mensaje institucional sin etiquetas políticas"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "De la Espriella asume la presidencia colombiana en otro avance de la derecha dura",
+          "link": "https://www.lavanguardia.com/internacional/20260808/11609493/espriella-asume-presidencia-colombiana-avance-derecha-dura-suramericana.html",
+          "position": 95,
+          "focus": "Califica explícitamente el hecho como 'avance de la derecha dura', el encuadre más crítico del grupo"
+        }
+      ],
+      "rango": 85,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
         "El Confidencial",
         "eldiario.es"
       ]
     },
     {
-      "neutral_headline": "Debate sobre el reparto de menores migrantes de Ceuta entre comunidades autónomas",
-      "section": "Politica",
+      "neutral_headline": "Feminicidio de la guardia civil Laura Cruz en Llanes a manos de Dámaso",
+      "section": "Sociedad",
       "facts": [
-        "El Gobierno prepara un reparto de menores migrantes procedentes de Ceuta",
-        "El PP no se opone a dicho reparto según El Pais",
-        "Vox presiona al PP por la acogida de estos menores en comunidades donde gobiernan en coalición",
-        "La Vanguardia plantea la situación como una pregunta abierta sobre qué hacer con los menores"
+        "Laura Cruz, guardia civil, fue asesinada en Llanes",
+        "El presunto autor es identificado como Dámaso",
+        "Laura Cruz había presentado una denuncia previa expresando miedo hacia Dámaso",
+        "El crimen se produjo en un lugar público, según eldiario.es"
       ],
       "tipo_divergencia": "editorial",
       "eje": {
-        "polo_a": "Cooperacion PP-Gobierno",
-        "polo_b": "Conflicto Vox-PP",
-        "resumen": "Los medios difieren en si el hecho relevante es el acuerdo entre PP y Gobierno o la tensión interna que genera Vox dentro de la coalición de derechas"
+        "polo_a": "caso individual (Laura y Dámaso)",
+        "polo_b": "analisis estructural del feminicidio",
+        "resumen": "Los medios se dividen entre centrar el relato en el caso personal de Laura Cruz o usarlo como ejemplo para analizar un patron social de feminicidios en espacios publicos"
       },
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "El Gobierno se prepara para el reparto de los menores migrantes con la anuencia del PP",
-          "link": "https://elpais.com/espana/2026-08-07/el-gobierno-se-prepara-para-el-reparto-de-los-menores-migrantes-con-la-anuencia-del-pp.html",
+          "headline": "La última denuncia de Laura Cruz: “Tengo tanto miedo a Dámaso porque no le importa a quién llevarse por medio”",
+          "link": "https://elpais.com/sociedad/2026-08-08/la-ultima-denuncia-de-laura-cruz-tengo-tanto-miedo-a-damaso-porque-no-le-importa-a-quien-llevarse-por-medio.html",
           "position": 10,
-          "focus": "Destaca la anuencia y colaboración del PP con el Gobierno en el reparto, omitiendo la presión interna de Vox"
+          "focus": "Destaca la voz de la propia victima y su denuncia previa, poniendo el foco en el miedo que ella misma expreso antes de morir; omite el contexto social mas amplio"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "El calvario de la guardia civil asesinada en Llanes: \"Laura sabía perfectamente que Dámaso la iba a matar\"",
+          "link": "https://www.elmundo.es/espana/2026/08/07/6a7612affdddff9a108b45ca.html",
+          "position": 20,
+          "focus": "Enfatiza el sufrimiento y la inevitabilidad del desenlace ('sabia perfectamente que la iba a matar'), narrativa centrada en el caso concreto y su dramatismo; omite analisis estructural"
         },
         {
           "outlet": "eldiario.es",
-          "headline": "Vox eleva la presión sobre el PP por la acogida de los menores de Ceuta en las comunidades que gobiernan en coalición",
-          "link": "https://www.eldiario.es/politica/vox-eleva-presion-pp-acogida-menores-ceuta-comunidades-gobiernan-coalicion_1_13431065.html",
+          "headline": "Cuando los asesinatos machistas se producen en lugares públicos: \"Es la escenificación de un crimen moral\"",
+          "link": "https://www.eldiario.es/sociedad/asesinatos-machistas-producen-lugares-publicos-escenificacion-crimen-moral_1_13432597.html",
           "position": 90,
-          "focus": "Destaca la presión de Vox sobre el PP y la tensión en las coaliciones de gobierno, omitiendo el acuerdo con el Gobierno central"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "¿Qué hacemos con los menores de Ceuta?",
-          "link": "https://www.lavanguardia.com/opinion/20260807/11609298/que-menores-ceuta.html",
-          "position": 50,
-          "focus": "Plantea la cuestión de forma abierta y neutral, sin señalar responsables ni tensiones políticas concretas"
+          "focus": "Usa el caso como punto de partida para un analisis sociologico sobre los feminicidios en espacios publicos como 'escenificacion de un crimen moral', desplazando el foco del caso individual hacia el patron social"
         }
       ],
       "rango": 80,
@@ -97,96 +173,7 @@
         "20minutos",
         "ABC",
         "El Confidencial",
-        "El Mundo"
-      ]
-    },
-    {
-      "neutral_headline": "Migrantes cruzan a nado la frontera de Ceuta: rescate, identificación de desaparecidos y situación de menores",
-      "section": "Sociedad",
-      "facts": [
-        "Se produjo un rescate de nadadores, incluidos un bebé y una familia, en la frontera de Ceuta",
-        "Existe una oficina dedicada a buscar a los desaparecidos de la tragedia de Ceuta, que utiliza tatuajes, cicatrices y ADN para identificarlos",
-        "Hay menores no acompañados que cruzaron la frontera en Ceuta y se está trabajando en su identificación y destino"
-      ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "Heroísmo del rescate",
-        "polo_b": "Crisis institucional y menores",
-        "resumen": "Los medios eligen protagonistas distintos: quienes salvan vidas, quienes buscan a los desaparecidos o quienes deciden el futuro de los menores."
-      },
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "Las manos que salvaron a los nadadores en la frontera de Ceuta: “Sacar a un bebé y a una familia es una alegría”",
-          "link": "https://elpais.com/espana/2026-08-07/las-manos-que-salvaron-a-los-nadadores-en-la-frontera-de-ceuta-sacar-a-un-bebe-y-a-una-familia-es-una-alegria.html",
-          "position": 10,
-          "focus": "Destaca el acto humano de rescate y la emoción de salvar vidas, sin entrar en el proceso posterior de identificación o gestión institucional."
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "Tatuajes, cicatrices y ADN: dentro de la oficina que busca a los desaparecidos de la tragedia de Ceuta",
-          "link": "https://www.eldiario.es/desalambre/tatuajes-cicatrices-adn-oficina-busca-desaparecidos-tragedia-ceuta_1_13432081.html",
-          "position": 50,
-          "focus": "Centra la atención en el trabajo técnico y forense de identificación de desaparecidos, mostrando la dimensión trágica y burocrática del suceso."
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Carrera para identificar a los menores sin techo: ¿Adónde irán tras cruzar la frontera en Ceuta?",
-          "link": "https://www.lavanguardia.com/politica/20260807/11609266/menores-nombre-techo-adonde-iran.html",
-          "position": 90,
-          "focus": "Pone el foco en la incertidumbre sobre el futuro de los menores no acompañados, resaltando el desafío institucional y social tras el cruce."
-        }
-      ],
-      "rango": 80,
-      "discrepancia": "alta",
-      "silenciosos": [
-        "20minutos",
-        "ABC",
-        "El Confidencial",
-        "El Mundo"
-      ]
-    },
-    {
-      "neutral_headline": "Refuerzo de vigilancia fronteriza en Ceuta y rescate de 57 personas en pateras llegadas a Cabrera y Formentera",
-      "section": "Sociedad",
-      "facts": [
-        "España mantiene la alerta en Ceuta",
-        "España estrecha coordinación con Marruecos tras nuevas llamadas a cruzar la frontera",
-        "Fueron rescatadas 57 personas",
-        "Llegaron en cuatro pateras a Cabrera y Formentera"
-      ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "eldiario.es",
-          "headline": "España mantiene la alerta en Ceuta y estrecha la coordinación con Marruecos tras nuevas llamadas a cruzar la frontera",
-          "link": "https://www.eldiario.es/politica/espana-mantiene-alerta-ceuta-estrecha-coordinacion-marruecos-nuevas-llamadas-cruzar-frontera_1_13432739.html",
-          "position": 50,
-          "focus": "Centra el foco en la situación fronteriza de Ceuta y la respuesta diplomática con Marruecos, sin mencionar las pateras en Baleares"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Rescatadas 57 personas llegadas en cuatro pateras a Cabrera y Formentera",
-          "link": "https://www.lavanguardia.com/local/baleares/20260807/11609504/rescatadas-57-personas-llegadas-cuatro-pateras-cabrera-formentera.html",
-          "position": 50,
-          "focus": "Informa del rescate de 57 personas en Cabrera y Formentera, sin relación con la situación en Ceuta"
-        },
-        {
-          "outlet": "El Confidencial",
-          "headline": "Rescatan a 57 personas llegadas en cuatro pateras a Cabrera y Formentera",
-          "link": "https://www.elconfidencial.com/espana/2026-08-07/rescate-migrantes-pateras-baleares-formentera-1tna-1tps_4402385/",
-          "position": 50,
-          "focus": "Informa del rescate de 57 personas en Cabrera y Formentera, sin relación con la situación en Ceuta"
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "20minutos",
-        "ABC",
-        "El Mundo",
-        "El Pais"
+        "La Vanguardia"
       ]
     }
   ]
