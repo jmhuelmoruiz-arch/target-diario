@@ -1,179 +1,98 @@
 {
-  "fecha": "2026-08-08T05:22:42.454355+00:00",
+  "fecha": "2026-08-09T05:30:33.116954+00:00",
   "historias": [
     {
-      "neutral_headline": "España impone controles fronterizos a viajeros procedentes de Italia tras la negativa de Meloni a retirar los suyos",
-      "section": "Politica",
+      "neutral_headline": "Piezas de temática variada sin hecho noticioso común",
+      "section": "Sociedad",
       "facts": [
-        "España ha establecido controles a los viajeros procedentes de Italia",
-        "Italia, liderada por Meloni, se ha negado a retirar sus propios controles a los viajeros españoles",
-        "La medida se relaciona con la crisis de Ceuta",
-        "El Mundo describe la situación como controles recíprocos entre España e Italia",
-        "La Vanguardia habla de suspensión de Schengen y de un ultimátum de Sánchez a Meloni"
+        "No hay un hecho único compartido entre las piezas listadas: cada índice trata un tema distinto (piscina histórica en Madrid, cineclub en Barcelona, cuadernos de verano, circuito de F1 de Valencia, canteras de Carrara, política de ultraderecha, crecida del Nilo, comercio en Logroño, incendio en Moratalla, accidente ferroviario en Talavera, evento de inversión en Extremadura)."
       ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "conflicto político personal Meloni-Sánchez",
-        "polo_b": "medida administrativa como respuesta a la negativa de Meloni",
-        "resumen": "Algunos medios centran la noticia en el choque personal entre los líderes, mientras otros la presentan como una consecuencia técnica y factual de la negativa italiana"
-      },
+      "tipo_divergencia": "ninguna",
+      "eje": null,
       "frames": [
         {
-          "outlet": "El Pais",
-          "headline": "Meloni contra Sánchez: la crisis de Ceuta ahonda la brecha entre Roma y Madrid",
-          "link": "https://elpais.com/espana/2026-08-08/meloni-contra-sanchez-la-crisis-de-ceuta-ahonda-la-brecha-entre-roma-y-madrid.html",
-          "position": 10,
-          "focus": "Personaliza el conflicto como enfrentamiento directo entre Meloni y Sánchez, con foco en la relación bilateral Roma-Madrid"
+          "outlet": "El Mundo",
+          "headline": "La historia secreta de la Cuesta de San Vicente: la primera piscina cubierta de Madrid sepultada bajo el Hotel Príncipe Pío",
+          "link": "https://www.elmundo.es/madrid/2026/08/09/6a721d3821efa09c368b4597.html",
+          "position": 50,
+          "focus": "Reportaje histórico sobre una piscina cubierta desaparecida bajo un hotel en Madrid"
         },
         {
           "outlet": "El Mundo",
-          "headline": "Sánchez y Meloni arrastran a Europa a una fractura histórica con controles recíprocos a los viajeros desde España e Italia en su choque por la crisis en Ceuta",
-          "link": "https://www.elmundo.es/espana/2026/08/07/6a7635a6fc6c8366668b45b6.html",
-          "position": 20,
-          "focus": "Amplía el conflicto a escala europea, hablando de 'fractura histórica' y controles recíprocos, manteniendo el enfoque en el choque de líderes"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "España impone controles a los viajeros procedentes de Italia tras el rechazo de Meloni a quitarlos",
-          "link": "https://www.eldiario.es/politica/espana-reintroduce-controles-viajeros-procedentes-italia-respuesta-negativa-meloni_1_13435354.html",
-          "position": 85,
-          "focus": "Describe la medida española como respuesta directa al rechazo de Meloni, con tono factual y menor carga narrativa sobre el enfrentamiento personal"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "España suspende Schengen con Italia tras rechazar Meloni el ultimátum de Sánchez",
-          "link": "https://www.lavanguardia.com/politica/20260807/11610034/espana-restablece-controles-fronterizos-viajeros-procedentes-italia.html",
-          "position": 70,
-          "focus": "Introduce el marco de 'ultimátum' de Sánchez, situándose entre el relato personalista y el factual"
-        },
-        {
-          "outlet": "El Confidencial",
-          "headline": "España impone controles fronterizos a viajeros procedentes de Italia tras negarse Meloni a restablecer Schengen",
-          "link": "https://www.elconfidencial.com/espana/2026-08-07/espana-insta-a-italia-a-levantar-la-suspension-del-espacio-schengen-en-dos-dias-o-tomara_4402659/",
-          "position": 90,
-          "focus": "Se centra en la acción administrativa española y la negativa italiana a restablecer Schengen, con lenguaje neutro"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "España establece controles a los viajeros que vengan de Italia tras negarse Meloni a retirar los suyos a los españoles",
-          "link": "https://www.20minutos.es/nacional/espana-establece-controles-los-viajeros-que-vengan-italia-tras-negarse-meloni-retirar-los-suyos-los-espanoles_7023781_0.html",
-          "position": 95,
-          "focus": "Máximo enfoque factual: reporta la medida y su causa (negativa de Meloni) sin dramatizar el choque entre líderes"
-        }
-      ],
-      "rango": 85,
-      "discrepancia": "alta",
-      "silenciosos": [
-        "ABC"
-      ]
-    },
-    {
-      "neutral_headline": "De la Espriella toma posesión como presidente de Colombia",
-      "section": "Internacional",
-      "facts": [
-        "Abelardo de la Espriella asumió la presidencia de Colombia",
-        "Juró ante los congresistas y dio su primer discurso a los militares (El Pais)",
-        "Dijo: 'Colombia, desde ahora, deja de ser un paria' (El Pais)",
-        "Dijo: 'Ha comenzado el tiempo de la recuperación del orden, la autoridad y la libertad' (El Mundo)",
-        "Prometió una 'regeneración moral' en Colombia (ABC)",
-        "La Vanguardia describe su llegada como 'otro avance de la derecha dura'"
-      ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "cobertura institucional/neutral",
-        "polo_b": "crítica al giro derechista",
-        "resumen": "Los medios se dividen entre transmitir sin juicio las promesas del nuevo presidente y enmarcar su llegada como un avance ideológico de la derecha dura."
-      },
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "Abelardo de la Espriella jura ante los congresistas pero da su primer discurso a los militares",
-          "link": "https://elpais.com/america-colombia/2026-08-08/abelardo-de-la-espriella-jura-ante-los-congresistas-pero-da-su-primer-discurso-a-los-militares.html",
-          "position": 70,
-          "focus": "Destaca que su primer discurso fue ante militares antes que ante el poder civil, insinuando una prioridad simbólica"
-        },
-        {
-          "outlet": "El Pais",
-          "headline": "Abelardo de la Espriella convierte su investidura en una cumbre de la derecha: “Colombia, desde ahora, deja de ser un paria”",
-          "link": "https://elpais.com/america-colombia/2026-08-08/abelardo-de-la-espriella-convierte-su-investidura-en-una-cumbre-de-la-derecha-colombia-desde-ahora-deja-de-ser-un-paria.html",
-          "position": 80,
-          "focus": "Enmarca la investidura como una 'cumbre de la derecha' y resalta la retórica de ruptura con el aislamiento internacional"
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "De la Espriella, nuevo presidente de Colombia, tras tomar posesión: \"Ha comenzado el tiempo de la recuperación del orden, la autoridad y la libertad\"",
-          "link": "https://www.elmundo.es/internacional/2026/08/07/6a75fcf3e4d4d8106c8b4597.html",
-          "position": 10,
-          "focus": "Recoge literalmente su discurso sobre orden, autoridad y libertad sin calificarlo ideológicamente"
+          "headline": "Un DJ, una pantalla y mucho pum pum pum: así son los lunes de cineclub en la Sala Apolo",
+          "link": "https://www.elmundo.es/cultura/musica/2026/08/08/6a731ac9e4d4d86c2a8b45a7.html",
+          "position": 50,
+          "focus": "Crónica sobre sesiones de cineclub nocturno con DJ en una sala de Barcelona"
         },
         {
           "outlet": "ABC",
-          "headline": "De la Espriella promete una «regeneración moral» en Colombia",
-          "link": "https://www.abc.es/internacional/espriella-promete-seguridad-colombia-toma-posesion-20260807013136-nt.html",
-          "position": 15,
-          "focus": "Se centra en la promesa de 'regeneración moral', un mensaje institucional sin etiquetas políticas"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "De la Espriella asume la presidencia colombiana en otro avance de la derecha dura",
-          "link": "https://www.lavanguardia.com/internacional/20260808/11609493/espriella-asume-presidencia-colombiana-avance-derecha-dura-suramericana.html",
-          "position": 95,
-          "focus": "Califica explícitamente el hecho como 'avance de la derecha dura', el encuadre más crítico del grupo"
-        }
-      ],
-      "rango": 85,
-      "discrepancia": "alta",
-      "silenciosos": [
-        "20minutos",
-        "El Confidencial",
-        "eldiario.es"
-      ]
-    },
-    {
-      "neutral_headline": "Feminicidio de la guardia civil Laura Cruz en Llanes a manos de Dámaso",
-      "section": "Sociedad",
-      "facts": [
-        "Laura Cruz, guardia civil, fue asesinada en Llanes",
-        "El presunto autor es identificado como Dámaso",
-        "Laura Cruz había presentado una denuncia previa expresando miedo hacia Dámaso",
-        "El crimen se produjo en un lugar público, según eldiario.es"
-      ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "caso individual (Laura y Dámaso)",
-        "polo_b": "analisis estructural del feminicidio",
-        "resumen": "Los medios se dividen entre centrar el relato en el caso personal de Laura Cruz o usarlo como ejemplo para analizar un patron social de feminicidios en espacios publicos"
-      },
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "La última denuncia de Laura Cruz: “Tengo tanto miedo a Dámaso porque no le importa a quién llevarse por medio”",
-          "link": "https://elpais.com/sociedad/2026-08-08/la-ultima-denuncia-de-laura-cruz-tengo-tanto-miedo-a-damaso-porque-no-le-importa-a-quien-llevarse-por-medio.html",
-          "position": 10,
-          "focus": "Destaca la voz de la propia victima y su denuncia previa, poniendo el foco en el miedo que ella misma expreso antes de morir; omite el contexto social mas amplio"
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "El calvario de la guardia civil asesinada en Llanes: \"Laura sabía perfectamente que Dámaso la iba a matar\"",
-          "link": "https://www.elmundo.es/espana/2026/08/07/6a7612affdddff9a108b45ca.html",
-          "position": 20,
-          "focus": "Enfatiza el sufrimiento y la inevitabilidad del desenlace ('sabia perfectamente que la iba a matar'), narrativa centrada en el caso concreto y su dramatismo; omite analisis estructural"
+          "headline": "El refugio nostálgico ante la invasión digital: los cuadernos de verano",
+          "link": "https://www.abc.es/cultura/libros/refugio-nostalgico-ante-invasion-digital-cuadernos-verano-20260731011003-nt.html",
+          "position": 50,
+          "focus": "Reflexión sobre el uso de cuadernos de verano frente a la digitalización"
         },
         {
           "outlet": "eldiario.es",
-          "headline": "Cuando los asesinatos machistas se producen en lugares públicos: \"Es la escenificación de un crimen moral\"",
-          "link": "https://www.eldiario.es/sociedad/asesinatos-machistas-producen-lugares-publicos-escenificacion-crimen-moral_1_13432597.html",
-          "position": 90,
-          "focus": "Usa el caso como punto de partida para un analisis sociologico sobre los feminicidios en espacios publicos como 'escenificacion de un crimen moral', desplazando el foco del caso individual hacia el patron social"
+          "headline": "Qué pasó con la Fórmula 1 de València: el circuito son chabolas y el proyecto, una tumba de dinero público",
+          "link": "https://www.eldiario.es/comunitat-valenciana/paso-formula-1-valencia-circuito-son-chabolas-proyecto-tumba-dinero-publico_1_13411509.html",
+          "position": 50,
+          "focus": "Investigación sobre el estado actual del circuito de F1 de Valencia y su coste público"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Carrara no es solo cosa de oligarcas",
+          "link": "https://www.lavanguardia.com/cultura/20260809/11610024/carrara-marmol-techno-rave-musica-ultrarricos-oligarcas.html",
+          "position": 50,
+          "focus": "Artículo sobre la actividad económica en las canteras de mármol de Carrara"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "El Conde Basura reta a la ultraderecha",
+          "link": "https://www.lavanguardia.com/opinion/20260809/11610384/conde-basura-reta-ultraderecha.html",
+          "position": 50,
+          "focus": "Análisis político sobre un personaje apodado 'Conde Basura' frente a la ultraderecha"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "El Nilo amenaza a los faraones",
+          "link": "https://www.lavanguardia.com/vida/20260809/11608551/nilo-amenaza-faraones.html",
+          "position": 50,
+          "focus": "Reportaje sobre el impacto del Nilo en yacimientos arqueológicos egipcios"
+        },
+        {
+          "outlet": "El Confidencial",
+          "headline": "'Última Milla': el proyecto piloto sostenible de la UE que ha revolucionado el comercio de Logroño",
+          "link": "https://www.elconfidencial.com/espana/2026-08-09/ultima-milla-proyecto-piloto-sostenible-ue-revolucion-comercio-logrono_4402012/",
+          "position": 50,
+          "focus": "Descripción de un proyecto piloto europeo de logística sostenible en Logroño"
+        },
+        {
+          "outlet": "El Confidencial",
+          "headline": "Estabilizado el incendio forestal en Moratalla (Murcia) tras un amplio despliegue interautonómico",
+          "link": "https://www.elconfidencial.com/espana/2026-08-08/incendio-moratalla-efectivos-miteco_4403272/",
+          "position": 50,
+          "focus": "Actualización sobre el control de un incendio forestal en Moratalla, Murcia"
+        },
+        {
+          "outlet": "El Confidencial",
+          "headline": "Recuperada la línea de tren Madrid-Extremadura tras el arrollamiento mortal de una persona en Talavera",
+          "link": "https://www.elconfidencial.com/espana/2026-08-08/cortada-linea-tren-madrid-extremadura-arrollamiento-mortal-talavera-1tna_4403067/",
+          "position": 50,
+          "focus": "Noticia sobre la reanudación del servicio ferroviario Madrid-Extremadura tras un accidente mortal"
+        },
+        {
+          "outlet": "El Confidencial",
+          "headline": "III edición de 'Extremadura, destino inversor', en imágenes",
+          "link": "https://www.elconfidencial.com/espana/2026-07-11/extremadura-inversion-galeria-economia-bra_4386328/",
+          "position": 50,
+          "focus": "Cobertura fotográfica de un evento de promoción de inversión en Extremadura"
         }
       ],
-      "rango": 80,
-      "discrepancia": "alta",
+      "rango": 0,
+      "discrepancia": "baja",
       "silenciosos": [
         "20minutos",
-        "ABC",
-        "El Confidencial",
-        "La Vanguardia"
+        "El Pais"
       ]
     }
   ]
