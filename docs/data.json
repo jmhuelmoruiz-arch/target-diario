@@ -1,98 +1,194 @@
 {
-  "fecha": "2026-08-09T05:30:33.116954+00:00",
+  "fecha": "2026-08-10T05:56:51.853409+00:00",
   "historias": [
     {
-      "neutral_headline": "Piezas de temática variada sin hecho noticioso común",
+      "neutral_headline": "Situación migratoria en Ceuta: solicitudes de asilo, protestas ciudadanas y ayuda vecinal",
       "section": "Sociedad",
       "facts": [
-        "No hay un hecho único compartido entre las piezas listadas: cada índice trata un tema distinto (piscina histórica en Madrid, cineclub en Barcelona, cuadernos de verano, circuito de F1 de Valencia, canteras de Carrara, política de ultraderecha, crecida del Nilo, comercio en Logroño, incendio en Moratalla, accidente ferroviario en Talavera, evento de inversión en Extremadura)."
+        "Un hombre que se identifica como palestino dice haber cruzado a nado a Ceuta y no recibe respuesta sobre su solicitud de asilo, según El País",
+        "Ceuta protesta con el lema 'Basta ya' y exige respuestas a España y a la Unión Europea, según El Mundo",
+        "Vecinos de Ceuta han levantado campamentos para acoger a mujeres y niñas migrantes, según eldiario.es",
+        "Según eldiario.es, algunas de estas mujeres y niñas relatan haber pasado días sin conseguir comer"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "Ceuta como institución/ciudad que exige respuestas",
+        "polo_b": "Migrantes como protagonistas y solidaridad ciudadana",
+        "resumen": "Los medios difieren en si el protagonista de la crisis es la ciudad de Ceuta reclamando a las autoridades, o las personas migrantes y quienes las ayudan"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "El asilo que no llega a Ceuta: “Soy palestino, crucé a nado y no me dicen nada de mi solicitud”",
+          "link": "https://elpais.com/espana/2026-08-10/el-asilo-que-no-llega-a-ceuta-soy-palestino-cruce-a-nado-y-no-me-dicen-nada-de-mi-solicitud.html",
+          "position": 55,
+          "focus": "Centra el relato en un solicitante de asilo concreto y en el fallo del sistema burocrático; omite la reacción de la ciudad o de los vecinos"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Ceuta clama \"Basta ya\" y exige respuestas a España y Europa",
+          "link": "https://www.elmundo.es/espana/2026/08/09/6a78d34ae85eced91b8b456e.html",
+          "position": 10,
+          "focus": "Pone el foco en Ceuta como colectivo que exige respuestas a las administraciones; no menciona a los migrantes como sujetos individuales ni la ayuda vecinal"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Los vecinos levantan campamentos para acoger a mujeres y niñas que llegaron a Ceuta: \"Durante días no conseguimos comer\"",
+          "link": "https://www.eldiario.es/desalambre/vecinos-levantan-campamentos-acoger-mujeres-ninas-llegaron-ceuta-durante-dias-no-comer_1_13437085.html",
+          "position": 90,
+          "focus": "Destaca la solidaridad vecinal y las condiciones precarias de mujeres y niñas migrantes; omite la dimensión institucional o el reclamo político de la ciudad"
+        }
+      ],
+      "rango": 80,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Confidencial",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "Cobertura informativa del eclipse solar total del 12 de agosto en España",
+      "section": "Sociedad",
+      "facts": [
+        "Habrá un eclipse solar total visible en España el 12 de agosto",
+        "El Pais publica un mapa sobre la previsión de nubosidad por municipio para el eclipse",
+        "eldiario.es publica un mapa con el recorrido y la visibilidad del eclipse minuto a minuto por municipio",
+        "La Vanguardia informa de que la NASA ha alquilado un pequeño pueblo de Burgos para retransmitir el eclipse",
+        "La Vanguardia publica una guía general sobre cuándo, dónde y cómo ver el eclipse total en España",
+        "La Vanguardia ofrece consejos para observar el eclipse total",
+        "20minutos entrevista a Izaskun Lacunza, directora de la Fundación de la Ciencia y la Tecnología, sobre el impacto del eclipse en las vocaciones científicas",
+        "20minutos dedica un especial al eclipse solar total en España del 12 de agosto de 2026",
+        "20minutos publica el horario del eclipse por lugar en España",
+        "El Mundo entrevista a la astrónoma Eva Villaver sobre la experiencia de observar un eclipse solar"
       ],
       "tipo_divergencia": "ninguna",
       "eje": null,
       "frames": [
         {
-          "outlet": "El Mundo",
-          "headline": "La historia secreta de la Cuesta de San Vicente: la primera piscina cubierta de Madrid sepultada bajo el Hotel Príncipe Pío",
-          "link": "https://www.elmundo.es/madrid/2026/08/09/6a721d3821efa09c368b4597.html",
+          "outlet": "El Pais",
+          "headline": "¿Dónde habrá nubes durante el eclipse? Consulte cómo estarán los cielos y el horizonte en cada municipio",
+          "link": "https://elpais.com/el-tiempo/2026-08-10/donde-habra-nubes-que-impidan-ver-el-eclipse-consulte-como-estaran-los-cielos-y-el-horizonte-en-cada-municipio.html",
           "position": 50,
-          "focus": "Reportaje histórico sobre una piscina cubierta desaparecida bajo un hotel en Madrid"
+          "focus": "Se centra en la previsión meteorológica y la nubosidad por municipio, sin abordar otros aspectos del evento"
         },
         {
           "outlet": "El Mundo",
-          "headline": "Un DJ, una pantalla y mucho pum pum pum: así son los lunes de cineclub en la Sala Apolo",
-          "link": "https://www.elmundo.es/cultura/musica/2026/08/08/6a731ac9e4d4d86c2a8b45a7.html",
+          "headline": "Eva Villaver, astrónoma: \"Un eclipse solar es uno de los fenómenos más sobrecogedores que uno puede experimentar\"",
+          "link": "https://www.elmundo.es/ciencia/2026/08/09/6a75f6e1fc6c83c9228b4578.html",
           "position": 50,
-          "focus": "Crónica sobre sesiones de cineclub nocturno con DJ en una sala de Barcelona"
-        },
-        {
-          "outlet": "ABC",
-          "headline": "El refugio nostálgico ante la invasión digital: los cuadernos de verano",
-          "link": "https://www.abc.es/cultura/libros/refugio-nostalgico-ante-invasion-digital-cuadernos-verano-20260731011003-nt.html",
-          "position": 50,
-          "focus": "Reflexión sobre el uso de cuadernos de verano frente a la digitalización"
+          "focus": "Aporta una perspectiva personal y científica a través de la voz de una astrónoma, sin datos logísticos"
         },
         {
           "outlet": "eldiario.es",
-          "headline": "Qué pasó con la Fórmula 1 de València: el circuito son chabolas y el proyecto, una tumba de dinero público",
-          "link": "https://www.eldiario.es/comunitat-valenciana/paso-formula-1-valencia-circuito-son-chabolas-proyecto-tumba-dinero-publico_1_13411509.html",
+          "headline": "MAPA | Dónde ver el eclipse solar del 12 de agosto: recorrido y visibilidad en cada municipio, minuto a minuto",
+          "link": "https://www.eldiario.es/sociedad/mapa-ver-eclipse-solar-12-agosto-recorrido-visibilidad-municipio-minuto-minuto_1_13436040.html",
           "position": 50,
-          "focus": "Investigación sobre el estado actual del circuito de F1 de Valencia y su coste público"
+          "focus": "Ofrece un mapa detallado de visibilidad y recorrido, con foco en datos técnicos y geográficos"
         },
         {
           "outlet": "La Vanguardia",
-          "headline": "Carrara no es solo cosa de oligarcas",
-          "link": "https://www.lavanguardia.com/cultura/20260809/11610024/carrara-marmol-techno-rave-musica-ultrarricos-oligarcas.html",
+          "headline": "La NASA alquila un pueblo pequeño de Burgos para retransmitir el eclipse solar",
+          "link": "https://www.lavanguardia.com/vida/20260809/11610764/nasa-alquila-aldea-abandonada-burgos-retransmision-eclipse-solar.html",
           "position": 50,
-          "focus": "Artículo sobre la actividad económica en las canteras de mármol de Carrara"
+          "focus": "Destaca el interés internacional (NASA) y el impacto económico/local en Burgos, sin detalles de visibilidad general"
         },
         {
           "outlet": "La Vanguardia",
-          "headline": "El Conde Basura reta a la ultraderecha",
-          "link": "https://www.lavanguardia.com/opinion/20260809/11610384/conde-basura-reta-ultraderecha.html",
+          "headline": "El eclipse total en España.Cuándo, dónde y cómo verlo",
+          "link": "https://www.lavanguardia.com/vida/20260721/11592032/eclipse-total-espana-cuando-donde-como-verlo.html",
           "position": 50,
-          "focus": "Análisis político sobre un personaje apodado 'Conde Basura' frente a la ultraderecha"
+          "focus": "Proporciona una guía general de cuándo, dónde y cómo ver el eclipse, con enfoque práctico amplio"
         },
         {
           "outlet": "La Vanguardia",
-          "headline": "El Nilo amenaza a los faraones",
-          "link": "https://www.lavanguardia.com/vida/20260809/11608551/nilo-amenaza-faraones.html",
+          "headline": "Consejos para ver el eclipse total",
+          "link": "https://www.lavanguardia.com/vida/20260808/11608508/consejos-ver-eclipse-total-sol-agosto-2026.html",
           "position": 50,
-          "focus": "Reportaje sobre el impacto del Nilo en yacimientos arqueológicos egipcios"
+          "focus": "Se enfoca en consejos prácticos de observación, sin datos de horario o mapas"
         },
         {
-          "outlet": "El Confidencial",
-          "headline": "'Última Milla': el proyecto piloto sostenible de la UE que ha revolucionado el comercio de Logroño",
-          "link": "https://www.elconfidencial.com/espana/2026-08-09/ultima-milla-proyecto-piloto-sostenible-ue-revolucion-comercio-logrono_4402012/",
+          "outlet": "20minutos",
+          "headline": "Izaskun Lacunza, directora de la Fundación de la Ciencia y la Tecnología: \"El eclipse potenciará las vocaciones científicas\"",
+          "link": "https://www.20minutos.es/nacional/izaskun-lacunza-directora-fundacion-espanola-ciencia-tecnologia-eclipse-potenciara-las-vocaciones-cientificas_7020457_0.html",
           "position": 50,
-          "focus": "Descripción de un proyecto piloto europeo de logística sostenible en Logroño"
+          "focus": "Resalta el potencial educativo y científico del evento a través de una entrevista institucional"
         },
         {
-          "outlet": "El Confidencial",
-          "headline": "Estabilizado el incendio forestal en Moratalla (Murcia) tras un amplio despliegue interautonómico",
-          "link": "https://www.elconfidencial.com/espana/2026-08-08/incendio-moratalla-efectivos-miteco_4403272/",
+          "outlet": "20minutos",
+          "headline": "Especial | Eclipse solar total en España del próximo 12 de agosto de 2026: A la sombra del sol",
+          "link": "https://www.20minutos.es/ciencia/eclipse-solar-total-espana-12-agosto-sombra-sol-especial_6979772_4.html",
           "position": 50,
-          "focus": "Actualización sobre el control de un incendio forestal en Moratalla, Murcia"
+          "focus": "Presenta un especial amplio sobre el fenómeno, con enfoque narrativo y contextual"
         },
         {
-          "outlet": "El Confidencial",
-          "headline": "Recuperada la línea de tren Madrid-Extremadura tras el arrollamiento mortal de una persona en Talavera",
-          "link": "https://www.elconfidencial.com/espana/2026-08-08/cortada-linea-tren-madrid-extremadura-arrollamiento-mortal-talavera-1tna_4403067/",
+          "outlet": "20minutos",
+          "headline": "Horario del eclipse solar este 12 de agosto: a qué hora se verá en cada lugar de España",
+          "link": "https://www.20minutos.es/nacional/horario-eclipse-solar-este-12-agosto-que-hora-se-vera-cada-lugar-espana_7023784_0.html",
           "position": 50,
-          "focus": "Noticia sobre la reanudación del servicio ferroviario Madrid-Extremadura tras un accidente mortal"
+          "focus": "Se centra en el horario exacto del eclipse por localidad, con enfoque puramente informativo"
         },
         {
-          "outlet": "El Confidencial",
-          "headline": "III edición de 'Extremadura, destino inversor', en imágenes",
-          "link": "https://www.elconfidencial.com/espana/2026-07-11/extremadura-inversion-galeria-economia-bra_4386328/",
+          "outlet": "La Vanguardia",
+          "headline": "La NASA alquila un pueblo pequeño de Burgos para retransmitir el eclipse solar",
+          "link": "https://www.lavanguardia.com/vida/20260809/11610764/nasa-alquila-aldea-abandonada-burgos-retransmision-eclipse-solar.html",
           "position": 50,
-          "focus": "Cobertura fotográfica de un evento de promoción de inversión en Extremadura"
+          "focus": "Repite el enfoque en la logística de retransmisión de la NASA en Burgos"
         }
       ],
       "rango": 0,
       "discrepancia": "baja",
       "silenciosos": [
-        "20minutos",
-        "El Pais"
+        "ABC",
+        "El Confidencial"
+      ]
+    },
+    {
+      "neutral_headline": "España despliega dispositivos de emergencia ante incendios forestales coincidiendo con el eclipse",
+      "section": "Sociedad",
+      "facts": [
+        "Hay incendios activos en España, incluyendo Niebla (Huelva)",
+        "Se han evacuado más de 600 personas en Los Ángeles de San Rafael, Vegas de Matute (Segovia) y Catí (Castellón)",
+        "Se ha desplegado un dispositivo especial en carreteras con 24.000 agentes",
+        "Coincide con la observación de un eclipse en España"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "atribución causal al eclipse (negligencias)",
+        "polo_b": "hechos concretos sin vincular causa",
+        "resumen": "El Pais atribuye el riesgo de incendios a negligencias durante la observación del eclipse, mientras El Mundo describe los incendios y evacuaciones sin establecer esa relación causal"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "España, en alerta roja por miedo a los incendios por negligencias durante la observación del eclipse",
+          "link": "https://elpais.com/clima-y-medio-ambiente/2026-08-10/espana-en-alerta-roja-por-miedo-a-los-incendios-por-negligencias-durante-la-observacion-del-eclipse.html",
+          "position": 10,
+          "focus": "Destaca la negligencia humana durante el eclipse como causa del riesgo de incendios; omite detalles concretos de incendios ya activos"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Fuego técnico y maquinaria pesada para combatir el incendio de Niebla (Huelva) y más de 600 evacuados en Los Ángeles de San Rafael, Vegas de Matute (Segovia) y Catí (Castellón)",
+          "link": "https://www.elmundo.es/espana/2026/08/10/6a795e5c21efa088308b4592.html",
+          "position": 90,
+          "focus": "Detalla incendios concretos, medios desplegados y cifras de evacuados; no menciona el eclipse como factor causal"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Movilización total en España por el eclipse: dispositivo especial en carreteras, 24.000 agentes y alerta máxima ante incendios",
+          "link": "https://www.20minutos.es/nacional/movilizacion-total-espana-por-eclipse-dispositivo-especial-carreteras-24-000-agentes-alerta-maxima-ante-incendios_7023988_0.html",
+          "position": 40,
+          "focus": "Enfoca la movilización general (carreteras, agentes) vinculada al eclipse, mencionando alerta por incendios pero sin atribuir causa directa"
+        }
+      ],
+      "rango": 80,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "ABC",
+        "El Confidencial",
+        "La Vanguardia",
+        "eldiario.es"
       ]
     }
   ]
