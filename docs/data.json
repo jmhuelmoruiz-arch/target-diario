@@ -1,259 +1,316 @@
 {
-  "fecha": "2026-08-11T05:37:45.854154+00:00",
+  "fecha": "2026-08-13T06:00:31.192855+00:00",
   "historias": [
     {
-      "neutral_headline": "Terremoto de magnitud 7,4 en Colombia provoca cientos de muertos y heridos, y el Gobierno declara emergencia o desastre nacional",
-      "section": "Internacional",
-      "facts": [
-        "Terremoto de magnitud 7,4 en Colombia",
-        "El Pais reporta 132 muertos y 570 heridos",
-        "El Mundo reporta al menos 132 muertos y 570 heridos",
-        "La Vanguardia reporta mas de cien muertos",
-        "eldiario.es reporta mas de 110 muertos",
-        "20minutos reporta al menos 132 muertos y 570 heridos",
-        "El Pais tambien menciona en otra pieza mas de 130 muertos",
-        "Colombia declara estado de emergencia o 'desastre nacional'",
-        "ABC describe testimonios desde la zona cero del terremoto"
-      ],
-      "tipo_divergencia": "cronologica",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "Colombia amanece bajo el estado de emergencia por el terremoto que deja más de 130 muertos",
-          "link": "https://elpais.com/america-colombia/2026-08-11/colombia-amanece-bajo-el-estado-de-emergencia-por-el-terremoto-que-deja-mas-de-130-muertos.html",
-          "position": 50,
-          "focus": "Titular temprano centrado en el estado de emergencia con cifra de mas de 130 muertos, sin dato de heridos"
-        },
-        {
-          "outlet": "El Pais",
-          "headline": "Última hora del terremoto en Colombia, en directo | Al menos 132 muertos y 570 heridos por el terremoto de magnitud 7,4 en Colombia",
-          "link": "https://elpais.com/america-colombia/2026-08-11/ultima-hora-del-terremoto-en-colombia-en-directo.html",
-          "position": 50,
-          "focus": "Cobertura en directo actualizada con cifra final de 132 muertos y 570 heridos"
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "Colombia declara el \"desastre nacional\" tras un terremoto de 7,4 que ha dejado al menos 132 muertos y 570 heridos",
-          "link": "https://www.elmundo.es/internacional/2026/08/10/6a79cc12fdddff3a6a8b4578.html",
-          "position": 50,
-          "focus": "Foco en la declaracion de 'desastre nacional' con cifras de 132 muertos y 570 heridos"
-        },
-        {
-          "outlet": "ABC",
-          "headline": "La zona cero del terremoto en Colombia: «Iba rumbo a la oficina cuando el suelo comenzó a brincar»",
-          "link": "https://www.abc.es/internacional/iba-rumbo-oficina-suelo-comenzo-brincar-20260811010744-nt.html",
-          "position": 50,
-          "focus": "Cronica de testimonios desde la zona cero, sin cifras actualizadas de victimas"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "Colombia busca a las víctimas de su peor terremoto en la última década, que deja más de 110 muertos",
-          "link": "https://www.eldiario.es/internacional/colombia-busca-victimas-peor-terremoto-ultima-decada-deja-110-muertos_1_13439142.html",
-          "position": 50,
-          "focus": "Foco en la busqueda de victimas con cifra mas temprana de mas de 110 muertos"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Colombia declara “desastre nacional” tras un terremoto de 7,4 que deja más de cien muertos",
-          "link": "https://www.lavanguardia.com/internacional/20260810/11611420/terremoto-colombia.html",
-          "position": 50,
-          "focus": "Declaracion de desastre nacional con cifra generica de mas de cien muertos"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "Terremoto en Colombia: al menos 132 muertos y 570 heridos tras el potente seísmo de magnitud 7,4",
-          "link": "https://www.20minutos.es/internacional/un-terremoto-magnitud-7-4-sacude-gran-parte-colombia_7024310_0.html",
-          "position": 50,
-          "focus": "Cifras actualizadas de 132 muertos y 570 heridos, centrado en el seismo"
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "El Confidencial"
-      ]
-    },
-    {
-      "neutral_headline": "Terremoto de magnitud 7,4 sacude Colombia dejando muertos, heridos y daños materiales",
-      "section": "Internacional",
-      "facts": [
-        "Se registró un terremoto de magnitud 7,4 en Colombia",
-        "La Vanguardia reporta al menos 132 muertos según su cobertura en directo",
-        "Cali fue una de las ciudades afectadas, según El País",
-        "Manizales, a 80 km del epicentro, también sintió el sismo, según 20minutos",
-        "Existen mapas que identifican las zonas más afectadas, según eldiario.es",
-        "Vecinos relatan haber sentido fuertes sacudidas y haber salido a la calle por miedo"
-      ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "Cali pasa la primera noche después del terremoto: “¿Qué viene después de esto?”",
-          "link": "https://elpais.com/america-colombia/2026-08-11/cali-pasa-la-primera-noche-despues-del-terremoto-que-viene-despues-de-esto.html",
-          "position": 50,
-          "focus": "Testimonio de habitantes de Cali tras la primera noche post-terremoto, centrado en la incertidumbre sobre lo que vendrá"
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "El relato de una Colombia \"devastada\" por el terremoto: \"Sonó durísimo, sentimos como si hubiera caballos cabalgando debajo de casa\"",
-          "link": "https://www.elmundo.es/internacional/2026/08/10/6a79f7b2fc6c839e488b4593.html",
-          "position": 50,
-          "focus": "Relatos personales de testigos describiendo la intensidad del sismo con metáforas sensoriales"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "Los mapas del terremoto en Colombia: estas son las zonas más afectadas",
-          "link": "https://www.eldiario.es/internacional/mapas-terremoto-colombia-son-zonas-afectadas_1_13438997.html",
-          "position": 50,
-          "focus": "Presentación cartográfica de las zonas más afectadas, enfoque en datos geográficos"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Terremoto en Colombia: las imágenes tras el temblor de 7,4",
-          "link": "https://www.lavanguardia.com/internacional/20260810/11611505/terremoto-colombia-imagenes-temblor-7-4.html",
-          "position": 50,
-          "focus": "Galería de imágenes del terremoto, enfoque visual sin texto explicativo detallado"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Terremoto en Colombia, en directo | Al menos 132 muertos: última hora de los rescates, heridos y desaparecidos tras el seísmo de magnitud 7,4",
-          "link": "https://www.lavanguardia.com/internacional-1/20260811/11611758/terremoto-colombia-directo-132-muertos-ultima-hora-rescates-heridos-desaparecidos-seismo-magnitud-7-4.html",
-          "position": 50,
-          "focus": "Cobertura en directo con cifra de muertos (132) y actualización de rescates, heridos y desaparecidos"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "\"Tensa calma\" en Manizales, a 80 kilómetros del epicentro del seísmo : \"Los vecinos están en la calle\"",
-          "link": "https://www.20minutos.es/internacional/tensa-calma-manizales-80-kilometros-epicentro-seismo-colombia-los-vecinos-estan-calle-por-si-hay-replicas_7024459_0.html",
-          "position": 50,
-          "focus": "Situación en Manizales, ciudad cercana al epicentro, con testimonio sobre calma tensa"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "El miedo de los vecinos en las zonas golpeadas por el terremoto en Colombia: \"El temblor era tan fuerte que no podíamos salir\"",
-          "link": "https://www.20minutos.es/internacional/los-testimonios-los-afectados-por-terremoto-colombia-senti-que-las-copas-vino-iban-estallar-todo-se-movia_7024398_0.html",
-          "position": 50,
-          "focus": "Testimonios de miedo de vecinos en zonas directamente golpeadas por el sismo"
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "ABC",
-        "El Confidencial"
-      ]
-    },
-    {
-      "neutral_headline": "Cobertura informativa sobre el eclipse solar del 12 de agosto en España y el terremoto en Colombia",
+      "neutral_headline": "El eclipse solar es observado por millones de personas en toda España",
       "section": "Sociedad",
       "facts": [
-        "Un terremoto sacudió Colombia y expertos advierten sobre posibles réplicas",
-        "El 12 de agosto se producirá un eclipse total de Sol visible desde España",
-        "Se realizarán experimentos científicos aprovechando el eclipse, incluyendo un avión laboratorio a 11.000 metros de altura",
-        "La DGT ha emitido recomendaciones para conductores durante el eclipse, incluyendo abandonar vías y estacionar en puntos habilitados",
-        "Catalunya quedará a oscuras durante la tarde del eclipse"
+        "Se produjo un eclipse solar visible desde España",
+        "El fenómeno duró varios minutos y oscureció el cielo diurno",
+        "Millones de personas en España observaron el eclipse"
       ],
       "tipo_divergencia": "ninguna",
       "eje": null,
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "Rodrigo León, geólogo colombiano experto en terremotos: “Habrá réplicas, la ciudadanía tiene que prepararse”",
-          "link": "https://elpais.com/america-colombia/2026-08-10/rodrigo-leon-geologo-colombiano-experto-en-terremotos-habra-replicas-la-ciudadania-tiene-que-prepararse.html",
+          "headline": "El eclipse conquista el corazón de España",
+          "link": "https://elpais.com/ciencia/2026-08-12/el-eclipse-solar-conquista-el-corazon-de-espana.html",
           "position": 50,
-          "focus": "Entrevista a experto colombiano sobre riesgo de réplicas tras el terremoto, enfoque en preparación ciudadana"
+          "focus": "Destaca la reacción emocional colectiva del país, sin detalles tecnicos"
         },
         {
           "outlet": "El Pais",
-          "headline": "Mapas y gráficos del devastador terremoto en Colombia",
-          "link": "https://elpais.com/internacional/2026-08-10/mapas-y-graficos-del-devastador-terremoto-en-colombia.html",
+          "headline": "Millones de españoles se maravillan con el eclipse de Sol: “¡Quiero otro!, ¿cuándo hay otro?”",
+          "link": "https://elpais.com/ciencia/2026-08-12/millones-de-espanoles-se-maravillan-con-el-eclipse-de-sol-quiero-otro-cuando-hay-otro.html",
           "position": 50,
-          "focus": "Presentación visual (mapas y gráficos) del impacto del terremoto en Colombia"
+          "focus": "Incluye testimonio directo de asombro popular, sin cifras exactas"
         },
         {
           "outlet": "El Mundo",
-          "headline": "El eclipse total de Sol convierte a España en un gran laboratorio: estos son los  experimentos que se harán el 12 de agosto",
-          "link": "https://www.elmundo.es/ciencia/2026/08/10/6a79a194fc6c83133b8b4590.html",
+          "headline": "El eclipse sobrecoge a media España",
+          "link": "https://www.elmundo.es/ciencia/2026/08/12/6a7c8123e4d4d8662c8b45b7.html",
           "position": 50,
-          "focus": "Enfoque científico: experimentos que se realizarán en España durante el eclipse"
+          "focus": "Enfatiza el impacto emocional en gran parte del territorio"
         },
         {
           "outlet": "ABC",
-          "headline": "El laboratorio aéreo español que perseguirá el eclipse a 11.000 metros de altura",
-          "link": "https://www.abc.es/sociedad/eclipse-11000-metros-observacion-expedicion-cuatro-cientificos-20260805013025-nt.html",
+          "headline": "España se entrega a la magia del eclipse solar",
+          "link": "https://www.abc.es/ciencia/espana-rinde-ante-magia-eclipse-sol-20260812210950-nt.html",
           "position": 50,
-          "focus": "Detalle técnico sobre un laboratorio aéreo español para estudiar el eclipse"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "Manual para disfrutar el eclipse: los cinco detalles en los que debes fijarte para vivir una experiencia inolvidable",
-          "link": "https://www.eldiario.es/sociedad/manual-disfrutar-eclipse-cinco-detalles-debes-fijarte-vivir-experiencia-inolvidable_1_13431722.html",
-          "position": 50,
-          "focus": "Guía práctica para el público sobre cómo disfrutar del eclipse"
+          "focus": "Usa lenguaje de fascinación y magia, sin datos concretos"
         },
         {
           "outlet": "La Vanguardia",
-          "headline": "La tarde de verano en que Catalunya se quedará a oscuras: todo lo que debemos saber",
-          "link": "https://www.lavanguardia.com/local/catalunya/20260807/11609790/tarde-verano-catalunya-quedara-oscuras-todo-debemos-saber-brl.html",
+          "headline": "El eclipse hechiza a España",
+          "link": "https://www.lavanguardia.com/vida/20260812/11612862/eclipse-hechiza-espana.html",
           "position": 50,
-          "focus": "Información regional (Catalunya) sobre el fenómeno y qué esperar"
+          "focus": "Describe el fenómeno como hechizo colectivo nacional"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "España se apaga siete minutos: el histórico eclipse solar convierte el día en noche",
+          "link": "https://www.20minutos.es/nacional/historico-eclipse-solar-alcanza-su-totalidad-convierte-dia-noche-espana_7025239_0.html",
+          "position": 50,
+          "focus": "Aporta dato temporal preciso (siete minutos) y describe el efecto visual"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "España se apagó de punta a punta para que brillase la ciencia: un eclipse histórico que unió a todo un país",
+          "link": "https://www.20minutos.es/nacional/los-siete-minutos-los-que-espana-se-apago-punta-punta-para-que-brillase-ciencia-un-eclipse-historico-que-unio-todo-un-pais_7025252_0.html",
+          "position": 50,
+          "focus": "Resalta la unidad nacional y el valor científico del evento"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "El Confidencial",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Cobertura del eclipse solar del 12 de agosto en España y anuncio del próximo visible en 2027",
+      "section": "Sociedad",
+      "facts": [
+        "El eclipse solar tuvo lugar el 12 de agosto de 2026 y fue visible desde España",
+        "Algunos trabajadores no pudieron verlo por estar en su puesto de trabajo (párroco dando misa, dependientes de la Gran Vía)",
+        "Hubo comentarios de testigos en una playa asturiana durante el fenómeno",
+        "El próximo eclipse visible desde España pasará por el sur de Andalucía, Ceuta y Melilla en 2027",
+        "eldiario.es ofrece un mapa para ubicar dónde se podrá ver el eclipse de 2027",
+        "El Confidencial informa sobre la fecha del próximo eclipse solar visible desde España tras el de agosto de 2026"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Un párroco dando misa, dependientes en la Gran Vía y otros miles de trabajadores que se perdieron el eclipse: “Atendemos siempre a quien venga”",
+          "link": "https://elpais.com/ciencia/2026-08-13/un-parroco-dando-misa-dependientes-en-la-gran-via-y-otros-miles-de-trabajadores-que-se-perdieron-el-eclipse-atendemos-siempre-a-quien-venga.html",
+          "position": 50,
+          "focus": "Historias humanas de quienes trabajaron durante el eclipse y no pudieron verlo"
+        },
+        {
+          "outlet": "El Pais",
+          "headline": "¿Te has perdido este eclipse? En 2027, el próximo le toca al sur andaluz, Ceuta y Melilla",
+          "link": "https://elpais.com/ciencia/2026-08-13/te-has-perdido-este-eclipse-en-2027-el-proximo-le-toca-al-sur-andaluz-ceuta-y-melilla.html",
+          "position": 50,
+          "focus": "Información práctica sobre el próximo eclipse de 2027 y su zona de visibilidad"
+        },
+        {
+          "outlet": "El Pais",
+          "headline": "Oído durante el eclipse en una playa asturiana: “El del siglo que viene lo vemos en otro sitio”",
+          "link": "https://elpais.com/ciencia/2026-08-12/oido-durante-el-eclipse-en-una-playa-asturiana-el-del-siglo-que-viene-lo-vemos-en-otro-sitio.html",
+          "position": 50,
+          "focus": "Anécdota de testigos presenciando el eclipse en una playa"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "MAPA | ¿Te has perdido el eclipse? Descubre dónde podrás ver el que pasará por España en 2027",
+          "link": "https://www.eldiario.es/sociedad/mapa-has-perdido-eclipse-descubre-podras-ver-pasara-espana-2027_1_13443892.html",
+          "position": 50,
+          "focus": "Mapa interactivo con las zonas donde se verá el eclipse de 2027"
         },
         {
           "outlet": "El Confidencial",
-          "headline": "La DGT advierte a los conductores sobre el eclipse: \"Es necesario abandonar las vías de circulación y estacionar solo en puntos habilitados\"",
-          "link": "https://www.elconfidencial.com/espana/2026-08-11/1qrt-dgt-advierte-conductores-eclipse-necesario-abandonar-vias_4403800/",
+          "headline": "Cuándo será el próximo eclipse solar visible desde España tras el del 12 de agosto de 2026",
+          "link": "https://www.elconfidencial.com/espana/2026-08-12/cuando-sera-proximo-eclipse-solar-visible-espana-agosto_4404875/",
           "position": 50,
-          "focus": "Recomendaciones de seguridad vial de la DGT durante el eclipse"
+          "focus": "Datos técnicos sobre la fecha del próximo eclipse visible desde España"
         }
       ],
       "rango": 0,
       "discrepancia": "baja",
       "silenciosos": [
-        "20minutos"
+        "20minutos",
+        "ABC",
+        "El Mundo",
+        "La Vanguardia"
       ]
     },
     {
-      "neutral_headline": "Detenidos la hija y su pareja por la muerte del exsecretario de UAGA y su esposa en Tauste",
+      "neutral_headline": "Distintas formas de vivir el eclipse solar: en avión, globo y velero",
       "section": "Sociedad",
       "facts": [
-        "El exsecretario de UAGA de Aragón y su mujer murieron en Tauste",
-        "La hija de la víctima y su pareja han sido detenidos/investigados en relación con el caso",
-        "La investigación busca esclarecer el papel de la hija y su novio en los hechos y cómo llegaron a la vivienda"
+        "Hubo un eclipse solar",
+        "Un avión de Iberia trasladó a pasajeros, entre ellos astrónomos, para presenciar el eclipse",
+        "Un grupo presenció el eclipse desde un globo a 3.000 metros de altura",
+        "Un velero llamado Galaxie navegó por el Mediterráneo durante el eclipse"
       ],
-      "tipo_divergencia": "cronologica",
+      "tipo_divergencia": "ninguna",
       "eje": null,
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "Crimen de Tauste: la investigación se centra en esclarecer el papel de la hija y su novio en el homicidio y en cómo llegaron a la casa",
-          "link": "https://elpais.com/espana/2026-08-11/crimen-de-tauste-la-investigacion-se-centra-en-esclarecer-el-papel-de-la-hija-y-su-novio-en-el-homicidio-y-en-como-llegaron-a-la-casa.html",
+          "headline": "Vivir el eclipse solar desde un avión: “No se puede explicar con términos científicos, es un sentimiento”",
+          "link": "https://elpais.com/videos/2026-08-13/vivir-el-eclipse-solar-desde-un-avion-no-se-puede-explicar-con-terminos-cientificos-es-un-sentimiento.html",
           "position": 50,
-          "focus": "Centra el foco en el estado de la investigación y las incógnitas pendientes (cómo llegaron a la casa, papel exacto de cada uno), sin confirmar aún la detención como hecho consumado."
+          "focus": "Relata la experiencia emocional de ver el eclipse desde un avión, centrada en el testimonio personal"
         },
         {
-          "outlet": "La Vanguardia",
-          "headline": "Detenidos la hija y su pareja por la muerte del exsecretario de UAGA de Aragón y su mujer",
-          "link": "https://www.lavanguardia.com/politica/20260810/11611389/detenidos-hija-pareja-muerte-exsecretario-uaga-aragon-mujer.html",
+          "outlet": "El Mundo",
+          "headline": "El eclipse solar desde un avión de Iberia repleto de astrónomos: \"Ni el gol de Ferran Torres, tú!\"",
+          "link": "https://www.elmundo.es/ciencia/2026/08/12/6a7c8078e4d4d8f07c8b45ae.html",
           "position": 50,
-          "focus": "Reporta como hecho consumado la detención de la hija y su pareja, con el contexto de las víctimas."
+          "focus": "Cuenta la misma experiencia en avión pero con enfoque en el ambiente festivo y las reacciones de los astrónomos a bordo"
         },
         {
-          "outlet": "20minutos",
-          "headline": "Detenida una de las hijas y su pareja por la muerte del exsecretario de UAGA de Aragón y su mujer",
-          "link": "https://www.20minutos.es/aragon/zaragoza/sucesos-zaragoza-detenidos-hija-su-pareja-por-muerte-exsecretario-uaga-aragon-su-mujer_7024282_0.html",
+          "outlet": "eldiario.es",
+          "headline": "El eclipse de sol, desde un globo a 3.000 metros: “Ha sido como tocar la oscuridad con las manos”",
+          "link": "https://www.eldiario.es/sociedad/eclipse-sol-globo-3-000-m-altura-sido-tocar-oscuridad-manos_1_13434253.html",
           "position": 50,
-          "focus": "Similar a La Vanguardia, confirma la detención, pero precisa que se trata de 'una de las hijas', sugiriendo que la víctima tenía más de una."
+          "focus": "Narra la vivencia desde un globo aerostático, con énfasis en la sensación física de la oscuridad"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "A bordo del Galaxie hacia el eclipse: la tarde en la que el Mediterráneo se quedó a oscuras",
+          "link": "https://www.eldiario.es/illes-balears/sociedad/bordo-galaxie-eclipse-tarde-mediterraneo-quedo-oscuras_1_13443214.html",
+          "position": 50,
+          "focus": "Describe el trayecto en velero por el Mediterráneo durante el fenómeno, con tono de crónica de viaje"
         }
       ],
       "rango": 0,
       "discrepancia": "baja",
       "silenciosos": [
+        "20minutos",
         "ABC",
         "El Confidencial",
-        "El Mundo",
-        "eldiario.es"
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "Cobertura multimedia del eclipse solar total observado desde España",
+      "section": "Sociedad",
+      "facts": [
+        "Se produjo un eclipse solar total",
+        "El fenómeno fue observado desde España",
+        "Existen imágenes captadas desde un satélite",
+        "Se generó un periodo de oscuridad durante el eclipse",
+        "Distintos medios publicaron videos, fotografías y cobertura en directo del evento"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Desde el espacio: Así se ha visto el eclipse desde un satélite",
+          "link": "https://elpais.com/ciencia/2026-08-12/desde-el-espacio-asi-se-ha-visto-el-eclipse-desde-un-satelite.html",
+          "position": 50,
+          "focus": "Destaca la perspectiva satelital del eclipse, un ángulo único desde el espacio"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "En vídeo: así se vivió el fenómeno astronómico",
+          "link": "https://www.abc.es/ciencia/video-visto-eclipse-total-espana-20260812215346-nt.html",
+          "position": 50,
+          "focus": "Presenta un video resumen del fenómeno astronómico sin más detalle"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "VÍDEO | El eclipse total, en un minuto",
+          "link": "https://www.eldiario.es/sociedad/video-eclipse-total-minuto_1_13443880.html",
+          "position": 50,
+          "focus": "Ofrece un resumen en video de un minuto del eclipse total"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "FOTOS | El eclipse del siglo en España, en imágenes",
+          "link": "https://www.eldiario.es/sociedad/fotos-visto-eclipse-total-imagenes_3_13443849.html",
+          "position": 50,
+          "focus": "Galería fotográfica del eclipse visto en España, enfoque visual"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Un minuto de oscuridad",
+          "link": "https://www.eldiario.es/sociedad/minuto-oscuridad_129_13443680.html",
+          "position": 50,
+          "focus": "Enfatiza el momento de oscuridad total como experiencia central"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Las imágenes más espectaculares que deja el eclipse solar",
+          "link": "https://www.lavanguardia.com/vida/20260812/11612791/primeras-imagenes-deja-eclipse-solar-sobre-peninsula.html",
+          "position": 50,
+          "focus": "Selección de imágenes más espectaculares, enfoque estético"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Eclipse solar total, en directo | Reacciones al fenómeno, imágenes y última hora sobre cómo se ha visto en España",
+          "link": "https://www.lavanguardia.com/vida/20260813/11613024/eclipse-total-sol-espana-reacciones-imagenes-ultima-hora-hoy-en-directo.html",
+          "position": 50,
+          "focus": "Cobertura en directo con reacciones y actualización constante sobre cómo se vivió en España"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "El Confidencial",
+        "El Mundo"
+      ]
+    },
+    {
+      "neutral_headline": "Distintos medios cubren el eclipse solar desde ángulos diferentes: gasto institucional, celebraciones populares y experiencias en distintos puntos de España",
+      "section": "Sociedad",
+      "facts": [
+        "El Gobierno organizó un acto institucional en el Observatorio de Yebes con 300 invitados",
+        "El acto institucional tuvo un coste de 72.358 euros según El Mundo",
+        "En Monforte de Lemos hubo 41 segundos de oscuridad total durante el eclipse",
+        "En Monforte de Lemos se celebró una fiesta con bebidas y asistió un visitante de Houston",
+        "En el Teide hubo observación con telescopios",
+        "En Valencia se vivió el eclipse en el paseo marítimo y en L'Albufera",
+        "En Montjuïc (Barcelona) se realizó una observación colectiva del eclipse"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "crítica al gasto institucional",
+        "polo_b": "celebración popular festiva",
+        "resumen": "Unos medios centran el foco en el coste y la organización institucional del evento, mientras otros destacan la experiencia colectiva y festiva de los ciudadanos en distintos puntos del país"
+      },
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "El Gobierno gasta 72.358 euros en el acto institucional del eclipse, con \"zona VIP\" y 300 invitados en el Observatorio de Yebes",
+          "link": "https://www.elmundo.es/espana/2026/08/12/6a7c507f21efa0b66f8b457b.html",
+          "position": 5,
+          "focus": "Destaca el coste económico del acto institucional y la existencia de una 'zona VIP', con tono crítico hacia el gasto público; omite la experiencia ciudadana del fenómeno"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "El eclipse en Monforte de Lemos: 41 segundos de oscuridad total, una fiesta con bebidas y un visitante de Houston",
+          "link": "https://www.elmundo.es/ciencia/2026/08/12/6a7c80c4e4d4d8a66e8b45a9.html",
+          "position": 85,
+          "focus": "Resalta el ambiente festivo, la duración exacta de la oscuridad y anécdotas de visitantes; omite cualquier referencia al coste o gestión institucional"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Un eclipse entre telescopios, mesas de camping, nociones de expertos y el Teide de mudo pero implacable testigo",
+          "link": "https://www.eldiario.es/canariasahora/ciencia_y_medio_ambiente/eclipse-canarias-telescopios-expertos-teide_1_13444065.html",
+          "position": 90,
+          "focus": "Enfatiza la experiencia científica y contemplativa en el Teide, con tono descriptivo y poético; no menciona aspectos económicos ni institucionales"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "València vive el eclipse entre el bullicio de su paseo marítimo y el encanto de L'Albufera",
+          "link": "https://www.lavanguardia.com/local/valencia/20260812/11612840/valencia-vive-eclipse-bullicio-paseo-maritimo-encanto-l-albufera.html",
+          "position": 88,
+          "focus": "Se centra en el ambiente social y turístico en Valencia, sin mencionar gasto público ni polémica institucional"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Eclipse colectivo en Montjuïc",
+          "link": "https://www.lavanguardia.com/local/barcelona/20260812/11612834/eclipse-colectivo-montjuic.html",
+          "position": 92,
+          "focus": "Pone el acento en la experiencia colectiva y comunitaria en Montjuïc, sin abordar aspectos de coste o gestión gubernamental"
+        }
+      ],
+      "rango": 87,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Confidencial",
+        "El Pais"
       ]
     }
   ]
