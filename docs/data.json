@@ -1,316 +1,99 @@
 {
-  "fecha": "2026-08-13T06:00:31.192855+00:00",
+  "fecha": "2026-08-14T05:59:04.523595+00:00",
   "historias": [
     {
-      "neutral_headline": "El eclipse solar es observado por millones de personas en toda España",
-      "section": "Sociedad",
+      "neutral_headline": "Subida del precio del diésel obliga a plantear respuestas fiscales y políticas",
+      "section": "Economia",
       "facts": [
-        "Se produjo un eclipse solar visible desde España",
-        "El fenómeno duró varios minutos y oscureció el cielo diurno",
-        "Millones de personas en España observaron el eclipse"
-      ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "El eclipse conquista el corazón de España",
-          "link": "https://elpais.com/ciencia/2026-08-12/el-eclipse-solar-conquista-el-corazon-de-espana.html",
-          "position": 50,
-          "focus": "Destaca la reacción emocional colectiva del país, sin detalles tecnicos"
-        },
-        {
-          "outlet": "El Pais",
-          "headline": "Millones de españoles se maravillan con el eclipse de Sol: “¡Quiero otro!, ¿cuándo hay otro?”",
-          "link": "https://elpais.com/ciencia/2026-08-12/millones-de-espanoles-se-maravillan-con-el-eclipse-de-sol-quiero-otro-cuando-hay-otro.html",
-          "position": 50,
-          "focus": "Incluye testimonio directo de asombro popular, sin cifras exactas"
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "El eclipse sobrecoge a media España",
-          "link": "https://www.elmundo.es/ciencia/2026/08/12/6a7c8123e4d4d8662c8b45b7.html",
-          "position": 50,
-          "focus": "Enfatiza el impacto emocional en gran parte del territorio"
-        },
-        {
-          "outlet": "ABC",
-          "headline": "España se entrega a la magia del eclipse solar",
-          "link": "https://www.abc.es/ciencia/espana-rinde-ante-magia-eclipse-sol-20260812210950-nt.html",
-          "position": 50,
-          "focus": "Usa lenguaje de fascinación y magia, sin datos concretos"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "El eclipse hechiza a España",
-          "link": "https://www.lavanguardia.com/vida/20260812/11612862/eclipse-hechiza-espana.html",
-          "position": 50,
-          "focus": "Describe el fenómeno como hechizo colectivo nacional"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "España se apaga siete minutos: el histórico eclipse solar convierte el día en noche",
-          "link": "https://www.20minutos.es/nacional/historico-eclipse-solar-alcanza-su-totalidad-convierte-dia-noche-espana_7025239_0.html",
-          "position": 50,
-          "focus": "Aporta dato temporal preciso (siete minutos) y describe el efecto visual"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "España se apagó de punta a punta para que brillase la ciencia: un eclipse histórico que unió a todo un país",
-          "link": "https://www.20minutos.es/nacional/los-siete-minutos-los-que-espana-se-apago-punta-punta-para-que-brillase-ciencia-un-eclipse-historico-que-unio-todo-un-pais_7025252_0.html",
-          "position": 50,
-          "focus": "Resalta la unidad nacional y el valor científico del evento"
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "El Confidencial",
-        "eldiario.es"
-      ]
-    },
-    {
-      "neutral_headline": "Cobertura del eclipse solar del 12 de agosto en España y anuncio del próximo visible en 2027",
-      "section": "Sociedad",
-      "facts": [
-        "El eclipse solar tuvo lugar el 12 de agosto de 2026 y fue visible desde España",
-        "Algunos trabajadores no pudieron verlo por estar en su puesto de trabajo (párroco dando misa, dependientes de la Gran Vía)",
-        "Hubo comentarios de testigos en una playa asturiana durante el fenómeno",
-        "El próximo eclipse visible desde España pasará por el sur de Andalucía, Ceuta y Melilla en 2027",
-        "eldiario.es ofrece un mapa para ubicar dónde se podrá ver el eclipse de 2027",
-        "El Confidencial informa sobre la fecha del próximo eclipse solar visible desde España tras el de agosto de 2026"
-      ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "Un párroco dando misa, dependientes en la Gran Vía y otros miles de trabajadores que se perdieron el eclipse: “Atendemos siempre a quien venga”",
-          "link": "https://elpais.com/ciencia/2026-08-13/un-parroco-dando-misa-dependientes-en-la-gran-via-y-otros-miles-de-trabajadores-que-se-perdieron-el-eclipse-atendemos-siempre-a-quien-venga.html",
-          "position": 50,
-          "focus": "Historias humanas de quienes trabajaron durante el eclipse y no pudieron verlo"
-        },
-        {
-          "outlet": "El Pais",
-          "headline": "¿Te has perdido este eclipse? En 2027, el próximo le toca al sur andaluz, Ceuta y Melilla",
-          "link": "https://elpais.com/ciencia/2026-08-13/te-has-perdido-este-eclipse-en-2027-el-proximo-le-toca-al-sur-andaluz-ceuta-y-melilla.html",
-          "position": 50,
-          "focus": "Información práctica sobre el próximo eclipse de 2027 y su zona de visibilidad"
-        },
-        {
-          "outlet": "El Pais",
-          "headline": "Oído durante el eclipse en una playa asturiana: “El del siglo que viene lo vemos en otro sitio”",
-          "link": "https://elpais.com/ciencia/2026-08-12/oido-durante-el-eclipse-en-una-playa-asturiana-el-del-siglo-que-viene-lo-vemos-en-otro-sitio.html",
-          "position": 50,
-          "focus": "Anécdota de testigos presenciando el eclipse en una playa"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "MAPA | ¿Te has perdido el eclipse? Descubre dónde podrás ver el que pasará por España en 2027",
-          "link": "https://www.eldiario.es/sociedad/mapa-has-perdido-eclipse-descubre-podras-ver-pasara-espana-2027_1_13443892.html",
-          "position": 50,
-          "focus": "Mapa interactivo con las zonas donde se verá el eclipse de 2027"
-        },
-        {
-          "outlet": "El Confidencial",
-          "headline": "Cuándo será el próximo eclipse solar visible desde España tras el del 12 de agosto de 2026",
-          "link": "https://www.elconfidencial.com/espana/2026-08-12/cuando-sera-proximo-eclipse-solar-visible-espana-agosto_4404875/",
-          "position": 50,
-          "focus": "Datos técnicos sobre la fecha del próximo eclipse visible desde España"
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "20minutos",
-        "ABC",
-        "El Mundo",
-        "La Vanguardia"
-      ]
-    },
-    {
-      "neutral_headline": "Distintas formas de vivir el eclipse solar: en avión, globo y velero",
-      "section": "Sociedad",
-      "facts": [
-        "Hubo un eclipse solar",
-        "Un avión de Iberia trasladó a pasajeros, entre ellos astrónomos, para presenciar el eclipse",
-        "Un grupo presenció el eclipse desde un globo a 3.000 metros de altura",
-        "Un velero llamado Galaxie navegó por el Mediterráneo durante el eclipse"
-      ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "Vivir el eclipse solar desde un avión: “No se puede explicar con términos científicos, es un sentimiento”",
-          "link": "https://elpais.com/videos/2026-08-13/vivir-el-eclipse-solar-desde-un-avion-no-se-puede-explicar-con-terminos-cientificos-es-un-sentimiento.html",
-          "position": 50,
-          "focus": "Relata la experiencia emocional de ver el eclipse desde un avión, centrada en el testimonio personal"
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "El eclipse solar desde un avión de Iberia repleto de astrónomos: \"Ni el gol de Ferran Torres, tú!\"",
-          "link": "https://www.elmundo.es/ciencia/2026/08/12/6a7c8078e4d4d8f07c8b45ae.html",
-          "position": 50,
-          "focus": "Cuenta la misma experiencia en avión pero con enfoque en el ambiente festivo y las reacciones de los astrónomos a bordo"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "El eclipse de sol, desde un globo a 3.000 metros: “Ha sido como tocar la oscuridad con las manos”",
-          "link": "https://www.eldiario.es/sociedad/eclipse-sol-globo-3-000-m-altura-sido-tocar-oscuridad-manos_1_13434253.html",
-          "position": 50,
-          "focus": "Narra la vivencia desde un globo aerostático, con énfasis en la sensación física de la oscuridad"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "A bordo del Galaxie hacia el eclipse: la tarde en la que el Mediterráneo se quedó a oscuras",
-          "link": "https://www.eldiario.es/illes-balears/sociedad/bordo-galaxie-eclipse-tarde-mediterraneo-quedo-oscuras_1_13443214.html",
-          "position": 50,
-          "focus": "Describe el trayecto en velero por el Mediterráneo durante el fenómeno, con tono de crónica de viaje"
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "20minutos",
-        "ABC",
-        "El Confidencial",
-        "La Vanguardia"
-      ]
-    },
-    {
-      "neutral_headline": "Cobertura multimedia del eclipse solar total observado desde España",
-      "section": "Sociedad",
-      "facts": [
-        "Se produjo un eclipse solar total",
-        "El fenómeno fue observado desde España",
-        "Existen imágenes captadas desde un satélite",
-        "Se generó un periodo de oscuridad durante el eclipse",
-        "Distintos medios publicaron videos, fotografías y cobertura en directo del evento"
-      ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "Desde el espacio: Así se ha visto el eclipse desde un satélite",
-          "link": "https://elpais.com/ciencia/2026-08-12/desde-el-espacio-asi-se-ha-visto-el-eclipse-desde-un-satelite.html",
-          "position": 50,
-          "focus": "Destaca la perspectiva satelital del eclipse, un ángulo único desde el espacio"
-        },
-        {
-          "outlet": "ABC",
-          "headline": "En vídeo: así se vivió el fenómeno astronómico",
-          "link": "https://www.abc.es/ciencia/video-visto-eclipse-total-espana-20260812215346-nt.html",
-          "position": 50,
-          "focus": "Presenta un video resumen del fenómeno astronómico sin más detalle"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "VÍDEO | El eclipse total, en un minuto",
-          "link": "https://www.eldiario.es/sociedad/video-eclipse-total-minuto_1_13443880.html",
-          "position": 50,
-          "focus": "Ofrece un resumen en video de un minuto del eclipse total"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "FOTOS | El eclipse del siglo en España, en imágenes",
-          "link": "https://www.eldiario.es/sociedad/fotos-visto-eclipse-total-imagenes_3_13443849.html",
-          "position": 50,
-          "focus": "Galería fotográfica del eclipse visto en España, enfoque visual"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "Un minuto de oscuridad",
-          "link": "https://www.eldiario.es/sociedad/minuto-oscuridad_129_13443680.html",
-          "position": 50,
-          "focus": "Enfatiza el momento de oscuridad total como experiencia central"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Las imágenes más espectaculares que deja el eclipse solar",
-          "link": "https://www.lavanguardia.com/vida/20260812/11612791/primeras-imagenes-deja-eclipse-solar-sobre-peninsula.html",
-          "position": 50,
-          "focus": "Selección de imágenes más espectaculares, enfoque estético"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Eclipse solar total, en directo | Reacciones al fenómeno, imágenes y última hora sobre cómo se ha visto en España",
-          "link": "https://www.lavanguardia.com/vida/20260813/11613024/eclipse-total-sol-espana-reacciones-imagenes-ultima-hora-hoy-en-directo.html",
-          "position": 50,
-          "focus": "Cobertura en directo con reacciones y actualización constante sobre cómo se vivió en España"
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "20minutos",
-        "El Confidencial",
-        "El Mundo"
-      ]
-    },
-    {
-      "neutral_headline": "Distintos medios cubren el eclipse solar desde ángulos diferentes: gasto institucional, celebraciones populares y experiencias en distintos puntos de España",
-      "section": "Sociedad",
-      "facts": [
-        "El Gobierno organizó un acto institucional en el Observatorio de Yebes con 300 invitados",
-        "El acto institucional tuvo un coste de 72.358 euros según El Mundo",
-        "En Monforte de Lemos hubo 41 segundos de oscuridad total durante el eclipse",
-        "En Monforte de Lemos se celebró una fiesta con bebidas y asistió un visitante de Houston",
-        "En el Teide hubo observación con telescopios",
-        "En Valencia se vivió el eclipse en el paseo marítimo y en L'Albufera",
-        "En Montjuïc (Barcelona) se realizó una observación colectiva del eclipse"
+        "El precio del diésel ha subido más que el de la gasolina",
+        "El precio del gasoil se ha disparado un 16% según La Vanguardia",
+        "El Gobierno prepara o agota medidas anticrisis según El Mundo",
+        "Se prevé una rebaja fiscal en septiembre según La Vanguardia",
+        "El Mundo vincula la subida a la situación en Ormuz y anticipa una renegociación del plan anticrisis tras el verano"
       ],
       "tipo_divergencia": "editorial",
       "eje": {
-        "polo_a": "crítica al gasto institucional",
-        "polo_b": "celebración popular festiva",
-        "resumen": "Unos medios centran el foco en el coste y la organización institucional del evento, mientras otros destacan la experiencia colectiva y festiva de los ciudadanos en distintos puntos del país"
+        "polo_a": "explicación técnica/neutral del fenómeno de precios",
+        "polo_b": "atribución política-geopolítica y crítica a la gestión del Gobierno"
       },
+      "resumen": "Mientras El País busca explicar el fenómeno de forma técnica, El Mundo enmarca la subida como fracaso de la política del Gobierno vinculado a la crisis de Ormuz, y La Vanguardia se sitúa en un punto intermedio centrado en el dato y su consecuencia fiscal",
       "frames": [
         {
-          "outlet": "El Mundo",
-          "headline": "El Gobierno gasta 72.358 euros en el acto institucional del eclipse, con \"zona VIP\" y 300 invitados en el Observatorio de Yebes",
-          "link": "https://www.elmundo.es/espana/2026/08/12/6a7c507f21efa0b66f8b457b.html",
-          "position": 5,
-          "focus": "Destaca el coste económico del acto institucional y la existencia de una 'zona VIP', con tono crítico hacia el gasto público; omite la experiencia ciudadana del fenómeno"
+          "outlet": "El Pais",
+          "headline": "¿Por qué se ha encarecido más el diésel que la gasolina?",
+          "link": "https://elpais.com/economia/2026-08-14/por-que-se-ha-encarecido-mas-el-diesel-que-la-gasolina.html",
+          "position": 10,
+          "focus": "Explica las causas técnicas de la diferencia entre diésel y gasolina, sin atribuir responsabilidad política"
         },
         {
           "outlet": "El Mundo",
-          "headline": "El eclipse en Monforte de Lemos: 41 segundos de oscuridad total, una fiesta con bebidas y un visitante de Houston",
-          "link": "https://www.elmundo.es/ciencia/2026/08/12/6a7c80c4e4d4d8a66e8b45a9.html",
-          "position": 85,
-          "focus": "Resalta el ambiente festivo, la duración exacta de la oscuridad y anécdotas de visitantes; omite cualquier referencia al coste o gestión institucional"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "Un eclipse entre telescopios, mesas de camping, nociones de expertos y el Teide de mudo pero implacable testigo",
-          "link": "https://www.eldiario.es/canariasahora/ciencia_y_medio_ambiente/eclipse-canarias-telescopios-expertos-teide_1_13444065.html",
+          "headline": "El Gobierno agota su última bala para contener la subida del carburante y Ormuz aboca a renegociar otro plan anticrisis a la vuelta del verano",
+          "link": "https://www.elmundo.es/economia/empresas/2026/08/13/6a7db616e85ece9d1b8b459e.html",
           "position": 90,
-          "focus": "Enfatiza la experiencia científica y contemplativa en el Teide, con tono descriptivo y poético; no menciona aspectos económicos ni institucionales"
+          "focus": "Enfatiza el agotamiento de las medidas del Gobierno y vincula la crisis a un factor geopolítico externo (Ormuz), sugiriendo fracaso de la gestión"
         },
         {
           "outlet": "La Vanguardia",
-          "headline": "València vive el eclipse entre el bullicio de su paseo marítimo y el encanto de L'Albufera",
-          "link": "https://www.lavanguardia.com/local/valencia/20260812/11612840/valencia-vive-eclipse-bullicio-paseo-maritimo-encanto-l-albufera.html",
-          "position": 88,
-          "focus": "Se centra en el ambiente social y turístico en Valencia, sin mencionar gasto público ni polémica institucional"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Eclipse colectivo en Montjuïc",
-          "link": "https://www.lavanguardia.com/local/barcelona/20260812/11612834/eclipse-colectivo-montjuic.html",
-          "position": 92,
-          "focus": "Pone el acento en la experiencia colectiva y comunitaria en Montjuïc, sin abordar aspectos de coste o gestión gubernamental"
+          "headline": "El precio del gasoil se dispara un 16% y fuerza una rebaja fiscal en septiembre",
+          "link": "https://www.lavanguardia.com/economia/20260813/11612771/ine-eleva-repunte-inflacion-julio-3-6-debido-luz-gasolinas.html",
+          "position": 50,
+          "focus": "Aporta el dato cuantitativo del alza y anuncia una respuesta fiscal concreta, sin cargar tanto el foco en la crítica política"
         }
       ],
-      "rango": 87,
+      "rango": 80,
       "discrepancia": "alta",
       "silenciosos": [
         "20minutos",
         "ABC",
         "El Confidencial",
-        "El Pais"
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Terremoto en Colombia deja 281 muertos y edificios en riesgo de colapso en Cali",
+      "section": "Internacional",
+      "facts": [
+        "El terremoto en Colombia ha causado 281 muertos según El Mundo y eldiario.es",
+        "Entre las víctimas hay un ciudadano español, según eldiario.es",
+        "El Mundo señala que la emergencia humanitaria persiste",
+        "ABC señala que cientos de edificios en Cali quedaron dañados por el terremoto y corren riesgo de colapso"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "balance humano de víctimas",
+        "polo_b": "riesgo estructural futuro",
+        "resumen": "Unos medios centran la noticia en el recuento de muertos y la emergencia humanitaria, mientras ABC desplaza el foco hacia la amenaza que suponen los edificios dañados para el futuro de Cali"
+      },
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "Colombia suma 281 muertos tras el gran terremoto mientras la emergencia humanitaria persiste",
+          "link": "https://www.elmundo.es/internacional/2026/08/14/6a7ea44ee9cf4a93448b4588.html",
+          "position": 10,
+          "focus": "Destaca la cifra de muertos y la persistencia de la emergencia humanitaria; omite detalles sobre el estado de las infraestructuras"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "La gran amenaza que se cierne sobre Cali: el colapso de cientos de edificios dañados por el terremoto",
+          "link": "https://www.abc.es/internacional/gran-amenaza-cali-colapso-300-edificios-danados-20260813010941-nt.html",
+          "position": 90,
+          "focus": "Destaca el peligro futuro por el colapso de edificios en Cali; omite el balance de víctimas mortales"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Colombia confirma la muerte de 281 personas por el terremoto, entre ellos un español",
+          "link": "https://www.eldiario.es/internacional/colombia-confirma-muerte-273-personas-terremoto-espanol_1_13446341.html",
+          "position": 15,
+          "focus": "Destaca la cifra de muertos confirmada oficialmente y añade el dato de una víctima española; no menciona el estado de las infraestructuras"
+        }
+      ],
+      "rango": 80,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "El Confidencial",
+        "El Pais",
+        "La Vanguardia"
       ]
     }
   ]
