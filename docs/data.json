@@ -1,99 +1,49 @@
 {
-  "fecha": "2026-08-14T05:59:04.523595+00:00",
+  "fecha": "2026-08-15T04:58:32.128513+00:00",
   "historias": [
     {
-      "neutral_headline": "Subida del precio del diésel obliga a plantear respuestas fiscales y políticas",
-      "section": "Economia",
+      "neutral_headline": "Terremoto de magnitud entre 4.8 y 5 sacude Granada",
+      "section": "Sociedad",
       "facts": [
-        "El precio del diésel ha subido más que el de la gasolina",
-        "El precio del gasoil se ha disparado un 16% según La Vanguardia",
-        "El Gobierno prepara o agota medidas anticrisis según El Mundo",
-        "Se prevé una rebaja fiscal en septiembre según La Vanguardia",
-        "El Mundo vincula la subida a la situación en Ormuz y anticipa una renegociación del plan anticrisis tras el verano"
+        "El Pais informa de un seismo de magnitud cinco en Granada",
+        "El Pais senala que la Junta de Andalucia activo la fase de emergencia",
+        "El Mundo informa de un terremoto de magnitud 5 de madrugada",
+        "El Mundo senala que causo danos materiales",
+        "El Confidencial informa de un terremoto de magnitud 4.8",
+        "El Confidencial senala que se sintio en varias localidades de Granada"
       ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "explicación técnica/neutral del fenómeno de precios",
-        "polo_b": "atribución política-geopolítica y crítica a la gestión del Gobierno"
-      },
-      "resumen": "Mientras El País busca explicar el fenómeno de forma técnica, El Mundo enmarca la subida como fracaso de la política del Gobierno vinculado a la crisis de Ormuz, y La Vanguardia se sitúa en un punto intermedio centrado en el dato y su consecuencia fiscal",
+      "tipo_divergencia": "cronologica",
+      "eje": null,
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "¿Por qué se ha encarecido más el diésel que la gasolina?",
-          "link": "https://elpais.com/economia/2026-08-14/por-que-se-ha-encarecido-mas-el-diesel-que-la-gasolina.html",
-          "position": 10,
-          "focus": "Explica las causas técnicas de la diferencia entre diésel y gasolina, sin atribuir responsabilidad política"
+          "headline": "La Junta de Andalucía activa la fase de emergencia por un seísmo de magnitud cinco en Granada",
+          "link": "https://elpais.com/espana/2026-08-15/la-junta-de-anadalucia-activa-la-fase-de-emergencia-por-un-seismo-de-magnitud-cinco-en-granada.html",
+          "position": 50,
+          "focus": "Destaca la respuesta institucional (activacion de emergencia) y usa la cifra de magnitud 5; no menciona danos ni localidades afectadas"
         },
         {
           "outlet": "El Mundo",
-          "headline": "El Gobierno agota su última bala para contener la subida del carburante y Ormuz aboca a renegociar otro plan anticrisis a la vuelta del verano",
-          "link": "https://www.elmundo.es/economia/empresas/2026/08/13/6a7db616e85ece9d1b8b459e.html",
-          "position": 90,
-          "focus": "Enfatiza el agotamiento de las medidas del Gobierno y vincula la crisis a un factor geopolítico externo (Ormuz), sugiriendo fracaso de la gestión"
+          "headline": "Un fuerte terremoto de 5 sacude Granada de madrugada y causa daños materiales",
+          "link": "https://www.elmundo.es/espana/2026/08/15/6a7fa8d9fc6c835a148b4599.html",
+          "position": 50,
+          "focus": "Destaca el momento (madrugada) y las consecuencias materiales, usando la cifra de magnitud 5; no menciona la respuesta institucional"
         },
         {
-          "outlet": "La Vanguardia",
-          "headline": "El precio del gasoil se dispara un 16% y fuerza una rebaja fiscal en septiembre",
-          "link": "https://www.lavanguardia.com/economia/20260813/11612771/ine-eleva-repunte-inflacion-julio-3-6-debido-luz-gasolinas.html",
+          "outlet": "El Confidencial",
+          "headline": "Un terremoto de magnitud 4.8 se deja sentir en varias localidades de Granada",
+          "link": "https://www.elconfidencial.com/espana/2026-08-15/un-terremoto-de-magnitud-4-8-se-deja-sentir-en-varias-localidades-de-granada_4406445/",
           "position": 50,
-          "focus": "Aporta el dato cuantitativo del alza y anuncia una respuesta fiscal concreta, sin cargar tanto el foco en la crítica política"
+          "focus": "Destaca el alcance geografico (varias localidades) con una cifra de magnitud 4.8, sin mencionar danos ni medidas de emergencia"
         }
       ],
-      "rango": 80,
-      "discrepancia": "alta",
+      "rango": 0,
+      "discrepancia": "baja",
       "silenciosos": [
         "20minutos",
         "ABC",
-        "El Confidencial",
+        "La Vanguardia",
         "eldiario.es"
-      ]
-    },
-    {
-      "neutral_headline": "Terremoto en Colombia deja 281 muertos y edificios en riesgo de colapso en Cali",
-      "section": "Internacional",
-      "facts": [
-        "El terremoto en Colombia ha causado 281 muertos según El Mundo y eldiario.es",
-        "Entre las víctimas hay un ciudadano español, según eldiario.es",
-        "El Mundo señala que la emergencia humanitaria persiste",
-        "ABC señala que cientos de edificios en Cali quedaron dañados por el terremoto y corren riesgo de colapso"
-      ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "balance humano de víctimas",
-        "polo_b": "riesgo estructural futuro",
-        "resumen": "Unos medios centran la noticia en el recuento de muertos y la emergencia humanitaria, mientras ABC desplaza el foco hacia la amenaza que suponen los edificios dañados para el futuro de Cali"
-      },
-      "frames": [
-        {
-          "outlet": "El Mundo",
-          "headline": "Colombia suma 281 muertos tras el gran terremoto mientras la emergencia humanitaria persiste",
-          "link": "https://www.elmundo.es/internacional/2026/08/14/6a7ea44ee9cf4a93448b4588.html",
-          "position": 10,
-          "focus": "Destaca la cifra de muertos y la persistencia de la emergencia humanitaria; omite detalles sobre el estado de las infraestructuras"
-        },
-        {
-          "outlet": "ABC",
-          "headline": "La gran amenaza que se cierne sobre Cali: el colapso de cientos de edificios dañados por el terremoto",
-          "link": "https://www.abc.es/internacional/gran-amenaza-cali-colapso-300-edificios-danados-20260813010941-nt.html",
-          "position": 90,
-          "focus": "Destaca el peligro futuro por el colapso de edificios en Cali; omite el balance de víctimas mortales"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "Colombia confirma la muerte de 281 personas por el terremoto, entre ellos un español",
-          "link": "https://www.eldiario.es/internacional/colombia-confirma-muerte-273-personas-terremoto-espanol_1_13446341.html",
-          "position": 15,
-          "focus": "Destaca la cifra de muertos confirmada oficialmente y añade el dato de una víctima española; no menciona el estado de las infraestructuras"
-        }
-      ],
-      "rango": 80,
-      "discrepancia": "alta",
-      "silenciosos": [
-        "20minutos",
-        "El Confidencial",
-        "El Pais",
-        "La Vanguardia"
       ]
     }
   ]
