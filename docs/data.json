@@ -1,40 +1,89 @@
 {
-  "fecha": "2026-08-15T04:58:32.128513+00:00",
+  "fecha": "2026-08-16T05:02:15.594447+00:00",
   "historias": [
     {
-      "neutral_headline": "Terremoto de magnitud entre 4.8 y 5 sacude Granada",
+      "neutral_headline": "Cobertura de incendios forestales en España: balance del sistema, tecnología aplicada e incendios activos",
       "section": "Sociedad",
       "facts": [
-        "El Pais informa de un seismo de magnitud cinco en Granada",
-        "El Pais senala que la Junta de Andalucia activo la fase de emergencia",
-        "El Mundo informa de un terremoto de magnitud 5 de madrugada",
-        "El Mundo senala que causo danos materiales",
-        "El Confidencial informa de un terremoto de magnitud 4.8",
-        "El Confidencial senala que se sintio en varias localidades de Granada"
+        "El Pais reporta problemas logisticos en la maquinaria de extincion de incendios, incluyendo dificultades para que el personal coma",
+        "ABC reporta el uso de satelites, drones y sensores con IA para apagar incendios",
+        "El Confidencial reporta que siete medios aereos del Infoca trabajan en un incendio forestal en Turon, Granada",
+        "20minutos reporta que el incendio de Riglos avanza y Aragon pide medios a Francia, mientras el incendio de Niebla se frena tras recorrer 38.000 hectareas"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Los agujeros de la gran maquinaria para apagar incendios en España: “Tenemos problemas hasta para comer”",
+          "link": "https://elpais.com/clima-y-medio-ambiente/2026-08-16/los-agujeros-de-la-gran-maquinaria-para-apagar-incendios-en-espana-tenemos-problemas-hasta-para-comer.html",
+          "position": 50,
+          "focus": "Reportaje sobre carencias estructurales y logisticas en el sistema de extincion de incendios, con testimonios internos"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Satélites, drones y sensores: IA para apagar los incendios que devoran España cada verano",
+          "link": "https://www.abc.es/tecnologia/satelites-drones-sensores-inteligencia-artificial-apagar-incendios-20260729012158-nt.html",
+          "position": 50,
+          "focus": "Enfoque en soluciones tecnologicas (IA, satelites, drones) aplicadas a la deteccion y extincion de incendios"
+        },
+        {
+          "outlet": "El Confidencial",
+          "headline": "Siete medios aéreos del Infoca trabajan en la extinción de un incendio forestal declarado en Turón (Granada)",
+          "link": "https://www.elconfidencial.com/espana/2026-08-15/incendio-forestal-turon-granada-1tna-1tps_4406564/",
+          "position": 50,
+          "focus": "Cobertura puntual de un incendio especifico en Turon, Granada, centrada en medios aereos desplegados"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Incendios | El fuego en Riglos avanza y Aragón pide medios a Francia mientras que el de Niebla se frena tras recorrer 38.000 ha",
+          "link": "https://www.20minutos.es/nacional/incendios-espana-fuego-riglos-avanza-aragon-pide-medios-francia-mientras-que-niebla-se-frena-tras-recorrer-38-000-ha_7026139_0.html",
+          "position": 50,
+          "focus": "Actualizacion sobre dos incendios activos distintos (Riglos y Niebla) con datos de evolucion y peticion de ayuda internacional"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "El Mundo",
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Terremoto de magnitud 5 con epicentro en Granada provoca réplicas y activa protocolos de emergencia",
+      "section": "Sociedad",
+      "facts": [
+        "Se registró un terremoto de magnitud 5 con epicentro en Granada",
+        "El seísmo dejó daños materiales",
+        "Se activó la emergencia tras el terremoto",
+        "Según El Confidencial se produjeron unas 40 réplicas",
+        "Según El Confidencial no hay daños estructurales ni personales graves",
+        "El Mundo aborda por qué hay actividad sísmica frecuente en Granada"
       ],
       "tipo_divergencia": "cronologica",
       "eje": null,
       "frames": [
         {
-          "outlet": "El Pais",
-          "headline": "La Junta de Andalucía activa la fase de emergencia por un seísmo de magnitud cinco en Granada",
-          "link": "https://elpais.com/espana/2026-08-15/la-junta-de-anadalucia-activa-la-fase-de-emergencia-por-un-seismo-de-magnitud-cinco-en-granada.html",
+          "outlet": "El Mundo",
+          "headline": "Por qué hay tanta actividad sísmica en Granada",
+          "link": "https://www.elmundo.es/ciencia/2026/08/15/6a806a3ffc6c83ae158b4591.html",
           "position": 50,
-          "focus": "Destaca la respuesta institucional (activacion de emergencia) y usa la cifra de magnitud 5; no menciona danos ni localidades afectadas"
+          "focus": "Aporta contexto explicativo sobre la actividad sísmica en Granada, sin centrarse en un evento concreto"
         },
         {
-          "outlet": "El Mundo",
-          "headline": "Un fuerte terremoto de 5 sacude Granada de madrugada y causa daños materiales",
-          "link": "https://www.elmundo.es/espana/2026/08/15/6a7fa8d9fc6c835a148b4599.html",
+          "outlet": "La Vanguardia",
+          "headline": "Un terremoto de 5 grados con epicentro en Granada deja daños materiales y activa la emergencia",
+          "link": "https://www.lavanguardia.com/vida/20260815/11614300/activada-fase-emergencia-terremoto-5-grados-epicentro-alhendin-granada.html",
           "position": 50,
-          "focus": "Destaca el momento (madrugada) y las consecuencias materiales, usando la cifra de magnitud 5; no menciona la respuesta institucional"
+          "focus": "Cubre el momento inicial del terremoto: magnitud, daños materiales y activación de emergencia"
         },
         {
           "outlet": "El Confidencial",
-          "headline": "Un terremoto de magnitud 4.8 se deja sentir en varias localidades de Granada",
+          "headline": "Granada respira tras el terremoto de magnitud 5 y después 40 réplicas: \"No hay daños estructurales ni personales graves\"",
           "link": "https://www.elconfidencial.com/espana/2026-08-15/un-terremoto-de-magnitud-4-8-se-deja-sentir-en-varias-localidades-de-granada_4406445/",
           "position": 50,
-          "focus": "Destaca el alcance geografico (varias localidades) con una cifra de magnitud 4.8, sin mencionar danos ni medidas de emergencia"
+          "focus": "Actualiza la información tras las réplicas, con balance de daños menos grave que el reportado inicialmente"
         }
       ],
       "rango": 0,
@@ -42,6 +91,49 @@
       "silenciosos": [
         "20minutos",
         "ABC",
+        "El Pais",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Tres piezas informativas sobre temas distintos: situación en Gaza, reconstrucción tras la dana de Valencia y nueva dana en España",
+      "section": "Sociedad",
+      "facts": [
+        "Han pasado 300 días desde el alto el fuego en Gaza según El País",
+        "El kilómetro cero de la dana de Valencia tiene obras sin acabar según ABC",
+        "Se acerca la temporada de lluvias en Valencia según ABC",
+        "Una nueva DANA está provocando tormentas, granizo y viento fuerte en gran parte de España según 20minutos"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "La vida en Gaza, un infierno cotidiano tras 300 días de alto el fuego",
+          "link": "https://elpais.com/internacional/2026-08-16/la-vida-en-gaza-un-infierno-cotidiano-tras-300-dias-de-alto-el-fuego.html",
+          "position": 50,
+          "focus": "Describe la situación humanitaria en Gaza tras el alto el fuego, sin relación con las otras dos piezas"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "El kilómetro cero de la dana de Valencia encara la temporada de lluvias con obras sin acabar",
+          "link": "https://www.abc.es/espana/comunidad-valenciana/kilometro-cero-dana-valencia-encara-temporada-lluvias-20260816012146-nt.html",
+          "position": 50,
+          "focus": "Se centra en el estado de las obras de reconstrucción en Valencia tras la dana anterior, ante la llegada de nuevas lluvias"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Una DANA está dejando tormentas, granizo y viento fuerte casi toda España",
+          "link": "https://www.20minutos.es/nacional/una-dana-esta-dejando-tormentas-granizo-viento-fuerte-toda-peninsula-baleares_7026100_0.html",
+          "position": 50,
+          "focus": "Informa sobre una DANA actual que afecta con tormentas y viento a buena parte de España, sin relación directa con las otras piezas"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "El Confidencial",
+        "El Mundo",
         "La Vanguardia",
         "eldiario.es"
       ]
