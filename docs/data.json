@@ -1,62 +1,58 @@
 {
-  "fecha": "2026-08-18T05:04:40.070397+00:00",
+  "fecha": "2026-08-19T05:04:44.814984+00:00",
   "historias": [
     {
-      "neutral_headline": "Crisis migratoria en Ceuta: crecimiento del poblado, huelga de hambre, alertas sanitarias y respuesta del Gobierno",
+      "neutral_headline": "Distintas miradas sobre la ola de calor y sequía que afecta a Europa",
       "section": "Sociedad",
       "facts": [
-        "El poblado de la playa El Trampolín ha crecido y sus habitantes se autogestionan (construcción de una mezquita, tareas, torneos)",
-        "Según eldiario.es, la crisis sanitaria se manifiesta en las calles y no en los hospitales, con migrantes empeorando de salud",
-        "Más de un centenar de inmigrantes de la playa del Trampolín iniciaron una huelga de hambre, según El Confidencial",
-        "Médicos de Ceuta alertaron de un riesgo real de epidemia un día después de la visita de la ministra Mónica García, según El Confidencial",
-        "El Gobierno anunció nuevos dispositivos temporales con 1.500 plazas para atender a los inmigrantes en Ceuta, según El Confidencial"
+        "El Pais informa de sequía en Europa con cosechas en mínimos, restricciones históricas y economía estancada",
+        "El Pais informa de una ola de calor marina que puede provocar fenómenos meteorológicos extremos en tierra",
+        "eldiario.es informa de una brecha de calor entre barrios pobres y ricos en áreas metropolitanas de Madrid, Barcelona, Valencia y Sevilla",
+        "La Vanguardia explica el concepto de estrés térmico incompensable y a quién afecta"
       ],
-      "tipo_divergencia": "cronologica",
-      "eje": null,
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "Fenómeno físico/estructural",
+        "polo_b": "Impacto social/humano",
+        "resumen": "Los medios difieren en si centran el relato en el fenómeno meteorológico y sus efectos económicos o en las consecuencias sociales y sanitarias sobre las personas"
+      },
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "El poblado de la playa El Trampolín crece: una mezquita con cartones, autogestión de las tareas, torneos y aumento de la tensión",
-          "link": "https://elpais.com/espana/2026-08-18/el-poblado-de-la-playa-el-trampolin-crece-una-mezquita-con-cartones-autogestion-de-las-tareas-torneos-y-aumento-de-la-tension.html",
-          "position": 50,
-          "focus": "Describe la evolución del poblado y su organización interna, sin entrar en la respuesta institucional"
+          "headline": "La ola de calor más preocupante del verano está en el mar: “Puede provocar fenómenos meteorológicos extremos en tierra”",
+          "link": "https://elpais.com/clima-y-medio-ambiente/2026-08-18/la-ola-de-calor-mas-preocupante-del-verano-viene-del-mar.html",
+          "position": 5,
+          "focus": "Destaca el fenómeno físico del calentamiento marino como causa de eventos extremos, sin mencionar impacto humano directo"
+        },
+        {
+          "outlet": "El Pais",
+          "headline": "La gran sequía devora el corazón de Europa: cosechas en mínimos, restricciones históricas y la economía estancada",
+          "link": "https://elpais.com/clima-y-medio-ambiente/2026-08-19/la-gran-sequia-devora-el-corazon-de-europa-cosechas-en-minimos-restricciones-historicas-y-la-economia-estancada.html",
+          "position": 35,
+          "focus": "Pone el foco en la sequía como fenómeno estructural con consecuencias económicas y agrícolas, sin abordar desigualdad social"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "¿Qué es el estrés térmico incompensable y a quién afecta?",
+          "link": "https://www.lavanguardia.com/vida/20260819/11615946/22-poblacion-mayor-60-anos-estara-riesgo-calentamiento-global-alcanza-1-5-grados.html",
+          "position": 65,
+          "focus": "Explica un concepto científico-sanitario (estrés térmico) centrado en quién sufre sus efectos, con enfoque más individual/salud"
         },
         {
           "outlet": "eldiario.es",
-          "headline": "La crisis sanitaria en Ceuta no está en los hospitales, sino en las calles: muchos migrantes están empeorando",
-          "link": "https://www.eldiario.es/desalambre/crisis-sanitaria-ceuta-no-hospitales-calles-migrantes-empeorando_1_13451094.html",
-          "position": 50,
-          "focus": "Señala el deterioro sanitario visible en la calle, centrado en el estado de los migrantes"
-        },
-        {
-          "outlet": "El Confidencial",
-          "headline": "Más de un centenar de inmigrantes de la playa del Trampolín inician una huelga de hambre",
-          "link": "https://www.elconfidencial.com/espana/2026-08-17/inmigrantes-ceuta-huelga-asilo-1hms_4407454/",
-          "position": 50,
-          "focus": "Informa sobre la huelga de hambre como acción de protesta de los migrantes"
-        },
-        {
-          "outlet": "El Confidencial",
-          "headline": "Los médicos de Ceuta alertan de un \"riesgo real de epidemia\" un día después de la visita de Mónica García",
-          "link": "https://www.elconfidencial.com/espana/2026-08-17/epidemia-ceuta-sanidad-inmigrantes-brote-1hms-1svm_4407176/",
-          "position": 50,
-          "focus": "Recoge la advertencia médica sobre riesgo de epidemia tras la visita ministerial"
-        },
-        {
-          "outlet": "El Confidencial",
-          "headline": "El Gobierno anuncia nuevos dispositivos temporales para atender a inmigrantes en Ceuta con 1.500 plazas",
-          "link": "https://www.elconfidencial.com/espana/2026-08-17/atencion-migrantes-ceuta-plazas-1tps_4407217/",
-          "position": 50,
-          "focus": "Reporta la respuesta gubernamental con nuevas plazas de acogida"
+          "headline": "El calor aprieta más en barrios pobres: esta es la brecha en áreas metropolitanas de Madrid, Barcelona, València o Sevilla",
+          "link": "https://www.eldiario.es/catalunya/calor-aprieta-barrios-pobres-brecha-areas-metropolitanas-madrid-barcelona-valencia-sevilla_1_13379930.html",
+          "position": 95,
+          "focus": "Resalta la desigualdad social del calor entre barrios ricos y pobres, priorizando el impacto humano y territorial sobre el fenómeno meteorológico en sí"
         }
       ],
-      "rango": 0,
-      "discrepancia": "baja",
+      "rango": 90,
+      "discrepancia": "alta",
       "silenciosos": [
         "20minutos",
         "ABC",
-        "El Mundo",
-        "La Vanguardia"
+        "El Confidencial",
+        "El Mundo"
       ]
     }
   ]
