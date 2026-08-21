@@ -1,49 +1,42 @@
 {
-  "fecha": "2026-08-19T05:04:44.814984+00:00",
+  "fecha": "2026-08-21T05:06:26.651306+00:00",
   "historias": [
     {
-      "neutral_headline": "Distintas miradas sobre la ola de calor y sequía que afecta a Europa",
+      "neutral_headline": "Desalojo del campamento de migrantes en la playa de El Trampolín",
       "section": "Sociedad",
       "facts": [
-        "El Pais informa de sequía en Europa con cosechas en mínimos, restricciones históricas y economía estancada",
-        "El Pais informa de una ola de calor marina que puede provocar fenómenos meteorológicos extremos en tierra",
-        "eldiario.es informa de una brecha de calor entre barrios pobres y ricos en áreas metropolitanas de Madrid, Barcelona, Valencia y Sevilla",
-        "La Vanguardia explica el concepto de estrés térmico incompensable y a quién afecta"
+        "La policía desalojó el campamento de migrantes de la playa de El Trampolín",
+        "Los migrantes fueron trasladados a centros de acogida",
+        "La Vanguardia cifra en 1.800 los migrantes trasladados",
+        "El Pais y eldiario.es recogen declaraciones de migrantes que rechazan volver a Marruecos"
       ],
       "tipo_divergencia": "editorial",
       "eje": {
-        "polo_a": "Fenómeno físico/estructural",
-        "polo_b": "Impacto social/humano",
-        "resumen": "Los medios difieren en si centran el relato en el fenómeno meteorológico y sus efectos económicos o en las consecuencias sociales y sanitarias sobre las personas"
+        "polo_a": "enfoque testimonial/humano",
+        "polo_b": "enfoque institucional/operativo",
+        "resumen": "El Pais y eldiario.es centran la pieza en las voces y el miedo de los migrantes a ser devueltos a Marruecos, mientras La Vanguardia enmarca el hecho como una operacion policial con datos de traslado"
       },
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "La ola de calor más preocupante del verano está en el mar: “Puede provocar fenómenos meteorológicos extremos en tierra”",
-          "link": "https://elpais.com/clima-y-medio-ambiente/2026-08-18/la-ola-de-calor-mas-preocupante-del-verano-viene-del-mar.html",
-          "position": 5,
-          "focus": "Destaca el fenómeno físico del calentamiento marino como causa de eventos extremos, sin mencionar impacto humano directo"
-        },
-        {
-          "outlet": "El Pais",
-          "headline": "La gran sequía devora el corazón de Europa: cosechas en mínimos, restricciones históricas y la economía estancada",
-          "link": "https://elpais.com/clima-y-medio-ambiente/2026-08-19/la-gran-sequia-devora-el-corazon-de-europa-cosechas-en-minimos-restricciones-historicas-y-la-economia-estancada.html",
-          "position": 35,
-          "focus": "Pone el foco en la sequía como fenómeno estructural con consecuencias económicas y agrícolas, sin abordar desigualdad social"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "¿Qué es el estrés térmico incompensable y a quién afecta?",
-          "link": "https://www.lavanguardia.com/vida/20260819/11615946/22-poblacion-mayor-60-anos-estara-riesgo-calentamiento-global-alcanza-1-5-grados.html",
-          "position": 65,
-          "focus": "Explica un concepto científico-sanitario (estrés térmico) centrado en quién sufre sus efectos, con enfoque más individual/salud"
+          "headline": "El gran desalojo de la playa de El Trampolín: “No es para ir a Marruecos, es una jaima buena”",
+          "link": "https://elpais.com/espana/2026-08-21/el-gran-desalojo-de-la-playa-de-el-trampolin-no-es-para-ir-a-marruecos-es-una-jaima-buena.html",
+          "position": 10,
+          "focus": "Da voz a un migrante que compara la situacion con Marruecos, humanizando el desalojo y omitiendo cifras oficiales"
         },
         {
           "outlet": "eldiario.es",
-          "headline": "El calor aprieta más en barrios pobres: esta es la brecha en áreas metropolitanas de Madrid, Barcelona, València o Sevilla",
-          "link": "https://www.eldiario.es/catalunya/calor-aprieta-barrios-pobres-brecha-areas-metropolitanas-madrid-barcelona-valencia-sevilla_1_13379930.html",
+          "headline": "La última mañana del campamento de El Trampolín: “No sé lo que va a pasar, pero cualquier cosa menos volver a Marruecos”",
+          "link": "https://www.eldiario.es/desalambre/ultima-manana-campamento-trampolin-no-pasar-cosa-volver-marruecos_1_13457771.html",
+          "position": 5,
+          "focus": "Se centra en el testimonio directo y la incertidumbre de los migrantes en su ultima manana, sin datos numericos ni mencion policial"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "La Policía desaloja la playa del Trampolín con el traslado de 1.800 migrantes a centros de acogida",
+          "link": "https://www.lavanguardia.com/politica/20260820/11616948/comienza-traslado-inmigrantes-playa-trampolin-dos-centros-temporales-1-800-camas.html",
           "position": 95,
-          "focus": "Resalta la desigualdad social del calor entre barrios ricos y pobres, priorizando el impacto humano y territorial sobre el fenómeno meteorológico en sí"
+          "focus": "Destaca la actuacion policial y la cifra oficial de 1.800 personas trasladadas, sin recoger testimonios individuales"
         }
       ],
       "rango": 90,
@@ -53,6 +46,47 @@
         "ABC",
         "El Confidencial",
         "El Mundo"
+      ]
+    },
+    {
+      "neutral_headline": "Un terremoto de magnitud 7,2 sacude Ayacucho, en el sur de Perú",
+      "section": "Internacional",
+      "facts": [
+        "Terremoto de magnitud 7,2 en la región de Ayacucho, sur de Perú",
+        "20minutos reporta desprendimientos de rocas y viviendas afectadas"
+      ],
+      "tipo_divergencia": "cronologica",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "ABC",
+          "headline": "Un terremoto de magnitud 7,2 sacude Ayacucho, en el sur de Perú",
+          "link": "https://www.abc.es/internacional/terremoto-magnitud-sacude-ayacucho-sur-peru-20260820204639-nt.html",
+          "position": 50,
+          "focus": "Informa el hecho básico: magnitud y ubicación, sin detalles de daños"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Un terremoto de magnitud 7,2 sacude la región andina de Ayacucho, en el sur de Perú",
+          "link": "https://www.lavanguardia.com/internacional/20260820/11617304/terremoto-magnitud-7-2-sacude-region-andina-ayacucho-sur-peru.html",
+          "position": 50,
+          "focus": "Igual que ABC, magnitud y ubicación, sin detalles de consecuencias"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Un terremoto de magnitud 7,2 sacude Perú: se registran desprendimientos de rocas y hay viviendas afectadas",
+          "link": "https://www.20minutos.es/internacional/un-terremoto-magnitud-7-2-sacude-sur-peru_7027871_0.html",
+          "position": 50,
+          "focus": "Añade información posterior sobre desprendimientos de rocas y viviendas afectadas, indicando una actualización con más datos sobre el impacto"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "El Confidencial",
+        "El Mundo",
+        "El Pais",
+        "eldiario.es"
       ]
     }
   ]
