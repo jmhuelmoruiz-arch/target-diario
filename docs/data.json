@@ -1,89 +1,139 @@
 {
-  "fecha": "2026-08-21T05:06:26.651306+00:00",
+  "fecha": "2026-08-22T05:01:32.004479+00:00",
   "historias": [
     {
-      "neutral_headline": "Desalojo del campamento de migrantes en la playa de El Trampolín",
-      "section": "Sociedad",
-      "facts": [
-        "La policía desalojó el campamento de migrantes de la playa de El Trampolín",
-        "Los migrantes fueron trasladados a centros de acogida",
-        "La Vanguardia cifra en 1.800 los migrantes trasladados",
-        "El Pais y eldiario.es recogen declaraciones de migrantes que rechazan volver a Marruecos"
-      ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "enfoque testimonial/humano",
-        "polo_b": "enfoque institucional/operativo",
-        "resumen": "El Pais y eldiario.es centran la pieza en las voces y el miedo de los migrantes a ser devueltos a Marruecos, mientras La Vanguardia enmarca el hecho como una operacion policial con datos de traslado"
-      },
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "El gran desalojo de la playa de El Trampolín: “No es para ir a Marruecos, es una jaima buena”",
-          "link": "https://elpais.com/espana/2026-08-21/el-gran-desalojo-de-la-playa-de-el-trampolin-no-es-para-ir-a-marruecos-es-una-jaima-buena.html",
-          "position": 10,
-          "focus": "Da voz a un migrante que compara la situacion con Marruecos, humanizando el desalojo y omitiendo cifras oficiales"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "La última mañana del campamento de El Trampolín: “No sé lo que va a pasar, pero cualquier cosa menos volver a Marruecos”",
-          "link": "https://www.eldiario.es/desalambre/ultima-manana-campamento-trampolin-no-pasar-cosa-volver-marruecos_1_13457771.html",
-          "position": 5,
-          "focus": "Se centra en el testimonio directo y la incertidumbre de los migrantes en su ultima manana, sin datos numericos ni mencion policial"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "La Policía desaloja la playa del Trampolín con el traslado de 1.800 migrantes a centros de acogida",
-          "link": "https://www.lavanguardia.com/politica/20260820/11616948/comienza-traslado-inmigrantes-playa-trampolin-dos-centros-temporales-1-800-camas.html",
-          "position": 95,
-          "focus": "Destaca la actuacion policial y la cifra oficial de 1.800 personas trasladadas, sin recoger testimonios individuales"
-        }
-      ],
-      "rango": 90,
-      "discrepancia": "alta",
-      "silenciosos": [
-        "20minutos",
-        "ABC",
-        "El Confidencial",
-        "El Mundo"
-      ]
-    },
-    {
-      "neutral_headline": "Un terremoto de magnitud 7,2 sacude Ayacucho, en el sur de Perú",
+      "neutral_headline": "Fracasan las negociaciones arancelarias EE UU-Canadá y persisten los problemas en la Verja de Gibraltar",
       "section": "Internacional",
       "facts": [
-        "Terremoto de magnitud 7,2 en la región de Ayacucho, sur de Perú",
-        "20minutos reporta desprendimientos de rocas y viviendas afectadas"
+        "Las negociaciones entre EE UU y Canadá para frenar los aranceles de Trump han fracasado",
+        "Gibraltar multó a diez taxistas españoles",
+        "Gibraltar bloqueó los viajes en Uber hacia el Peñón",
+        "Se produjo una caída del sistema de la Verja",
+        "Se recogen testimonios sobre el ambiente en Main Street cerca de la Verja"
       ],
-      "tipo_divergencia": "cronologica",
+      "tipo_divergencia": "ninguna",
       "eje": null,
       "frames": [
         {
-          "outlet": "ABC",
-          "headline": "Un terremoto de magnitud 7,2 sacude Ayacucho, en el sur de Perú",
-          "link": "https://www.abc.es/internacional/terremoto-magnitud-sacude-ayacucho-sur-peru-20260820204639-nt.html",
+          "outlet": "El Pais",
+          "headline": "Fracasan las negociaciones entre EE UU y Canadá para frenar la imposición de los aranceles de Trump",
+          "link": "https://elpais.com/us/economia/2026-08-22/fracasan-las-negociaciones-entre-ee-uu-y-canada-para-frenar-la-imposicion-de-los-aranceles-de-trump.html",
           "position": 50,
-          "focus": "Informa el hecho básico: magnitud y ubicación, sin detalles de daños"
+          "focus": "Centra la atención en el fracaso de las negociaciones comerciales entre EE UU y Canadá, sin relación con Gibraltar"
         },
         {
-          "outlet": "La Vanguardia",
-          "headline": "Un terremoto de magnitud 7,2 sacude la región andina de Ayacucho, en el sur de Perú",
-          "link": "https://www.lavanguardia.com/internacional/20260820/11617304/terremoto-magnitud-7-2-sacude-region-andina-ayacucho-sur-peru.html",
+          "outlet": "El Confidencial",
+          "headline": "Las últimas 24 horas en Main Street con la Verja: \"No sé cuál es el morbo de venir ahora a Gibraltar\"",
+          "link": "https://www.elconfidencial.com/espana/andalucia/2026-07-15/ultimas-24-horas-main-street-la-verja-gibraltar-cbtrrptj_4389959/",
           "position": 50,
-          "focus": "Igual que ABC, magnitud y ubicación, sin detalles de consecuencias"
+          "focus": "Describe el ambiente y las reacciones de la gente en Main Street tras la situación en la Verja, con enfoque social"
         },
         {
           "outlet": "20minutos",
-          "headline": "Un terremoto de magnitud 7,2 sacude Perú: se registran desprendimientos de rocas y hay viviendas afectadas",
-          "link": "https://www.20minutos.es/internacional/un-terremoto-magnitud-7-2-sacude-sur-peru_7027871_0.html",
+          "headline": "Gibraltar multa a diez taxistas españoles y bloquea los viajes en Uber al Peñón tras la caída de la Verja",
+          "link": "https://www.20minutos.es/nacional/gibraltar-multa-diez-taxistas-espanoles-bloquea-los-viajes-uber-penon-tras-caida-verja_7028205_0.html",
           "position": 50,
-          "focus": "Añade información posterior sobre desprendimientos de rocas y viviendas afectadas, indicando una actualización con más datos sobre el impacto"
+          "focus": "Detalla las sanciones a taxistas y el bloqueo de Uber en Gibraltar tras la caída de la Verja, con enfoque en las medidas administrativas"
         }
       ],
       "rango": 0,
       "discrepancia": "baja",
       "silenciosos": [
-        "El Confidencial",
+        "ABC",
+        "El Mundo",
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Ayuso enfrenta críticas por la polémica del ático mientras el PP da por cerrado el asunto",
+      "section": "Politica",
+      "facts": [
+        "Ayuso protagoniza una polémica relacionada con un ático",
+        "La oposición pide su dimisión",
+        "El PP considera zanjadas las explicaciones de Ayuso",
+        "Ayuso ha dirigido críticas al Gobierno en este contexto",
+        "Existe una biografía no autorizada de Ayuso escrita por David Fernández",
+        "Según el autor de la biografía, Ayuso tiene como rivales políticos a Sánchez y Feijóo",
+        "El contexto temporal incluye las elecciones de 2027"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "Ayuso bajo escrutinio y rendición de cuentas",
+        "polo_b": "Ayuso como actor político con rivalidades estratégicas",
+        "resumen": "Los medios difieren entre exigir responsabilidad por el escándalo del ático y presentar a Ayuso como jugadora política enfrentada a rivales, diluyendo el foco en la polémica"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Los patinazos de Ayuso alimentan a la oposición a meses de las elecciones de 2027: “Debería dimitir”",
+          "link": "https://elpais.com/espana/madrid/2026-08-22/los-patinazos-de-ayuso-alimentan-a-la-oposicion-a-meses-de-las-elecciones-de-2027-deberia-dimitir.html",
+          "position": 10,
+          "focus": "Destaca los errores de Ayuso y amplifica la exigencia de dimisión desde la oposición; omite la versión de Ayuso o el PP"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Ayuso trata de enterrar la polémica del ático con críticas al Gobierno y el PP da por zanjadas las explicaciones",
+          "link": "https://www.eldiario.es/madrid/ayuso-trata-enterrar-polemica-atico-criticas-gobierno-pp-da-zanjadas-explicaciones_1_13454224.html",
+          "position": 40,
+          "focus": "Muestra a Ayuso desviando el foco con críticas al Gobierno y al PP cerrando filas; sugiere estrategia de contención más que resolución del fondo"
+        },
+        {
+          "outlet": "El Confidencial",
+          "headline": "David Fernández, autor de una biografía no autorizada sobre Ayuso: \"Tiene dos rivales, Sánchez y Feijóo\"",
+          "link": "https://www.elconfidencial.com/espana/2026-08-22/ayuso-biografia-politica-escandalos-madrid-1hms_4409719/",
+          "position": 90,
+          "focus": "Cambia el eje hacia las rivalidades políticas de Ayuso con Sánchez y Feijóo, omitiendo por completo la polémica del ático como problema de rendición de cuentas"
+        }
+      ],
+      "rango": 80,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Mundo",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "Incendios en Castellón y Las Hurdes provocan evacuaciones mientras avanza su control",
+      "section": "Sociedad",
+      "facts": [
+        "La provincia de Castellón concentra el 99,4% de las hectáreas quemadas",
+        "Se ha ordenado evacuar Gátova por el incendio de Segorbe (Castellón)",
+        "Se ha pedido ayuda al personal de la UME",
+        "Se han producido nuevos desalojos por el incendio de Segorbe, que sigue fuera de control",
+        "El incendio de Las Hurdes ha sido estabilizado"
+      ],
+      "tipo_divergencia": "cronologica",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "La Vanguardia",
+          "headline": "El fuego se ceba con la provincia de Castellón que padece el 99,4% de todas las hectáreas quemadas",
+          "link": "https://www.lavanguardia.com/local/valencia/20260822/11617733/fuego-ceba-provincia-castellon-padece-99-4-todas-hectareas-quemadas.html",
+          "position": 50,
+          "focus": "Destaca el dato agregado de superficie quemada en Castellón, sin detallar evolución de desalojos"
+        },
+        {
+          "outlet": "El Confidencial",
+          "headline": "La Comunidad Valenciana ordena evacuar Gátova por el incendio de Segorbe (Castellón) y pide ayuda al personal de la UME",
+          "link": "https://www.elconfidencial.com/espana/2026-08-21/incendio-segorbe-sierra-calderona-1tps_4409546/",
+          "position": 50,
+          "focus": "Se centra en la orden de evacuación de Gátova y la petición de refuerzos UME, en un momento intermedio del incendio"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Nuevos desalojos por el incendio de Segorbe, fuera de control, mientras logran estabilizar el de Las Hurdes",
+          "link": "https://www.20minutos.es/nacional/nuevos-desalojos-por-incendio-segorbe-fuera-control-mientras-logran-estabilizar-fuego-las-hurdes_7028272_0.html",
+          "position": 50,
+          "focus": "Actualiza con nuevos desalojos y el estado fuera de control de Segorbe, añadiendo además la estabilización de otro incendio (Las Hurdes)"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "ABC",
         "El Mundo",
         "El Pais",
         "eldiario.es"
