@@ -1,141 +1,113 @@
 {
-  "fecha": "2026-08-22T05:01:32.004479+00:00",
+  "fecha": "2026-08-24T05:20:12.058887+00:00",
   "historias": [
     {
-      "neutral_headline": "Fracasan las negociaciones arancelarias EE UU-Canadá y persisten los problemas en la Verja de Gibraltar",
-      "section": "Internacional",
+      "neutral_headline": "El Barça golea al Elche en el estreno liguero con Raphinha jugando de nueve",
+      "section": "Deportes",
       "facts": [
-        "Las negociaciones entre EE UU y Canadá para frenar los aranceles de Trump han fracasado",
-        "Gibraltar multó a diez taxistas españoles",
-        "Gibraltar bloqueó los viajes en Uber hacia el Peñón",
-        "Se produjo una caída del sistema de la Verja",
-        "Se recogen testimonios sobre el ambiente en Main Street cerca de la Verja"
+        "El Barça goleó al Elche en la jornada de estreno liguero",
+        "Raphinha jugó en la posición de nueve",
+        "Raphinha ejerció de capitán",
+        "Fermín también destacó en el partido",
+        "El Barça estrenó a sus nuevos fichajes en el partido",
+        "Flick hizo declaraciones críticas sobre Balde, diciendo que no está al 100%"
       ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "celebracion del triunfo colectivo y los fichajes",
+        "polo_b": "foco en tension interna y critica individual",
+        "resumen": "Unos medios celebran la goleada y el rol de Raphinha como nuevo referente ofensivo, mientras otro destaca la critica de Flick hacia Balde, un angulo mas conflictivo dentro del mismo dia de partido"
+      },
       "frames": [
         {
-          "outlet": "El Pais",
-          "headline": "Fracasan las negociaciones entre EE UU y Canadá para frenar la imposición de los aranceles de Trump",
-          "link": "https://elpais.com/us/economia/2026-08-22/fracasan-las-negociaciones-entre-ee-uu-y-canada-para-frenar-la-imposicion-de-los-aranceles-de-trump.html",
-          "position": 50,
-          "focus": "Centra la atención en el fracaso de las negociaciones comerciales entre EE UU y Canadá, sin relación con Gibraltar"
+          "outlet": "El Mundo",
+          "headline": "El Barça estrena la Liga sin 9 pero con una cómoda goleada al Elche gracias a Raphinha y Fermín",
+          "link": "https://www.elmundo.es/deportes/futbol/primera-division/2026/08/23/6a8b66d2fdddffaa2d8b4582.html",
+          "position": 15,
+          "focus": "Destaca la goleada y a los autores de los goles (Raphinha, Fermín) pese a jugar sin un '9' natural; omite cualquier tensión interna"
         },
         {
-          "outlet": "El Confidencial",
-          "headline": "Las últimas 24 horas en Main Street con la Verja: \"No sé cuál es el morbo de venir ahora a Gibraltar\"",
-          "link": "https://www.elconfidencial.com/espana/andalucia/2026-07-15/ultimas-24-horas-main-street-la-verja-gibraltar-cbtrrptj_4389959/",
+          "outlet": "La Vanguardia",
+          "headline": "Raphinha, nueve y capitán, lidera la goleada del Barça ante el Elche",
+          "link": "https://www.lavanguardia.com/deportes/futbol/20260823/11618674/raphinha-nueve-capitan-lidera-goleada-barca-elche.html",
+          "position": 30,
+          "focus": "Centra el relato en Raphinha como protagonista individual (nueve y capitán) dentro del triunfo colectivo"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Raphinha: “Me siento cómodo jugando de nueve”",
+          "link": "https://www.lavanguardia.com/deportes/20260824/11618677/raphinha-me-siento-comodo-jugando-nueve.html",
           "position": 50,
-          "focus": "Describe el ambiente y las reacciones de la gente en Main Street tras la situación en la Verja, con enfoque social"
+          "focus": "Recoge la voz de Raphinha sobre su adaptación a la posición, sin valorar el resultado ni el ambiente del vestuario"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Flick, muy duro con Balde: “No está aquí al 100%”",
+          "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20260823/11618658/flick-duro-balde-esta-100.html",
+          "position": 95,
+          "focus": "Pone el foco en la crítica de Flick a Balde, un ángulo de tensión interna ajeno a la celebración del resultado"
         },
         {
           "outlet": "20minutos",
-          "headline": "Gibraltar multa a diez taxistas españoles y bloquea los viajes en Uber al Peñón tras la caída de la Verja",
-          "link": "https://www.20minutos.es/nacional/gibraltar-multa-diez-taxistas-espanoles-bloquea-los-viajes-uber-penon-tras-caida-verja_7028205_0.html",
-          "position": 50,
-          "focus": "Detalla las sanciones a taxistas y el bloqueo de Uber en Gibraltar tras la caída de la Verja, con enfoque en las medidas administrativas"
+          "headline": "El Barça aplasta al Elche con una 'manita' perfecta para estrenar a sus nuevos fichajes",
+          "link": "https://www.20minutos.es/deportes/futbol/elche-barcelona-laliga-directo-goles-marcador-ultima-hora-jornada-2_7028539_6.html",
+          "position": 5,
+          "focus": "Enfatiza la contundencia del triunfo ('manita') y el estreno de los nuevos fichajes, con tono más celebratorio"
         }
       ],
-      "rango": 0,
-      "discrepancia": "baja",
+      "rango": 90,
+      "discrepancia": "alta",
       "silenciosos": [
         "ABC",
-        "El Mundo",
-        "La Vanguardia",
+        "El Confidencial",
+        "El Pais",
         "eldiario.es"
       ]
     },
     {
-      "neutral_headline": "Ayuso enfrenta críticas por la polémica del ático mientras el PP da por cerrado el asunto",
-      "section": "Politica",
+      "neutral_headline": "Julián Álvarez es recibido con pitadas y objetos por parte de la afición del Metropolitano",
+      "section": "Deportes",
       "facts": [
-        "Ayuso protagoniza una polémica relacionada con un ático",
-        "La oposición pide su dimisión",
-        "El PP considera zanjadas las explicaciones de Ayuso",
-        "Ayuso ha dirigido críticas al Gobierno en este contexto",
-        "Existe una biografía no autorizada de Ayuso escrita por David Fernández",
-        "Según el autor de la biografía, Ayuso tiene como rivales políticos a Sánchez y Feijóo",
-        "El contexto temporal incluye las elecciones de 2027"
+        "La afición del Metropolitano pitó a Julián Álvarez",
+        "Aficionados lanzaron bufandas al campo",
+        "Álvarez se marchó hacia el vestuario tras el episodio",
+        "El Mundo recoge la frase 'Necesitamos tener delanteros importantes' en relación con la situación de Álvarez"
       ],
       "tipo_divergencia": "editorial",
       "eje": {
-        "polo_a": "Ayuso bajo escrutinio y rendición de cuentas",
-        "polo_b": "Ayuso como actor político con rivalidades estratégicas",
-        "resumen": "Los medios difieren entre exigir responsabilidad por el escándalo del ático y presentar a Ayuso como jugadora política enfrentada a rivales, diluyendo el foco en la polémica"
+        "polo_a": "Enfoque conciliador/protector hacia el jugador",
+        "polo_b": "Enfoque de ruptura y conflicto total",
+        "resumen": "Los medios difieren en si presentan la situación como un problema puntual que tiene solución o como una ruptura irreversible entre jugador y afición"
       },
       "frames": [
         {
-          "outlet": "El Pais",
-          "headline": "Los patinazos de Ayuso alimentan a la oposición a meses de las elecciones de 2027: “Debería dimitir”",
-          "link": "https://elpais.com/espana/madrid/2026-08-22/los-patinazos-de-ayuso-alimentan-a-la-oposicion-a-meses-de-las-elecciones-de-2027-deberia-dimitir.html",
+          "outlet": "El Mundo",
+          "headline": "Una solución para Julián Álvarez, alejado por el Atlético de la cólera del Metropolitano: \"Necesitamos tener delanteros importantes\"",
+          "link": "https://www.elmundo.es/deportes/futbol/2026/08/23/6a8b3775e85ecefb2a8b456e.html",
           "position": 10,
-          "focus": "Destaca los errores de Ayuso y amplifica la exigencia de dimisión desde la oposición; omite la versión de Ayuso o el PP"
+          "focus": "Destaca la búsqueda de una 'solución' institucional y cita al club defendiendo la necesidad de delanteros importantes, minimizando el conflicto como algo pasajero"
         },
         {
-          "outlet": "eldiario.es",
-          "headline": "Ayuso trata de enterrar la polémica del ático con críticas al Gobierno y el PP da por zanjadas las explicaciones",
-          "link": "https://www.eldiario.es/madrid/ayuso-trata-enterrar-polemica-atico-criticas-gobierno-pp-da-zanjadas-explicaciones_1_13454224.html",
-          "position": 40,
-          "focus": "Muestra a Ayuso desviando el foco con críticas al Gobierno y al PP cerrando filas; sugiere estrategia de contención más que resolución del fondo"
+          "outlet": "ABC",
+          "headline": "Julián Álvarez ignora a un Metropolitano que no le perdona",
+          "link": "https://www.abc.es/deportes/atletico-madrid/xxxx-20260823161400-nt.html",
+          "position": 50,
+          "focus": "Pone el foco en la actitud del jugador, que 'ignora' la hostilidad, dejando la responsabilidad del clima hostil en el público sin narrar la escena de forma tan dramática"
         },
         {
-          "outlet": "El Confidencial",
-          "headline": "David Fernández, autor de una biografía no autorizada sobre Ayuso: \"Tiene dos rivales, Sánchez y Feijóo\"",
-          "link": "https://www.elconfidencial.com/espana/2026-08-22/ayuso-biografia-politica-escandalos-madrid-1hms_4409719/",
+          "outlet": "20minutos",
+          "headline": "Divorcio total entre Julián Álvarez y el Metropolitano: pitadas monumentales, lanzamiento de bufandas y huida al vestuario",
+          "link": "https://www.20minutos.es/deportes/futbol/monumental-pitada-julian-alvarez-metropolitano-atletico-madrid-no-perdona-su-delantero_7028514_0.html",
           "position": 90,
-          "focus": "Cambia el eje hacia las rivalidades políticas de Ayuso con Sánchez y Feijóo, omitiendo por completo la polémica del ático como problema de rendición de cuentas"
+          "focus": "Enfatiza el carácter irreversible y espectacular de la ruptura mediante detalles como el lanzamiento de bufandas y la huida al vestuario, describiendo un 'divorcio total'"
         }
       ],
       "rango": 80,
       "discrepancia": "alta",
       "silenciosos": [
-        "20minutos",
-        "ABC",
-        "El Mundo",
-        "La Vanguardia"
-      ]
-    },
-    {
-      "neutral_headline": "Incendios en Castellón y Las Hurdes provocan evacuaciones mientras avanza su control",
-      "section": "Sociedad",
-      "facts": [
-        "La provincia de Castellón concentra el 99,4% de las hectáreas quemadas",
-        "Se ha ordenado evacuar Gátova por el incendio de Segorbe (Castellón)",
-        "Se ha pedido ayuda al personal de la UME",
-        "Se han producido nuevos desalojos por el incendio de Segorbe, que sigue fuera de control",
-        "El incendio de Las Hurdes ha sido estabilizado"
-      ],
-      "tipo_divergencia": "cronologica",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "La Vanguardia",
-          "headline": "El fuego se ceba con la provincia de Castellón que padece el 99,4% de todas las hectáreas quemadas",
-          "link": "https://www.lavanguardia.com/local/valencia/20260822/11617733/fuego-ceba-provincia-castellon-padece-99-4-todas-hectareas-quemadas.html",
-          "position": 50,
-          "focus": "Destaca el dato agregado de superficie quemada en Castellón, sin detallar evolución de desalojos"
-        },
-        {
-          "outlet": "El Confidencial",
-          "headline": "La Comunidad Valenciana ordena evacuar Gátova por el incendio de Segorbe (Castellón) y pide ayuda al personal de la UME",
-          "link": "https://www.elconfidencial.com/espana/2026-08-21/incendio-segorbe-sierra-calderona-1tps_4409546/",
-          "position": 50,
-          "focus": "Se centra en la orden de evacuación de Gátova y la petición de refuerzos UME, en un momento intermedio del incendio"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "Nuevos desalojos por el incendio de Segorbe, fuera de control, mientras logran estabilizar el de Las Hurdes",
-          "link": "https://www.20minutos.es/nacional/nuevos-desalojos-por-incendio-segorbe-fuera-control-mientras-logran-estabilizar-fuego-las-hurdes_7028272_0.html",
-          "position": 50,
-          "focus": "Actualiza con nuevos desalojos y el estado fuera de control de Segorbe, añadiendo además la estabilización de otro incendio (Las Hurdes)"
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "ABC",
-        "El Mundo",
+        "El Confidencial",
         "El Pais",
+        "La Vanguardia",
         "eldiario.es"
       ]
     }
