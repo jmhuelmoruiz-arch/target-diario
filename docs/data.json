@@ -1,146 +1,96 @@
 {
-  "fecha": "2026-08-25T05:07:36.030720+00:00",
+  "fecha": "2026-08-26T05:07:58.393474+00:00",
   "historias": [
     {
-      "neutral_headline": "Miles de inmigrantes, muchos menores, viven en la calle en Ceuta ante la falta de respuesta institucional",
-      "section": "Sociedad",
+      "neutral_headline": "Muere la cantante Dolly Parton a los 80 años",
+      "section": "Cultura",
       "facts": [
-        "La familia de Siraj lleva 26 días en un polígono de Ceuta",
-        "Hay niñas marroquíes entre los inmigrantes que llegaron a Ceuta",
-        "20minutos cifra en casi 10.000 los inmigrantes que malviven en la calle en Ceuta",
-        "20minutos afirma que se disparan las llamadas al 091",
-        "El Mundo recoge testimonios de niñas que dicen tener miedo a ser violadas"
+        "Dolly Parton ha muerto a los 80 años",
+        "Fue una estrella de la música country",
+        "Trump lamentó su muerte y decretó una semana de luto en su honor, según 20minutos",
+        "Fue reconocida también como estrella de Hollywood y promotora de la lectura"
       ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "vulnerabilidad y abandono institucional",
-        "polo_b": "amenaza a la seguridad pública",
-        "resumen": "Unos medios centran el relato en el desamparo y la infancia de los migrantes, otros en el riesgo y la inseguridad que genera su presencia masiva"
-      },
+      "tipo_divergencia": "ninguna",
+      "eje": null,
       "frames": [
         {
-          "outlet": "El Pais",
-          "headline": "La familia del pequeño Siraj lleva 26 días en un polígono fantasma de Ceuta: “Nadie ha venido a preguntarnos nada”",
-          "link": "https://elpais.com/espana/2026-08-25/la-familia-del-pequeno-siraj-lleva-26-dias-en-un-poligono-fantasma-de-ceuta-nadie-ha-venido-a-preguntarnos-nada.html",
-          "position": 5,
-          "focus": "Destaca el abandono institucional de una familia concreta; omite cualquier dato de seguridad o cifras globales"
-        },
-        {
           "outlet": "eldiario.es",
-          "headline": "Un folio para contar el miedo y dibujar el futuro de las niñas marroquíes que llegaron a Ceuta",
-          "link": "https://www.eldiario.es/desalambre/folio-contar-miedo-dibujar-futuro-ninas-marroquies-llegaron-ceuta_1_13463225.html",
-          "position": 15,
-          "focus": "Da voz directa a las niñas migrantes a través de sus dibujos; centra el foco en su experiencia emocional, no en el impacto en la ciudad"
+          "headline": "Muere Dolly Parton, la legendaria estrella de música country, a los 80 años",
+          "link": "https://www.eldiario.es/cultura/muere-dolly-parton-legendaria-estrella-musica-country-80-anos_1_13466825.html",
+          "position": 50,
+          "focus": "Anuncio de la muerte centrado en su carrera musical"
         },
         {
-          "outlet": "El Mundo",
-          "headline": "El terror de las niñas en la calle de Ceuta: \"Tengo miedo a ser violada\"",
-          "link": "https://www.elmundo.es/espana/2026/08/24/6a8c8af721efa00d1e8b4593.html",
-          "position": 65,
-          "focus": "Pone el acento en el miedo y el peligro físico en la calle, sin precisar responsables ni contexto institucional"
+          "outlet": "La Vanguardia",
+          "headline": "Fallece a los 80 años Dolly Parton, la reina del country, estrella de Hollywood y sonrisa global",
+          "link": "https://www.lavanguardia.com/cultura/20260825/11619993/fallece-80-anos-dolly-parton-reina-country-estrella-hollywood-sonrisa-global.html",
+          "position": 50,
+          "focus": "Anuncio de la muerte destacando su faceta múltiple: música, cine y popularidad global"
         },
         {
           "outlet": "20minutos",
-          "headline": "Casi 10.000 inmigrantes malviven en la calle de Ceuta y crece la preocupación por la seguridad: \"Se disparan las llamadas al 091\"",
-          "link": "https://www.20minutos.es/nacional/casi-10-000-inmigrantes-malviven-calle-ceuta-policia-alerta-un-problema-seguridad-se-disparan-las-llamadas-091_7028742_0.html",
-          "position": 95,
-          "focus": "Cuantifica la magnitud del fenómeno y lo enmarca como problema de seguridad ciudadana, citando el aumento de llamadas policiales"
+          "headline": "Muere Dolly Parton, la reina del 'country', a los 80 años",
+          "link": "https://www.20minutos.es/musica/muere-dolly-parton-reina-country-los-80-anos_7029331_0.html",
+          "position": 50,
+          "focus": "Anuncio de la muerte centrado en su papel como referente del country"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Trump lamenta la muerte de Dolly Parton y decreta luto durante una semana en su honor: \"El mundo te quiere\"",
+          "link": "https://www.20minutos.es/internacional/trump-lamenta-muerte-dolly-parton-decreta-luto-durante-una-semana-su-honor-mundo-te-quiere_7029342_0.html",
+          "position": 50,
+          "focus": "Reacción política de Trump ante la muerte, con declaración de luto"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Dolly Parton, la voz que llevó el country al mundo e hizo de la lectura su mayor legado",
+          "link": "https://www.20minutos.es/musica/dolly-parton-voz-que-llevo-country-mundo-hizo-lectura-su-mayor-legado_7029339_0.html",
+          "position": 50,
+          "focus": "Perfil retrospectivo centrado en su legado musical y su labor de fomento a la lectura"
         }
       ],
-      "rango": 90,
-      "discrepancia": "alta",
+      "rango": 0,
+      "discrepancia": "baja",
       "silenciosos": [
         "ABC",
         "El Confidencial",
-        "La Vanguardia"
+        "El Mundo",
+        "El Pais"
       ]
     },
     {
-      "neutral_headline": "EEUU anuncia nuevas medidas y amenazas de sanciones contra países que comercian con Irán",
-      "section": "Internacional",
+      "neutral_headline": "Jornada deportiva: quinta etapa de la Vuelta a España y regreso de Alcaraz al tenis",
+      "section": "Deportes",
       "facts": [
-        "El Pais denomina la iniciativa estadounidense 'Operación Paria Económico', dirigida a aislar a Irán de los gobiernos que sostienen sus finanzas",
-        "El Mundo recoge que EEUU amenaza con nuevas sanciones a cualquier país que comercie con Irán, incluida China",
-        "El Mundo cita la frase: 'Es momento de elegir de qué lado están'",
-        "ABC señala que el llamado 'Día D económico' de Trump contra Irán se queda, por ahora, en una nueva amenaza"
-      ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "acción/operación efectiva",
-        "polo_b": "mera amenaza sin concreción",
-        "resumen": "El Pais y El Mundo presentan la medida como una estrategia u operación con peso real, mientras ABC la enmarca como una amenaza que aún no se ha materializado en acción concreta"
-      },
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "Operación ‘Paria Económico’: Estados Unidos apuesta por aislar a Irán de los gobiernos que sostienen sus finanzas",
-          "link": "https://elpais.com/internacional/2026-08-24/estados-unidos-da-un-ultimatum-a-cualquier-pais-lo-suficientemente-loco-como-para-seguir-negociando-con-iran.html",
-          "position": 10,
-          "focus": "Presenta la medida como una operación estructurada y con nombre propio, enfatizando su carácter estratégico; omite si se ha ejecutado algo concreto"
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "EEUU amenaza con nuevas sanciones a cualquier país que comercie con Irán, incluido China: \"Es momento de elegir de qué lado están\"",
-          "link": "https://www.elmundo.es/internacional/2026/08/24/6a8c85d9e4d4d870468b4579.html",
-          "position": 40,
-          "focus": "Destaca la amenaza directa a terceros países, incluida China, con cita textual que subraya la presión diplomática; no cuestiona si es solo retórica"
-        },
-        {
-          "outlet": "ABC",
-          "headline": "El 'Día D económico' de Trump contra Irán se queda por ahora en una nueva amenaza",
-          "link": "https://www.abc.es/internacional/eeuu-impondra-sanciones-sectores-economicos-vitales-mantienen-20260824193820-nt.html",
-          "position": 90,
-          "focus": "Enfatiza que la ambición inicial ('Día D') no se ha traducido en acción real, quedando solo en amenaza; resalta el contraste entre expectativa y resultado"
-        }
-      ],
-      "rango": 80,
-      "discrepancia": "alta",
-      "silenciosos": [
-        "20minutos",
-        "El Confidencial",
-        "La Vanguardia",
-        "eldiario.es"
-      ]
-    },
-    {
-      "neutral_headline": "Distintos desarrollos de la guerra en Ucrania: aniversario, ayuda militar britanica y alerta en Kyiv",
-      "section": "Internacional",
-      "facts": [
-        "Ucrania cumple 35 anos de existencia como estado, segun El Mundo",
-        "Reino Unido anuncia medidas que segun ABC obligan a Rusia a cambiar su estrategia en la guerra",
-        "Antonio Costa fue evacuado a un refugio en Kyiv tras sonar alarmas por un posible ataque ruso, segun La Vanguardia",
-        "Londres ayudara a Kyiv a fabricar misiles de largo alcance ante la escasez de sistemas Patriot, segun La Vanguardia"
+        "Pogacar protagonizó una fuga o ataque a 51 km de meta en la etapa de Andorra de la Vuelta a España, según El Mundo",
+        "El Mundo señala que esa acción deja la Vuelta casi decidida",
+        "ABC publica una guía informativa sobre la etapa 5 de LaVuelta con recorrido, perfil y horarios de emisión",
+        "Alcaraz vuelve a competir tras una larga ausencia, según La Vanguardia",
+        "Alcaraz forma pareja con Serena Williams en su regreso, según La Vanguardia"
       ],
       "tipo_divergencia": "ninguna",
       "eje": null,
       "frames": [
         {
           "outlet": "El Mundo",
-          "headline": "Ucrania cumple 35 años luchando por seguir existiendo",
-          "link": "https://www.elmundo.es/internacional/2026/08/24/6a8c8d3121efa06d088b4592.html",
+          "headline": "El 'diablo' Pogacar desata una tormenta a 51 kilómetros de la meta en Andorra para dejar casi sentenciada la Vuelta a España",
+          "link": "https://www.elmundo.es/deportes/ciclismo/vuelta-a-espana/2026/08/25/6a8dc69de9cf4a98778b45ac.html",
           "position": 50,
-          "focus": "Marca el aniversario de la independencia de Ucrania como marco temporal del conflicto, sin relacionarlo con eventos militares concretos del dia"
+          "focus": "Destaca la acción deportiva de Pogacar en la etapa de Andorra y su impacto en la clasificación general de la Vuelta; no aporta datos prácticos de la etapa"
         },
         {
           "outlet": "ABC",
-          "headline": "Reino Unido desafía a Putin y obliga a cambiar a Moscú su estrategia en la guerra de Ucrania",
-          "link": "https://www.abc.es/internacional/burnham-estrena-kievc-entregando-zelenski-planos-misiles-20260824012744-nt.html",
+          "headline": "Etapa 5 de LaVuelta hoy, miércoles: recorrido, perfil, horario y dónde ver online y en televisión",
+          "link": "https://www.abc.es/deportes/ciclismo/etapa-5-lavuelta-hoy-miercoles-recorrido-perfil-horario-donde-ver-20260826060000-nt.html",
           "position": 50,
-          "focus": "Se centra en el impacto estrategico de las acciones britanicas sobre Rusia, sin detallar en que consisten esas acciones"
+          "focus": "Ofrece información de servicio sobre la etapa 5 de LaVuelta (recorrido, horario, dónde verla); no valora el desarrollo deportivo ni sus consecuencias"
         },
         {
           "outlet": "La Vanguardia",
-          "headline": "António Costa, evacuado a un refugio en Kyiv tras sonar las alarmas por un posible ataque ruso",
-          "link": "https://www.lavanguardia.com/internacional/20260824/11619379/antonio-costa-evacuado-refugio-kyiv-sonar-alarmas-posible-ataque-ruso.html",
+          "headline": "Alcaraz regresa a las pistas después de su larga ausencia formando pareja con Serena Williams",
+          "link": "https://www.lavanguardia.com/deportes/tenis/20260825/11620028/alcaraz-regresa-pistas-larga-ausencia-formando-pareja-serena-williams.html",
           "position": 50,
-          "focus": "Reporta un incidente de seguridad puntual durante una visita oficial, sin relacionarlo con la ayuda militar britanica"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Londres ayudará a Kyiv a fabricar misiles de largo alcance ante la escasez de Patriots",
-          "link": "https://www.lavanguardia.com/internacional/20260824/11619165/londres-ayudara-kyiv-fabricar-misiles-alcance-escasez-patriots.html",
-          "position": 50,
-          "focus": "Detalla la cooperacion tecnica en fabricacion de misiles como respuesta a una carencia especifica de defensa aerea, sin mencionar el aspecto de desafio a Putin"
+          "focus": "Se centra en el regreso de Alcaraz al tenis junto a Serena Williams tras una lesión; no guarda relación con la Vuelta a España"
         }
       ],
       "rango": 0,
