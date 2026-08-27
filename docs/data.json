@@ -1,52 +1,115 @@
 {
-  "fecha": "2026-08-26T05:07:58.393474+00:00",
+  "fecha": "2026-08-27T15:25:56.354671+00:00",
   "historias": [
     {
-      "neutral_headline": "Muere la cantante Dolly Parton a los 80 años",
-      "section": "Cultura",
+      "neutral_headline": "Riada e inundación entre Nepal y Tíbet dejan cientos de muertos y desaparecidos, con búsqueda de españoles no localizados",
+      "section": "Internacional",
       "facts": [
-        "Dolly Parton ha muerto a los 80 años",
-        "Fue una estrella de la música country",
-        "Trump lamentó su muerte y decretó una semana de luto en su honor, según 20minutos",
-        "Fue reconocida también como estrella de Hollywood y promotora de la lectura"
+        "Una riada y deslizamiento de tierra afectó la zona entre Nepal y Tíbet",
+        "El Pais y La Vanguardia reportan más de 350 muertos y 1.400 desaparecidos",
+        "20minutos reporta 362 muertos y 1.400 desaparecidos",
+        "El Mundo reporta más de 1.500 personas desaparecidas",
+        "Exteriores confirma cuatro españoles no localizados según El Mundo y 20minutos",
+        "Existen imágenes de satélite del antes y después de la riada",
+        "Se está desarrollando un rescate de personas atrapadas en lodo",
+        "Hay debate sobre si un terremoto fue causa o consecuencia de la riada",
+        "La riada en el Tíbet generó una señal sísmica equivalente a magnitud 5,1",
+        "Científicos advierten sobre posible nueva riada si escombros bloquean ríos",
+        "Dos turistas relataron estar atrapados ocho horas en Nepal"
       ],
-      "tipo_divergencia": "ninguna",
+      "tipo_divergencia": "cronologica",
       "eje": null,
       "frames": [
         {
-          "outlet": "eldiario.es",
-          "headline": "Muere Dolly Parton, la legendaria estrella de música country, a los 80 años",
-          "link": "https://www.eldiario.es/cultura/muere-dolly-parton-legendaria-estrella-musica-country-80-anos_1_13466825.html",
+          "outlet": "El Pais",
+          "headline": "Más de 350 muertos y 1.400 desaparecidos por la monstruosa riada y el deslizamiento masivo de tierra entre Nepal y Tíbet",
+          "link": "https://elpais.com/internacional/2026-08-27/el-numero-de-desaparecidos-en-nepal-y-tibet-tras-la-fuerte-riada-asciende-a-mas-de-1100-segun-dos-registros.html",
           "position": 50,
-          "focus": "Anuncio de la muerte centrado en su carrera musical"
+          "focus": "Cifra de muertos y desaparecidos en un momento dado, sin mención de españoles"
+        },
+        {
+          "outlet": "El Pais",
+          "headline": "El colapso de un glaciar y una gigantesca riada: qué sabemos de la tragedia de Nepal y qué falta por aclarar",
+          "link": "https://elpais.com/ciencia/2026-08-27/el-colapso-de-un-glaciar-y-una-gigantesca-riada-que-sabemos-de-la-tragedia-de-nepal-y-que-falta-por-aclarar.html",
+          "position": 50,
+          "focus": "Explica causas conocidas y pendientes del colapso del glaciar y la riada"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Más de 1.500 personas siguen desaparecidas en Nepal y el Tíbet: Exteriores confirma que hay cuatro españoles no localizados",
+          "link": "https://www.elmundo.es/internacional/2026/08/27/6a8fca4121efa0ba2d8b45c9.html",
+          "position": 50,
+          "focus": "Cifra de 1.500 desaparecidos y españoles no localizados"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Dos turistas atrapados en Nepal: \"La carretera desapareció ante nuestros ojos; estuvimos atascados en una franja de tierra durante ocho horas\"",
+          "link": "https://www.elmundo.es/internacional/2026/08/27/6a900e10fc6c83207c8b45a7.html",
+          "position": 50,
+          "focus": "Testimonio personal de turistas atrapados, foco en experiencia individual"
         },
         {
           "outlet": "La Vanguardia",
-          "headline": "Fallece a los 80 años Dolly Parton, la reina del country, estrella de Hollywood y sonrisa global",
-          "link": "https://www.lavanguardia.com/cultura/20260825/11619993/fallece-80-anos-dolly-parton-reina-country-estrella-hollywood-sonrisa-global.html",
+          "headline": "La gigantesca riada entre el Tíbet y Nepal suma ya más de 350 muertos",
+          "link": "https://www.lavanguardia.com/internacional/20260827/11620839/nepal-teme-haya-mas-millar-ahogados-lodo.html",
           "position": 50,
-          "focus": "Anuncio de la muerte destacando su faceta múltiple: música, cine y popularidad global"
+          "focus": "Cifra de más de 350 muertos, sin mención de desaparecidos ni españoles"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Así está siendo el rescate de personas atrapadas en lodo tras la riada de Nepal",
+          "link": "https://www.lavanguardia.com/internacional/20260827/11621031/asi-esta-siendo-rescate-personas-atrapados-lodo-riada-nepal.html",
+          "position": 50,
+          "focus": "Describe el proceso de rescate en curso"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Impresionantes imágenes de satélite muestran el antes y después de la riada gigantesca en Nepal y Tíbet",
+          "link": "https://www.lavanguardia.com/internacional/20260827/11620897/riada-nepal-tibet-imagenes-satelite-antes-despues.html",
+          "position": 50,
+          "focus": "Muestra evidencia visual satelital del impacto territorial"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "El terremoto fue la consecuencia y no la causa: ¿qué provocó la riada en el Himalaya?",
+          "link": "https://www.lavanguardia.com/internacional/20260827/11621046/que-provoco-colapso-glaciar-causo-riada-himalaya-nepal-tibet.html",
+          "position": 50,
+          "focus": "Analiza causa técnica: terremoto como consecuencia, no origen"
         },
         {
           "outlet": "20minutos",
-          "headline": "Muere Dolly Parton, la reina del 'country', a los 80 años",
-          "link": "https://www.20minutos.es/musica/muere-dolly-parton-reina-country-los-80-anos_7029331_0.html",
+          "headline": "Exteriores eleva a cuatro los españoles no localizados tras la mortal riada que ya deja 362 muertos y 1.400 desaparecidos",
+          "link": "https://www.20minutos.es/internacional/riada-nepal-directo-unos-500-turistas-estan-desaparecidos-por-brutal-riada-que-ha-arrasado-frontera-entre-nepal-china_7029706_6.html",
           "position": 50,
-          "focus": "Anuncio de la muerte centrado en su papel como referente del country"
+          "focus": "Cifra de 362 muertos y 1.400 desaparecidos, más españoles no localizados"
         },
         {
           "outlet": "20minutos",
-          "headline": "Trump lamenta la muerte de Dolly Parton y decreta luto durante una semana en su honor: \"El mundo te quiere\"",
-          "link": "https://www.20minutos.es/internacional/trump-lamenta-muerte-dolly-parton-decreta-luto-durante-una-semana-su-honor-mundo-te-quiere_7029342_0.html",
+          "headline": "Un glaciar, un terremoto... o el cambio climático: ¿Qué provocó realmente la terrible riada en la frontera de Nepal y China?",
+          "link": "https://www.20minutos.es/internacional/un-glaciar-un-terremoto-cambio-climatico-que-provoco-realmente-devastadora-riada-entre-nepal-china_7029921_0.html",
           "position": 50,
-          "focus": "Reacción política de Trump ante la muerte, con declaración de luto"
+          "focus": "Explora múltiples hipótesis causales: glaciar, terremoto, cambio climático"
         },
         {
           "outlet": "20minutos",
-          "headline": "Dolly Parton, la voz que llevó el country al mundo e hizo de la lectura su mayor legado",
-          "link": "https://www.20minutos.es/musica/dolly-parton-voz-que-llevo-country-mundo-hizo-lectura-su-mayor-legado_7029339_0.html",
+          "headline": "La riada en el Tíbet generó una señal sísmica equivalente a un terremoto de magnitud 5,1",
+          "link": "https://www.20minutos.es/internacional/riada-tibet-genero-una-senal-sismica-equivalente-un-terremoto-magnitud-5-1_7029983_0.html",
           "position": 50,
-          "focus": "Perfil retrospectivo centrado en su legado musical y su labor de fomento a la lectura"
+          "focus": "Dato técnico sismográfico de la riada"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Los científicos advierten de la posibilidad de otra riada catastrófica en la misma zona de Nepal si los escombros bloquean los ríos",
+          "link": "https://www.20minutos.es/internacional/los-cientificos-advierten-posibilidad-otra-riada-catastrofica-misma-zona-nepal-si-los-escombros-bloquean-los-rios_7029860_0.html",
+          "position": 50,
+          "focus": "Advertencia científica sobre riesgo de nueva catástrofe"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Las imágenes más impactantes que ha dejado la catástrofe en Nepal",
+          "link": "https://www.20minutos.es/internacional/impactantes-imagenes-devastadora-riada-nepal_7029975_1.html",
+          "position": 50,
+          "focus": "Recopilación de imágenes impactantes de la catástrofe"
         }
       ],
       "rango": 0,
@@ -54,47 +117,111 @@
       "silenciosos": [
         "ABC",
         "El Confidencial",
-        "El Mundo",
-        "El Pais"
+        "eldiario.es"
       ]
     },
     {
-      "neutral_headline": "Jornada deportiva: quinta etapa de la Vuelta a España y regreso de Alcaraz al tenis",
-      "section": "Deportes",
+      "neutral_headline": "Roban el Tesoro de Villena tras una distracción y una operación de cuatro minutos",
+      "section": "Cultura",
       "facts": [
-        "Pogacar protagonizó una fuga o ataque a 51 km de meta en la etapa de Andorra de la Vuelta a España, según El Mundo",
-        "El Mundo señala que esa acción deja la Vuelta casi decidida",
-        "ABC publica una guía informativa sobre la etapa 5 de LaVuelta con recorrido, perfil y horarios de emisión",
-        "Alcaraz vuelve a competir tras una larga ausencia, según La Vanguardia",
-        "Alcaraz forma pareja con Serena Williams en su regreso, según La Vanguardia"
+        "El Tesoro de Villena, uno de los hallazgos más importantes de la Edad de Bronce en Europa, fue robado",
+        "Tres personas encapuchadas participaron en el robo",
+        "El robo se ejecutó en cuatro minutos",
+        "Se activó una alarma en otro punto del pueblo para distraer",
+        "Los ladrones fueron captados por cámaras de seguridad",
+        "Los ladrones usaron dos coches",
+        "El robo se enmarca en una serie de tres robos en museos españoles en cuatro meses, incluido uno de monedas en Badajoz"
       ],
       "tipo_divergencia": "ninguna",
       "eje": null,
       "frames": [
         {
-          "outlet": "El Mundo",
-          "headline": "El 'diablo' Pogacar desata una tormenta a 51 kilómetros de la meta en Andorra para dejar casi sentenciada la Vuelta a España",
-          "link": "https://www.elmundo.es/deportes/ciclismo/vuelta-a-espana/2026/08/25/6a8dc69de9cf4a98778b45ac.html",
+          "outlet": "El Pais",
+          "headline": "Roban el Tesoro de Villena, uno de los hallazgos más importantes de la Edad de Bronce en Europa",
+          "link": "https://elpais.com/cultura/2026-08-27/roban-el-tesoro-de-villena-uno-de-los-hallazgos-mas-importantes-de-la-edad-de-bronce-en-europa.html",
           "position": 50,
-          "focus": "Destaca la acción deportiva de Pogacar en la etapa de Andorra y su impacto en la clasificación general de la Vuelta; no aporta datos prácticos de la etapa"
+          "focus": "Anuncia el robo y subraya la relevancia histórica del tesoro, sin entrar en detalles operativos"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Tres encapuchados roban en cuatro minutos el Tesoro de Villena, una de las colecciones más valiosas de la Edad de Bronce en Europa",
+          "link": "https://www.elmundo.es/cultura/2026/08/27/6a8feab5fdddffca278b4589.html",
+          "position": 50,
+          "focus": "Detalla el número de asaltantes y la rapidez del golpe, resaltando el valor de la colección"
         },
         {
           "outlet": "ABC",
-          "headline": "Etapa 5 de LaVuelta hoy, miércoles: recorrido, perfil, horario y dónde ver online y en televisión",
-          "link": "https://www.abc.es/deportes/ciclismo/etapa-5-lavuelta-hoy-miercoles-recorrido-perfil-horario-donde-ver-20260826060000-nt.html",
+          "headline": "Del tesoro de Villena a las monedas de Badajoz: tres robos en museos españoles en solo cuatro meses",
+          "link": "https://www.abc.es/cultura/tesoro-villena-monedas-badajoz-tres-robos-museos-20260827140653-nt.html",
           "position": 50,
-          "focus": "Ofrece información de servicio sobre la etapa 5 de LaVuelta (recorrido, horario, dónde verla); no valora el desarrollo deportivo ni sus consecuencias"
+          "focus": "Contextualiza el robo dentro de una serie de asaltos a museos españoles, ampliando el foco más allá de Villena"
         },
         {
-          "outlet": "La Vanguardia",
-          "headline": "Alcaraz regresa a las pistas después de su larga ausencia formando pareja con Serena Williams",
-          "link": "https://www.lavanguardia.com/deportes/tenis/20260825/11620028/alcaraz-regresa-pistas-larga-ausencia-formando-pareja-serena-williams.html",
+          "outlet": "ABC",
+          "headline": "Una alarma en la otra punta del pueblo para distraer y cuatro minutos para robar el Tesoro de Villena",
+          "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/roban-madrugada-tesoro-villena-grandes-joyas-edad-20260827100007-nt.html",
           "position": 50,
-          "focus": "Se centra en el regreso de Alcaraz al tenis junto a Serena Williams tras una lesión; no guarda relación con la Vuelta a España"
+          "focus": "Explica la táctica de distracción usada y el tiempo exacto del robo"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Los ladrones fueron captados por las cámaras, encapuchados y con dos coches",
+          "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/ladrones-tesoro-villena-captados-camaras-encapuchados-dos-20260827143521-nt.html",
+          "position": 50,
+          "focus": "Describe las imágenes captadas por las cámaras: encapuchados y vehículos usados"
         }
       ],
       "rango": 0,
       "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "El Confidencial",
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Muere Ratko Mladic, ex jefe militar serbobosnio condenado por crímenes de guerra en Bosnia",
+      "section": "Internacional",
+      "facts": [
+        "Ratko Mladic ha muerto",
+        "Fue jefe militar serbobosnio durante la guerra de Bosnia",
+        "El Mundo señala que fue condenado por La Haya por la matanza de Srebrenica",
+        "El Mundo cita que persisten fosas comunes y que los veredictos de La Haya siguen en pie",
+        "ABC lo describe como el ex jefe militar serbobosnio conocido como 'Carnicero de Bosnia'",
+        "La Vanguardia lo describe como responsable de la muerte de miles de musulmanes en Bosnia"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "descripcion neutra del cargo",
+        "polo_b": "calificacion directa como genocida",
+        "resumen": "los medios difieren en el grado de juicio explicito que atribuyen a Mladic, desde una descripcion de su cargo militar hasta la etiqueta directa de genocida"
+      },
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "Muere Ratko Mladic, el Carnicero de los Balcanes, condenado por la matanza de Srebrenica: \"Las fosas comunes permanecen y cada veredicto de La Haya sigue en pie\"",
+          "link": "https://www.elmundo.es/internacional/2026/08/27/6a9031c121efa0fe388b45d3.html",
+          "position": 55,
+          "focus": "Destaca la condena judicial de La Haya y la permanencia de las fosas comunes como prueba viva del crimen, enmarcando la muerte en el contexto de la justicia internacional aun vigente"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Muere Ratko Mladic, el ex jefe militar serbobosnio conocido como el 'Carnicero de Bosnia'",
+          "link": "https://www.abc.es/internacional/muere-ratko-mladic-jefe-militar-serbios-bosnia-20260827150832-nt.html",
+          "position": 10,
+          "focus": "Se limita a describir su cargo militar y el apodo popular, sin mencionar explicitamente la condena judicial ni calificar sus actos como genocidio"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Muere el genocida Ratko Mladic, responsable de la muerte de miles de musulmanes en Bosnia",
+          "link": "https://www.lavanguardia.com/internacional/20260827/11621127/muere-ratko-mladic.html",
+          "position": 90,
+          "focus": "Califica directamente a Mladic como 'genocida' y atribuye explicitamente la muerte de miles de musulmanes, siendo el encuadre mas contundente en el juicio moral"
+        }
+      ],
+      "rango": 80,
+      "discrepancia": "alta",
       "silenciosos": [
         "20minutos",
         "El Confidencial",
