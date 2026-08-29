@@ -1,103 +1,219 @@
 {
-  "fecha": "2026-08-28T16:52:41.069684+00:00",
+  "fecha": "2026-08-29T11:19:36.571429+00:00",
   "historias": [
     {
-      "neutral_headline": "Localizan con vida a uno de los tres españoles desaparecidos por las riadas en Nepal",
+      "neutral_headline": "Trump anuncia un acuerdo con Venezuela sobre reservas petroleras que también beneficia a EEUU",
+      "section": "Economia",
+      "facts": [
+        "Trump anunció un acuerdo relacionado con las reservas petroleras de Venezuela",
+        "El acuerdo implica que EEUU obtenga control o acceso a parte de esas reservas",
+        "Según eldiario.es y La Vanguardia, el acuerdo duplicará las reservas petroleras de EEUU",
+        "Según El Mundo, EEUU tomará el control de gran parte de las reservas venezolanas",
+        "eldiario.es señala que Trump calificó el acuerdo de \"histórico\""
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "Venezuela pierde control de sus reservas",
+        "polo_b": "EEUU gana reservas/beneficio",
+        "resumen": "Los medios difieren en si enfatizan la pérdida de soberanía petrolera venezolana o la ganancia estratégica para EEUU"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Trump anuncia un acuerdo con Venezuela para adueñarse de parte de sus reservas petroleras",
+          "link": "https://elpais.com/us/2026-08-28/trump-anuncia-un-acuerdo-con-venezuela-para-aduenarse-de-parte-de-su-sector-petrolero.html",
+          "position": 5,
+          "focus": "Usa el verbo 'adueñarse', enfatizando la apropiación de recursos venezolanos por parte de EEUU, sin mencionar el beneficio cuantificado para EEUU"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "EEUU tomará el control de gran parte de las reservas petroleras de Venezuela",
+          "link": "https://www.elmundo.es/internacional/2026/08/29/6a922770e9cf4aa4208b45ae.html",
+          "position": 15,
+          "focus": "Enfatiza que EEUU 'tomará el control' de las reservas venezolanas, centrando el foco en la pérdida de control de Venezuela"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Trump anuncia un acuerdo \"histórico\" con Venezuela para controlar sus reservas petroleras y duplicar las de EEUU",
+          "link": "https://www.eldiario.es/internacional/trump-anuncia-acuerdo-historico-venezuela-controlar-reservas-petroleras-duplicar-eeuu_1_13473939.html",
+          "position": 70,
+          "focus": "Menciona tanto el control de las reservas venezolanas como la duplicación de las reservas de EEUU, combinando ambos ángulos pero destacando la cifra de duplicación y la palabra 'histórico' de Trump"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Trump anuncia un acuerdo petrolero con Venezuela que duplicará las reservas de EE.UU.",
+          "link": "https://www.lavanguardia.com/economia/20260829/11622189/delcy-rodriguez-agradece-donald-trump-historico-acuerdo-petrolero-venezuela-ee-uu.html",
+          "position": 90,
+          "focus": "Centra el titular en el beneficio para EEUU (duplicar sus reservas), sin mencionar explícitamente el control o pérdida para Venezuela"
+        }
+      ],
+      "rango": 85,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Confidencial"
+      ]
+    },
+    {
+      "neutral_headline": "Ataque ruso contra Kiev y su región deja decenas de muertos y heridos",
       "section": "Internacional",
       "facts": [
-        "Uno de los tres españoles desaparecidos en Nepal ha sido localizado con vida",
-        "El hallazgo se produce tras las riadas registradas en Nepal",
-        "El Mundo cifra en 553 los muertos causados por la riada"
+        "El Pais reporta al menos 28 muertos en un bombardeo ruso contra Kiev",
+        "El Mundo reporta al menos 27 muertos en un ataque aéreo ruso sobre la región de Kiev",
+        "ABC reporta al menos 27 muertos y 40 heridos en un ataque a un centro logístico cercano a Kiev",
+        "20minutos reporta una ola de ataques rusos contra centros logísticos en Kiev con al menos 27 muertos y 40 heridos"
       ],
       "tipo_divergencia": "cronologica",
       "eje": null,
       "frames": [
         {
-          "outlet": "El Mundo",
-          "headline": "Localizan con vida a uno de los tres españoles desaparecidos por la riada en Nepal, que dejan ya 553 muertos",
-          "link": "https://www.elmundo.es/internacional/2026/08/28/6a912720fdddff77408b4572.html",
+          "outlet": "El Pais",
+          "headline": "Al menos 28 muertos en un bombardeo ruso contra Kiev en uno de los peores ataques de la guerra",
+          "link": "https://elpais.com/internacional/2026-08-29/al-menos-27-muertos-en-un-bombardeo-ruso-contra-kiev-en-uno-de-los-peores-ataques-de-la-guerra.html",
           "position": 50,
-          "focus": "Incluye la cifra actualizada de fallecidos (553) además del hallazgo del español"
+          "focus": "Cifra de 28 muertos, describe el ataque como uno de los peores de la guerra, sin especificar el objetivo concreto"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Mueren al menos 27 personas en un ataque aéreo de Rusia sobre la región de Kiev",
+          "link": "https://www.elmundo.es/internacional/2026/08/29/6a929ddb21efa061608b458e.html",
+          "position": 50,
+          "focus": "Cifra de 27 muertos, ubica el ataque en la región de Kiev de forma general"
         },
         {
           "outlet": "ABC",
-          "headline": "Localizado con vida uno de los tres españoles desaparecidos por la riada en Nepal",
-          "link": "https://www.abc.es/espana/localizado-vida-tres-espanoles-desaparecidos-inundaciones-nepal-20260828181250-nt.html",
+          "headline": "Al menos 27 muertos y 40 heridos en un nuevo ataque ruso a un centro logístico cercano a Kiev",
+          "link": "https://www.abc.es/internacional/muertos-heridos-nuevo-ataque-ruso-centro-logistico-20260829125529-nt.html",
           "position": 50,
-          "focus": "Se centra solo en el hallazgo del español, sin mencionar cifra de muertos"
+          "focus": "Cifra de 27 muertos y 40 heridos, especifica que el objetivo fue un centro logístico cercano a Kiev"
         },
         {
-          "outlet": "La Vanguardia",
-          "headline": "Localizado uno de los tres españoles desaparecidos tras las riadas en Nepal",
-          "link": "https://www.lavanguardia.com/internacional/20260828/11621864/localizado-tres-espanoles-desaparecidos-riadas-nepal.html",
+          "outlet": "20minutos",
+          "headline": "Una ola de ataques rusos contra centros logísticos en Kiev deja al menos 27 muertos y 40 heridos",
+          "link": "https://www.20minutos.es/internacional/una-ola-ataques-rusos-contra-centros-logisticos-kiev-deja-menos-27-muertos-40-heridos_7030568_0.html",
           "position": 50,
-          "focus": "Reporta el hallazgo del español, usando el plural 'riadas' sin cifra de víctimas"
+          "focus": "Misma cifra que ABC, pero describe una ola de ataques contra varios centros logísticos en Kiev"
         }
       ],
       "rango": 0,
       "discrepancia": "baja",
       "silenciosos": [
-        "20minutos",
         "El Confidencial",
-        "El Pais",
+        "La Vanguardia",
         "eldiario.es"
       ]
     },
     {
-      "neutral_headline": "Riadas en el Himalaya dejan cientos de muertos y miles de afectados, con riesgo de nuevas inundaciones",
+      "neutral_headline": "Riada en el Himalaya (Nepal/Tíbet) deja cientos de muertos; dos españoles localizados",
       "section": "Internacional",
       "facts": [
-        "Una riada en la región del Himalaya (Nepal/Tíbet) ha causado al menos 584 muertos según El País",
-        "ABC cifra en 93.000 los afectados, con comunidades aisladas en las montañas",
-        "Existe riesgo de una segunda riada, señalado tanto por El País como por La Vanguardia",
-        "China y Nepal han elevado la alerta ante el riesgo de un nuevo desbordamiento",
-        "Una residencia de ancianos fue arrasada por la riada, con una única superviviente identificada como Gunakeshari Bohara",
-        "Un geólogo e himalayista vincula la inestabilidad de las altas montañas al retroceso de los glaciares por el calentamiento global"
+        "Una riada afectó a la región del Himalaya, entre Nepal y Tíbet",
+        "El Mundo, eldiario.es, La Vanguardia y 20minutos cifran en 633 los fallecidos",
+        "El Pais cifra en mas de 630 los fallecidos, con equipos de rescate llegando al nucleo de la tragedia en Tibet",
+        "Nepal elevo a dos el numero de espanoles localizados tras la riada",
+        "El Pais senala que 15 millones de personas viven bajo la amenaza de los lagos glaciares en la region"
+      ],
+      "tipo_divergencia": "cronologica",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "La tragedia de Nepal alerta sobre un peligro creciente: 15 millones de personas viven bajo la amenaza de los lagos glaciares",
+          "link": "https://elpais.com/clima-y-medio-ambiente/2026-08-29/la-tragedia-de-nepal-alerta-sobre-una-amenaza-creciente-15-millones-de-personas-viven-bajo-la-amenaza-de-los-lagos-glaciares.html",
+          "position": 50,
+          "focus": "Enfoque preventivo: riesgo futuro para 15 millones de personas por lagos glaciares, sin cifra de muertos"
+        },
+        {
+          "outlet": "El Pais",
+          "headline": "La catástrofe del Himalaya deja más de 630 fallecidos, mientras los equipos de rescate alcanzan el núcleo de la tragedia en Tíbet",
+          "link": "https://elpais.com/internacional/2026-08-29/la-catastrofe-de-nepal-deja-mas-de-620-fallecidos-mientras-los-equipos-de-rescate-alcanzan-el-nucleo-de-la-tragedia-en-tibet.html",
+          "position": 50,
+          "focus": "Cifra de mas de 630 muertos, foco en el avance de los equipos de rescate hacia el nucleo en Tibet"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Nepal eleva a dos los españoles localizados tras la violenta riada que deja ya 633 muertos",
+          "link": "https://www.elmundo.es/internacional/2026/08/29/6a92a1eefc6c83d9738b458c.html",
+          "position": 50,
+          "focus": "Cifra de 633 muertos, foco en la localizacion de dos espanoles"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Nepal eleva a dos los españoles localizados tras la violenta riada que deja 633 muertos",
+          "link": "https://www.eldiario.es/internacional/nepal-eleva-610-muertos-violenta-riada-continuan-operaciones-zona-cero_1_13473947.html",
+          "position": 50,
+          "focus": "Cifra de 633 muertos, foco en la localizacion de dos espanoles"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Nepal eleva a dos los españoles localizados tras la riada con 633 muertos",
+          "link": "https://www.lavanguardia.com/internacional/20260829/11622228/nepal-eleva-dos-espanoles-localizados-riada-633-muertos.html",
+          "position": 50,
+          "focus": "Cifra de 633 muertos, foco en la localizacion de dos espanoles"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Nepal eleva a dos los españoles localizados tras la violenta riada que ya deja 633 muertos",
+          "link": "https://www.20minutos.es/internacional/nepal-eleva-dos-los-espanoles-localizados-tras-violenta-riada-que-ya-deja-633-muertos_7030557_0.html",
+          "position": 50,
+          "focus": "Cifra de 633 muertos, foco en la localizacion de dos espanoles"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "ABC",
+        "El Confidencial"
+      ]
+    },
+    {
+      "neutral_headline": "Un estudio revela que la enfermedad cardiovascular silenciosa se desarrolla desde la juventud y afecta a gran parte de la población",
+      "section": "Sociedad",
+      "facts": [
+        "La enfermedad cardiovascular es la principal causa de infartos",
+        "El deterioro arterial comienza a acumularse desde la juventud, según El Pais y ABC",
+        "El Mundo cita que 1 de cada 13 jóvenes de 18 a 29 años tiene la enfermedad cardiovascular silenciosa",
+        "La Vanguardia indica que más de la mitad de los adultos españoles tiene las arterias dañadas sin saberlo",
+        "ABC señala que el infarto o ictus de los 50 años se gesta desde los 20"
       ],
       "tipo_divergencia": "ninguna",
       "eje": null,
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "El riesgo de una segunda riada amenaza Nepal y Tíbet tras una catástrofe que deja ya al menos 584 muertos",
-          "link": "https://elpais.com/internacional/2026-08-28/el-riesgo-de-una-segunda-riada-amenaza-nepal-y-tibet-tras-una-catastrofe-que-deja-ya-al-menos-472-muertos.html",
+          "headline": "La enfermedad que causa la mayoría de los infartos se acumula en silencio en las arterias desde la juventud",
+          "link": "https://elpais.com/salud-y-bienestar/2026-08-29/la-enfermedad-que-causa-la-mayoria-de-los-infartos-se-acumula-en-silencio-en-las-arterias-desde-la-juventud.html",
           "position": 50,
-          "focus": "Se centra en el riesgo de una segunda riada y aporta la cifra de fallecidos, sin detallar afectados ni causas."
+          "focus": "Explica el proceso silencioso de acumulación de la enfermedad desde la juventud, sin cifras concretas"
+        },
+        {
+          "outlet": "El Pais",
+          "headline": "Enfermedad cardiovascular: cuando el riesgo ya es enfermedad",
+          "link": "https://elpais.com/opinion/2026-08-29/enfermedad-cardiovascular-cuando-el-riesgo-ya-es-enfermedad.html",
+          "position": 50,
+          "focus": "Aborda el concepto de que el riesgo cardiovascular ya constituye enfermedad en sí"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "La enfermedad cardiovascular silenciosa es más frecuente de lo que se pensaba: afecta a uno de cada 13 jóvenes de entre 18 y 29 años",
+          "link": "https://www.elmundo.es/salud/2026/08/29/6a918e8de9cf4a91158b45b4.html",
+          "position": 50,
+          "focus": "Aporta el dato estadístico de prevalencia en jóvenes de 18-29 años (1 de cada 13)"
         },
         {
           "outlet": "ABC",
-          "headline": "La riada del Himalaya deja 93.000 afectados y comunidades enteras aisladas entre las montañas",
-          "link": "https://www.abc.es/internacional/riada-himalaya-deja-93000-afectados-comunidades-enteras-20260828183237-nt.html",
+          "headline": "El infarto o el ictus de los 50 años se empieza a gestar a los 20",
+          "link": "https://www.abc.es/salud/aterosclerosis-silenciosa-20260829110500-nt.html",
           "position": 50,
-          "focus": "Aporta la cifra de afectados y el aislamiento de comunidades, sin mencionar el riesgo de nueva riada."
+          "focus": "Enfatiza la línea temporal del desarrollo de la enfermedad, desde los 20 hasta los 50 años"
         },
         {
           "outlet": "La Vanguardia",
-          "headline": "Recorrido visual de la riada de Nepal",
-          "link": "https://www.lavanguardia.com/internacional/20260828/11621730/recorrido-visual-riada-nepal.html",
+          "headline": "Más de la mitad de los adultos españoles tiene las arterias dañadas sin saberlo",
+          "link": "https://www.lavanguardia.com/ciencia/20260829/11621617/mas-mitad-adultos-espanoles-arterias-danadas-saberlo.html",
           "position": 50,
-          "focus": "Formato visual recopilatorio del desastre, sin aportar datos numéricos nuevos ni causas."
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "El 'milagro' de Gunakeshari Bohara, la única superviviente de una residencia de ancianos arrasada por la riada del Himalaya",
-          "link": "https://www.lavanguardia.com/internacional/20260828/11621685/milagro-gunakeshari-bohara-unica-superviviente-residencia-ancianos-arrasada-riada-himalaya.html",
-          "position": 50,
-          "focus": "Historia humana centrada en una superviviente concreta, sin cifras globales del desastre."
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Jerónimo López, geólogo e himalayista: “El retroceso de los glaciares por el calentamiento hace que las altas montañas sean cada vez más inestables”",
-          "link": "https://www.lavanguardia.com/natural/20260828/11621683/jeronimo-lopez-geologo-e-himalayista-retroceso-glaciares-calentamiento-altas-montanas-sean-vez-mas-inestables.html",
-          "position": 50,
-          "focus": "Aporta contexto científico sobre causas geológicas y climáticas del fenómeno, sin datos de víctimas."
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "China y Nepal elevan la alerta por el riesgo de un nuevo desbordamiento",
-          "link": "https://www.lavanguardia.com/internacional/20260828/11621495/china-suspende-rescate-detectar-nuevo-riesgo-desbordamiento.html",
-          "position": 50,
-          "focus": "Informa sobre la respuesta institucional (alerta elevada) ante el riesgo de nuevas inundaciones."
+          "focus": "Destaca el dato de prevalencia en adultos españoles en general (más de la mitad)"
         }
       ],
       "rango": 0,
@@ -105,7 +221,6 @@
       "silenciosos": [
         "20minutos",
         "El Confidencial",
-        "El Mundo",
         "eldiario.es"
       ]
     }
