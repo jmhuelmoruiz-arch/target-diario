@@ -1,112 +1,210 @@
 {
-  "fecha": "2026-08-30T10:05:20.887886+00:00",
+  "fecha": "2026-08-31T11:05:42.571989+00:00",
   "historias": [
     {
-      "neutral_headline": "Islandia rechaza en referéndum reabrir las negociaciones de adhesión a la Unión Europea",
+      "neutral_headline": "Tensión y disparos al aire de la Policía en el centro de acogida de migrantes en Ceuta",
+      "section": "Sociedad",
+      "facts": [
+        "La Policía disparó al aire para disolver un grupo de migrantes en Ceuta",
+        "Los hechos ocurrieron en el centro de acogida de Loma Colmenar",
+        "El Mundo afirma que hubo 'reyertas' y 'agresiones sexuales' en el asentamiento",
+        "El Pais recoge declaraciones de Rego calificando a los menores de Ceuta como 'víctimas' y no 'invasores'",
+        "La Vanguardia informa de centenares de inmigrantes concentrados en la playa del Trampolín a la espera de ser acogidos",
+        "20minutos indica que los migrantes intentaban acceder a las carpas del centro"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "migrantes como víctimas vulnerables",
+        "polo_b": "migrantes como problema de orden público",
+        "resumen": "Los medios difieren entre presentar a los migrantes como víctimas necesitadas de protección o como una fuente de desorden y violencia que requiere intervención policial"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Rego asegura que los menores de Ceuta “no son invasores, sino víctimas” y pide tiempo para su devolución",
+          "link": "https://elpais.com/espana/2026-08-31/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
+          "position": 10,
+          "focus": "Destaca la voz institucional que defiende a los menores como víctimas y pide tiempo para su devolución, omitiendo detalles sobre los disparos o incidentes violentos"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Centenares de inmigrantes se afianzan en la playa del Trampolín a la espera de su acogida",
+          "link": "https://www.lavanguardia.com/politica/20260831/11623283/cientos-inmigrantes-afianzan-playa-trampolin-espera-acogida.html",
+          "position": 30,
+          "focus": "Describe la situación de espera de los migrantes en la playa, con tono descriptivo y sin mencionar violencia o disparos"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Disparos al aire y tensión a las puertas del centro de acogida de Loma Colmenar de Ceuta",
+          "link": "https://www.lavanguardia.com/politica/20260831/11623525/disparos-aire-tension-puertas-centro-acogida-loma-colmenar-ceuta.html",
+          "position": 55,
+          "focus": "Reporta los disparos y la tensión de forma factual, sin atribuir responsabilidad clara a los migrantes ni victimizarlos"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Tensión en Loma Colmenar: la Policía dispara al aire para controlar a los inmigrantes que querían acceder a las carpas",
+          "link": "https://www.20minutos.es/nacional/policia-interviene-ceuta-con-disparos-aire-para-contener-los-inmigrantes-que-quieren-acceder-loma-colmenar_7030976_0.html",
+          "position": 65,
+          "focus": "Enfatiza la acción policial para 'controlar' a los migrantes que intentaban acceder a las carpas, sugiriendo necesidad de contención"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Disparos al aire de la Policía para disolver un asentamiento de miles de migrantes en Ceuta: \"Había reyertas, agresiones sexuales...\"",
+          "link": "https://www.elmundo.es/espana/2026/08/31/6a95581ce4d4d81f238b459a.html",
+          "position": 95,
+          "focus": "Resalta el desorden y la violencia (reyertas, agresiones sexuales) como motivo de la intervención policial, enmarcando a los migrantes como fuente de conflicto"
+        }
+      ],
+      "rango": 85,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "ABC",
+        "El Confidencial",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "EEUU e Irán intercambian ataques por primera vez desde julio",
       "section": "Internacional",
       "facts": [
-        "Se celebró un referéndum en Islandia sobre la integración/negociación de adhesión a la UE",
-        "El resultado fue el rechazo a continuar o reabrir las negociaciones con la UE",
-        "ABC y eldiario.es califican el referéndum como 'ajustado'/'apretado'"
+        "EEUU e Irán intercambiaron ataques",
+        "Es la primera vez que ocurre desde julio",
+        "Trump publicó un video generado con IA sobre la destrucción de la isla iraní de Jark (según El Mundo)"
       ],
       "tipo_divergencia": "ninguna",
       "eje": null,
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "Islandia cierra la puerta a la integración en la Unión Europea",
-          "link": "https://elpais.com/internacional/2026-08-30/islandia-cierra-la-puerta-a-la-integracion-en-la-union-europea.html",
+          "headline": "EE UU e Irán intercambian ataques por primera vez desde julio",
+          "link": "https://elpais.com/internacional/2026-08-30/el-primer-ataque-de-ee-uu-a-iran-desde-julio-provoca-varios-muertos-y-heridos.html",
           "position": 50,
-          "focus": "Enfatiza el cierre a la integración europea como consecuencia general"
+          "focus": "Se centra en el intercambio de ataques y su carácter de primera vez desde julio, sin mencionar el video de Trump"
         },
         {
           "outlet": "El Mundo",
-          "headline": "El 'no' a la UE se  impone en el referéndum de Islandia",
-          "link": "https://www.elmundo.es/internacional/2026/08/30/6a93d40821efa01f308b4575.html",
+          "headline": "Irán y EEU intercambian nuevos ataques un mes después y Trump publica un vídeo de IA con la destrucción de la isla iraní de Jark",
+          "link": "https://www.elmundo.es/internacional/2026/08/31/6a950de521efa0752b8b4581.html",
           "position": 50,
-          "focus": "Centra el titular en el resultado del 'no' como fuerza dominante"
-        },
-        {
-          "outlet": "ABC",
-          "headline": "Islandia rechaza reabrir las negociaciones con la UE en un ajustado referéndum",
-          "link": "https://www.abc.es/internacional/islandia-rechaza-reabrir-negociaciones-ue-ajustado-referendum-20260830094418-nt.html",
-          "position": 50,
-          "focus": "Añade el matiz de que el referéndum fue ajustado en resultado"
+          "focus": "Añade el dato del video de IA publicado por Trump sobre la isla de Jark, además del intercambio de ataques"
         },
         {
           "outlet": "eldiario.es",
-          "headline": "Islandia rechaza volver a negociar su entrada en la UE en un apretado referéndum",
-          "link": "https://www.eldiario.es/internacional/islandia-rechaza-volver-negociar-entrada-ue-margen-apenas-decimas-falta-terminar-recuento_1_13474899.html",
+          "headline": "EEUU e Irán intercambian ataques por primera vez desde julio",
+          "link": "https://www.eldiario.es/internacional/estados-unidos-ataca-posiciones-iranies-isla-larek_1_13475749.html",
           "position": 50,
-          "focus": "Similar a ABC, resalta lo apretado del resultado"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Los islandeses dicen no a negociar su ingreso en la Unión Europea",
-          "link": "https://www.lavanguardia.com/internacional/20260830/11623025/mantiene-ligera-ventaja-referendo-islandes-sobre-ue-escrutado-cerca-60.html",
-          "position": 50,
-          "focus": "Pone el foco en los islandeses como sujeto colectivo que decide"
+          "focus": "Se centra en el intercambio de ataques y su carácter de primera vez desde julio, sin mencionar el video de Trump"
         }
       ],
       "rango": 0,
       "discrepancia": "baja",
       "silenciosos": [
         "20minutos",
-        "El Confidencial"
+        "ABC",
+        "El Confidencial",
+        "La Vanguardia"
       ]
     },
     {
-      "neutral_headline": "Un muerto y cinco heridos en un tiroteo durante una rave en el norte de Suiza",
-      "section": "Internacional",
+      "neutral_headline": "Italia prorroga 15 días más los controles a viajeros procedentes de España por la crisis de Ceuta",
+      "section": "Politica",
       "facts": [
-        "Hubo un tiroteo durante una fiesta rave en el norte de Suiza",
-        "Se registró al menos un muerto",
-        "Cinco personas resultaron heridas"
+        "Italia prorroga los controles a los viajeros procedentes de España por 15 días más",
+        "La medida está relacionada con la situación migratoria en Ceuta",
+        "La prórroga implica el mantenimiento de la suspensión de la libre circulación de Schengen con España"
       ],
       "tipo_divergencia": "ninguna",
       "eje": null,
       "frames": [
         {
-          "outlet": "El Pais",
-          "headline": "Al menos un muerto y cinco heridos en un tiroteo durante una ‘rave’ en el norte de Suiza",
-          "link": "https://elpais.com/internacional/2026-08-30/un-tiroteo-durante-una-rave-al-norte-de-suiza-deja-varias-victimas.html",
-          "position": 50,
-          "focus": "Reporta el hecho con la cifra 'al menos un muerto' y cinco heridos, sin más detalles adicionales"
-        },
-        {
           "outlet": "El Mundo",
-          "headline": "Un muerto y cinco heridos en un tiroteo en una rave al norte de Suiza",
-          "link": "https://www.elmundo.es/internacional/2026/08/30/6a93d019e9cf4a9d5d8b45a2.html",
+          "headline": "Italia prorroga 15 días más los controles de los viajes procedentes de España por la crisis de Ceuta",
+          "link": "https://www.elmundo.es/espana/2026/08/31/6a954dd8fdddffb46a8b4588.html",
           "position": 50,
-          "focus": "Reporta un muerto y cinco heridos sin matizar 'al menos'"
+          "focus": "Identifica a Italia como actor institucional que prorroga los controles por la crisis de Ceuta"
         },
         {
           "outlet": "ABC",
-          "headline": "Al menos un muerto y cinco heridos en un tiroteo en una 'rave' al norte de Suiza",
-          "link": "https://www.abc.es/internacional/tiroteo-rave-aarau-suiza-deja-varias-victimas-20260830082840-nt.html",
+          "headline": "Meloni prorroga 15 días más los controles a viajeros procedentes de España por la situación de Ceuta",
+          "link": "https://www.abc.es/espana/meloni-prorroga-dias-controles-viajeros-procedentes-espana-20260831120110-nt.html",
           "position": 50,
-          "focus": "Coincide con El País en la cifra 'al menos un muerto' y cinco heridos"
+          "focus": "Nombra a Meloni como responsable política de la decisión de prorrogar los controles"
         },
         {
           "outlet": "eldiario.es",
-          "headline": "Al menos un muerto y cinco heridos en un tiroteo en el norte de Suiza",
-          "link": "https://www.eldiario.es/internacional/muerto-cinco-heridos-tiroteo-norte-suiza_1_13474905.html",
+          "headline": "Meloni prorroga 15 días más la suspensión de Schengen y mantiene los controles de los viajes procedentes de España",
+          "link": "https://www.eldiario.es/internacional/italia-prorroga-15-dias-suspension-schengen-mantiene-controles-viajes-procedentes-espana_1_13476402.html",
           "position": 50,
-          "focus": "Omite mención específica a la rave, solo ubica el hecho en el norte de Suiza"
+          "focus": "Detalla que la prórroga afecta a la suspensión de Schengen, atribuyendo la acción a Meloni"
         },
         {
-          "outlet": "20minutos",
-          "headline": "Un muerto y cinco heridos en un tiroteo en una fiesta 'rave' al norte de Suiza",
-          "link": "https://www.20minutos.es/internacional/un-muerto-cinco-heridos-un-tiroteo-una-fiesta-rave-norte-suiza_7030679_0.html",
+          "outlet": "La Vanguardia",
+          "headline": "Italia prorroga otros 15 días los controles de Schengen con España",
+          "link": "https://www.lavanguardia.com/politica/20260831/11623605/italia-prorroga-otros-15-dias-controles-schengen-espana.html",
           "position": 50,
-          "focus": "Menciona la fiesta rave y coincide en la cifra de un muerto y cinco heridos"
+          "focus": "Centra el hecho en la prórroga de los controles de Schengen entre Italia y España, sin mencionar a Meloni"
         }
       ],
       "rango": 0,
       "discrepancia": "baja",
       "silenciosos": [
+        "20minutos",
         "El Confidencial",
-        "La Vanguardia"
+        "El Pais"
+      ]
+    },
+    {
+      "neutral_headline": "La Generalitat destituye a la secretaria general de Educación y abre tres expedientes disciplinarios por el error en PISA",
+      "section": "Politica",
+      "facts": [
+        "La secretaria general de Educación fue destituida",
+        "Se han abierto tres expedientes disciplinarios",
+        "El motivo es un error relacionado con el Informe PISA",
+        "El Mundo precisa que el error dejó a Cataluña fuera del Informe PISA",
+        "El Mundo señala que los expedientes afectan a tres trabajadores"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "responsabilidad personalizada en Illa",
+        "polo_b": "responsabilidad institucional/departamental (Educació)",
+        "resumen": "Los medios difieren en si atribuyen la decisión al presidente Illa personalmente o a la institución/departamento (Generalitat, Govern, Educació)"
+      },
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "Salvador Illa destituye a la 'número dos' de Educación y abre un expediente a tres trabajadores por el error que deja a Cataluña fuera del Informe PISA",
+          "link": "https://www.elmundo.es/cataluna/2026/08/31/6a953f82e4d4d8d80e8b458f.html",
+          "position": 10,
+          "focus": "El Mundo personaliza la decisión en Salvador Illa, destacándolo como actor directo, y añade detalles sobre el número de trabajadores expedientados y el efecto concreto del error (exclusión de Cataluña del informe)"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "La Generalitat fulmina a la secretaria general de Educación y abre tres expedientes disciplinarios por el error en PISA",
+          "link": "https://www.abc.es/sociedad/generalitat-fulmina-secretaria-general-educacion-abre-tres-20260831115942-nt.html",
+          "position": 40,
+          "focus": "ABC atribuye la acción a 'la Generalitat' como institución, usando un verbo contundente ('fulmina') pero sin mencionar a Illa personalmente"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "El Govern destituye a la secretaria general de Educación y anuncia tres expedientes disciplinarios por los errores en las PISA",
+          "link": "https://www.eldiario.es/catalunya/generalitat-destituye-secretaria-general-educacion-anuncia-tres-expedientes-disciplinarios-errores-pruebas-pisa_1_13476407.html",
+          "position": 55,
+          "focus": "eldiario.es atribuye la decisión al 'Govern' como ente institucional, en un tono más neutro y sin personalizar en el presidente"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Educació destituye a la secretaria general y abre tres expedientes por el estropicio de PISA",
+          "link": "https://www.lavanguardia.com/vida/20260831/11621690/educacio-destituye-secretaria-general-abre-tres-expedientes-disciplinarios-estropicio-pisa.html",
+          "position": 90,
+          "focus": "La Vanguardia limita la responsabilidad al departamento de Educació, sin mencionar ni a Illa ni a la Generalitat como conjunto, y usa un término coloquial ('estropicio') para describir el error"
+        }
+      ],
+      "rango": 80,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "El Confidencial",
+        "El Pais"
       ]
     }
   ]
