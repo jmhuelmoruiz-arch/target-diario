@@ -1,77 +1,74 @@
 {
-  "fecha": "2026-08-31T14:45:26.638642+00:00",
+  "fecha": "2026-08-31T14:55:21.791530+00:00",
   "historias": [
     {
-      "neutral_headline": "Sánchez anuncia que el Rey visitará Ceuta sin concretar fecha",
+      "neutral_headline": "Sánchez anuncia que el Rey visitará Ceuta y defiende la cooperación con Marruecos",
       "section": "Politica",
       "facts": [
         "Sánchez anunció que el Rey Felipe VI visitará Ceuta",
-        "No se concretó una fecha para la visita",
-        "El Pais atribuye a Sánchez la exculpación de Marruecos por la crisis de Ceuta",
-        "El Mundo recoge una defensa de Marruecos por parte de Sánchez con la cita 'Sin cooperación esta crisis se agravaría'",
-        "eldiario.es recoge que la visita se hará 'cuando se den las condiciones'",
-        "La Vanguardia recoge la cita de Sánchez 'Hay argumentos suficientes'",
-        "20minutos recoge que Sánchez se comparó como 'el presidente que más ha ido a Ceuta y a Melilla'"
+        "El Mundo señala que no se concretó una fecha para la visita",
+        "eldiario.es recoge que la visita se realizará \"cuando se den las condiciones\"",
+        "La Vanguardia cita a Sánchez diciendo que \"hay argumentos suficientes\" para la visita",
+        "El Pais indica que Sánchez exculpa a Marruecos por la crisis de Ceuta",
+        "El Mundo señala que Sánchez hizo una \"defensa cerrada\" de Marruecos y advirtió que sin cooperación la crisis se agravaría",
+        "ABC afirma que Sánchez niega que existieran informes del CNI, en contradicción con lo dicho por la ministra Robles"
       ],
       "tipo_divergencia": "editorial",
       "eje": {
-        "polo_a": "Foco en la defensa/exculpación de Marruecos",
-        "polo_b": "Foco exclusivo en el anuncio de la visita real",
-        "resumen": "Algunos medios centran el titular en el respaldo de Sánchez a Marruecos, mientras otros se limitan a informar del anuncio de la visita del Rey sin mencionar a Marruecos"
+        "polo_a": "Respaldo acrítico al relato de Sánchez/Marruecos",
+        "polo_b": "Cuestionamiento y contradicción del relato oficial"
       },
       "frames": [
         {
           "outlet": "El Pais",
           "headline": "Sánchez exculpa a Marruecos por la crisis de Ceuta y avanza que el Rey la visitará por primera vez con este Gobierno",
           "link": "https://elpais.com/espana/2026-08-31/sanchez-destaca-la-cooperacion-instantanea-con-marruecos-y-asegura-que-el-rey-visitara-ceuta.html",
-          "position": 0,
-          "focus": "Destaca que Sánchez exculpa a Marruecos como hecho principal, la visita del Rey aparece como dato secundario"
+          "position": 30,
+          "focus": "Destaca la exculpación a Marruecos y el anuncio del Rey, sin profundizar en contradicciones internas"
         },
         {
           "outlet": "El Mundo",
           "headline": "Sánchez promete que el Rey irá a Ceuta sin concretar fecha y hace una defensa cerrada de Marruecos: \"Sin cooperación esta crisis se agravaría\"",
           "link": "https://www.elmundo.es/espana/2026/08/31/6a951e7ee9cf4a43568b45a0.html",
-          "position": 12,
-          "focus": "Enfatiza la defensa cerrada de Marruecos con cita textual, la visita del Rey queda subordinada a esa defensa"
+          "position": 35,
+          "focus": "Enfatiza la defensa cerrada de Marruecos y la falta de fecha concreta, mostrando cierta ambigüedad"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Sánchez insiste en alabar a Marruecos y niega que existieran informes del CNI como dice Robles",
+          "link": "https://www.abc.es/espana/sanchez-insiste-alabar-marruecos-asegura-informes-cni-20260831092354-nt.html",
+          "position": 95,
+          "focus": "Pone el foco en la contradicción entre Sánchez y Robles sobre los informes del CNI, cuestionando la credibilidad del relato"
         },
         {
           "outlet": "eldiario.es",
           "headline": "Sánchez anuncia que el rey Felipe VI irá a Ceuta \"cuando se den las condiciones\"",
           "link": "https://www.eldiario.es/politica/sanchez-anuncia-rey-felipe-vi-ira-ceuta-hay-razones-suficientes_1_13475926.html",
-          "position": 88,
-          "focus": "Se centra únicamente en el anuncio de la visita del Rey y la condición temporal, sin mencionar a Marruecos"
+          "position": 50,
+          "focus": "Reporta de forma neutral la condicionalidad de la visita del Rey, sin valorar el trasfondo político"
         },
         {
           "outlet": "La Vanguardia",
           "headline": "Sánchez asegura que el Rey visitará Ceuta: “Hay argumentos suficientes”",
           "link": "https://www.lavanguardia.com/politica/20260831/11623498/sanchez-anuncia-rey-visitara-ceuta-melilla-primera-vez-aznar-begona-zapatero.html",
-          "position": 82,
-          "focus": "Se centra en la certeza de la visita del Rey con una cita que refuerza esa afirmación, sin mencionar a Marruecos"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "Sánchez asegura que el Rey visitará Ceuta sin dar una fecha y se compara con él: \"He sido el presidente que más ha ido a Ceuta y a Melilla\"",
-          "link": "https://www.20minutos.es/nacional/sanchez-asegura-rey-visitara-ceuta-sin-dar-una-fecha-se-compara-con-he-sido-presidente-que-mas-ha-ido-ceuta-melilla_7030858_0.html",
-          "position": 100,
-          "focus": "Destaca la falta de fecha y la autocomparación de Sánchez con su propio historial en Ceuta y Melilla, omite cualquier referencia a Marruecos"
+          "position": 10,
+          "focus": "Presenta la visita del Rey como un hecho casi confirmado, citando argumentos favorables de Sánchez"
         }
       ],
-      "rango": 100,
+      "rango": 85,
       "discrepancia": "alta",
       "silenciosos": [
-        "ABC",
-        "El Confidencial"
+        "20minutos"
       ]
     },
     {
-      "neutral_headline": "El PP acusa a Sánchez de conspiranoia por atribuir la crisis de Ceuta a Israel y Rusia en lugar de a Marruecos",
+      "neutral_headline": "El PP acusa a Sánchez de 'conspiranoia' por atribuir la crisis de Ceuta a Israel y Rusia en lugar de a Marruecos",
       "section": "Politica",
       "facts": [
-        "El PP critica a Sánchez por señalar a Israel y Rusia como responsables de la crisis de Ceuta",
-        "El PP acusa a Sánchez de no responsabilizar a Marruecos por la crisis",
-        "Una fuente del PP declara 'sólo le falta culpar a Franco'",
-        "El PP califica la actitud de Sánchez de 'conspiranoia'",
-        "El PP pide a Sánchez que no involucre a la Corona en el asunto"
+        "El PP acusa a Sánchez de conspiranoia por señalar a Israel y Rusia como responsables de la crisis de Ceuta",
+        "Una fuente del PP declara que a Sánchez 'solo le falta culpar a Franco'",
+        "El PP critica que Sánchez no señale a Marruecos como responsable de la crisis",
+        "Según 20minutos, el PP también exige a Sánchez que no 'manosee' a la Corona"
       ],
       "tipo_divergencia": "ninguna",
       "eje": null,
@@ -81,176 +78,162 @@
           "headline": "El PP reprocha a Sánchez que señale a todos menos a Marruecos por la crisis de Ceuta: “Le falta culpar a Franco”",
           "link": "https://elpais.com/espana/2026-08-31/el-pp-reprocha-a-sanchez-que-senale-a-todos-menos-a-marruecos-por-la-crisis-de-ceuta-le-falta-culpar-a-franco.html",
           "position": 50,
-          "focus": "Destaca la omisión de Marruecos como responsable y cita la frase sobre Franco"
+          "focus": "Destaca la frase sobre Franco y el reproche de no culpar a Marruecos"
         },
         {
           "outlet": "El Mundo",
           "headline": "El PP denuncia la \"conspiranoia\" de Sánchez por atribuir la crisis de Ceuta a Israel y Rusia: \"Sólo le falta culpar a Franco\"",
           "link": "https://www.elmundo.es/espana/2026/08/31/6a957481fc6c83d42f8b4587.html",
           "position": 50,
-          "focus": "Centra el titular en el término 'conspiranoia' y la atribución a Israel y Rusia, incluyendo también la cita de Franco"
+          "focus": "Usa el término 'conspiranoia' y la misma cita sobre Franco, centrado en Israel y Rusia"
         },
         {
           "outlet": "ABC",
           "headline": "El PP acusa a Sánchez de «conspiranoico» tras culpar a Israel y Rusia de la crisis",
           "link": "https://www.abc.es/espana/pp-acusa-sanchez-conspiranoico-tras-culpar-israel-20260831142228-nt.html",
           "position": 50,
-          "focus": "Resume de forma más escueta la acusación de conspiranoico sin citas textuales adicionales"
+          "focus": "Resume la acusación de conspiranoico centrada en Israel y Rusia, sin la cita de Franco"
         },
         {
           "outlet": "20minutos",
           "headline": "El PP exige a Sánchez que no \"manosee\" a la Corona y critica que use una \"conspiranoia preocupante\" para exculpar a Marruecos",
           "link": "https://www.20minutos.es/nacional/pp-exige-sanchez-que-no-manosee-corona-critica-que-use-una-conspiranoia-preocupante-para-exculpar-marruecos_7031022_0.html",
           "position": 50,
-          "focus": "Añade el elemento de la Corona como parte de la crítica del PP, junto con la conspiranoia y la exculpación de Marruecos"
+          "focus": "Añade el elemento de la Corona junto con la acusación de conspiranoia hacia Marruecos"
         }
       ],
       "rango": 0,
       "discrepancia": "baja",
       "silenciosos": [
-        "El Confidencial",
         "La Vanguardia",
         "eldiario.es"
       ]
     },
     {
-      "neutral_headline": "Polémica por la compra de un ático para el Gobierno de la Comunidad de Madrid: acusaciones y negaciones cruzadas",
+      "neutral_headline": "Sánchez y el entorno de Ayuso se enfrentan por la compra de un ático con fondos públicos",
       "section": "Politica",
       "facts": [
-        "Sánchez acusó a Ayuso de comprar un ático con dinero público de los madrileños",
+        "Sánchez declaró que Ayuso 'ha querido comprarse un aticazo con la pasta de los madrileños'",
         "Más Madrid presentó una denuncia ante el Tribunal de Cuentas por la compra del ático",
-        "Miguel Ángel Rodríguez negó que la Comunidad de Madrid haya comprado una residencia para Ayuso",
-        "Hubo una reunión informal previa relacionada con el proceso de adquisición",
-        "Se realizó una reforma en la sede de Sol vinculada al ático"
+        "Miguel Ángel Rodríguez, portavoz del entorno de Ayuso, acusó a Sánchez de 'mentir'",
+        "Rodríguez aseguró que Madrid 'nunca compró una residencia' para Ayuso",
+        "Sánchez usó el término 'impunidad' al referirse a Ayuso por este asunto",
+        "Sánchez afirmó que a Ayuso 'se le ha pillado'"
       ],
       "tipo_divergencia": "editorial",
       "eje": {
-        "polo_a": "Negación de irregularidad (defensa de Ayuso)",
-        "polo_b": "Acusación de compra irregular con fondos públicos (crítica a Ayuso)",
-        "resumen": "Los medios se dividen entre quienes amplifican la acusación de Sánchez contra Ayuso y quienes recogen la defensa/negación del Gobierno madrileño, además de piezas más descriptivas sobre el proceso"
+        "polo_a": "niega irregularidad/defiende a Ayuso",
+        "polo_b": "acusa de compra irregular con fondos públicos",
+        "resumen": "Los medios se dividen entre quienes recogen la acusación de compra irregular con dinero público y quienes dan voz a la negación rotunda del entorno de Ayuso"
       },
       "frames": [
         {
           "outlet": "El Pais",
           "headline": "Sánchez, sobre el piso de Ayuso: “Esta señora ha querido comprarse un aticazo con la pasta de los madrileños para vivir en él”",
           "link": "https://elpais.com/espana/2026-08-31/sanchez-sobre-el-piso-de-ayuso-esta-senora-ha-querido-comprarse-un-aticazo-con-la-pasta-de-los-madrilenos-para-vivir-en-el.html",
-          "position": 90,
-          "focus": "Destaca la cita literal más dura de Sánchez contra Ayuso, centrando el foco en la acusación personal sin mencionar la versión de Madrid"
+          "position": 95,
+          "focus": "Recoge literalmente y con fuerza la acusación de Sánchez contra Ayuso, centrando el foco en el señalamiento directo sin contraste"
         },
         {
           "outlet": "El Pais",
           "headline": "Más Madrid lleva al Tribunal de Cuentas la compra del ático del Gobierno de Ayuso",
           "link": "https://elpais.com/espana/madrid/2026-08-31/mas-madrid-lleva-al-tribunal-de-cuentas-la-compra-del-atico-del-gobierno-de-ayuso.html",
-          "position": 60,
-          "focus": "Enfoca la acción institucional de Más Madrid (denuncia formal) sin las declaraciones más incendiarias, dando un tono más procedimental"
+          "position": 75,
+          "focus": "Enfoca la vía institucional/judicial de la denuncia (Tribunal de Cuentas), dando peso formal a la acusación sin citar la versión de Ayuso"
         },
         {
           "outlet": "eldiario.es",
           "headline": "Miguel Ángel Rodríguez acusa a Sánchez de \"mentir\" y asegura que Madrid \"nunca compró una residencia\" para Ayuso",
           "link": "https://www.eldiario.es/madrid/miguel-angel-rodriguez-acusa-sanchez-mentir-asegura-madrid-compro-residencia-ayuso_1_13476806.html",
-          "position": 8,
-          "focus": "Recoge la negación oficial del Gobierno madrileño, calificando de mentira la acusación de Sánchez, omitiendo el contexto de la denuncia"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "De la “reunión informal” a la reforma en Sol: las fechas clave en la compra del ático para el Gobierno de Ayuso",
-          "link": "https://www.eldiario.es/madrid/reunion-informal-reforma-sol-fechas-clave-compra-atico-gobierno-ayuso_1_13467398.html",
-          "position": 35,
-          "focus": "Reconstruye la cronología de hechos (reunión, reforma) de forma descriptiva, sin tomar partido explícito sobre si hubo o no irregularidad"
+          "position": 10,
+          "focus": "Da voz a la defensa de Ayuso, centrando el relato en la negación y en acusar a Sánchez de mentir, omitiendo el contexto de la denuncia"
         },
         {
           "outlet": "La Vanguardia",
           "headline": "Sánchez denuncia la “impunidad” de Ayuso por “comprarse un aticazo”, pero “se le ha pillado”",
           "link": "https://www.lavanguardia.com/politica/20260831/11623570/sanchez-denuncia-impunidad-ayuso-comprarse-aticazo.html",
-          "position": 92,
-          "focus": "Refuerza la narrativa crítica de Sánchez añadiendo el matiz de 'impunidad' y que 'se le ha pillado', maximizando el juicio negativo sobre Ayuso"
+          "position": 85,
+          "focus": "Reproduce la acusación de Sánchez con matices retóricos ('impunidad', 'se le ha pillado'), reforzando el juicio negativo sin dar espacio a la réplica"
         }
       ],
-      "rango": 84,
+      "rango": 85,
       "discrepancia": "alta",
       "silenciosos": [
         "20minutos",
         "ABC",
-        "El Confidencial",
         "El Mundo"
       ]
     },
     {
-      "neutral_headline": "La Policía dispersa con disparos al aire y cargas a migrantes junto al centro de acogida de Loma Colmenar, Ceuta",
+      "neutral_headline": "La Policía dispara al aire y actúa para dispersar a migrantes que intentaban acceder al centro de acogida de Loma Colmenar, Ceuta",
       "section": "Sociedad",
       "facts": [
-        "El suceso ocurrió en Loma Colmenar, Ceuta, junto a un recinto/centro de acogida a migrantes",
-        "La Policía disparó al aire (según El Mundo, ABC, La Vanguardia y 20minutos)",
-        "Hubo cargas policiales (según ABC y eldiario.es)",
-        "El Pais informa de que la Policía desalojó un campamento instalado junto al recinto",
-        "El Mundo cifra en 'miles' los inmigrantes en el asentamiento y recoge declaraciones sobre 'reyertas' y 'agresiones sexuales'",
-        "La Vanguardia habla de 'cientos' de migrantes buscando acceder a las camas de acogida",
-        "eldiario.es informa de un herido tras las cargas policiales",
-        "20minutos y ABC describen intentos de los migrantes de acceder a carpas/centro de atención"
+        "El hecho ocurre en el barrio de Loma Colmenar, Ceuta",
+        "La Policía intervino junto a un recinto/centro de acogida para migrantes",
+        "Según El Mundo, ABC, La Vanguardia y 20minutos, la Policía realizó disparos al aire",
+        "Según El Mundo, se congregaron 'miles' de inmigrantes",
+        "Según La Vanguardia, se trataba de 'cientos' de migrantes",
+        "El Mundo recoge declaraciones que mencionan reyertas y agresiones sexuales en el campamento",
+        "ABC menciona cargas policiales para contener a los inmigrantes",
+        "El Pais describe la actuación como un desalojo de un campamento"
       ],
       "tipo_divergencia": "editorial",
       "eje": {
-        "polo_a": "migrantes como fuente de desorden/amenaza",
-        "polo_b": "migrantes como víctimas de la actuación policial",
-        "resumen": "Los medios difieren en si ponen el foco en los incidentes y peligros atribuidos a los migrantes o en el sufrimiento y los daños que sufren estos ante la respuesta policial"
+        "polo_a": "gestión administrativa neutra",
+        "polo_b": "amenaza de orden público",
+        "resumen": "Los medios se dividen entre describir la intervención como un desalojo rutinario de un campamento y presentarla como una respuesta policial ante disturbios y peligro derivado del comportamiento de los migrantes"
       },
       "frames": [
         {
           "outlet": "El Pais",
           "headline": "La Policía desaloja el campamento instalado junto al recinto de acogida del barrio ceutí de Loma Colmenar",
           "link": "https://elpais.com/espana/2026-08-31/la-policia-desaloja-el-campamento-instalado-junto-al-recinto-de-acogida-del-barrio-ceuti-de-loma-colmenar.html",
-          "position": 45,
-          "focus": "Enfoca la acción policial de desalojo del campamento de forma procedimental, sin detallar motivos de riesgo ni daños a migrantes"
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "Disparos al aire de la Policía para disolver un asentamiento de miles de inmigrantes en Ceuta: \"Había reyertas, agresiones sexuales...\"",
-          "link": "https://www.elmundo.es/espana/2026/08/31/6a95581ce4d4d81f238b459a.html",
-          "position": 5,
-          "focus": "Enfatiza el peligro y desorden del asentamiento citando reyertas y agresiones sexuales, legitimando la respuesta policial"
-        },
-        {
-          "outlet": "ABC",
-          "headline": "Disparos al aire y cargas policiales para contener a inmigrantes que intentaban acceder a un centro de atención humanitaria",
-          "link": "https://www.abc.es/espana/disparos-aire-cargas-policiales-contener-inmigrantes-intentaban-20260831122640-nt.html",
-          "position": 15,
-          "focus": "Presenta a los migrantes como sujetos que hay que 'contener', priorizando la perspectiva de control policial"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "Caos en el acceso al campamento de urgencia de Ceuta: cargas policiales y un herido tras horas de espera",
-          "link": "https://www.eldiario.es/desalambre/caos-acceso-campamento-urgencia-ceuta-cargas-policiales-herido-horas-espera_1_13477068.html",
-          "position": 90,
-          "focus": "Destaca el caos, la espera y un herido, poniendo el foco en el coste humano de la actuación policial"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Disparos al aire para frenar a cientos de migrantes que buscan las nuevas camas de acogida en Ceuta",
-          "link": "https://www.lavanguardia.com/politica/20260831/11623525/disparos-aire-tension-puertas-centro-acogida-loma-colmenar-ceuta.html",
-          "position": 60,
-          "focus": "Describe a los migrantes buscando acceso a camas de acogida, con tono más neutral hacia sus motivaciones"
+          "position": 10,
+          "focus": "Usa un lenguaje administrativo ('desaloja el campamento'), sin mencionar disparos ni incidentes violentos, encuadre más neutro"
         },
         {
           "outlet": "20minutos",
           "headline": "Tensión en Loma Colmenar: la Policía dispara al aire para controlar a los inmigrantes que querían acceder a las carpas",
           "link": "https://www.20minutos.es/nacional/policia-interviene-ceuta-con-disparos-aire-para-contener-los-inmigrantes-que-quieren-acceder-loma-colmenar_7030976_0.html",
           "position": 35,
-          "focus": "Combina tensión y control policial, mencionando el deseo de los migrantes de acceder a las carpas sin ahondar en causas de peligro"
+          "focus": "Menciona 'tensión' y el disparo al aire como medida de control, pero mantiene tono descriptivo sin detalles de violencia previa"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Disparos al aire para frenar a cientos de migrantes que buscan las nuevas camas de acogida en Ceuta",
+          "link": "https://www.lavanguardia.com/politica/20260831/11623525/disparos-aire-tension-puertas-centro-acogida-loma-colmenar-ceuta.html",
+          "position": 45,
+          "focus": "Centra el relato en los disparos como respuesta a la búsqueda de camas de acogida, cifra en 'cientos' los migrantes, tono informativo"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Disparos al aire y cargas policiales para contener a inmigrantes que intentaban acceder a un centro de atención humanitaria",
+          "link": "https://www.abc.es/espana/disparos-aire-cargas-policiales-contener-inmigrantes-intentaban-20260831122640-nt.html",
+          "position": 65,
+          "focus": "Añade 'cargas policiales' y el verbo 'contener', reforzando la idea de control de una situación de riesgo"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Disparos al aire de la Policía para disolver un asentamiento de miles de inmigrantes en Ceuta: \"Había reyertas, agresiones sexuales...\"",
+          "link": "https://www.elmundo.es/espana/2026/08/31/6a95581ce4d4d81f238b459a.html",
+          "position": 95,
+          "focus": "Enfatiza 'miles' de inmigrantes y cita textual sobre reyertas y agresiones sexuales, construyendo un marco de amenaza y descontrol social"
         }
       ],
       "rango": 85,
       "discrepancia": "alta",
       "silenciosos": [
-        "El Confidencial"
+        "eldiario.es"
       ]
     },
     {
-      "neutral_headline": "España prorroga 15 días los controles a pasajeros de Italia tras la ampliación de Meloni de la suspensión de Schengen",
+      "neutral_headline": "España prorroga 15 días los controles a pasajeros de Italia en respuesta a la ampliación de Meloni de la suspensión de Schengen",
       "section": "Politica",
       "facts": [
-        "El Gobierno español prorroga los controles fronterizos a pasajeros procedentes de Italia",
-        "Meloni amplió en 15 días más la suspensión del acuerdo de Schengen",
-        "La prórroga española se produce como respuesta a la decisión de Italia"
+        "El Gobierno de España prorroga los controles a pasajeros procedentes de Italia",
+        "La prórroga es de 15 días",
+        "Meloni decidió ampliar en dos semanas más la suspensión del acuerdo de Schengen",
+        "La medida española se presenta como respuesta a la decisión de Meloni"
       ],
       "tipo_divergencia": "ninguna",
       "eje": null,
@@ -260,97 +243,91 @@
           "headline": "El Gobierno responde a Meloni y prorroga también el control a los pasajeros procedentes de Italia",
           "link": "https://elpais.com/espana/2026-08-31/el-gobierno-responde-a-meloni-y-prorroga-tambien-el-control-a-los-pasajeros-procedentes-de-italia.html",
           "position": 50,
-          "focus": "Enfatiza que España responde a Meloni, misma informacion factual que el resto"
+          "focus": "Destaca la respuesta del Gobierno español a Meloni, sin detallar la duración exacta"
         },
         {
           "outlet": "El Mundo",
           "headline": "España prorroga 15 días los controles a pasajeros de Italia en respuesta a la decisión de Meloni de ampliar en dos semanas más la suspensión del acuerdo de Schengen",
           "link": "https://www.elmundo.es/espana/2026/08/31/6a954dd8fdddffb46a8b4588.html",
           "position": 50,
-          "focus": "Detalla plazos concretos y la reciprocidad entre ambas decisiones"
+          "focus": "Detalla la duración de 15 días y la relación causal con la decisión de Meloni de ampliar en dos semanas"
         },
         {
           "outlet": "ABC",
           "headline": "España prorroga 15 días los controles a Italia tras la decisión de Meloni de ampliar la suspensión del espacio Schengen",
           "link": "https://www.abc.es/espana/meloni-prorroga-dias-controles-viajeros-procedentes-espana-20260831120110-nt.html",
           "position": 50,
-          "focus": "Describe la secuencia: decisión italiana primero, respuesta española después"
+          "focus": "Igual que El Mundo, precisa los 15 días y la causa en la decisión de Meloni sobre Schengen"
         },
         {
           "outlet": "eldiario.es",
           "headline": "El Gobierno prorroga los controles fronterizos a pasajeros italianos como respuesta a Meloni",
           "link": "https://www.eldiario.es/politica/gobierno-prorroga-controles-fronterizos-pasajeros-italianos-respuesta-meloni_1_13476640.html",
           "position": 50,
-          "focus": "Centra en el Gobierno español como sujeto que prorroga en respuesta a Meloni"
+          "focus": "Enfatiza que la prórroga es una respuesta directa a Meloni, sin especificar duración"
         },
         {
           "outlet": "20minutos",
           "headline": "Meloni prorroga 15 días la suspensión del acuerdo Schengen con España y el Gobierno responde igual",
           "link": "https://www.20minutos.es/internacional/italia-prorroga-15-dias-suspension-schengen-mantiene-los-controles-los-viajeros-procedentes-espana_7030965_0.html",
           "position": 50,
-          "focus": "Pone primero la acción de Meloni y luego la respuesta española equivalente"
+          "focus": "Pone a Meloni como sujeto activo inicial y presenta la respuesta española como reacción simétrica"
         }
       ],
       "rango": 0,
       "discrepancia": "baja",
       "silenciosos": [
-        "El Confidencial",
         "La Vanguardia"
       ]
     },
     {
-      "neutral_headline": "El Govern destituye a la secretaria general de Educación y abre tres expedientes disciplinarios por el error que dejó a Cataluña fuera de PISA",
-      "section": "Politica",
+      "neutral_headline": "El euríbor sube al 2,95% en agosto y encarece las hipotecas; el diésel se mantiene caro pese a un descuento de 20 céntimos",
+      "section": "Economia",
       "facts": [
-        "La secretaria general de Educación ha sido destituida",
-        "Se abren tres expedientes disciplinarios a funcionarios del departamento",
-        "La medida se relaciona con un error que excluyó a Cataluña del Informe PISA"
+        "El euríbor cerró agosto en el 2,95% (El País, El Mundo)",
+        "El Mundo señala que es el nivel más alto del euríbor desde hace dos años",
+        "La subida del euríbor encarece las hipotecas variables (El País, El Mundo)",
+        "Desde mañana se aplica un descuento de 20 céntimos en el diésel (ABC)",
+        "ABC indica que el diésel seguirá tan caro como en pleno verano a pesar de ese descuento"
       ],
       "tipo_divergencia": "ninguna",
       "eje": null,
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "Educación fulmina la ‘número dos’ del departamento y abre expediente disciplinario a tres funcionarios tras el error de PISA en Cataluña",
-          "link": "https://elpais.com/espana/catalunya/2026-08-31/educacion-fulmina-a-la-secretaria-general-y-abre-expediente-disciplinario-a-tres-funcionarios-tras-el-error-de-pisa-en-cataluna.html",
+          "headline": "El euríbor escala al 2,95% en agosto y encarece aún más las hipotecas variables",
+          "link": "https://elpais.com/economia/2026-08-31/el-euribor-escala-al-295-en-agosto-y-encarece-aun-mas-las-hipotecas-variables.html",
           "position": 50,
-          "focus": "Destaca la destitución y los expedientes, atribuyendo la acción a 'Educación' como institución"
+          "focus": "Destaca la cifra del euríbor en agosto y su impacto en las hipotecas variables, sin aportar comparación histórica."
         },
         {
           "outlet": "El Mundo",
-          "headline": "Salvador Illa destituye a la 'número dos' de Educación y abre un expediente a tres trabajadores por el error que deja a Cataluña fuera del Informe PISA",
-          "link": "https://www.elmundo.es/cataluna/2026/08/31/6a953f82e4d4d8d80e8b458f.html",
+          "headline": "El Euríbor cierra agosto en el 2,95%, su nivel más alto desde hace dos años, y encarece las hipotecas",
+          "link": "https://www.elmundo.es/economia/vivienda/2026/08/31/6a955f1a21efa01f308b459b.html",
           "position": 50,
-          "focus": "Señala a Salvador Illa como responsable directo de la destitución"
+          "focus": "Coincide en la cifra y el efecto hipotecario, añadiendo que es el nivel más alto en dos años."
         },
         {
-          "outlet": "eldiario.es",
-          "headline": "El Govern destituye a la secretaria general de Educación y anuncia tres expedientes disciplinarios por los errores en las PISA",
-          "link": "https://www.eldiario.es/catalunya/generalitat-destituye-secretaria-general-educacion-anuncia-tres-expedientes-disciplinarios-errores-pruebas-pisa_1_13476407.html",
+          "outlet": "ABC",
+          "headline": "El diésel seguirá tan caro como en pleno verano a pesar del descuento de 20 céntimos que se aplica desde mañana",
+          "link": "https://www.abc.es/economia/cuentas-corrientes/diesel-seguira-caro-pleno-verano-pesar-descuento-20260831012600-nt.html",
           "position": 50,
-          "focus": "Atribuye la decisión al Govern como conjunto, sin personalizar en un cargo político"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Educació destituye a la secretaria general y abre tres expedientes por el estropicio de PISA",
-          "link": "https://www.lavanguardia.com/vida/20260831/11621690/educacio-destituye-secretaria-general-abre-tres-expedientes-disciplinarios-estropicio-pisa.html",
-          "position": 50,
-          "focus": "Usa el término 'estropicio' para describir el error, centrado en el departamento de Educació"
+          "focus": "Trata un hecho distinto (precio del diésel y descuento fiscal), sin relación directa con el euríbor ni las hipotecas."
         }
       ],
       "rango": 0,
       "discrepancia": "baja",
       "silenciosos": [
         "20minutos",
-        "ABC",
-        "El Confidencial"
+        "La Vanguardia",
+        "eldiario.es"
       ]
     },
     {
-      "neutral_headline": "Inundaciones repentinas en el Gran Cañón del Colorado dejan al menos un muerto y desaparecidos",
-      "section": "Sociedad",
+      "neutral_headline": "Inundaciones repentinas en el Gran Cañón del Colorado dejan un muerto y desaparecidos",
+      "section": "Internacional",
       "facts": [
-        "Se produjeron inundaciones repentinas (riada) en el Gran Cañón del Colorado",
+        "Se registraron inundaciones repentinas (riada) en el Gran Cañón del Colorado",
         "Hay al menos un muerto confirmado",
         "El Pais reporta una veintena de desaparecidos",
         "La Vanguardia y 20minutos reportan 15 desaparecidos"
@@ -363,161 +340,167 @@
           "headline": "Unas inundaciones repentinas en el Gran Cañón dejan al menos un muerto y una veintena de desaparecidos",
           "link": "https://elpais.com/internacional/2026-08-31/unas-inundaciones-repentinas-en-el-gran-canon-dejan-al-menos-un-muerto-y-una-veintena-de-desaparecidos.html",
           "position": 50,
-          "focus": "Reporta un muerto y una veintena (~20) de desaparecidos, cifra mas alta posiblemente por actualizacion posterior"
+          "focus": "Reporta la cifra de desaparecidos como 'una veintena', posiblemente una actualizacion o redondeo distinto"
         },
         {
           "outlet": "La Vanguardia",
           "headline": "Al menos un muerto y 15 desaparecidos por una gran riada en el Gran Cañón del Colorado",
           "link": "https://www.lavanguardia.com/internacional/20260830/11623437/personas-desaparecidas-decenas-evacuadas-gran-riada-gran-canon.html",
           "position": 50,
-          "focus": "Reporta un muerto y 15 desaparecidos, con enfasis en la magnitud de la riada"
+          "focus": "Cifra de 15 desaparecidos, enfoque en la magnitud de la riada"
         },
         {
           "outlet": "20minutos",
           "headline": "Las inundaciones repentinas en el Gran Cañón del Colorado dejan un muerto y 15 desaparecidos",
           "link": "https://www.20minutos.es/internacional/las-inundaciones-repentinas-gran-canon-dejan-unos-15-desaparecidos-obligan-evacuar-62-personas_7030810_0.html",
           "position": 50,
-          "focus": "Reporta un muerto y 15 desaparecidos, coincidiendo con La Vanguardia en la cifra"
+          "focus": "Cifra de 15 desaparecidos, coincide con La Vanguardia en el dato"
         }
       ],
       "rango": 0,
       "discrepancia": "baja",
       "silenciosos": [
         "ABC",
-        "El Confidencial",
         "El Mundo",
         "eldiario.es"
       ]
     },
     {
-      "neutral_headline": "Un padre olvida a su hijo de 10 años en una gasolinera de Cáceres y la Guardia Civil localiza a la familia",
-      "section": "Sociedad",
+      "neutral_headline": "Educación destituye a la secretaria general y abre tres expedientes disciplinarios tras el error de PISA en Cataluña",
+      "section": "Politica",
       "facts": [
-        "Un niño de 10 años fue olvidado en una gasolinera de Cáceres",
-        "La Guardia Civil localizó al padre",
-        "El padre había recorrido 140 km cuando fue alertado (El Mundo, 20minutos)",
-        "La Guardia Civil dio con el niño dos horas después (ABC)"
-      ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "El Mundo",
-          "headline": "Un padre conduce 140 km hasta que la Guardia Civil le alerta de que su hijo de diez años se le ha olvidado en una gasolinera de Cáceres",
-          "link": "https://www.elmundo.es/espana/extremadura/2026/08/31/6a957818e9cf4af5038b458d.html",
-          "position": 50,
-          "focus": "Destaca la distancia recorrida por el padre (140 km) antes de ser alertado; no menciona el tiempo transcurrido"
-        },
-        {
-          "outlet": "ABC",
-          "headline": "Un padre olvida a su hijo de 10 años en una gasolinera de Cáceres y no se percata hasta que la Guardia Civil da con él dos horas después",
-          "link": "https://www.abc.es/espana/extremadura/padre-olvida-hijo-anos-gasolinera-caceres-percata-20260831130752-nt.html",
-          "position": 50,
-          "focus": "Destaca el tiempo transcurrido (dos horas) hasta la localización; no menciona la distancia recorrida"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "Se olvidan de un niño de 10 años en una gasolinera y la Guardia Civil localiza a la familia a 140 kilómetros",
-          "link": "https://www.20minutos.es/extremadura/caceres/se-olvidan-un-nino-10-anos-una-gasolinera-guardia-civil-localiza-familia-140-kilometros-despues_7031069_0.html",
-          "position": 50,
-          "focus": "Destaca la distancia (140 km) y pone el foco en la familia como sujeto olvidadizo, sin especificar quién es responsable directo"
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "El Confidencial",
-        "El Pais",
-        "La Vanguardia",
-        "eldiario.es"
-      ]
-    },
-    {
-      "neutral_headline": "El euríbor cierra agosto en el 2,95% mientras el diésel mantiene precios altos pese al descuento de 20 céntimos",
-      "section": "Economia",
-      "facts": [
-        "El euríbor cerró agosto en el 2,95%",
-        "El Mundo señala que es el nivel más alto del euríbor en dos años",
-        "El euríbor encarece las hipotecas variables",
-        "Desde mañana se aplica un descuento de 20 céntimos al diésel",
-        "ABC indica que el diésel seguirá tan caro como en pleno verano a pesar del descuento"
+        "Se destituye a la secretaria general de Educación de Cataluña",
+        "Se abren tres expedientes disciplinarios a funcionarios/trabajadores del departamento",
+        "La medida se toma tras un error que dejó a Cataluña fuera del Informe PISA"
       ],
       "tipo_divergencia": "ninguna",
       "eje": null,
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "El euríbor escala al 2,95% en agosto y encarece aún más las hipotecas variables",
-          "link": "https://elpais.com/economia/2026-08-31/el-euribor-escala-al-295-en-agosto-y-encarece-aun-mas-las-hipotecas-variables.html",
+          "headline": "Educación fulmina la ‘número dos’ del departamento y abre expediente disciplinario a tres funcionarios tras el error de PISA en Cataluña",
+          "link": "https://elpais.com/espana/catalunya/2026-08-31/educacion-fulmina-a-la-secretaria-general-y-abre-expediente-disciplinario-a-tres-funcionarios-tras-el-error-de-pisa-en-cataluna.html",
           "position": 50,
-          "focus": "Informa del dato del euríbor en agosto y su efecto en hipotecas variables, sin más contexto histórico"
+          "focus": "Destaca la destitución y los expedientes; usa el verbo 'fulmina' para enfatizar la contundencia de la medida"
         },
         {
           "outlet": "El Mundo",
-          "headline": "El Euríbor cierra agosto en el 2,95%, su nivel más alto desde hace dos años, y encarece las hipotecas",
-          "link": "https://www.elmundo.es/economia/vivienda/2026/08/31/6a955f1a21efa01f308b459b.html",
+          "headline": "Salvador Illa destituye a la 'número dos' de Educación y abre un expediente a tres trabajadores por el error que deja a Cataluña fuera del Informe PISA",
+          "link": "https://www.elmundo.es/cataluna/2026/08/31/6a953f82e4d4d8d80e8b458f.html",
           "position": 50,
-          "focus": "Añade que es el nivel más alto en dos años, mismo dato y consecuencia que El País"
+          "focus": "Atribuye la decisión directamente a Salvador Illa como responsable político; menciona el impacto en el Informe PISA"
         },
         {
-          "outlet": "ABC",
-          "headline": "El diésel seguirá tan caro como en pleno verano a pesar del descuento de 20 céntimos que se aplica desde mañana",
-          "link": "https://www.abc.es/economia/cuentas-corrientes/diesel-seguira-caro-pleno-verano-pesar-descuento-20260831012600-nt.html",
+          "outlet": "eldiario.es",
+          "headline": "El Govern destituye a la secretaria general de Educación y anuncia tres expedientes disciplinarios por los errores en las PISA",
+          "link": "https://www.eldiario.es/catalunya/generalitat-destituye-secretaria-general-educacion-anuncia-tres-expedientes-disciplinarios-errores-pruebas-pisa_1_13476407.html",
           "position": 50,
-          "focus": "Trata un hecho distinto (precio del diésel), sin relación editorial comparable con las piezas del euríbor"
+          "focus": "Atribuye la acción al Govern como institución; usa plural 'errores' en las PISA"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Educació destituye a la secretaria general y abre tres expedientes por el estropicio de PISA",
+          "link": "https://www.lavanguardia.com/vida/20260831/11621690/educacio-destituye-secretaria-general-abre-tres-expedientes-disciplinarios-estropicio-pisa.html",
+          "position": 50,
+          "focus": "Atribuye la acción al departamento de Educació; usa el término 'estropicio' para describir la situación"
         }
       ],
       "rango": 0,
       "discrepancia": "baja",
       "silenciosos": [
         "20minutos",
-        "El Confidencial",
+        "ABC"
+      ]
+    },
+    {
+      "neutral_headline": "Un niño de 10 años es olvidado en una gasolinera de Cáceres y la Guardia Civil localiza a su familia",
+      "section": "Sociedad",
+      "facts": [
+        "Un niño de 10 años fue olvidado en una gasolinera de Cáceres",
+        "La Guardia Civil intervino para localizar al padre o a la familia",
+        "El Mundo y 20minutos citan una distancia de 140 kilómetros recorridos antes del aviso",
+        "ABC cita un lapso de dos horas hasta que la Guardia Civil dio con el padre",
+        "El Mundo y ABC identifican al padre como quien olvidó al niño",
+        "20minutos utiliza una formulación impersonal ('se olvidan') sin nombrar directamente a un responsable único"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "responsabilidad individual explicita del padre",
+        "polo_b": "responsabilidad difusa o colectiva de la familia",
+        "resumen": "El Mundo y ABC senalan directamente al padre como sujeto que olvida al nino, mientras 20minutos usa una construccion impersonal que diluye la atribucion de responsabilidad en la familia"
+      },
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "Un padre conduce 140 km hasta que la Guardia Civil le alerta de que su hijo de diez años se le ha olvidado en una gasolinera de Cáceres",
+          "link": "https://www.elmundo.es/espana/extremadura/2026/08/31/6a957818e9cf4af5038b458d.html",
+          "position": 10,
+          "focus": "Pone al padre como sujeto activo que conduce sin percatarse, subrayando el descuido individual y la distancia recorrida; omite mencionar a otros miembros de la familia"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Un padre olvida a su hijo de 10 años en una gasolinera de Cáceres y no se percata hasta que la Guardia Civil da con él dos horas después",
+          "link": "https://www.abc.es/espana/extremadura/padre-olvida-hijo-anos-gasolinera-caceres-percata-20260831130752-nt.html",
+          "position": 15,
+          "focus": "Nombra explicitamente al padre como responsable y enfatiza el tiempo transcurrido sin percatarse; no menciona la distancia recorrida"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Se olvidan de un niño de 10 años en una gasolinera y la Guardia Civil localiza a la familia a 140 kilómetros",
+          "link": "https://www.20minutos.es/extremadura/caceres/se-olvidan-un-nino-10-anos-una-gasolinera-guardia-civil-localiza-familia-140-kilometros-despues_7031069_0.html",
+          "position": 90,
+          "focus": "Usa voz impersonal ('se olvidan') y habla de 'la familia' localizada, evitando senalar a un responsable individual concreto"
+        }
+      ],
+      "rango": 80,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "El Pais",
         "La Vanguardia",
         "eldiario.es"
       ]
     },
     {
-      "neutral_headline": "La Fiscalía eleva a 23 las agresiones sexuales registradas en Ceuta",
+      "neutral_headline": "La Fiscalía eleva a 23 el número de agresiones sexuales registradas en Ceuta",
       "section": "Sociedad",
       "facts": [
-        "La Fiscalía contabiliza 23 agresiones sexuales en Ceuta",
-        "eldiario.es y 20minutos vinculan el aumento al contexto de la crisis migratoria o entrada masiva de inmigrantes",
+        "La Fiscalía ha elevado a 23 el número de agresiones sexuales registradas en Ceuta",
+        "eldiario.es y 20minutos vinculan el aumento al inicio de la crisis migratoria o la entrada masiva de inmigrantes",
         "La Vanguardia especifica que los presuntos agresores son marroquíes, españoles y un belga"
       ],
       "tipo_divergencia": "editorial",
       "eje": {
-        "polo_a": "Vínculo con crisis migratoria",
-        "polo_b": "Diversidad de nacionalidades de los agresores",
-        "resumen": "Unos medios enmarcan el aumento de agresiones dentro del contexto de la crisis migratoria, mientras otro matiza señalando que los agresores no son solo migrantes recientes."
+        "polo_a": "vincula el hecho a la crisis migratoria",
+        "polo_b": "diversifica la autoría más allá de los migrantes",
+        "resumen": "Mientras eldiario.es y 20minutos enmarcan las agresiones como consecuencia directa de la crisis migratoria, La Vanguardia matiza la responsabilidad señalando que los agresores incluyen también a españoles y un belga"
       },
       "frames": [
         {
           "outlet": "eldiario.es",
           "headline": "La Fiscalía eleva a 23 las agresiones sexuales registradas en Ceuta desde el inicio de la crisis migratoria",
           "link": "https://www.eldiario.es/politica/fiscalia-eleva-21-agresiones-sexuales-registradas-ceuta-inicio-crisis-migratoria_1_13476925.html",
-          "position": 15,
-          "focus": "Asocia el aumento de agresiones al 'inicio de la crisis migratoria', sin detallar nacionalidades de los agresores"
+          "position": 10,
+          "focus": "Destaca el aumento de casos y lo asocia explícitamente al contexto de la crisis migratoria, sin detallar nacionalidades de los agresores"
         },
         {
           "outlet": "La Vanguardia",
           "headline": "La Fiscalía contabiliza 23 agresiones sexuales en Ceuta por marroquíes, españoles y un belga",
           "link": "https://www.lavanguardia.com/politica/20260831/11623919/fiscalia-contabilia-23-agresiones-sexuales-ceuta-marroquies-espanoles-belga.html",
           "position": 90,
-          "focus": "Detalla que los agresores incluyen marroquíes, españoles y un belga, matizando la vinculación directa con la inmigración"
+          "focus": "Pone el foco en la diversidad de nacionalidades de los presuntos agresores, matizando la asociación directa con la inmigración"
         },
         {
           "outlet": "20minutos",
           "headline": "La Fiscalía eleva a 23 las agresiones sexuales en Ceuta desde la entrada masiva de inmigrantes",
           "link": "https://www.20minutos.es/nacional/fiscalia-eleva-23-las-agresiones-sexuales-registradas-ceuta-desde-entrada-masiva-inmigrantes_7031065_0.html",
           "position": 5,
-          "focus": "Vincula explícitamente el aumento de agresiones a la 'entrada masiva de inmigrantes', reforzando el marco migratorio"
+          "focus": "Enfatiza la 'entrada masiva de inmigrantes' como marco temporal y causal del aumento de casos, omitiendo el detalle de nacionalidades"
         }
       ],
       "rango": 85,
       "discrepancia": "alta",
       "silenciosos": [
         "ABC",
-        "El Confidencial",
         "El Mundo",
         "El Pais"
       ]
