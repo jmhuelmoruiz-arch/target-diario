@@ -48,7 +48,7 @@ jobs:
               items = []
               for outlet, url in FEEDS.items():
                   try:
-                      feed = feedparser.parse(url)
+                      feed = feedparser.parse(url, agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)")
                       print("  " + outlet + ": " + str(len(feed.entries)) + " entradas")
                       for e in feed.entries[:MAX_POR_MEDIO]:
                           t = e.get("title", "").strip()
@@ -193,6 +193,7 @@ jobs:
 
           def main():
               headlines = fetch_headlines()
+              medios_activos = sorted(set(h["outlet"] for h in headlines))
               if not headlines:
                   raise SystemExit("Ningun RSS respondio.")
               grupos = cluster_stories(headlines)
@@ -206,7 +207,7 @@ jobs:
                       continue
                   print("  analizando historia " + str(idx) + " (" + str(len(cluster)) + " piezas)")
                   try:
-                      historias.append(analyze(cluster, list(FEEDS.keys())))
+                      historias.append(analyze(cluster, medios_activos))
                   except Exception as err:
                       print("  [aviso] descartada: " + str(err))
               if not historias:
