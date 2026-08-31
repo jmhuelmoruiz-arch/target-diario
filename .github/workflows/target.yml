@@ -37,8 +37,8 @@ jobs:
               "El Confidencial": "https://rss.elconfidencial.com/espana/",
               "20minutos":       "https://www.20minutos.es/rss/",
           }
-          MAX_POR_MEDIO = 15
-          MAX_HISTORIAS = 6
+          MAX_POR_MEDIO = 30
+          MAX_HISTORIAS = 15
           API_URL = "https://api.anthropic.com/v1/messages"
           API_KEY = os.environ["ANTHROPIC_API_KEY"].strip()
           MODELO_RAPIDO = "claude-haiku-4-5"
@@ -58,7 +58,7 @@ jobs:
               print("Leidos " + str(len(items)) + " titulares.")
               return items
 
-          def claude(prompt, system, modelo, max_tokens=2000, intentos=3):
+          def claude(prompt, system, modelo, max_tokens=4000, intentos=3):
               for n in range(1, intentos + 1):
                   r = requests.post(
                       API_URL,
