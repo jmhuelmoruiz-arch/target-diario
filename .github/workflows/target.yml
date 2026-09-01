@@ -35,7 +35,6 @@ jobs:
               "eldiario.es":     "https://www.eldiario.es/rss/",
               "La Vanguardia":   "https://www.lavanguardia.com/rss/home.xml",
               "El Espanol":     "https://www.elespanol.com/rss/",
-              "El Periodico":   "https://www.elperiodico.com/es/rss/rss_portada.xml",
               "20minutos":       "https://www.20minutos.es/rss/",
           }
           MAX_POR_MEDIO = 30
@@ -134,10 +133,16 @@ jobs:
                         "'cronologica'. Acusar de sesgo a quien solo publico antes es un "
                         "error grave.\n\n"
                         "PASO 2. Si y solo si el tipo es 'editorial': nombra el eje concreto "
-                        "de esta historia con sus dos polos, ordena las piezas a lo largo de "
-                        "ese eje y reparte posiciones usando TODO el rango (la mas cercana a "
-                        "un polo entre 0 y 15; la del polo opuesto entre 85 y 100). Es una "
-                        "ordenacion RELATIVA entre estas piezas.\n"
+                        "de esta historia con sus dos polos y situa cada pieza en una escala "
+                        "ABSOLUTA de 0 a 100, donde 0 es el polo_a en su version mas "
+                        "explicita y 100 el polo_b en la suya. Anclas: 0-20 adopta un polo de "
+                        "forma inequivoca; 30-45 se inclina de forma leve; 50 no se inclina; "
+                        "55-70 se inclina de forma leve hacia el otro polo; 80-100 lo adopta "
+                        "de forma inequivoca.\\n"
+                        "PROHIBIDO repartir para ocupar el rango. Si los medios apenas se "
+                        "distinguen, todas las posiciones deben quedar juntas (por ejemplo "
+                        "entre 45 y 60) aunque el eje exista. Un eje real con diferencias "
+                        "pequenas es un resultado correcto y valioso.\\n"
                         "Si el tipo es 'cronologica' o 'ninguna': eje null y todas las "
                         "posiciones a 50.\n\n"
                         "Devuelve este JSON. Incluye UNA entrada en 'frames' por cada pieza "
