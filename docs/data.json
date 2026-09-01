@@ -1,167 +1,109 @@
 {
-  "fecha": "2026-09-01T08:00:30.781521+00:00",
+  "fecha": "2026-09-01T09:14:01.842648+00:00",
   "historias": [
     {
-      "neutral_headline": "El Gobierno tramita el Estatuto Marco de los sanitarios en medio de la oposición de sindicatos médicos que amenazan con huelga",
+      "neutral_headline": "Un mes después de la crisis migratoria de Ceuta, persisten tensiones diplomáticas y críticas sobre la gestión del Gobierno",
       "section": "Politica",
       "facts": [
-        "El Gobierno lleva el Estatuto Marco al Consejo de Ministros para su tramitación",
-        "El texto es impulsado por la ministra Mónica García",
-        "Los sindicatos médicos se oponen al proyecto",
-        "Los sindicatos médicos amenazan con una huelga indefinida",
-        "El Pais indica que el texto se envía al Congreso"
+        "Se realizó una visita real a Ceuta que Marruecos consideró una provocación en medio de su campaña electoral",
+        "Las expulsiones de inmigrantes hacia Marruecos están atascadas porque, según El Mundo, los funcionarios no quieren firmar",
+        "Carlos Herrera critica a Pedro Sánchez por señalar a Felipe VI y mostrarse sumiso con el rey de Marruecos",
+        "eldiario.es plantea si Ceuta se ha convertido en el talón de Aquiles del Gobierno",
+        "Rusia pidió a España pruebas sobre su presunta implicación en una campaña de desinformación relacionada con la crisis migratoria de Ceuta",
+        "Según 20minutos, un mes después de la crisis, Sánchez no ha asumido ningún error y esto irrita a sus socios de gobierno"
       ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "Crítica directa a la gestión del Gobierno",
+        "polo_b": "Foco en actores externos (Marruecos, Rusia, burocracia)",
+        "resumen": "Los medios se dividen entre quienes atribuyen la responsabilidad de la crisis al Gobierno de Sánchez y quienes desplazan el foco hacia Marruecos, Rusia o factores técnicos ajenos al Ejecutivo"
+      },
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "El Gobierno envía al Congreso el Estatuto Marco de los sanitarios mientras los sindicatos médicos amenazan con una huelga indefinida",
-          "link": "https://elpais.com/sociedad/2026-09-01/el-gobierno-envia-al-congreso-el-estatuto-marco-de-los-sanitarios-mientras-los-sindicatos-medicos-amenazan-con-una-huelga-indefinida.html",
-          "position": 50,
-          "focus": "Destaca el envío al Congreso y la amenaza de huelga indefinida de los sindicatos médicos"
+          "headline": "Marruecos observa como una provocación una visita real a Ceuta en medio de su campaña electoral",
+          "link": "https://elpais.com/espana/2026-09-01/marruecos-observa-como-una-provocacion-una-visita-real-a-ceuta-en-medio-de-su-campana-electoral.html",
+          "position": 75,
+          "focus": "Destaca la reacción de Marruecos y su contexto electoral, desplazando el foco hacia el país vecino en lugar del Gobierno español"
         },
         {
           "outlet": "El Mundo",
-          "headline": "El Gobierno dará luz verde a la tramitación del Estatuto Marco de Mónica García en el Consejo de Ministros con la oposición de los médicos",
-          "link": "https://www.elmundo.es/salud/2026/09/01/6a967abdfdddfffb108b4570.html",
+          "headline": "Las expulsiones de inmigrantes a Marruecos atascadas: \"Los funcionarios no quieren firmar\"",
+          "link": "https://www.elmundo.es/espana/2026/08/31/6a95a49be85eced42a8b4599.html",
           "position": 50,
-          "focus": "Destaca el paso por el Consejo de Ministros, nombra a la ministra Mónica García y la oposición médica"
+          "focus": "Centra el problema en un obstáculo burocrático concreto (funcionarios que no firman), sin señalar explícitamente a un responsable político"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Carlos Herrera ve a Pedro Sánchez señalar a Felipe VI por no visitar Ceuta y es contundente: «Tan chulo con su Rey y tan sumiso con el de Marruecos»",
+          "link": "https://www.abc.es/recreo/carlos-herrera-pedro-sanchez-senalar-felipe-visitar-20260901100934-nt.html",
+          "position": 5,
+          "focus": "Ataca directamente a Sánchez, contrastando su actitud hacia el Rey de España con su sumisión ante Marruecos"
         },
         {
           "outlet": "eldiario.es",
-          "headline": "El Gobierno aprobará este martes el Estatuto Marco sin resolver el conflicto con los médicos",
-          "link": "https://www.eldiario.es/sociedad/gobierno-aprobara-martes-estatuto-marco-resolver-conflicto-medicos_1_13477548.html",
-          "position": 50,
-          "focus": "Destaca la aprobación en Consejo de Ministros y que el conflicto con los médicos queda sin resolver"
+          "headline": "Ceuta: ¿el talón de Aquiles del Gobierno?",
+          "link": "https://www.eldiario.es/opinion/zona-critica/ceuta-talon-aquiles-gobierno_129_13477005.html",
+          "position": 25,
+          "focus": "Plantea la crisis como una amenaza política para el Gobierno, en clave interrogativa pero orientada a su vulnerabilidad"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Rusia pide a España pruebas sobre su implicación en la campaña de desinformación en la crisis migratoria de Ceuta",
+          "link": "https://www.elespanol.com/espana/politica/20260901/rusia-pide-espana-pruebas-implicacion-campana-desinformacion-crisis-ceuta/1003744368670_0.html",
+          "position": 95,
+          "focus": "Traslada el eje del conflicto a la disputa diplomática con Rusia por la desinformación, alejándose de la gestión interna española"
         },
         {
           "outlet": "20minutos",
-          "headline": "El Gobierno aprueba hoy el proyecto de Estatuto Marco criticado por los médicos, que amenazan con huelga",
-          "link": "https://www.20minutos.es/nacional/gobierno-aprueba-este-martes-proyecto-estatuto-marco-criticado-por-los-medicos-que-amenazan-con-huelga-indefinida-otono_7031273_0.html",
-          "position": 50,
-          "focus": "Destaca la aprobación del proyecto y las críticas médicas junto a la amenaza de huelga"
+          "headline": "Sánchez no asume ningún error un mes después de la crisis de Ceuta e irrita a sus socios por exculpar a Marruecos",
+          "link": "https://www.20minutos.es/nacional/sanchez-no-asume-ningun-error-un-mes-despues-crisis-ceuta-irrita-sus-socios-por-exculpar-marruecos_7031129_0.html",
+          "position": 15,
+          "focus": "Subraya la falta de autocrítica de Sánchez y el malestar de sus socios, responsabilizando directamente al Gobierno"
         }
       ],
-      "rango": 0,
-      "discrepancia": "baja",
+      "rango": 90,
+      "discrepancia": "alta",
       "silenciosos": [
-        "ABC",
-        "El Espanol",
         "La Vanguardia"
       ]
     },
     {
-      "neutral_headline": "El secretario del Ejército de Estados Unidos, Dan Driscoll, presenta su dimisión",
-      "section": "Internacional",
+      "neutral_headline": "Ceuta: fiscalía alerta de agresiones sexuales mientras el Gobierno amplía plazas de acogida y surgen tensiones entre migrantes",
+      "section": "Sociedad",
       "facts": [
-        "Dan Driscoll es el secretario del Ejército de Estados Unidos",
-        "Driscoll ha presentado su dimisión/renuncia del cargo",
-        "El Pais vincula la dimisión a despidos en la cúpula de las Fuerzas Armadas",
-        "eldiario.es señala que la dimisión ocurre en medio de la guerra de Irán y agrava un vacío de liderazgo",
-        "La Vanguardia y 20minutos atribuyen la dimisión a meses de tensiones con Pete Hegseth"
+        "La fiscal jefa de Ceuta afirma que hay casi una agresión sexual al día y expresa preocupación (El País)",
+        "El Gobierno duplicó las plazas de acogida para migrantes en Ceuta en una semana (eldiario.es)",
+        "El Gobierno descarta el traslado de los migrantes a la Península (eldiario.es)",
+        "Las nuevas plazas de acogida han generado tensión entre los inmigrantes (La Vanguardia)"
       ],
       "tipo_divergencia": "editorial",
       "eje": {
-        "polo_a": "causa institucional (despidos en la cúpula militar)",
-        "polo_b": "causa personal (conflicto con Hegseth)"
+        "polo_a": "Inseguridad/amenaza (agresiones sexuales)",
+        "polo_b": "Gestión institucional (ampliación de plazas)",
+        "resumen": "Los medios difieren en si el foco es el peligro que representan los migrantes o la respuesta administrativa del Gobierno ante la situación en Ceuta"
       },
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "El secretario del Ejército de Estados Unidos, Dan Driscoll, dimite por los despidos en la cúpula de las Fuerzas Armadas",
-          "link": "https://elpais.com/internacional/2026-09-01/el-secretario-del-ejercito-de-estados-unidos-dan-driscoll-dimite-por-los-despidos-en-la-cupula-de-las-fuerzas-armadas.html",
+          "headline": "La fiscal jefa de Ceuta: “Hay casi una agresión sexual al día. Hay preocupación”",
+          "link": "https://elpais.com/espana/2026-09-01/la-fiscal-jefa-de-ceuta-hay-casi-una-agresion-sexual-al-dia-hay-preocupacion.html",
           "position": 10,
-          "focus": "Atribuye la dimisión directamente a los despidos en la cúpula de las Fuerzas Armadas, sin mencionar tensiones personales"
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "El secretario del Ejército de Estados Unidos presenta su renuncia",
-          "link": "https://www.elmundo.es/internacional/2026/09/01/6a960dd721efa027598b4589.html",
-          "position": 50,
-          "focus": "Reporta solo el hecho de la renuncia sin especificar causa alguna"
+          "focus": "Destaca la alarma de la fiscal por las agresiones sexuales diarias, poniendo el énfasis en la inseguridad y omitiendo la respuesta gubernamental"
         },
         {
           "outlet": "eldiario.es",
-          "headline": "El secretario del Ejército de EEUU dimite y aumenta el vacío de liderazgo en medio de la guerra de Irán",
-          "link": "https://www.eldiario.es/internacional/secretario-ejercito-eeuu-dimite-aumenta-vacio-liderazgo-medio-guerra-iran_1_13478327.html",
-          "position": 30,
-          "focus": "Enmarca la dimisión en el contexto geopolítico de la guerra de Irán y el vacío de liderazgo que genera, sin mencionar a Hegseth"
+          "headline": "El Gobierno duplica las plazas para migrantes en Ceuta en solo una semana y descarta su traslado a la Península",
+          "link": "https://www.eldiario.es/politica/gobierno-duplica-plazas-migrantes-ceuta-semana-descarta-traslado-peninsula_1_13477642.html",
+          "position": 90,
+          "focus": "Centra la noticia en la acción del Gobierno (duplicar plazas y descartar traslado), presentando una gestión institucional sin mencionar el problema de las agresiones"
         },
         {
           "outlet": "La Vanguardia",
-          "headline": "Renuncia el jefe del Ejército de EE.UU. tras meses de tensiones con Hegseth",
-          "link": "https://www.lavanguardia.com/internacional/20260901/11624303/renuncia-jefe-ejercito-ee-uu-meses-tensiones-hegseth.html",
-          "position": 90,
-          "focus": "Centra la causa en las tensiones personales acumuladas con Hegseth durante meses, sin mencionar despidos ni contexto de Irán"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "Dimite el secretario del Ejército de Estados Unidos tras meses de tensiones con Pete Hegseth",
-          "link": "https://www.20minutos.es/internacional/dimite-secretario-ejercito-estados-unidos-tras-meses-tensiones-con-pete-hegseth_7031260_0.html",
-          "position": 90,
-          "focus": "Igual que La Vanguardia, atribuye la dimisión a las tensiones con Hegseth, omitiendo otras causas institucionales o contextuales"
-        }
-      ],
-      "rango": 80,
-      "discrepancia": "alta",
-      "silenciosos": [
-        "ABC",
-        "El Espanol"
-      ]
-    },
-    {
-      "neutral_headline": "Putin mantiene movimientos diplomáticos y militares mientras crecen otros focos de tensión internacional",
-      "section": "Internacional",
-      "facts": [
-        "Putin busca acuerdos comerciales con China",
-        "India pide a Putin que termine la guerra que califica de interminable",
-        "Medios señalan que Putin planea una escalada militar",
-        "Putin y Xi Jinping intervienen en apoyo de Irán",
-        "Trump buscaba un bloqueo más agresivo en el estrecho de Ormuz",
-        "Piratas somalíes han secuestrado nuevos buques"
-      ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "Putin acorralado/debilitado",
-        "polo_b": "Putin fortalecido con aliados",
-        "resumen": "Los medios difieren en si retratan a Putin como una figura presionada y a la defensiva o como un líder que consolida alianzas y proyecta fuerza"
-      },
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "Los piratas de Somalia exhiben su creciente poderío con nuevos secuestros de buques",
-          "link": "https://elpais.com/internacional/2026-09-01/los-piratas-de-somalia-exhiben-su-creciente-poderio-con-nuevos-secuestros-de-buques.html",
+          "headline": "Las nuevas plazas de acogida en Ceuta desatan tensión entre los inmigrantes",
+          "link": "https://www.lavanguardia.com/politica/20260901/11624070/nuevas-plazas-acogida-ceuta-desatan-tension-inmigrantes.html",
           "position": 50,
-          "focus": "Se centra en la piratería somalí, un hecho distinto sin relación directa con la situación de Putin descrita en las demás piezas"
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "Putin busca más negocios con China mientras India le pide que acabe con su \"guerra interminable\"",
-          "link": "https://www.elmundo.es/internacional/2026/09/01/6a95cbe0e4d4d8e4788b457f.html",
-          "position": 55,
-          "focus": "Destaca la búsqueda de negocios con China junto a la presión diplomática de India, mostrando a Putin activo pero cuestionado"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Acorralado, Putin planea una escalada",
-          "link": "https://www.lavanguardia.com/internacional/20260901/11623657/guerra-ucrania-rusia-putin-otan-europa.html",
-          "position": 10,
-          "focus": "Enfatiza que Putin está acorralado y reacciona con una escalada, resaltando debilidad y presión externa"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Putin juega al despiste",
-          "link": "https://www.lavanguardia.com/opinion/20260901/11624137/putin-juega-despiste.html",
-          "position": 40,
-          "focus": "Sugiere ambigüedad estratégica de Putin ('despiste') sin definir claramente fuerza o debilidad"
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "Putin y Xi acuden al rescate de Irán cuando Trump esperaba asfixiar su economía con un bloqueo más agresivo en Ormuz",
-          "link": "https://www.elespanol.com/mundo/oriente-proximo/20260901/putin-xi-acuden-rescate-iran-trump-esperaba-asfixiar-economia-bloqueo-agresivo-ormuz/1003744368189_0.html",
-          "position": 90,
-          "focus": "Presenta a Putin junto a Xi como actores decisivos que frustran los planes de Trump, mostrando poder e influencia conjunta"
+          "focus": "Muestra la consecuencia de la ampliación de plazas: tensión interna entre los propios migrantes, sin atribuir culpa a autoridades ni detallar el problema de seguridad"
         }
       ],
       "rango": 80,
@@ -169,43 +111,150 @@
       "silenciosos": [
         "20minutos",
         "ABC",
-        "eldiario.es"
+        "El Espanol",
+        "El Mundo"
       ]
     },
     {
-      "neutral_headline": "El Tribunal Supremo de EEUU autoriza a Trump construir un salón de baile en la Casa Blanca",
+      "neutral_headline": "El secretario del Ejército de EE.UU. renuncia a su cargo",
+      "section": "Internacional",
+      "facts": [
+        "El secretario del Ejército de Estados Unidos ha dimitido/presentado su renuncia",
+        "El Pais vincula la dimisión a despidos en la cúpula de las Fuerzas Armadas",
+        "La Vanguardia y 20minutos atribuyen la renuncia a meses de tensiones con Pete Hegseth",
+        "eldiario.es sitúa la dimisión en el contexto de la guerra de Irán y un vacío de liderazgo"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "conflicto personal con Hegseth",
+        "polo_b": "crisis institucional de liderazgo",
+        "resumen": "Los medios difieren entre atribuir la renuncia a un choque personal con el secretario de Defensa o enmarcarla como síntoma de una crisis institucional más amplia (despidos, vacío de liderazgo en plena guerra de Irán)"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "El secretario del Ejército de Estados Unidos, Dan Driscoll, dimite por los despidos en la cúpula de las Fuerzas Armadas",
+          "link": "https://elpais.com/internacional/2026-09-01/el-secretario-del-ejercito-de-estados-unidos-dan-driscoll-dimite-por-los-despidos-en-la-cupula-de-las-fuerzas-armadas.html",
+          "position": 65,
+          "focus": "Destaca los despidos en la cúpula militar como causa, sugiriendo una purga institucional; omite la relación con Hegseth"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "El secretario del Ejército de Estados Unidos presenta su renuncia",
+          "link": "https://www.elmundo.es/internacional/2026/09/01/6a960dd721efa027598b4589.html",
+          "position": 50,
+          "focus": "Se limita a constatar el hecho sin atribuir causa, el encuadre más neutro"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "El secretario del Ejército de EEUU dimite y aumenta el vacío de liderazgo en medio de la guerra de Irán",
+          "link": "https://www.eldiario.es/internacional/secretario-ejercito-eeuu-dimite-aumenta-vacio-liderazgo-medio-guerra-iran_1_13478327.html",
+          "position": 95,
+          "focus": "Enmarca la dimisión como parte de una crisis de liderazgo más amplia, conectándola con la guerra de Irán; maximiza la gravedad institucional"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Renuncia el jefe del Ejército de EE.UU. tras meses de tensiones con Hegseth",
+          "link": "https://www.lavanguardia.com/internacional/20260901/11624303/renuncia-jefe-ejercito-ee-uu-meses-tensiones-hegseth.html",
+          "position": 10,
+          "focus": "Centra la causa en el conflicto personal con Hegseth, personalizando el conflicto por encima de otras explicaciones"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Dimite el secretario del Ejército de Estados Unidos tras meses de tensiones con Pete Hegseth",
+          "link": "https://www.20minutos.es/internacional/dimite-secretario-ejercito-estados-unidos-tras-meses-tensiones-con-pete-hegseth_7031260_0.html",
+          "position": 12,
+          "focus": "Igual que La Vanguardia, atribuye la renuncia a tensiones directas con Hegseth, obviando el contexto institucional"
+        }
+      ],
+      "rango": 85,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "ABC",
+        "El Espanol"
+      ]
+    },
+    {
+      "neutral_headline": "El Gobierno aprueba el nuevo Estatuto Marco pese al rechazo de los médicos",
       "section": "Politica",
       "facts": [
-        "El Tribunal Supremo de EEUU emitió una decisión sobre la construcción de un salón de baile en la Casa Blanca",
-        "La decisión permite a Trump avanzar con la construcción del salón de baile"
+        "El Consejo de Ministros aprueba hoy (martes) el nuevo Estatuto Marco",
+        "Los médicos rechazan o critican el proyecto",
+        "Según 20minutos, los médicos amenazan con huelga",
+        "El conflicto con los médicos no queda resuelto, según eldiario.es"
       ],
       "tipo_divergencia": "ninguna",
       "eje": null,
       "frames": [
         {
+          "outlet": "ABC",
+          "headline": "El Consejo de Ministros aprobará hoy el nuevo Estatuto Marco pese al rechazo de los médicos",
+          "link": "https://www.abc.es/sociedad/consejo-ministros-aprobara-hoy-nuevo-estatuto-marco-20260901094923-nt.html",
+          "position": 50,
+          "focus": "Destaca la aprobación institucional (Consejo de Ministros) y el rechazo médico; omite detalles sobre huelga o resolución del conflicto"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "El Gobierno aprobará este martes el Estatuto Marco sin resolver el conflicto con los médicos",
+          "link": "https://www.eldiario.es/sociedad/gobierno-aprobara-martes-estatuto-marco-resolver-conflicto-medicos_1_13477548.html",
+          "position": 50,
+          "focus": "Enfatiza que el conflicto con los médicos sigue sin resolverse; omite mención a huelga"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "El Gobierno aprueba hoy el proyecto de Estatuto Marco criticado por los médicos, que amenazan con huelga",
+          "link": "https://www.20minutos.es/nacional/gobierno-aprueba-este-martes-proyecto-estatuto-marco-criticado-por-los-medicos-que-amenazan-con-huelga-indefinida-otono_7031273_0.html",
+          "position": 50,
+          "focus": "Añade el dato de la amenaza de huelga como consecuencia de las críticas médicas"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "El Espanol",
+        "El Mundo",
+        "El Pais",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "El Tribunal Supremo de EEUU autoriza la construcción de un salón de baile en la Casa Blanca solicitada por Trump",
+      "section": "Politica",
+      "facts": [
+        "El Tribunal Supremo de EEUU autorizó la construcción de un salón de baile en la Casa Blanca",
+        "La construcción fue solicitada por Donald Trump"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "cobertura neutral del fallo",
+        "polo_b": "encuadre de complacencia hacia Trump",
+        "resumen": "El Español introduce un juicio implícito ('nuevo deseo') que sugiere favoritismo hacia Trump, mientras El País y La Vanguardia describen el hecho sin esa connotación"
+      },
+      "frames": [
+        {
           "outlet": "El Pais",
           "headline": "El Tribunal Supremo autoriza definitivamente la construcción del salón de baile de Trump en la Casa Blanca",
           "link": "https://elpais.com/us/2026-08-31/el-tribunal-supremo-autoriza-definitivamente-la-construccion-del-salon-de-baile-de-trump-en-la-casa-blanca.html",
-          "position": 50,
-          "focus": "Destaca el carácter definitivo de la autorización judicial"
+          "position": 10,
+          "focus": "Describe la decisión judicial como definitiva y autorizatoria, sin valorar la relación entre el tribunal y Trump"
         },
         {
           "outlet": "La Vanguardia",
           "headline": "El Supremo da luz verde a Trump para que construya un salón de baile en la Casa Blanca",
           "link": "https://www.lavanguardia.com/internacional/20260901/11624141/supremo-da-luz-verde-trump-construya-salon-baile-casa-blanca.html",
-          "position": 50,
-          "focus": "Presenta la decisión como un permiso concedido a Trump"
+          "position": 12,
+          "focus": "Usa la expresión neutra 'luz verde' para describir la autorización, centrado en el hecho procesal"
         },
         {
           "outlet": "El Espanol",
           "headline": "El Supremo de EEUU concede un nuevo deseo a Trump y da luz verde para que construya un salón de baile en la Casa Blanca",
           "link": "https://www.elespanol.com/mundo/america/eeuu/20260901/supremo-unidos-da-luz-verde-trump-construya-salon-baile-casa-blanca/1003744368519_0.html",
-          "position": 50,
-          "focus": "Enmarca la decisión como otro logro personal de Trump, con un giro narrativo ('nuevo deseo') pero sin alterar el hecho central"
+          "position": 90,
+          "focus": "Enmarca el fallo como un 'nuevo deseo' concedido a Trump, sugiriendo una relación de complacencia o favoritismo del tribunal hacia él, más allá del hecho jurídico"
         }
       ],
-      "rango": 0,
-      "discrepancia": "baja",
+      "rango": 80,
+      "discrepancia": "alta",
       "silenciosos": [
         "20minutos",
         "ABC",
@@ -214,58 +263,11 @@
       ]
     },
     {
-      "neutral_headline": "Polémica por irregularidades en las pruebas PISA en Cataluña y País Vasco",
+      "neutral_headline": "Un jurado declara culpable a Duane 'Keffe D' Davis del asesinato de Tupac Shakur, casi 30 años después",
       "section": "Sociedad",
       "facts": [
-        "El Mundo afirma que la Generalitat recibió siete avisos sobre 'errores' en las pruebas PISA de Cataluña y no explica por qué los ignoró",
-        "ABC afirma que Cataluña y País Vasco manipularon ('trampearon') las pruebas PISA para ocultar un mal resultado educativo",
-        "La Vanguardia señala que el fallo en las pruebas PISA podría haberse corregido a tiempo"
-      ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "Fraude/responsabilidad regional deliberada",
-        "polo_b": "Fallo técnico corregible del sistema",
-        "resumen": "Los medios difieren en si el problema con PISA fue una manipulación intencionada de las autonomías o un error técnico que pudo solventarse a tiempo"
-      },
-      "frames": [
-        {
-          "outlet": "ABC",
-          "headline": "Cataluña y País Vasco trampean las pruebas PISA para ocultar el desastre educativo",
-          "link": "https://www.abc.es/sociedad/cataluna-pais-vasco-trampean-pruebas-pisa-maquillar-20260901013301-nt.html",
-          "position": 8,
-          "focus": "ABC acusa directamente a Cataluña y País Vasco de manipular las pruebas para esconder el fracaso educativo, con lenguaje de fraude ('trampean')"
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "La Generalitat esconde por qué ignoró los siete avisos sobre \"errores\" en las pruebas PISA en Cataluña",
-          "link": "https://www.elmundo.es/cataluna/2026/08/31/6a95e1a6fc6c835e428b45b2.html",
-          "position": 40,
-          "focus": "El Mundo centra el foco en la Generalitat como responsable de ocultar información sobre avisos previos, sin acusar de manipulación directa de las pruebas"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "El fiasco de PISA pudo haberse corregido a tiempo",
-          "link": "https://www.lavanguardia.com/vida/20260901/11624047/fiasco-pisa-pudo-haberse-corregido.html",
-          "position": 90,
-          "focus": "La Vanguardia describe el episodio como un 'fiasco' evitable, enfatizando que pudo corregirse a tiempo, sin señalar responsables políticos concretos"
-        }
-      ],
-      "rango": 82,
-      "discrepancia": "alta",
-      "silenciosos": [
-        "20minutos",
-        "El Espanol",
-        "El Pais",
-        "eldiario.es"
-      ]
-    },
-    {
-      "neutral_headline": "Un jurado declara culpable a Duane 'Keffe D' Davis del asesinato del rapero Tupac Shakur, casi 30 años después",
-      "section": "Sociedad",
-      "facts": [
-        "Un jurado declaró culpable a Duane Davis",
-        "Davis es conocido como 'Keffe D'",
-        "Se le declaró culpable del asesinato del rapero Tupac Shakur",
+        "Un jurado declaró culpable a Duane Davis, conocido como 'Keffe D'",
+        "El veredicto es por el asesinato del rapero Tupac Shakur",
         "El crimen ocurrió hace casi 30 años"
       ],
       "tipo_divergencia": "ninguna",
@@ -276,21 +278,28 @@
           "headline": "Un jurado declara culpable del asesinato del rapero Tupac Shakur a Duane Davis",
           "link": "https://www.abc.es/cultura/musica/jurado-declara-culpable-asesinato-rapero-tupac-shakur-20260901070143-nt.html",
           "position": 50,
-          "focus": "Nombra al condenado y a la víctima, sin mencionar el tiempo transcurrido"
+          "focus": "Se centra en el veredicto de culpabilidad y la identidad del acusado"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "El jurado halla culpable a 'Keffe D' de orquestar el asesinato de Tupac Shakur hace casi 30 años",
+          "link": "https://www.lavanguardia.com/gente/20260901/11624305/jurado-halla-culpable-keffe-d-orquestar-asesinato-tupa-shakur-30-anos.html",
+          "position": 50,
+          "focus": "Añade el matiz de 'orquestar' el asesinato y el marco temporal de casi 30 años"
         },
         {
           "outlet": "El Espanol",
           "headline": "Un jurado declara culpable del asesinato de Tupac Shakur a Duane 'Keffe D' Davis, 30 años después del crimen",
           "link": "https://www.elespanol.com/mundo/america/20260901/jurado-declara-culpable-exlider-pandilla-planeo-asesinato-tupac-shakur-anos-despues-crimen/1003744368544_0.html",
           "position": 50,
-          "focus": "Incluye el apodo del condenado y precisa los 30 años transcurridos desde el crimen"
+          "focus": "Combina la identificación completa del acusado con el veredicto y el tiempo transcurrido"
         },
         {
           "outlet": "20minutos",
           "headline": "Declaran culpable a Duane 'Keffe D' Davis por el asesinato del rapero Tupac Shakur casi 30 años después",
-          "link": "https://www.20minutos.es/internacional/jurado-declara-culpable-exlider-pandilla-que-planeo-asesinato-tupac-shakur_7031258_0.html",
+          "link": "https://www.20minutos.es/gente/jurado-declara-culpable-exlider-pandilla-que-planeo-asesinato-tupac-shakur_7031258_0.html",
           "position": 50,
-          "focus": "Destaca el veredicto de culpabilidad y menciona 'casi 30 años' desde el hecho"
+          "focus": "Destaca el nombre del acusado y el veredicto, con referencia temporal similar"
         }
       ],
       "rango": 0,
@@ -298,11 +307,115 @@
       "silenciosos": [
         "El Mundo",
         "El Pais",
-        "La Vanguardia",
         "eldiario.es"
       ]
     },
     {
+      "neutral_headline": "El Gobierno impulsa el Estatuto Marco de los sanitarios en medio de la oposición de los médicos",
+      "section": "Politica",
+      "facts": [
+        "El Gobierno lleva adelante el Estatuto Marco de los sanitarios impulsado por Mónica García",
+        "El Mundo y eldiario.es sitúan el paso en el Consejo de Ministros; El País habla de envío al Congreso",
+        "Existe oposición de los médicos al Estatuto Marco",
+        "El País añade que los sindicatos médicos amenazan con una huelga indefinida",
+        "eldiario.es señala que la aprobación se produce sin resolver el conflicto con los médicos"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "conflicto minimizado (oposicion generica)",
+        "polo_b": "conflicto dramatizado (amenaza de huelga indefinida)",
+        "resumen": "Los medios difieren en cuanto enfatizan la gravedad del enfrentamiento entre Gobierno y médicos, desde una oposición genérica hasta la amenaza explícita de huelga indefinida"
+      },
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "El Gobierno dará luz verde a la tramitación del Estatuto Marco de Mónica García en el Consejo de Ministros con la oposición de los médicos",
+          "link": "https://www.elmundo.es/salud/2026/09/01/6a967abdfdddfffb108b4570.html",
+          "position": 10,
+          "focus": "Destaca el trámite institucional (Consejo de Ministros) y menciona la oposición médica de forma genérica, sin detallar consecuencias"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "El Gobierno aprobará este martes el Estatuto Marco sin resolver el conflicto con los médicos",
+          "link": "https://www.eldiario.es/sociedad/gobierno-aprobara-martes-estatuto-marco-resolver-conflicto-medicos_1_13477548.html",
+          "position": 50,
+          "focus": "Enfatiza que el conflicto queda sin resolver a pesar de la aprobación, sin especificar la forma que toma esa disputa"
+        },
+        {
+          "outlet": "El Pais",
+          "headline": "El Gobierno envía al Congreso el Estatuto Marco de los sanitarios mientras los sindicatos médicos amenazan con una huelga indefinida",
+          "link": "https://elpais.com/sociedad/2026-09-01/el-gobierno-envia-al-congreso-el-estatuto-marco-de-los-sanitarios-mientras-los-sindicatos-medicos-amenazan-con-una-huelga-indefinida.html",
+          "position": 95,
+          "focus": "Subraya la amenaza concreta de huelga indefinida por parte de los sindicatos médicos, dramatizando el enfrentamiento"
+        }
+      ],
+      "rango": 85,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Espanol",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "Medios difieren en el foco del conflicto entre Irán y Estados Unidos: represión interna, ataque a Larak y respaldo de Rusia-China",
+      "section": "Internacional",
+      "facts": [
+        "Hossein Taeb, apodado 'el carnicero', regresa al aparato de inteligencia de Irán",
+        "Estados Unidos, bajo Trump, atacó la isla iraní de Larak",
+        "Putin y Xi han intervenido en apoyo de Irán",
+        "Trump buscaba un bloqueo más agresivo en el estrecho de Ormuz para asfixiar la economía iraní"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "Irán como actor represivo/responsable",
+        "polo_b": "Trump como actor fracasado/responsable",
+        "resumen": "Los medios difieren en si el centro del relato es la represión interna iraní o el fracaso de la estrategia de Trump frente a Irán, con apoyo de Rusia y China."
+      },
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "Irán refuerza su aparato represivo con el regreso del \"carnicero\" Hossein Taeb, un veterano de inteligencia",
+          "link": "https://www.elmundo.es/internacional/2026/08/31/6a95a5afe4d4d87e298b4575.html",
+          "position": 10,
+          "focus": "Centra el relato en la maquinaria represiva interna de Irán, personificada en Taeb, sin mencionar la acción de EEUU ni de otras potencias"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "El ataque de Trump a la isla iraní de Larak evidencia el intento de esconder su ineptitud",
+          "link": "https://www.eldiario.es/internacional/ataque-trump-isla-irani-larak-evidencia-esconder-ineptitud_129_13477786.html",
+          "position": 92,
+          "focus": "Atribuye el ataque a Larak a un intento de Trump de disimular su propia ineptitud, situando a EEUU como responsable del fracaso"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Putin y Xi acuden al rescate de Irán cuando Trump esperaba asfixiar su economía con un bloqueo más agresivo en Ormuz",
+          "link": "https://www.elespanol.com/mundo/oriente-proximo/20260901/putin-xi-acuden-rescate-iran-trump-esperaba-asfixiar-economia-bloqueo-agresivo-ormuz/1003744368189_0.html",
+          "position": 65,
+          "focus": "Muestra el fracaso de la estrategia de bloqueo de Trump al destacar la intervención de Putin y Xi en rescate de Irán, combinando crítica a EEUU con el papel de otras potencias"
+        }
+      ],
+      "rango": 82,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Pais",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "Una mujer apuñala a una o dos personas en Times Square y muere tras ser tiroteada por la policía",
+      "section": "Sociedad",
+      "facts": [
+        "El hecho ocurrió en Times Square, Nueva York",
+        "Una mujer apuñaló a personas en el lugar",
+        "La policía disparó y mató a la mujer",
+        "ABC afirma que la mujer apuñaló a dos personas",
+        "La Vanguardia afirma que la mujer mató a una persona y blandía dos cuchillos",
+        "20minutos afirma que la mujer mató a puñaladas a una persona e hirió a otra"
+      ],
       "tipo_divergencia": "cronologica",
       "eje": null,
       "frames": [
@@ -311,31 +424,22 @@
           "headline": "Una mujer apuñala a dos personas en Times Square de Nueva York antes de morir por tiros de la policía",
           "link": "https://www.abc.es/internacional/mujer-apunala-dos-personas-times-square-nueva-20260901020303-nt.html",
           "position": 50,
-          "focus": "Destaca que la mujer apuñaló a dos personas y murió por disparos policiales; no especifica si las víctimas sobrevivieron"
+          "focus": "Destaca el numero de personas apuñaladas (dos) y la muerte de la agresora por disparos policiales, sin especificar si las victimas murieron o quedaron heridas"
         },
         {
           "outlet": "La Vanguardia",
           "headline": "La policía tirotea a una mujer que blandía dos cuchillos tras matar a una persona en Times Square",
           "link": "https://www.lavanguardia.com/internacional/20260901/11624307/policia-tirotea-mujer-blandia-dos-cuchillos-matar-persona-herir-times-square.html",
           "position": 50,
-          "focus": "Precisa que la mujer blandía dos cuchillos y que mató a una persona; la policía respondió con disparos"
+          "focus": "Destaca que la mujer portaba dos cuchillos y que mato a una persona antes de ser tiroteada, sin mencionar una segunda victima"
         },
         {
           "outlet": "20minutos",
           "headline": "Ataque en Nueva York: la Policía abate a tiros a una mujer que mató a puñaladas a una persona e hirió a otra en Times Square",
           "link": "https://www.20minutos.es/internacional/policia-neoyorquina-dispara-times-square-una-mujer-que-apunalo-gravemente-dos-personas_7031255_0.html",
           "position": 50,
-          "focus": "Detalla que hubo una persona muerta y otra herida por puñaladas, y que la policía abatió a la agresora"
+          "focus": "Detalla que hubo una victima mortal y otra herida, ademas del abatimiento policial de la agresora"
         }
-      ],
-      "neutral_headline": "Una mujer ataca con cuchillos en Times Square y muere tras la respuesta policial",
-      "section": "Sociedad",
-      "facts": [
-        "Una mujer atacó con cuchillos a personas en Times Square, Nueva York",
-        "La policía disparó contra la mujer, que murió",
-        "ABC afirma que la mujer apuñaló a dos personas",
-        "La Vanguardia afirma que la mujer mató a una persona y blandía dos cuchillos",
-        "20minutos afirma que la mujer mató a una persona por puñaladas e hirió a otra"
       ],
       "rango": 0,
       "discrepancia": "baja",
