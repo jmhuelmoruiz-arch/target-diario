@@ -34,7 +34,8 @@ jobs:
               "ABC":             "https://www.abc.es/rss/2.0/portada/",
               "eldiario.es":     "https://www.eldiario.es/rss/",
               "La Vanguardia":   "https://www.lavanguardia.com/rss/home.xml",
-              "El Confidencial": "https://www.elconfidencial.com/rss/",
+              "El Espanol":     "https://www.elespanol.com/rss/",
+              "El Periodico":   "https://www.elperiodico.com/es/rss/rss_portada.xml",
               "20minutos":       "https://www.20minutos.es/rss/",
           }
           MAX_POR_MEDIO = 30
