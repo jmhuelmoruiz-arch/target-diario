@@ -222,10 +222,17 @@ jobs:
                       print("  [aviso] descartada: " + str(err))
               if not historias:
                   raise SystemExit("Ninguna historia supero el analisis.")
-              os.makedirs("docs", exist_ok=True)
-              with open("docs/data.json", "w", encoding="utf-8") as f:
-                  json.dump({"fecha": datetime.now(timezone.utc).isoformat(),
-                             "historias": historias}, f, ensure_ascii=False, indent=2)
+              hoy = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+              edicion = {"fecha": datetime.now(timezone.utc).isoformat(),
+                         "esquema": 2, "historias": historias}
+              os.makedirs("docs/ediciones", exist_ok=True)
+              for ruta in ["docs/data.json", "docs/ediciones/" + hoy + ".json"]:
+                  with open(ruta, "w", encoding="utf-8") as f:
+                      json.dump(edicion, f, ensure_ascii=False, indent=2)
+              idx = sorted(x[:-5] for x in os.listdir("docs/ediciones")
+                           if x.endswith(".json") and x != "index.json")
+              with open("docs/ediciones/index.json", "w", encoding="utf-8") as f:
+                  json.dump(idx, f, ensure_ascii=False)
               print("Edicion publicada: " + str(len(historias)) + " historias.")
 
           main()
