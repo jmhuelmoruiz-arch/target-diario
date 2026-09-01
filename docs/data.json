@@ -1,22 +1,90 @@
 {
-  "fecha": "2026-09-01T09:34:25.480895+00:00",
+  "fecha": "2026-09-01T12:24:15.617164+00:00",
+  "esquema": 2,
   "historias": [
     {
-      "neutral_headline": "Crisis migratoria en Ceuta: tensiones diplomáticas, gestión de acogida y acusaciones cruzadas",
+      "neutral_headline": "El Gobierno aprueba un plan de 309 millones de euros para Ceuta",
       "section": "Politica",
       "facts": [
-        "Marruecos considera una provocación una visita real a Ceuta durante su campaña electoral (El Pais)",
-        "Las expulsiones de inmigrantes hacia Marruecos están atascadas porque funcionarios marroquíes no firman los documentos (El Mundo)",
-        "Rusia pide a España pruebas de su participación en la crisis migratoria de Ceuta tras declaraciones de Sánchez (ABC)",
-        "Rusia pide a España pruebas sobre su implicación en una campaña de desinformación relacionada con la crisis de Ceuta (El Espanol)",
-        "El Gobierno español duplica las plazas de acogida para migrantes en Ceuta en una semana y descarta trasladarlos a la Península (eldiario.es)",
-        "Las nuevas plazas de acogida en Ceuta generan tensión entre los inmigrantes (La Vanguardia)"
+        "El Gobierno anuncia un plan de choque de 309 millones de euros para Ceuta",
+        "El plan se desplegará hasta diciembre según El Español",
+        "El Pais indica que más de 100 millones se destinan a la acogida de menores",
+        "20minutos indica que el plan incluye ayudas para empresas ceutíes y mejora de la seguridad",
+        "La Vanguardia describe el plan como dirigido a rescatar la economía y los servicios de Ceuta",
+        "eldiario.es describe el plan como respuesta a una crisis humanitaria"
       ],
       "tipo_divergencia": "editorial",
       "eje": {
-        "polo_a": "Foco en actores externos (Marruecos/Rusia) como origen de la tensión",
-        "polo_b": "Foco en la gestión interna del Gobierno español y sus consecuencias",
-        "resumen": "Los medios eligen distintos protagonistas de la crisis: unos centran el relato en la reacción de Marruecos y Rusia, otros en cómo el Gobierno español gestiona la acogida y sus efectos internos"
+        "polo_a": "enfoque humanitario/social (menores, acogida)",
+        "polo_b": "enfoque económico/seguridad (empresas, servicios, seguridad)",
+        "resumen": "Los medios difieren en si presentan el plan como una respuesta humanitaria centrada en los menores migrantes o como un rescate económico y de seguridad para Ceuta"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El plan de choque del Gobierno para Ceuta incluye más de 100 millones para la acogida de menores",
+          "link": "https://elpais.com/espana/2026-09-01/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
+          "position": 15,
+          "focus": "Destaca la partida para acogida de menores, omite el desglose económico o de seguridad"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "El Gobierno anuncia la movilización de 309 millones para ayudar a Ceuta",
+          "link": "https://www.abc.es/espana/entrevista-pedro-sanchez-hoy-directo-declaraciones-ultimas-20260831081306-di.html",
+          "position": 50,
+          "focus": "Presenta la cifra global sin especificar destino concreto, encuadre neutro"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "El Gobierno aprueba un plan choque de 309 millones para responder a la crisis humanitaria en Ceuta",
+          "link": "https://www.eldiario.es/economia/gobierno-aprueba-plan-choque-309-millones-responder-crisis-humanitaria-ceuta_1_13479219.html",
+          "position": 35,
+          "focus": "Enmarca el plan como respuesta a una crisis humanitaria, sin detallar aspectos económicos"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "El Gobierno destina 309 millones para rescatar la economía y los servicios de Ceuta",
+          "link": "https://www.lavanguardia.com/politica/20260901/11624655/gobierno-destina-309-millones-rescatar-economia-servicios-ceuta.html",
+          "position": 65,
+          "focus": "Pone el foco en la economía y los servicios de Ceuta, omite la dimensión humanitaria o de menores"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "El Gobierno activa un \"plan de choque\" económico de 309 millones para Ceuta que se desplegará hasta diciembre",
+          "link": "https://www.elespanol.com/invertia/economia/macroeconomia/20260901/gobierno-activa-plan-choque-economico-millones-ceuta-desplegara-diciembre/1003744368967_0.html",
+          "position": 70,
+          "focus": "Enfatiza el carácter económico del plan y su calendario de despliegue, sin mencionar menores"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Moncloa aprueba 309 millones en ayudas para las empresas ceutíes y mejorar la seguridad",
+          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/gobierno-aprueba-bonificaciones-permanentes-sociedades-irpf-para-ceuta-melilla-un-paquete-309-millones_7031491_0.html",
+          "position": 85,
+          "focus": "Centra el titular en ayudas a empresas y seguridad, sin mención a menores ni crisis humanitaria"
+        }
+      ],
+      "rango": 70,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "El Mundo"
+      ]
+    },
+    {
+      "neutral_headline": "Tensión diplomática entre España y Marruecos por una posible visita a Ceuta en medio de la crisis migratoria",
+      "section": "Politica",
+      "facts": [
+        "Marruecos está en periodo de campaña electoral",
+        "Existe la posibilidad de una visita real a Ceuta",
+        "El Rey lleva 20 años sin visitar Ceuta, según El Mundo",
+        "El Gobierno español no ha fijado fecha para la visita",
+        "Pedro Sánchez ha reaparecido públicamente tras un periodo de ausencia",
+        "Existe preocupación en Ceuta sobre la permanencia indefinida de migrantes, según El Español"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "foco en Marruecos como actor externo/reactivo",
+        "polo_b": "foco en la responsabilidad de Sánchez/gobierno español",
+        "resumen": "Los medios difieren en si el protagonista y responsable de la tensión es Marruecos (su reacción electoral) o el propio Gobierno español y Sánchez (su gestión y aislamiento diplomático)"
       },
       "frames": [
         {
@@ -24,173 +92,473 @@
           "headline": "Marruecos observa como una provocación una visita real a Ceuta en medio de su campaña electoral",
           "link": "https://elpais.com/espana/2026-09-01/marruecos-observa-como-una-provocacion-una-visita-real-a-ceuta-en-medio-de-su-campana-electoral.html",
           "position": 15,
-          "focus": "Destaca la reacción diplomática de Marruecos ante la visita real, omitiendo la gestión española de la crisis"
+          "focus": "Destaca la perspectiva marroquí y su contexto electoral interno como causa de la tensión; omite críticas a la gestión española"
         },
         {
           "outlet": "El Mundo",
-          "headline": "Las expulsiones de inmigrantes a Marruecos atascadas: \"Los funcionarios no quieren firmar\"",
-          "link": "https://www.elmundo.es/espana/2026/08/31/6a95a49be85eced42a8b4599.html",
-          "position": 25,
-          "focus": "Pone el acento en la falta de cooperación marroquí para las expulsiones, sin detallar la respuesta española"
-        },
-        {
-          "outlet": "ABC",
-          "headline": "Rusia pide pruebas a España de su participación en la crisis migratoria de Ceuta tras las palabras de Sánchez",
-          "link": "https://www.abc.es/espana/rusia-pide-pruebas-espana-participacion-crisis-migratoria-20260901111655-nt.html",
-          "position": 30,
-          "focus": "Centra el hecho en la exigencia rusa de pruebas sobre implicación española en la crisis, resaltando la dimensión geopolítica"
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "Rusia pide a España pruebas sobre su implicación en la campaña de desinformación en la crisis migratoria de Ceuta",
-          "link": "https://www.elespanol.com/espana/politica/20260901/rusia-pide-espana-pruebas-implicacion-campana-desinformacion-crisis-ceuta/1003744368670_0.html",
-          "position": 35,
-          "focus": "Similar al anterior pero enfatiza la acusación de una 'campaña de desinformación', matizando el tipo de implicación señalada"
+          "headline": "El Gobierno evita poner fecha a la visita del Rey a Ceuta y defiende que no es un \"reproche\" decir que lleva 20 años sin ir",
+          "link": "https://www.elmundo.es/espana/2026/09/01/6a96a8f7e4d4d821098b4587.html",
+          "position": 45,
+          "focus": "Se centra en la gestión práctica del Gobierno sobre la visita real, en tono defensivo pero descriptivo, sin atribuir culpas explícitas"
         },
         {
           "outlet": "eldiario.es",
-          "headline": "El Gobierno duplica las plazas para migrantes en Ceuta en solo una semana y descarta su traslado a la Península",
-          "link": "https://www.eldiario.es/politica/gobierno-duplica-plazas-migrantes-ceuta-semana-descarta-traslado-peninsula_1_13477642.html",
-          "position": 80,
-          "focus": "Resalta la respuesta logística del Gobierno español (duplicar plazas) y su decisión de no trasladar migrantes, centrando el relato en la gestión interna"
+          "headline": "Pedro Sánchez se queda solo junto a Marruecos",
+          "link": "https://www.eldiario.es/politica/pedro-sanchez-queda-marruecos_129_13477226.html",
+          "position": 70,
+          "focus": "Sugiere aislamiento político de Sánchez frente a Marruecos, insinuando fracaso de su política exterior"
         },
         {
-          "outlet": "La Vanguardia",
-          "headline": "Las nuevas plazas de acogida en Ceuta desatan tensión entre los inmigrantes",
-          "link": "https://www.lavanguardia.com/politica/20260901/11624070/nuevas-plazas-acogida-ceuta-desatan-tension-inmigrantes.html",
-          "position": 75,
-          "focus": "Muestra las consecuencias sociales internas de la política de acogida, con foco en la tensión entre los propios migrantes"
+          "outlet": "El Espanol",
+          "headline": "La reaparición de Sánchez acrecienta el temor en Ceuta a que gran parte de los invasores se queden indefinidamente",
+          "link": "https://www.elespanol.com/espana/20260901/reaparicion-sanchez-acrecienta-temor-ceuta-gran-parte-invasores-queden-indefinidamente/1003744366351_0.html",
+          "position": 90,
+          "focus": "Enmarca la reaparición de Sánchez como detonante de temor migratorio, usando lenguaje cargado ('invasores') que responsabiliza indirectamente al Gobierno"
         }
       ],
-      "rango": 65,
+      "rango": 75,
       "discrepancia": "alta",
       "silenciosos": [
-        "20minutos"
+        "20minutos",
+        "ABC",
+        "La Vanguardia"
       ]
     },
     {
-      "neutral_headline": "El secretario del Ejército de EEUU, Dan Driscoll, presenta su renuncia",
+      "neutral_headline": "Ceuta refuerza su sistema judicial y de seguridad tras el aumento de casos de agresión sexual vinculados a la crisis migratoria",
+      "section": "Sociedad",
+      "facts": [
+        "La fiscal jefa de Ceuta declara que hay casi una agresión sexual al día y expresa preocupación",
+        "El Mundo describe cinco días de violencia en Ceuta y cita advertencias sobre una posible desgracia",
+        "ABC informa de la detención de un menor marroquí por agresión sexual a tres niñas de 10 y 11 años en un centro, tras una avalancha migratoria",
+        "El CGPJ (Poder Judicial) designa una jueza para reforzar el Juzgado de Ceuta, sobrecargado de casos de agresión sexual",
+        "20minutos especifica que la jueza refuerza el juzgado de violencia contra la mujer de Ceuta"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "enfoque institucional/víctimas",
+        "polo_b": "enfoque amenaza migratoria",
+        "resumen": "Los medios varían entre presentar el aumento de agresiones como un problema institucional que requiere refuerzo judicial y presentarlo como consecuencia directa de una 'invasión' o llegada masiva de migrantes, señalando su origen nacional"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "La fiscal jefa de Ceuta: “Hay casi una agresión sexual al día. Hay preocupación”",
+          "link": "https://elpais.com/espana/2026-09-01/la-fiscal-jefa-de-ceuta-hay-casi-una-agresion-sexual-al-dia-hay-preocupacion.html",
+          "position": 45,
+          "focus": "Cita textual de la fiscal centrada en datos y preocupación institucional, sin mencionar causa migratoria explícita"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Cinco días de violencia ya en Ceuta: \"Va a ocurrir una desgracia\"",
+          "link": "https://www.elmundo.es/espana/2026/08/31/6a95c50efc6c83fa308b459e.html",
+          "position": 50,
+          "focus": "Enfatiza la escalada de violencia y advertencias de riesgo, sin atribuir causa a un grupo específico"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Detenido un menor marroquí por agresión sexual a tres niñas de entre 10 y 11 años en un centro tras la avalancha",
+          "link": "https://www.abc.es/espana/detenido-menor-agresion-sexual-tres-ninas-centro-20260901130006-nt.html",
+          "position": 75,
+          "focus": "Detalla nacionalidad del agresor (marroquí) y vincula el hecho directamente con la 'avalancha' migratoria, resaltando el origen extranjero"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "El CGPJ designa a una jueza para reforzar el Juzgado de Ceuta sobrecargado de casos de agresión sexual tras la invasión",
+          "link": "https://www.elespanol.com/espana/tribunales/20260901/cgpj-designa-juez-reforzar-juzgado-ceuta-sobrecargado-casos-agresion-sexual-invasion/1003744368661_0.html",
+          "position": 85,
+          "focus": "Usa el término 'invasión' para describir la llegada migratoria, encuadrando la sobrecarga judicial como consecuencia directa de esa 'invasión'"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "El Poder Judicial nombra a una jueza para reforzar el juzgado de violencia contra la mujer de Ceuta",
+          "link": "https://www.20minutos.es/nacional/cgpj-nombra-una-jueza-para-reforzar-juzgado-violencia-contra-mujer-ceuta_7031373_0.html",
+          "position": 40,
+          "focus": "Enfoque institucional neutro centrado en el refuerzo judicial sin mencionar causa migratoria ni nacionalidad"
+        }
+      ],
+      "rango": 45,
+      "discrepancia": "media",
+      "silenciosos": [
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline_general_note": "Se agrupan dos hechos distintos: (A) balance del verano en España y (B) subida de la inflación en la eurozona en agosto.",
+      "facts_general": [],
+      "items": [
+        {
+          "idx": 0,
+          "neutral_headline": "El verano de 2024 en España es el más cálido registrado y el que más fallecidos ha causado",
+          "section": "Sociedad",
+          "facts": [
+            "Ha sido el verano más cálido registrado en España",
+            "Se han contabilizado más de 5.000 fallecidos asociados al calor"
+          ],
+          "tipo_divergencia": "ninguna",
+          "eje": {
+            "polo_a": null,
+            "polo_b": null,
+            "resumen": null
+          },
+          "frames": [
+            {
+              "idx": 0,
+              "position": 50,
+              "focus": "Destaca el récord de temperatura y la cifra de muertes; no compara con otros medios porque trata un hecho distinto al de la inflación"
+            }
+          ]
+        },
+        {
+          "idx": 1,
+          "neutral_headline": "La inflación de la eurozona sube al 3,3% en agosto, su nivel más alto en tres años",
+          "section": "Economia",
+          "facts": [
+            "La inflación de la eurozona subió al 3,3% en agosto",
+            "Es el nivel más alto en tres años",
+            "La subida presiona hacia un alza de tipos del BCE"
+          ],
+          "tipo_divergencia": "ninguna",
+          "eje": {
+            "polo_a": null,
+            "polo_b": null,
+            "resumen": null
+          },
+          "frames": [
+            {
+              "idx": 1,
+              "position": 50,
+              "focus": "Se centra en el dato histórico (máximo en tres años) y su efecto sobre la política monetaria, sin mencionar la causa concreta del alza"
+            }
+          ]
+        },
+        {
+          "idx": 2,
+          "neutral_headline": "La inflación de la eurozona acelera hasta el 3,3% en agosto y presiona al BCE a subir tipos",
+          "section": "Economia",
+          "facts": [
+            "La inflación de la eurozona aceleró hasta el 3,3% en agosto",
+            "La aceleración presiona al BCE para volver a subir los tipos de interés"
+          ],
+          "tipo_divergencia": "ninguna",
+          "eje": {
+            "polo_a": null,
+            "polo_b": null,
+            "resumen": null
+          },
+          "frames": [
+            {
+              "idx": 2,
+              "position": 50,
+              "focus": "Enfatiza la aceleración y la presión directa sobre el BCE, sin citar la causa energética ni la fecha concreta de la decisión"
+            }
+          ]
+        },
+        {
+          "idx": 3,
+          "neutral_headline": "La inflación de la eurozona sube al 3,3% en agosto por la energía y abre paso a una subida de tipos del BCE en septiembre",
+          "section": "Economia",
+          "facts": [
+            "La inflación de la eurozona subió al 3,3% en agosto",
+            "El alza se atribuye al precio de la energía",
+            "Se anticipa una subida de tipos del BCE en septiembre"
+          ],
+          "tipo_divergencia": "ninguna",
+          "eje": {
+            "polo_a": null,
+            "polo_b": null,
+            "resumen": null
+          },
+          "frames": [
+            {
+              "idx": 3,
+              "position": 50,
+              "focus": "Añade la causa concreta (energía) y precisa el momento de la posible decisión del BCE (septiembre), detalle que los otros dos medios no incluyen"
+            }
+          ]
+        }
+      ],
+      "eje": null,
+      "frames": [],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Espanol",
+        "El Mundo",
+        "El Pais",
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Piezas distintas del entorno judicial y político del caso Koldo",
+      "section": "Politica",
+      "facts": [
+        "La Fiscalía se opone a los recursos de Ábalos y Koldo contra la sentencia del Supremo",
+        "La Fiscalía califica esos recursos como abocados al fracaso",
+        "Macarena Olona fue diputada de Vox",
+        "Olona se incorpora al despacho de abogados que representa a Aldama y a Julio Iglesias",
+        "Serrano fue jefe de gabinete de Pedro Sánchez",
+        "Serrano pide anular el clonado de su móvil",
+        "En el móvil clonado de Serrano había 10.000 mensajes de WhatsApp con Leire"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "La Fiscalía se opone a las quejas de Ábalos y Koldo contra la sentencia del Supremo: “Están abocadas al fracaso”",
+          "link": "https://elpais.com/espana/2026-09-01/la-fiscalia-se-opone-a-las-quejas-de-abalos-y-koldo-contra-la-sentencia-del-supremo-estan-abocadas-al-fracaso.html",
+          "position": 50,
+          "focus": "Informa sobre la postura de la Fiscalía ante los recursos de Ábalos y Koldo, centrada en el proceso judicial"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Macarena Olona, ex diputada de Vox, se incorpora al despacho del abogado de Aldama y Julio Iglesias",
+          "link": "https://www.elmundo.es/espana/2026/09/01/6a969912e85ece5a698b45af.html",
+          "position": 50,
+          "focus": "Informa sobre la incorporación de Olona a un despacho de abogados vinculado a Aldama y Julio Iglesias"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "La exdiputada de Vox Macarena Olona se incorpora al despacho del abogado de Aldama y Julio Iglesias",
+          "link": "https://www.eldiario.es/politica/exdiputada-vox-macarena-olona-incorpora-despacho-abogado-aldama-julio-iglesias_1_13479228.html",
+          "position": 50,
+          "focus": "Reproduce el mismo hecho que El Mundo sobre la incorporación de Olona, con redacción casi idéntica"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Serrano, exjefe de gabinete de Sánchez, pide ahora anular el clonado de su móvil en el que tenía 10.000 'wasaps' con Leire",
+          "link": "https://www.elespanol.com/espana/tribunales/20260901/serrano-exjefe-gabinete-sanchez-pide-ahora-anular-clonado-movil-wasaps-leire/1003744368965_0.html",
+          "position": 50,
+          "focus": "Informa sobre la petición de Serrano de anular el clonado de su móvil con mensajes con Leire"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "El secretario del Ejército de Estados Unidos dimite de su cargo",
       "section": "Internacional",
       "facts": [
-        "Dan Driscoll es el secretario del Ejército de Estados Unidos",
-        "Driscoll presentó su dimisión/renuncia",
-        "El País vincula la dimisión a los despidos en la cúpula de las Fuerzas Armadas",
-        "eldiario.es señala que la dimisión se produce en medio de la guerra de Irán y aumenta el vacío de liderazgo",
-        "La Vanguardia atribuye la renuncia a meses de tensiones con Hegseth"
+        "El secretario del Ejército de Estados Unidos, Dan Driscoll, presenta su dimisión",
+        "El Pais vincula la dimisión a despidos en la cúpula de las Fuerzas Armadas",
+        "El Espanol vincula la dimisión a meses de choques con Hegseth y a una 'purga' de generales en el Pentágono",
+        "eldiario.es señala que la dimisión ocurre en medio de la guerra de Irán y agrava un vacío de liderazgo"
       ],
       "tipo_divergencia": "editorial",
       "eje": {
         "polo_a": "causa institucional (despidos en la cúpula militar)",
-        "polo_b": "conflicto personal (tensiones con Hegseth)",
-        "resumen": "Los medios difieren en la causa que atribuyen a la renuncia: una crisis institucional por despidos frente a un choque personal con el secretario de Defensa"
+        "polo_b": "causa personal-política (choques con Hegseth y purga interna)",
+        "resumen": "Los medios difieren en si la dimisión responde a una reestructuración institucional o a un conflicto político-personal dentro del Pentágono"
       },
       "frames": [
         {
           "outlet": "El Pais",
           "headline": "El secretario del Ejército de Estados Unidos, Dan Driscoll, dimite por los despidos en la cúpula de las Fuerzas Armadas",
           "link": "https://elpais.com/internacional/2026-09-01/el-secretario-del-ejercito-de-estados-unidos-dan-driscoll-dimite-por-los-despidos-en-la-cupula-de-las-fuerzas-armadas.html",
-          "position": 20,
-          "focus": "Destaca los despidos en la cúpula militar como causa directa de la dimisión, sin mencionar conflictos personales"
+          "position": 15,
+          "focus": "Atribuye la dimisión directamente a los despidos en la cúpula de las Fuerzas Armadas, presentándola como consecuencia de una decisión institucional"
         },
         {
           "outlet": "El Mundo",
           "headline": "El secretario del Ejército de Estados Unidos presenta su renuncia",
           "link": "https://www.elmundo.es/internacional/2026/09/01/6a960dd721efa027598b4589.html",
           "position": 50,
-          "focus": "Se limita a informar la renuncia sin atribuir causa alguna"
+          "focus": "Se limita a informar la renuncia sin atribuir causa explícita, encuadre puramente descriptivo"
         },
         {
           "outlet": "eldiario.es",
           "headline": "El secretario del Ejército de EEUU dimite y aumenta el vacío de liderazgo en medio de la guerra de Irán",
           "link": "https://www.eldiario.es/internacional/secretario-ejercito-eeuu-dimite-aumenta-vacio-liderazgo-medio-guerra-iran_1_13478327.html",
-          "position": 35,
-          "focus": "Enfatiza el vacío de liderazgo resultante en pleno contexto de la guerra de Irán, sin mencionar a Hegseth"
+          "position": 55,
+          "focus": "Enfatiza las consecuencias geopolíticas del vacío de liderazgo en el contexto de la guerra de Irán, más que la causa interna de la dimisión"
         },
         {
-          "outlet": "La Vanguardia",
-          "headline": "Renuncia el jefe del Ejército de EE.UU. tras meses de tensiones con Hegseth",
-          "link": "https://www.lavanguardia.com/internacional/20260901/11624303/renuncia-jefe-ejercito-ee-uu-meses-tensiones-hegseth.html",
-          "position": 80,
-          "focus": "Atribuye la renuncia a meses de tensiones personales con Hegseth, sin mencionar despidos ni el contexto de Irán"
+          "outlet": "El Espanol",
+          "headline": "El secretario del Ejército de EEUU dimite tras meses de choques con Hegseth y la 'purga' de generales en el Pentágono",
+          "link": "https://www.elespanol.com/mundo/america/eeuu/20260901/secretario-ejercito-eeuu-dimite-meses-choques-hegseth-purga-generales-pentagono/1003744368749_0.html",
+          "position": 85,
+          "focus": "Destaca el conflicto personal con Hegseth y la 'purga' de generales como motivo detrás de la dimisión, enfatizando la tensión política interna"
         }
       ],
-      "rango": 60,
+      "rango": 70,
       "discrepancia": "alta",
       "silenciosos": [
         "20minutos",
         "ABC",
-        "El Espanol"
+        "La Vanguardia"
       ]
     },
     {
-      "neutral_headline": "El Gobierno lleva al Consejo de Ministros el Estatuto Marco pese al rechazo de los sindicatos médicos",
+      "neutral_headline": "Un jurado declara culpable a Duane 'Keffe D' Davis de orquestar el asesinato de Tupac Shakur en 1996",
+      "section": "Sociedad",
+      "facts": [
+        "Un jurado declaró culpable al acusado",
+        "El acusado es identificado como exlíder de pandilla, conocido como 'Keffe D' o Duane Davis",
+        "Se le declara culpable de planear/orquestar el asesinato del rapero Tupac Shakur",
+        "El asesinato ocurrió en 1996",
+        "El veredicto llega cerca de 30 años después del crimen"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "El jurado declara culpable al exlíder de una pandilla que planeó el asesinato del rapero Tupac Shakur en 1996",
+          "link": "https://elpais.com/us/2026-09-01/el-jurado-declara-culpable-al-exlider-de-una-pandilla-que-planeo-el-asesinato-del-rapero-tupac-shakur-en-1996.html",
+          "position": 50,
+          "focus": "Describe al condenado por su rol (exlíder de pandilla) sin usar su nombre propio, enfatiza el hecho de la planificación del crimen"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "El jurado halla culpable a 'Keffe D' de orquestar el asesinato de Tupac Shakur hace casi 30 años",
+          "link": "https://www.lavanguardia.com/gente/20260901/11624305/jurado-halla-culpable-keffe-d-orquestar-asesinato-tupa-shakur-30-anos.html",
+          "position": 50,
+          "focus": "Usa el apodo 'Keffe D' y resalta el tiempo transcurrido desde el crimen (casi 30 años)"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Un jurado declara culpable del asesinato de Tupac Shakur a Duane 'Keffe D' Davis, 30 años después del crimen",
+          "link": "https://www.elespanol.com/mundo/america/20260901/jurado-declara-culpable-exlider-pandilla-planeo-asesinato-tupac-shakur-anos-despues-crimen/1003744368544_0.html",
+          "position": 50,
+          "focus": "Identifica completamente al condenado (nombre y apodo) y precisa la cifra exacta de años transcurridos (30 años)"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Mundo",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Más Madrid y PSOE se personan como acusación en el caso del ático comprado por el Gobierno de Ayuso",
       "section": "Politica",
       "facts": [
-        "El Gobierno envía o aprueba el Estatuto Marco de los sanitarios",
-        "El Consejo de Ministros trata el tema este martes",
-        "Los sindicatos médicos rechazan la propuesta",
-        "El Pais y 20minutos mencionan amenaza de huelga indefinida por parte de los médicos"
+        "Más Madrid calcula que la compra del ático constituye un 'comportamiento delictivo'",
+        "Más Madrid se presenta como acusación popular en la causa",
+        "El PSOE también se persona en la causa del ático",
+        "García es descrito como 'hombre para todo' de Ayuso",
+        "Sánchez ha realizado ataques a Ayuso por la compra del ático",
+        "Existe malestar en parte del PP madrileño por este asunto"
       ],
       "tipo_divergencia": "editorial",
       "eje": {
-        "polo_a": "conflicto como oposición política",
-        "polo_b": "conflicto como amenaza de huelga",
-        "resumen": "Algunos medios enfatizan la amenaza de huelga indefinida como consecuencia del choque, mientras otros se limitan a describir el rechazo u oposición de los médicos sin mencionar la huelga."
+        "polo_a": "Denuncia opositora contra el Gobierno de Ayuso",
+        "polo_b": "Ayuso como víctima de ataques políticos de Sánchez",
+        "resumen": "El Pais y eldiario.es centran el foco en la acción legal de la oposición contra la compra, mientras El Mundo desplaza el eje hacia la defensa de Ayuso frente a los ataques de Sánchez y las tensiones internas del PP"
       },
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "El Gobierno envía al Congreso el Estatuto Marco de los sanitarios mientras los sindicatos médicos amenazan con una huelga indefinida",
-          "link": "https://elpais.com/sociedad/2026-09-01/el-gobierno-envia-al-congreso-el-estatuto-marco-de-los-sanitarios-mientras-los-sindicatos-medicos-amenazan-con-una-huelga-indefinida.html",
-          "position": 80,
-          "focus": "Destaca la amenaza de huelga indefinida como elemento central del conflicto"
+          "headline": "Más Madrid ve un “comportamiento delictivo” en la compra del ático por parte del Gobierno de Ayuso y se presenta como acusación popular",
+          "link": "https://elpais.com/espana/madrid/2026-09-01/mas-madrid-ve-un-comportamiento-delictivo-en-la-compra-del-atico-por-parte-del-atico-del-gobierno-de-ayuso-y-se-presenta-como-acusacion-popular.html",
+          "position": 15,
+          "focus": "Destaca la calificación de 'comportamiento delictivo' hecha por Más Madrid y su papel como acusación popular; omite la perspectiva de Ayuso o su entorno"
         },
         {
           "outlet": "El Mundo",
-          "headline": "El Gobierno dará luz verde a la tramitación del Estatuto Marco de Mónica García en el Consejo de Ministros con la oposición de los médicos",
-          "link": "https://www.elmundo.es/salud/2026/09/01/6a967abdfdddfffb108b4570.html",
-          "position": 30,
-          "focus": "Se centra en la oposición política de los médicos sin mencionar la huelga"
-        },
-        {
-          "outlet": "ABC",
-          "headline": "El Consejo de Ministros aprobará hoy el nuevo Estatuto Marco pese al rechazo de los médicos",
-          "link": "https://www.abc.es/sociedad/consejo-ministros-aprobara-hoy-nuevo-estatuto-marco-20260901094923-nt.html",
-          "position": 30,
-          "focus": "Enfatiza el rechazo de los médicos como obstáculo, sin citar huelga"
+          "headline": "Ayuso protege a García, su 'hombre para todo' entre los ataques de Sánchez por la compra del ático y el malestar de parte del PP madrileño",
+          "link": "https://www.elmundo.es/madrid/2026/09/01/6a95b7dae9cf4af5038b459f.html",
+          "position": 85,
+          "focus": "Centra el relato en Ayuso protegiendo a su colaborador frente a los ataques de Sánchez y las tensiones internas del PP; minimiza el contenido de la denuncia legal"
         },
         {
           "outlet": "eldiario.es",
-          "headline": "El Gobierno aprobará este martes el Estatuto Marco sin resolver el conflicto con los médicos",
-          "link": "https://www.eldiario.es/sociedad/gobierno-aprobara-martes-estatuto-marco-resolver-conflicto-medicos_1_13477548.html",
-          "position": 40,
-          "focus": "Señala que el conflicto persiste sin resolverse, sin detallar la amenaza de huelga"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "El Gobierno aprueba hoy el proyecto de Estatuto Marco criticado por los médicos, que amenazan con huelga",
-          "link": "https://www.20minutos.es/nacional/gobierno-aprueba-este-martes-proyecto-estatuto-marco-criticado-por-los-medicos-que-amenazan-con-huelga-indefinida-otono_7031273_0.html",
-          "position": 75,
-          "focus": "Incluye la amenaza de huelga como parte de la crítica de los médicos"
+          "headline": "Más Madrid y el PSOE se personan en la causa del ático comprado por el Gobierno de Ayuso",
+          "link": "https://www.eldiario.es/madrid/madrid-persona-causa-atico-comprado-gobierno-ayuso_1_13478696.html",
+          "position": 30,
+          "focus": "Describe de forma más neutral la personación de Más Madrid y PSOE en la causa, sin calificar los hechos ni entrar en el relato de defensa de Ayuso"
         }
       ],
-      "rango": 50,
-      "discrepancia": "media",
+      "rango": 70,
+      "discrepancia": "alta",
       "silenciosos": [
+        "20minutos",
+        "ABC",
         "El Espanol",
         "La Vanguardia"
       ]
     },
     {
-      "neutral_headline": "La policía de Nueva York mata a tiros a una mujer que apuñaló a varias personas en Times Square, matando a una",
-      "section": "Internacional",
+      "neutral_headline": "La inflación de la eurozona sube al 3,3% en agosto, su nivel más alto en tres años, impulsada por la energía",
+      "section": "Economia",
+      "facts": [
+        "La inflación de la eurozona alcanzó el 3,3% en agosto",
+        "Es el nivel más alto en tres años",
+        "La energía es señalada como principal impulsor del alza",
+        "Varios medios vinculan el dato a una posible subida de tipos del BCE",
+        "El Mundo señala que España encabeza la subida de precios en la eurozona"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "foco en la eurozona/dato técnico",
+        "polo_b": "foco en España y tono alarmista sobre el invierno energético",
+        "resumen": "La mayoría de medios centra el titular en el dato agregado de la eurozona y su efecto en el BCE, mientras El Mundo destaca a España como protagonista y anticipa un 'duro invierno energético'."
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "La inflación en la eurozona se eleva al 3,3% en agosto impulsada por la energía",
+          "link": "https://elpais.com/economia/2026-09-01/la-inflacion-en-la-eurozona-se-eleva-al-33-en-agosto-impulsada-por-la-energia.html",
+          "position": 45,
+          "focus": "Se centra en el dato agregado de la eurozona y la energía como causa, sin mencionar consecuencias futuras ni a España."
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Los precios se disparan en agosto en la Eurozona a máximos de tres años, con España a la cabeza en la antesala de un duro invierno energético",
+          "link": "https://www.elmundo.es/economia/macroeconomia/2026/09/01/6a96a31de9cf4aac248b4576.html",
+          "position": 75,
+          "focus": "Destaca a España como protagonista y añade un tono de advertencia sobre el invierno energético, ampliando el marco más allá del dato puro."
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "La inflación en la eurozona sube al 3,3% en agosto, su nivel más alto en tres años, y empuja a una subida de tipos",
+          "link": "https://www.eldiario.es/economia/inflacion-eurozona-sube-3-3-agosto-nivel-alto-tres-anos-empuja-subida-tipos_1_13478753.html",
+          "position": 45,
+          "focus": "Vincula el dato al BCE y a una posible subida de tipos, manteniendo el foco en la eurozona en su conjunto."
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "La inflación de la eurozona acelera hasta el 3,3% en agosto y mete presión al BCE para volver a subir los tipos de interés",
+          "link": "https://www.elespanol.com/invertia/economia/bancos-centrales/20260901/inflacion-eurozona-acelera-agosto-mete-presion-bce-volver-subir-tipos-interes/1003744368683_0.html",
+          "position": 45,
+          "focus": "Enfatiza la presión sobre el BCE para subir tipos, sin mencionar a España ni anticipar escenarios futuros."
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "La inflación de la Eurozona se dispara al 3,3% por la energía y da vía libre a un alza de tipos del BCE en septiembre",
+          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/inflacion-eurozona-se-dispara-3-3-por-energia-da-via-libre-un-alza-tipos-bce-septiembre_7031392_0.html",
+          "position": 45,
+          "focus": "Resalta la energía como causa y anticipa una subida de tipos del BCE en septiembre, centrado en la eurozona."
+        }
+      ],
+      "rango": 30,
+      "discrepancia": "media",
+      "silenciosos": [
+        "ABC",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "La policía de Nueva York mata a tiros a una mujer que apuñaló y mató a una persona e hirió a otra en Times Square",
+      "section": "Sociedad",
       "facts": [
         "El hecho ocurrió en Times Square, Nueva York",
-        "Una mujer apuñaló a personas en la zona",
-        "Una persona murió a causa de las puñaladas",
-        "Otra persona resultó herida",
+        "Una mujer apuñaló a dos personas, matando a una e hiriendo gravemente a otra",
         "La policía disparó y mató a la mujer",
-        "La Vanguardia precisa que la mujer portaba dos cuchillos"
+        "La Vanguardia especifica que la mujer blandía dos cuchillos"
       ],
       "tipo_divergencia": "ninguna",
       "eje": null,
@@ -200,130 +568,211 @@
           "headline": "La Policía de Nueva York mata a tiros a una mujer en Times Square que apuñaló y mató a una persona e hirió gravemente a otra",
           "link": "https://www.elmundo.es/internacional/2026/09/01/6a9604d3e9cf4ab86c8b4583.html",
           "position": 50,
-          "focus": "Describe la secuencia completa: ataque con puñaladas, una muerte, una herida grave, y respuesta policial letal"
-        },
-        {
-          "outlet": "ABC",
-          "headline": "Una mujer apuñala a dos personas en Times Square de Nueva York antes de morir por tiros de la policía",
-          "link": "https://www.abc.es/internacional/mujer-apunala-dos-personas-times-square-nueva-20260901020303-nt.html",
-          "position": 50,
-          "focus": "Pone el foco en el número de personas apuñaladas (dos) y en la muerte de la agresora, sin especificar si la víctima murió"
+          "focus": "Se centra en la secuencia: ataque con arma blanca y respuesta policial letal, sin detalles adicionales sobre el arma"
         },
         {
           "outlet": "La Vanguardia",
           "headline": "La policía tirotea a una mujer que blandía dos cuchillos tras matar a una persona en Times Square",
           "link": "https://www.lavanguardia.com/internacional/20260901/11624307/policia-tirotea-mujer-blandia-dos-cuchillos-matar-persona-herir-times-square.html",
           "position": 50,
-          "focus": "Añade el detalle de que la mujer llevaba dos cuchillos y centra la acción en la respuesta policial"
+          "focus": "Añade el detalle de que la mujer portaba dos cuchillos, pero omite mención a la persona herida en el titular principal"
         },
         {
           "outlet": "20minutos",
           "headline": "Ataque en Nueva York: la Policía abate a tiros a una mujer que mató a puñaladas a una persona e hirió a otra en Times Square",
           "link": "https://www.20minutos.es/internacional/policia-neoyorquina-dispara-times-square-una-mujer-que-apunalo-gravemente-dos-personas_7031255_0.html",
           "position": 50,
-          "focus": "Enmarca el hecho como 'ataque' y detalla igual que El Mundo la muerte y la herida, con la intervención policial"
+          "focus": "Enmarca el suceso como 'ataque en Nueva York', destacando el contexto general del hecho junto con la respuesta policial"
         }
       ],
       "rango": 0,
       "discrepancia": "baja",
       "silenciosos": [
+        "ABC",
         "El Espanol",
         "El Pais",
         "eldiario.es"
       ]
     },
     {
-      "neutral_headline": "Un jurado declara culpable a Duane 'Keffe D' Davis del asesinato de Tupac Shakur, casi 30 años después",
+      "neutral_headline": "Detenidos en Sevilla los padres de tres niños hallados solos con hambre, frío y cucarachas",
       "section": "Sociedad",
       "facts": [
-        "Un jurado declaró culpable a Duane Davis, conocido como 'Keffe D'",
-        "El delito juzgado es el asesinato del rapero Tupac Shakur",
-        "El crimen ocurrió hace casi 30 años",
-        "La Vanguardia añade que se le acusa de orquestar el asesinato"
+        "Dos padres fueron detenidos en Sevilla",
+        "Se les acusa de abandonar a sus tres hijos",
+        "Los niños estaban sin comida",
+        "Los niños estaban en un ambiente con frío",
+        "Había cucarachas en el lugar",
+        "El Mundo y ABC señalan que los padres estaban ebrios"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "Detenidos en Sevilla dos padres ebrios por abandonar a sus tres hijos, con hambre, frío y entre cucarachas",
+          "link": "https://www.elmundo.es/andalucia/2026/09/01/6a96981de4d4d87e298b4594.html",
+          "position": 50,
+          "focus": "Incluye el detalle de que los padres estaban ebrios y detalla las condiciones (hambre, frío, cucarachas)"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Detenidos dos padres ebrios en Sevilla por abandonar a sus tres hijos, a los que tenían sin comida y entre cucarachas",
+          "link": "https://www.abc.es/sevilla/ciudad/detenidos-dos-padres-ebrios-sevilla-abandonar-tres-20260901101938-nts.html",
+          "position": 50,
+          "focus": "Igual que El Mundo, menciona la ebriedad de los padres y las condiciones de los niños"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Detenidos en Sevilla los padres de tres niños que estaban solos en casa con hambre, frío y cucarachas",
+          "link": "https://www.lavanguardia.com/local/andalucia/20260901/11624469/detenidos-sevilla-padres-tres-ninos-estaban-solos-casa-hambre-frio-cucarachas.html",
+          "position": 50,
+          "focus": "Omite la mención a la ebriedad de los padres, centra el foco en que los niños estaban solos en casa"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "El Espanol",
+        "El Pais",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Rusia pide a España pruebas de su supuesta implicación en la crisis migratoria de Ceuta",
+      "section": "Internacional",
+      "facts": [
+        "Rusia solicitó a España pruebas sobre su presunta implicación en la crisis de Ceuta",
+        "La solicitud incluye la exigencia de hechos, materiales, cifras, fechas y nombres, según cita El Mundo y 20minutos",
+        "El Espanol vincula la implicación a una presunta campaña de desinformación en la crisis migratoria de Ceuta"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "Rusia pide a España pruebas de su supuesta implicación en la crisis de Ceuta que denunció Sánchez: \"Sin hechos, sin materiales respaldados con cifras, fechas y nombres, no hay nada de qué hablar\"",
+          "link": "https://www.elmundo.es/espana/2026/09/01/6a9699c9e9cf4ab3448b458d.html",
+          "position": 50,
+          "focus": "Incluye cita textual de Rusia exigiendo pruebas concretas (hechos, cifras, fechas, nombres)"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Rusia pide a España pruebas sobre su supuesta implicación en la crisis de Ceuta",
+          "link": "https://www.lavanguardia.com/politica/20260901/11624432/rusia-pide-espana-pruebas-sobre-supuesta-implicacion-crisis-ceuta.html",
+          "position": 50,
+          "focus": "Versión escueta del mismo hecho, sin cita textual"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Rusia pide a España pruebas sobre su implicación en la campaña de desinformación en la crisis migratoria de Ceuta",
+          "link": "https://www.elespanol.com/espana/politica/20260901/rusia-pide-espana-pruebas-implicacion-campana-desinformacion-crisis-ceuta/1003744368670_0.html",
+          "position": 50,
+          "focus": "Añade el matiz de que la implicación se relaciona con una campaña de desinformación"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Rusia exige a Sánchez pruebas concretas de su supuesta implicación: \"Sin hechos, simplemente no hay nada de qué hablar\"",
+          "link": "https://www.20minutos.es/internacional/rusia-exige-sanchez-pruebas-concretas-su-supuesta-implicacion-crisis-ceuta_7031370_0.html",
+          "position": 50,
+          "focus": "Cita textual similar a El Mundo, centrada en la exigencia a Sánchez"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "ABC",
+        "El Pais",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline_general": "Piezas sobre eventos distintos: dimisión de Keir Starmer y ataque en Times Square",
+      "neutral_headline": "Resumen de dos hechos noticiosos distintos publicados el mismo día",
+      "section": "Internacional",
+      "facts": [
+        "Keir Starmer, ex primer ministro británico, renuncia a su escaño en el Parlamento (El Mundo)",
+        "Una mujer atacó con cuchillos en Times Square (La Vanguardia, 20minutos)",
+        "La policía disparó y mató a la mujer atacante (La Vanguardia, 20minutos)",
+        "Según La Vanguardia, la mujer mató a una persona",
+        "Según 20minutos, la mujer mató a una persona a puñaladas e hirió a otra"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "El ex primer ministro británico Keir Starmer renuncia a su escaño en el Parlamento británico",
+          "link": "https://www.elmundo.es/internacional/2026/09/01/6a96bebae9cf4a9a128b458a.html",
+          "position": 50,
+          "focus": "Informa sobre la renuncia de Keir Starmer a su escaño parlamentario; no guarda relación temática con las otras dos piezas."
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "La policía tirotea a una mujer que blandía dos cuchillos tras matar a una persona en Times Square",
+          "link": "https://www.lavanguardia.com/internacional/20260901/11624307/policia-tirotea-mujer-blandia-dos-cuchillos-matar-persona-herir-times-square.html",
+          "position": 50,
+          "focus": "Describe el tiroteo policial y el ataque con cuchillos en Times Square, mencionando una víctima mortal."
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Ataque en Nueva York: la Policía abate a tiros a una mujer que mató a puñaladas a una persona e hirió a otra en Times Square",
+          "link": "https://www.20minutos.es/internacional/policia-neoyorquina-dispara-times-square-una-mujer-que-apunalo-gravemente-dos-personas_7031255_0.html",
+          "position": 50,
+          "focus": "Describe el mismo ataque en Times Square, añadiendo el dato de una segunda víctima herida además de la fallecida."
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "ABC",
+        "El Espanol",
+        "El Pais",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "El Gobierno aprueba el Estatuto Marco con el rechazo de los médicos y el conflicto sigue abierto",
+      "section": "Politica",
+      "facts": [
+        "El Consejo de Ministros aprobó el nuevo Estatuto Marco",
+        "Los médicos rechazan o se oponen a la norma",
+        "El texto pasa ahora a tramitación en las Cortes",
+        "El conflicto entre el Gobierno y los médicos no se ha resuelto"
       ],
       "tipo_divergencia": "ninguna",
       "eje": null,
       "frames": [
         {
           "outlet": "ABC",
-          "headline": "Un jurado declara culpable del asesinato del rapero Tupac Shakur a Duane Davis",
-          "link": "https://www.abc.es/cultura/musica/jurado-declara-culpable-asesinato-rapero-tupac-shakur-20260901070143-nt.html",
+          "headline": "El Consejo de Ministros aprueba el nuevo Estatuto Marco pese al rechazo de los médicos",
+          "link": "https://www.abc.es/sociedad/consejo-ministros-aprobara-hoy-nuevo-estatuto-marco-20260901094923-nt.html",
           "position": 50,
-          "focus": "Se centra en el veredicto de culpabilidad y la identidad del acusado"
+          "focus": "Destaca la aprobación en Consejo de Ministros pese al rechazo médico, sin detallar más pasos del proceso"
         },
         {
-          "outlet": "La Vanguardia",
-          "headline": "El jurado halla culpable a 'Keffe D' de orquestar el asesinato de Tupac Shakur hace casi 30 años",
-          "link": "https://www.lavanguardia.com/gente/20260901/11624305/jurado-halla-culpable-keffe-d-orquestar-asesinato-tupa-shakur-30-anos.html",
+          "outlet": "eldiario.es",
+          "headline": "El Gobierno aprueba el Estatuto Marco sin resolver el conflicto con los médicos",
+          "link": "https://www.eldiario.es/sociedad/gobierno-aprobara-martes-estatuto-marco-resolver-conflicto-medicos_1_13477548.html",
           "position": 50,
-          "focus": "Añade el matiz de que Davis orquestó el crimen, sin cambiar el hecho central"
+          "focus": "Pone el foco en que el conflicto con los médicos permanece sin resolver tras la aprobación"
         },
         {
-          "outlet": "El Espanol",
-          "headline": "Un jurado declara culpable del asesinato de Tupac Shakur a Duane 'Keffe D' Davis, 30 años después del crimen",
-          "link": "https://www.elespanol.com/mundo/america/20260901/jurado-declara-culpable-exlider-pandilla-planeo-asesinato-tupac-shakur-anos-despues-crimen/1003744368544_0.html",
+          "outlet": "El Mundo",
+          "headline": "El Gobierno da luz verde a la tramitación del Estatuto Marco de Mónica García en las Cortes con la oposición de los médicos: \"El conflicto sigue abierto\"",
+          "link": "https://www.elmundo.es/salud/2026/09/01/6a967abdfdddfffb108b4570.html",
           "position": 50,
-          "focus": "Combina el nombre completo del acusado con el veredicto y el tiempo transcurrido"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "Declaran culpable a Duane 'Keffe D' Davis por el asesinato del rapero Tupac Shakur casi 30 años después",
-          "link": "https://www.20minutos.es/gente/jurado-declara-culpable-exlider-pandilla-que-planeo-asesinato-tupac-shakur_7031258_0.html",
-          "position": 50,
-          "focus": "Reporta el mismo veredicto con énfasis en el tiempo transcurrido desde el crimen"
+          "focus": "Añade el dato de que el texto pasa a tramitación parlamentaria y cita la persistencia del conflicto"
         }
       ],
       "rango": 0,
       "discrepancia": "baja",
       "silenciosos": [
-        "El Mundo",
-        "El Pais",
-        "eldiario.es"
-      ]
-    },
-    {
-      "neutral_headline": "El Tribunal Supremo de EEUU autoriza la construcción de un salón de baile en la Casa Blanca impulsado por Trump",
-      "section": "Politica",
-      "facts": [
-        "El Tribunal Supremo de EEUU autorizó la construcción de un salón de baile en la Casa Blanca",
-        "El proyecto fue impulsado por Donald Trump"
-      ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "relato institucional neutro",
-        "polo_b": "narrativa de complacencia hacia Trump",
-        "resumen": "El Español enmarca la decision como un 'deseo concedido' a Trump, sugiriendo trato favorable, mientras El Pais y La Vanguardia describen el hecho de forma institucional sin ese matiz."
-      },
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "El Tribunal Supremo autoriza definitivamente la construcción del salón de baile de Trump en la Casa Blanca",
-          "link": "https://elpais.com/us/2026-08-31/el-tribunal-supremo-autoriza-definitivamente-la-construccion-del-salon-de-baile-de-trump-en-la-casa-blanca.html",
-          "position": 40,
-          "focus": "Describe la decision judicial como definitiva, centrando el foco en la autorizacion institucional sin enfatizar la figura de Trump"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "El Supremo da luz verde a Trump para que construya un salón de baile en la Casa Blanca",
-          "link": "https://www.lavanguardia.com/internacional/20260901/11624141/supremo-da-luz-verde-trump-construya-salon-baile-casa-blanca.html",
-          "position": 45,
-          "focus": "Usa la expresion 'luz verde' que es neutra, centrando el hecho en el permiso del Supremo a Trump"
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "El Supremo de EEUU concede un nuevo deseo a Trump y da luz verde para que construya un salón de baile en la Casa Blanca",
-          "link": "https://www.elespanol.com/mundo/america/eeuu/20260901/supremo-unidos-da-luz-verde-trump-construya-salon-baile-casa-blanca/1003744368519_0.html",
-          "position": 65,
-          "focus": "Introduce el marco de 'nuevo deseo concedido', sugiriendo una narrativa de favoritismo o complacencia institucional hacia Trump"
-        }
-      ],
-      "rango": 25,
-      "discrepancia": "baja",
-      "silenciosos": [
         "20minutos",
-        "ABC",
-        "El Mundo",
-        "eldiario.es"
+        "El Espanol",
+        "El Pais",
+        "La Vanguardia"
       ]
     }
   ]
