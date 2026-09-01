@@ -1,173 +1,183 @@
 {
-  "fecha": "2026-09-01T09:14:01.842648+00:00",
+  "fecha": "2026-09-01T09:26:20.855113+00:00",
   "historias": [
     {
-      "neutral_headline": "Un mes después de la crisis migratoria de Ceuta, persisten tensiones diplomáticas y críticas sobre la gestión del Gobierno",
+      "neutral_headline": "Distintos aspectos de la crisis migratoria en Ceuta: diplomacia, gestión de acogida y seguridad",
       "section": "Politica",
       "facts": [
-        "Se realizó una visita real a Ceuta que Marruecos consideró una provocación en medio de su campaña electoral",
-        "Las expulsiones de inmigrantes hacia Marruecos están atascadas porque, según El Mundo, los funcionarios no quieren firmar",
-        "Carlos Herrera critica a Pedro Sánchez por señalar a Felipe VI y mostrarse sumiso con el rey de Marruecos",
-        "eldiario.es plantea si Ceuta se ha convertido en el talón de Aquiles del Gobierno",
-        "Rusia pidió a España pruebas sobre su presunta implicación en una campaña de desinformación relacionada con la crisis migratoria de Ceuta",
-        "Según 20minutos, un mes después de la crisis, Sánchez no ha asumido ningún error y esto irrita a sus socios de gobierno"
+        "Marruecos consideró una provocación una visita real a Ceuta durante su campaña electoral (El País)",
+        "Las expulsiones de inmigrantes hacia Marruecos están atascadas porque los funcionarios marroquíes no firman los documentos (El Mundo)",
+        "La Policía busca a más de una docena de presuntos agresores sexuales vinculados a la entrada masiva de migrantes (ABC)",
+        "El Gobierno español duplicó en una semana las plazas de acogida para migrantes en Ceuta y descartó su traslado a la Península (eldiario.es)",
+        "Las nuevas plazas de acogida generaron tensión entre los inmigrantes en Ceuta (La Vanguardia)",
+        "Rusia pidió a España pruebas sobre su presunta implicación en una campaña de desinformación ligada a la crisis migratoria (El Español)",
+        "La Policía identificó a más de una decena de inmigrantes con antecedentes por yihadismo en Ceuta (20minutos)"
       ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "Crítica directa a la gestión del Gobierno",
-        "polo_b": "Foco en actores externos (Marruecos, Rusia, burocracia)",
-        "resumen": "Los medios se dividen entre quienes atribuyen la responsabilidad de la crisis al Gobierno de Sánchez y quienes desplazan el foco hacia Marruecos, Rusia o factores técnicos ajenos al Ejecutivo"
-      },
+      "tipo_divergencia": "ninguna",
+      "eje": null,
       "frames": [
         {
           "outlet": "El Pais",
           "headline": "Marruecos observa como una provocación una visita real a Ceuta en medio de su campaña electoral",
           "link": "https://elpais.com/espana/2026-09-01/marruecos-observa-como-una-provocacion-una-visita-real-a-ceuta-en-medio-de-su-campana-electoral.html",
-          "position": 75,
-          "focus": "Destaca la reacción de Marruecos y su contexto electoral, desplazando el foco hacia el país vecino en lugar del Gobierno español"
+          "position": 50,
+          "focus": "Se centra en la reacción diplomática de Marruecos ante una visita real, sin abordar la gestión interna de la crisis en Ceuta."
         },
         {
           "outlet": "El Mundo",
           "headline": "Las expulsiones de inmigrantes a Marruecos atascadas: \"Los funcionarios no quieren firmar\"",
           "link": "https://www.elmundo.es/espana/2026/08/31/6a95a49be85eced42a8b4599.html",
           "position": 50,
-          "focus": "Centra el problema en un obstáculo burocrático concreto (funcionarios que no firman), sin señalar explícitamente a un responsable político"
+          "focus": "Destaca el bloqueo burocrático en las expulsiones hacia Marruecos, sin mencionar otros frentes de la crisis."
         },
         {
           "outlet": "ABC",
-          "headline": "Carlos Herrera ve a Pedro Sánchez señalar a Felipe VI por no visitar Ceuta y es contundente: «Tan chulo con su Rey y tan sumiso con el de Marruecos»",
-          "link": "https://www.abc.es/recreo/carlos-herrera-pedro-sanchez-senalar-felipe-visitar-20260901100934-nt.html",
-          "position": 5,
-          "focus": "Ataca directamente a Sánchez, contrastando su actitud hacia el Rey de España con su sumisión ante Marruecos"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "Ceuta: ¿el talón de Aquiles del Gobierno?",
-          "link": "https://www.eldiario.es/opinion/zona-critica/ceuta-talon-aquiles-gobierno_129_13477005.html",
-          "position": 25,
-          "focus": "Plantea la crisis como una amenaza política para el Gobierno, en clave interrogativa pero orientada a su vulnerabilidad"
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "Rusia pide a España pruebas sobre su implicación en la campaña de desinformación en la crisis migratoria de Ceuta",
-          "link": "https://www.elespanol.com/espana/politica/20260901/rusia-pide-espana-pruebas-implicacion-campana-desinformacion-crisis-ceuta/1003744368670_0.html",
-          "position": 95,
-          "focus": "Traslada el eje del conflicto a la disputa diplomática con Rusia por la desinformación, alejándose de la gestión interna española"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "Sánchez no asume ningún error un mes después de la crisis de Ceuta e irrita a sus socios por exculpar a Marruecos",
-          "link": "https://www.20minutos.es/nacional/sanchez-no-asume-ningun-error-un-mes-despues-crisis-ceuta-irrita-sus-socios-por-exculpar-marruecos_7031129_0.html",
-          "position": 15,
-          "focus": "Subraya la falta de autocrítica de Sánchez y el malestar de sus socios, responsabilizando directamente al Gobierno"
-        }
-      ],
-      "rango": 90,
-      "discrepancia": "alta",
-      "silenciosos": [
-        "La Vanguardia"
-      ]
-    },
-    {
-      "neutral_headline": "Ceuta: fiscalía alerta de agresiones sexuales mientras el Gobierno amplía plazas de acogida y surgen tensiones entre migrantes",
-      "section": "Sociedad",
-      "facts": [
-        "La fiscal jefa de Ceuta afirma que hay casi una agresión sexual al día y expresa preocupación (El País)",
-        "El Gobierno duplicó las plazas de acogida para migrantes en Ceuta en una semana (eldiario.es)",
-        "El Gobierno descarta el traslado de los migrantes a la Península (eldiario.es)",
-        "Las nuevas plazas de acogida han generado tensión entre los inmigrantes (La Vanguardia)"
-      ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "Inseguridad/amenaza (agresiones sexuales)",
-        "polo_b": "Gestión institucional (ampliación de plazas)",
-        "resumen": "Los medios difieren en si el foco es el peligro que representan los migrantes o la respuesta administrativa del Gobierno ante la situación en Ceuta"
-      },
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "La fiscal jefa de Ceuta: “Hay casi una agresión sexual al día. Hay preocupación”",
-          "link": "https://elpais.com/espana/2026-09-01/la-fiscal-jefa-de-ceuta-hay-casi-una-agresion-sexual-al-dia-hay-preocupacion.html",
-          "position": 10,
-          "focus": "Destaca la alarma de la fiscal por las agresiones sexuales diarias, poniendo el énfasis en la inseguridad y omitiendo la respuesta gubernamental"
+          "headline": "La Policía busca a más de una docena de agresores sexuales de la invasión",
+          "link": "https://www.abc.es/espana/policia-busca-docena-agresores-sexuales-invasion-ceuta-20260901013449-nt.html",
+          "position": 50,
+          "focus": "Pone el foco en la búsqueda policial de agresores sexuales entre los recién llegados, omitiendo la gestión de acogida."
         },
         {
           "outlet": "eldiario.es",
           "headline": "El Gobierno duplica las plazas para migrantes en Ceuta en solo una semana y descarta su traslado a la Península",
           "link": "https://www.eldiario.es/politica/gobierno-duplica-plazas-migrantes-ceuta-semana-descarta-traslado-peninsula_1_13477642.html",
-          "position": 90,
-          "focus": "Centra la noticia en la acción del Gobierno (duplicar plazas y descartar traslado), presentando una gestión institucional sin mencionar el problema de las agresiones"
+          "position": 50,
+          "focus": "Informa sobre la respuesta logística del Gobierno (duplicar plazas) y su decisión de no trasladar migrantes, sin tratar aspectos de seguridad o diplomacia."
         },
         {
           "outlet": "La Vanguardia",
           "headline": "Las nuevas plazas de acogida en Ceuta desatan tensión entre los inmigrantes",
           "link": "https://www.lavanguardia.com/politica/20260901/11624070/nuevas-plazas-acogida-ceuta-desatan-tension-inmigrantes.html",
           "position": 50,
-          "focus": "Muestra la consecuencia de la ampliación de plazas: tensión interna entre los propios migrantes, sin atribuir culpa a autoridades ni detallar el problema de seguridad"
+          "focus": "Se centra en las tensiones internas generadas por las nuevas plazas de acogida, sin abordar el trasfondo diplomático."
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Rusia pide a España pruebas sobre su implicación en la campaña de desinformación en la crisis migratoria de Ceuta",
+          "link": "https://www.elespanol.com/espana/politica/20260901/rusia-pide-espana-pruebas-implicacion-campana-desinformacion-crisis-ceuta/1003744368670_0.html",
+          "position": 50,
+          "focus": "Aborda la dimensión geopolítica de desinformación entre España y Rusia, ajena a la gestión humanitaria o de seguridad local."
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "La Policía ya ha identificado en Ceuta a más de una decena de inmigrantes con antecedentes por yihadismo",
+          "link": "https://www.20minutos.es/nacional/policia-ya-ha-identificado-ceuta-mas-una-decena-inmigrantes-con-antecedentes-por-yihadismo_7031357_0.html",
+          "position": 50,
+          "focus": "Resalta la identificación policial de personas con antecedentes por yihadismo, sin tratar la acogida ni la diplomacia."
         }
       ],
-      "rango": 80,
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": []
+    },
+    {
+      "neutral_headline": "Trump y EEUU cierran un acuerdo sobre el sector petrolero venezolano con distintos focos informativos",
+      "section": "Internacional",
+      "facts": [
+        "La Casa Blanca confirmó un contrato de cien años sobre el sector petrolero venezolano",
+        "El acuerdo es descrito por El País como una 'privatización' del sector",
+        "Alejandro Betancourt es señalado como una figura vinculada previamente al chavismo y ahora cercana a Trump",
+        "El acuerdo tiene repercusiones para la empresa española Repsol",
+        "Un 'magnate' es mencionado como parte relevante del trasfondo del acuerdo"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "encuadre estructural/geopolítico",
+        "polo_b": "encuadre personalista/individual",
+        "resumen": "Los medios difieren en si ponen el foco en el acuerdo como fenómeno geopolítico-institucional o en las figuras individuales (Betancourt, el magnate) que lo protagonizan"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "La Casa Blanca confirma la “privatización” del sector petrolero venezolano con un contrato de un siglo",
+          "link": "https://elpais.com/us/2026-09-01/la-casa-blanca-confirma-la-privatizacion-del-sector-petrolero-venezolano-con-un-contrato-de-un-siglo.html",
+          "position": 15,
+          "focus": "Destaca la dimensión institucional y estructural del acuerdo (contrato de un siglo, 'privatización'), sin mencionar actores individuales concretos"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Alejandro Betancourt, el hombre del chavismo que ahora sirve a Trump",
+          "link": "https://www.elmundo.es/internacional/2026/09/01/6a95c58721efa0ed7f8b45a9.html",
+          "position": 85,
+          "focus": "Centra la historia en un personaje concreto, Alejandro Betancourt, y su trayectoria de cambio de lealtades políticas, dejando en segundo plano el marco institucional"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Del impacto para Repsol al papel de un oscuro magnate: la derivada española del acuerdo de Trump en Venezuela",
+          "link": "https://www.eldiario.es/economia/impacto-repsol-papel-oscuro-magnate-derivada-espanola-acuerdo-trump-venezuela_1_13477489.html",
+          "position": 55,
+          "focus": "Combina el impacto económico para España (Repsol) con la mención de un 'oscuro magnate', mezclando lo estructural con lo personalista de forma leve"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "El Supremo de EEUU concede un nuevo deseo a Trump y da luz verde para que construya un salón de baile en la Casa Blanca",
+          "link": "https://www.elespanol.com/mundo/america/eeuu/20260901/supremo-unidos-da-luz-verde-trump-construya-salon-baile-casa-blanca/1003744368519_0.html",
+          "position": 50,
+          "focus": "Trata un hecho distinto (fallo del Supremo sobre una obra en la Casa Blanca), no comparable con la historia venezolana; no se inclina en el eje definido"
+        }
+      ],
+      "rango": 70,
       "discrepancia": "alta",
       "silenciosos": [
         "20minutos",
         "ABC",
-        "El Espanol",
-        "El Mundo"
+        "La Vanguardia"
       ]
     },
     {
-      "neutral_headline": "El secretario del Ejército de EE.UU. renuncia a su cargo",
+      "neutral_headline": "El secretario del Ejército de Estados Unidos dimite de su cargo",
       "section": "Internacional",
       "facts": [
-        "El secretario del Ejército de Estados Unidos ha dimitido/presentado su renuncia",
-        "El Pais vincula la dimisión a despidos en la cúpula de las Fuerzas Armadas",
-        "La Vanguardia y 20minutos atribuyen la renuncia a meses de tensiones con Pete Hegseth",
-        "eldiario.es sitúa la dimisión en el contexto de la guerra de Irán y un vacío de liderazgo"
+        "El secretario del Ejército de Estados Unidos ha presentado su dimisión/renuncia",
+        "El Pais atribuye la dimision a despidos en la cupula de las Fuerzas Armadas",
+        "La Vanguardia y 20minutos atribuyen la dimision a meses de tensiones con Pete Hegseth",
+        "eldiario.es senala que la dimision ocurre en medio de la guerra de Iran y aumenta un vacio de liderazgo",
+        "El Mundo reporta la renuncia sin especificar causa"
       ],
       "tipo_divergencia": "editorial",
       "eje": {
-        "polo_a": "conflicto personal con Hegseth",
-        "polo_b": "crisis institucional de liderazgo",
-        "resumen": "Los medios difieren entre atribuir la renuncia a un choque personal con el secretario de Defensa o enmarcarla como síntoma de una crisis institucional más amplia (despidos, vacío de liderazgo en plena guerra de Irán)"
+        "polo_a": "causa institucional (despidos en la cupula)",
+        "polo_b": "causa personal (tensiones con Hegseth)",
+        "resumen": "Los medios difieren en si atribuyen la dimision a una decision institucional de despidos en el alto mando o a un conflicto personal prolongado con el secretario de Defensa Hegseth"
       },
       "frames": [
         {
           "outlet": "El Pais",
           "headline": "El secretario del Ejército de Estados Unidos, Dan Driscoll, dimite por los despidos en la cúpula de las Fuerzas Armadas",
           "link": "https://elpais.com/internacional/2026-09-01/el-secretario-del-ejercito-de-estados-unidos-dan-driscoll-dimite-por-los-despidos-en-la-cupula-de-las-fuerzas-armadas.html",
-          "position": 65,
-          "focus": "Destaca los despidos en la cúpula militar como causa, sugiriendo una purga institucional; omite la relación con Hegseth"
+          "position": 10,
+          "focus": "Enfatiza la causa institucional: los despidos en la cupula militar como detonante, sin mencionar conflicto personal"
         },
         {
           "outlet": "El Mundo",
           "headline": "El secretario del Ejército de Estados Unidos presenta su renuncia",
           "link": "https://www.elmundo.es/internacional/2026/09/01/6a960dd721efa027598b4589.html",
           "position": 50,
-          "focus": "Se limita a constatar el hecho sin atribuir causa, el encuadre más neutro"
+          "focus": "Reporta el hecho de la renuncia sin atribuir causa especifica, encuadre mas neutro"
         },
         {
           "outlet": "eldiario.es",
           "headline": "El secretario del Ejército de EEUU dimite y aumenta el vacío de liderazgo en medio de la guerra de Irán",
           "link": "https://www.eldiario.es/internacional/secretario-ejercito-eeuu-dimite-aumenta-vacio-liderazgo-medio-guerra-iran_1_13478327.html",
-          "position": 95,
-          "focus": "Enmarca la dimisión como parte de una crisis de liderazgo más amplia, conectándola con la guerra de Irán; maximiza la gravedad institucional"
+          "position": 50,
+          "focus": "Se centra en la consecuencia (vacio de liderazgo) y el contexto geopolitico de la guerra de Iran, sin senalar causa directa de la dimision"
         },
         {
           "outlet": "La Vanguardia",
           "headline": "Renuncia el jefe del Ejército de EE.UU. tras meses de tensiones con Hegseth",
           "link": "https://www.lavanguardia.com/internacional/20260901/11624303/renuncia-jefe-ejercito-ee-uu-meses-tensiones-hegseth.html",
-          "position": 10,
-          "focus": "Centra la causa en el conflicto personal con Hegseth, personalizando el conflicto por encima de otras explicaciones"
+          "position": 90,
+          "focus": "Atribuye la dimision a tensiones acumuladas con Hegseth, encuadre personal/conflictivo"
         },
         {
           "outlet": "20minutos",
           "headline": "Dimite el secretario del Ejército de Estados Unidos tras meses de tensiones con Pete Hegseth",
           "link": "https://www.20minutos.es/internacional/dimite-secretario-ejercito-estados-unidos-tras-meses-tensiones-con-pete-hegseth_7031260_0.html",
-          "position": 12,
-          "focus": "Igual que La Vanguardia, atribuye la renuncia a tensiones directas con Hegseth, obviando el contexto institucional"
+          "position": 90,
+          "focus": "Igual que La Vanguardia, senala explicitamente las tensiones con Hegseth como causa"
         }
       ],
-      "rango": 85,
+      "rango": 80,
       "discrepancia": "alta",
       "silenciosos": [
         "ABC",
@@ -175,243 +185,247 @@
       ]
     },
     {
-      "neutral_headline": "El Gobierno aprueba el nuevo Estatuto Marco pese al rechazo de los médicos",
+      "neutral_headline": "El Consejo de Ministros avanza en el Estatuto Marco pese a la oposición de los médicos",
       "section": "Politica",
       "facts": [
-        "El Consejo de Ministros aprueba hoy (martes) el nuevo Estatuto Marco",
-        "Los médicos rechazan o critican el proyecto",
-        "Según 20minutos, los médicos amenazan con huelga",
-        "El conflicto con los médicos no queda resuelto, según eldiario.es"
+        "El Consejo de Ministros trata este martes el Estatuto Marco impulsado por la ministra Mónica García",
+        "El Mundo describe la acción del Gobierno como dar luz verde a la tramitación del Estatuto Marco",
+        "ABC y eldiario.es describen la acción del Gobierno como la aprobación del Estatuto Marco",
+        "Los médicos se oponen o rechazan el contenido del Estatuto Marco",
+        "eldiario.es señala que el conflicto con los médicos no queda resuelto con esta decisión",
+        "El Pais informa, en una pieza sobre otro asunto, que el inicio del curso escolar viene marcado por huelgas y protestas docentes en nueve autonomias"
       ],
       "tipo_divergencia": "ninguna",
       "eje": null,
       "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "El curso escolar comienza con un sistema educativo al límite: huelgas, protestas docentes y conflictos en nueve autonomías",
+          "link": "https://elpais.com/educacion/2026-09-01/el-curso-escolar-comienza-con-un-sistema-educativo-al-limite-huelgas-protestas-docentes-y-conflictos-en-nueve-autonomias.html",
+          "position": 50,
+          "focus": "Trata un hecho distinto: el inicio del curso escolar y los conflictos docentes en nueve autonomias, sin relacion directa con el Estatuto Marco sanitario de las otras piezas."
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "El Gobierno dará luz verde a la tramitación del Estatuto Marco de Mónica García en el Consejo de Ministros con la oposición de los médicos",
+          "link": "https://www.elmundo.es/salud/2026/09/01/6a967abdfdddfffb108b4570.html",
+          "position": 50,
+          "focus": "Describe la accion del Gobierno como tramitacion del Estatuto Marco, mencionando la oposicion de los medicos sin detallar si el conflicto se resuelve."
+        },
         {
           "outlet": "ABC",
           "headline": "El Consejo de Ministros aprobará hoy el nuevo Estatuto Marco pese al rechazo de los médicos",
           "link": "https://www.abc.es/sociedad/consejo-ministros-aprobara-hoy-nuevo-estatuto-marco-20260901094923-nt.html",
           "position": 50,
-          "focus": "Destaca la aprobación institucional (Consejo de Ministros) y el rechazo médico; omite detalles sobre huelga o resolución del conflicto"
+          "focus": "Describe la accion del Gobierno como aprobacion directa del Estatuto Marco, senalando el rechazo de los medicos como obstaculo superado."
         },
         {
           "outlet": "eldiario.es",
           "headline": "El Gobierno aprobará este martes el Estatuto Marco sin resolver el conflicto con los médicos",
           "link": "https://www.eldiario.es/sociedad/gobierno-aprobara-martes-estatuto-marco-resolver-conflicto-medicos_1_13477548.html",
           "position": 50,
-          "focus": "Enfatiza que el conflicto con los médicos sigue sin resolverse; omite mención a huelga"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "El Gobierno aprueba hoy el proyecto de Estatuto Marco criticado por los médicos, que amenazan con huelga",
-          "link": "https://www.20minutos.es/nacional/gobierno-aprueba-este-martes-proyecto-estatuto-marco-criticado-por-los-medicos-que-amenazan-con-huelga-indefinida-otono_7031273_0.html",
-          "position": 50,
-          "focus": "Añade el dato de la amenaza de huelga como consecuencia de las críticas médicas"
+          "focus": "Describe la aprobacion del Estatuto Marco y subraya explicitamente que el conflicto con los medicos queda sin resolver."
         }
       ],
       "rango": 0,
       "discrepancia": "baja",
       "silenciosos": [
+        "20minutos",
         "El Espanol",
-        "El Mundo",
-        "El Pais",
         "La Vanguardia"
       ]
     },
     {
-      "neutral_headline": "El Tribunal Supremo de EEUU autoriza la construcción de un salón de baile en la Casa Blanca solicitada por Trump",
+      "neutral_headline": "Sánchez es criticado por su gestión de Ceuta en relación con el Rey y Marruecos, mientras Olona se incorpora a la defensa de Aldama",
       "section": "Politica",
       "facts": [
-        "El Tribunal Supremo de EEUU autorizó la construcción de un salón de baile en la Casa Blanca",
-        "La construcción fue solicitada por Donald Trump"
+        "Macarena Olona se suma al despacho de abogados que defiende a Aldama",
+        "El Mundo atribuye al 'sanchismo' hostilidad con el Rey y negación de la alternancia política",
+        "Carlos Herrera comenta que Sánchez señaló a Felipe VI por no visitar Ceuta",
+        "Carlos Herrera acusa a Sánchez de ser sumiso con el rey de Marruecos",
+        "eldiario.es afirma que Pedro Sánchez se queda solo junto a Marruecos"
       ],
       "tipo_divergencia": "editorial",
       "eje": {
-        "polo_a": "cobertura neutral del fallo",
-        "polo_b": "encuadre de complacencia hacia Trump",
-        "resumen": "El Español introduce un juicio implícito ('nuevo deseo') que sugiere favoritismo hacia Trump, mientras El País y La Vanguardia describen el hecho sin esa connotación"
+        "polo_a": "critica explicita a Sanchez por su relacion con el Rey y Marruecos",
+        "polo_b": "relato neutral del aislamiento diplomatico de Sanchez",
+        "resumen": "Los medios difieren en el grado de valoracion negativa que atribuyen a Sanchez por su postura ante el Rey y Marruecos en el asunto de Ceuta."
       },
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "El Tribunal Supremo autoriza definitivamente la construcción del salón de baile de Trump en la Casa Blanca",
-          "link": "https://elpais.com/us/2026-08-31/el-tribunal-supremo-autoriza-definitivamente-la-construccion-del-salon-de-baile-de-trump-en-la-casa-blanca.html",
+          "headline": "Macarena Olona se suma al despacho de abogados que defiende a Aldama",
+          "link": "https://elpais.com/espana/2026-09-01/macarena-olona-se-suma-al-despacho-de-abogados-que-defiende-a-aldama.html",
+          "position": 50,
+          "focus": "Se centra en la incorporacion de Olona a la defensa de Aldama; no guarda relacion tematica con el eje Ceuta-Rey-Marruecos."
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Sanchismo duro hasta el final: hostilidad con el Rey y negación de la alternancia",
+          "link": "https://www.elmundo.es/espana/2026/08/31/6a95c216e85ece1a5d8b4580.html",
           "position": 10,
-          "focus": "Describe la decisión judicial como definitiva y autorizatoria, sin valorar la relación entre el tribunal y Trump"
+          "focus": "Adopta un tono editorial abiertamente critico, calificando de 'sanchismo duro' la hostilidad hacia el Rey; omite matices sobre Ceuta como contexto concreto."
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Carlos Herrera ve a Pedro Sánchez señalar a Felipe VI por no visitar Ceuta y es contundente: «Tan chulo con su Rey y tan sumiso con el de Marruecos»",
+          "link": "https://www.abc.es/recreo/carlos-herrera-pedro-sanchez-senalar-felipe-visitar-20260901100934-nt.html",
+          "position": 15,
+          "focus": "Recoge la cita contundente de Carlos Herrera que contrasta la actitud de Sanchez hacia el Rey de Espana y el de Marruecos, reforzando la critica mediante opinion citada."
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Pedro Sánchez se queda solo junto a Marruecos",
+          "link": "https://www.eldiario.es/politica/pedro-sanchez-queda-marruecos_129_13477226.html",
+          "position": 45,
+          "focus": "Describe el aislamiento diplomatico de Sanchez junto a Marruecos de forma mas descriptiva, sin cita valorativa explicita, aunque con matiz negativo implicito en 'se queda solo'."
+        }
+      ],
+      "rango": 40,
+      "discrepancia": "media",
+      "silenciosos": [
+        "20minutos",
+        "El Espanol",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "Cataluña y País Vasco recibieron avisos sobre irregularidades en las pruebas PISA antes de su publicación",
+      "section": "Politica",
+      "facts": [
+        "La Generalitat recibió siete avisos sobre 'errores' en las pruebas PISA en Cataluña",
+        "La Generalitat no ha explicado por qué ignoró esos avisos",
+        "Las pruebas PISA en Cataluña y País Vasco presentan irregularidades",
+        "Existía la posibilidad de corregir el problema antes de la publicación de los resultados"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "error o negligencia administrativa",
+        "polo_b": "fraude o manipulación deliberada",
+        "resumen": "Los medios difieren en si lo ocurrido fue un fallo de gestión no corregido a tiempo o una manipulación intencionada para ocultar malos resultados educativos"
+      },
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "La Generalitat esconde por qué ignoró los siete avisos sobre \"errores\" en las pruebas PISA en Cataluña",
+          "link": "https://www.elmundo.es/cataluna/2026/08/31/6a95e1a6fc6c835e428b45b2.html",
+          "position": 35,
+          "focus": "Pone el foco en el ocultamiento de información por parte de la Generalitat (por qué no explicó que ignoró los avisos), sin acusar directamente de manipular los resultados"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Cataluña y País Vasco trampean las pruebas PISA para ocultar el desastre educativo",
+          "link": "https://www.abc.es/sociedad/cataluna-pais-vasco-trampean-pruebas-pisa-maquillar-20260901013301-nt.html",
+          "position": 88,
+          "focus": "Acusa directamente a Cataluña y País Vasco de 'trampear' las pruebas con intención de ocultar el fracaso educativo, el encuadre más acusatorio"
         },
         {
           "outlet": "La Vanguardia",
-          "headline": "El Supremo da luz verde a Trump para que construya un salón de baile en la Casa Blanca",
-          "link": "https://www.lavanguardia.com/internacional/20260901/11624141/supremo-da-luz-verde-trump-construya-salon-baile-casa-blanca.html",
-          "position": 12,
-          "focus": "Usa la expresión neutra 'luz verde' para describir la autorización, centrado en el hecho procesal"
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "El Supremo de EEUU concede un nuevo deseo a Trump y da luz verde para que construya un salón de baile en la Casa Blanca",
-          "link": "https://www.elespanol.com/mundo/america/eeuu/20260901/supremo-unidos-da-luz-verde-trump-construya-salon-baile-casa-blanca/1003744368519_0.html",
-          "position": 90,
-          "focus": "Enmarca el fallo como un 'nuevo deseo' concedido a Trump, sugiriendo una relación de complacencia o favoritismo del tribunal hacia él, más allá del hecho jurídico"
+          "headline": "El fiasco de PISA pudo haberse corregido a tiempo",
+          "link": "https://www.lavanguardia.com/vida/20260901/11624047/fiasco-pisa-pudo-haberse-corregido.html",
+          "position": 15,
+          "focus": "Enmarca el caso como un fallo o error que 'pudo haberse corregido a tiempo', sin atribuir intención de fraude, el encuadre más neutro"
         }
       ],
-      "rango": 80,
+      "rango": 73,
       "discrepancia": "alta",
       "silenciosos": [
         "20minutos",
-        "ABC",
-        "El Mundo",
+        "El Espanol",
+        "El Pais",
         "eldiario.es"
       ]
     },
     {
-      "neutral_headline": "Un jurado declara culpable a Duane 'Keffe D' Davis del asesinato de Tupac Shakur, casi 30 años después",
-      "section": "Sociedad",
+      "neutral_headline": "Distintos sucesos deportivos del día: regreso de Alcaraz, victoria del Barça y mercado de fichajes",
+      "section": "Deportes",
       "facts": [
-        "Un jurado declaró culpable a Duane Davis, conocido como 'Keffe D'",
-        "El veredicto es por el asesinato del rapero Tupac Shakur",
-        "El crimen ocurrió hace casi 30 años"
+        "Alcaraz regresó a la competición con problemas en el calentamiento y un vendaje oculto",
+        "El Barça goleó al Rayo Vallecano con protagonismo de Lamine Yamal y Raphinha",
+        "El mercado de fichajes está en sus últimas horas con el posible traspaso de Julián Álvarez a la Premier League"
       ],
       "tipo_divergencia": "ninguna",
       "eje": null,
       "frames": [
         {
-          "outlet": "ABC",
-          "headline": "Un jurado declara culpable del asesinato del rapero Tupac Shakur a Duane Davis",
-          "link": "https://www.abc.es/cultura/musica/jurado-declara-culpable-asesinato-rapero-tupac-shakur-20260901070143-nt.html",
+          "outlet": "El Mundo",
+          "headline": "El regreso de Alcaraz y las rutinas olvidadas: confusión en el calentamiento, \"muchos nervios\" y un vendaje oculto",
+          "link": "https://www.elmundo.es/deportes/tenis/us-open/2026/09/01/6a95f162e4d4d8d1158b459d.html",
           "position": 50,
-          "focus": "Se centra en el veredicto de culpabilidad y la identidad del acusado"
+          "focus": "Se centra en el regreso de Alcaraz, sus nervios y un vendaje no explicado, sin relacionarlo con otros eventos"
         },
         {
           "outlet": "La Vanguardia",
-          "headline": "El jurado halla culpable a 'Keffe D' de orquestar el asesinato de Tupac Shakur hace casi 30 años",
-          "link": "https://www.lavanguardia.com/gente/20260901/11624305/jurado-halla-culpable-keffe-d-orquestar-asesinato-tupa-shakur-30-anos.html",
+          "headline": "La sonrisa de Lamine Yamal empodera al Barça de Raphinha en la goleada al Rayo Vallecano",
+          "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20260831/11624127/sonrisa-lamine-yamal-empodera-barca-raphinha-goleada-rayo-vallecano.html",
           "position": 50,
-          "focus": "Añade el matiz de 'orquestar' el asesinato y el marco temporal de casi 30 años"
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "Un jurado declara culpable del asesinato de Tupac Shakur a Duane 'Keffe D' Davis, 30 años después del crimen",
-          "link": "https://www.elespanol.com/mundo/america/20260901/jurado-declara-culpable-exlider-pandilla-planeo-asesinato-tupac-shakur-anos-despues-crimen/1003744368544_0.html",
-          "position": 50,
-          "focus": "Combina la identificación completa del acusado con el veredicto y el tiempo transcurrido"
+          "focus": "Destaca la actuación de Lamine Yamal y Raphinha en la goleada del Barça, sin mencionar otros sucesos deportivos"
         },
         {
           "outlet": "20minutos",
-          "headline": "Declaran culpable a Duane 'Keffe D' Davis por el asesinato del rapero Tupac Shakur casi 30 años después",
-          "link": "https://www.20minutos.es/gente/jurado-declara-culpable-exlider-pandilla-que-planeo-asesinato-tupac-shakur_7031258_0.html",
+          "headline": "Últimas horas del mercado de fichajes con cuentas pendientes: Julián Álvarez... ¿rumbo a la Premier?",
+          "link": "https://www.20minutos.es/deportes/futbol/cierre-mercado-fichajes-2026-directo-rumores-traspasos-noticias-ultima-hora_7031311_6.html",
           "position": 50,
-          "focus": "Destaca el nombre del acusado y el veredicto, con referencia temporal similar"
+          "focus": "Aborda el cierre del mercado de fichajes y la posible salida de Julián Álvarez a la Premier, sin conexión con los otros hechos"
         }
       ],
       "rango": 0,
       "discrepancia": "baja",
       "silenciosos": [
-        "El Mundo",
+        "ABC",
+        "El Espanol",
         "El Pais",
         "eldiario.es"
       ]
     },
     {
-      "neutral_headline": "El Gobierno impulsa el Estatuto Marco de los sanitarios en medio de la oposición de los médicos",
-      "section": "Politica",
+      "neutral_headline": "Tres noticias distintas: caída de Shein en bolsa, nueva gama POCO F9 y relevo de CEO en Apple",
+      "section": "Economia",
       "facts": [
-        "El Gobierno lleva adelante el Estatuto Marco de los sanitarios impulsado por Mónica García",
-        "El Mundo y eldiario.es sitúan el paso en el Consejo de Ministros; El País habla de envío al Congreso",
-        "Existe oposición de los médicos al Estatuto Marco",
-        "El País añade que los sindicatos médicos amenazan con una huelga indefinida",
-        "eldiario.es señala que la aprobación se produce sin resolver el conflicto con los médicos"
+        "Shein cayo hasta un 10% el dia de su debut en la Bolsa de Hong Kong",
+        "POCO presento los modelos F9 y reajusto los precios de otros cuatro modelos de su gama",
+        "John Ternus es el nuevo CEO de Apple tras Tim Cook y la IA aparece como su primer reto"
       ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "conflicto minimizado (oposicion generica)",
-        "polo_b": "conflicto dramatizado (amenaza de huelga indefinida)",
-        "resumen": "Los medios difieren en cuanto enfatizan la gravedad del enfrentamiento entre Gobierno y médicos, desde una oposición genérica hasta la amenaza explícita de huelga indefinida"
-      },
+      "tipo_divergencia": "ninguna",
+      "eje": null,
       "frames": [
         {
           "outlet": "El Mundo",
-          "headline": "El Gobierno dará luz verde a la tramitación del Estatuto Marco de Mónica García en el Consejo de Ministros con la oposición de los médicos",
-          "link": "https://www.elmundo.es/salud/2026/09/01/6a967abdfdddfffb108b4570.html",
-          "position": 10,
-          "focus": "Destaca el trámite institucional (Consejo de Ministros) y menciona la oposición médica de forma genérica, sin detallar consecuencias"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "El Gobierno aprobará este martes el Estatuto Marco sin resolver el conflicto con los médicos",
-          "link": "https://www.eldiario.es/sociedad/gobierno-aprobara-martes-estatuto-marco-resolver-conflicto-medicos_1_13477548.html",
+          "headline": "Shein llega a desplomarse un 10% el día que debuta en la Bolsa de Hong Kong",
+          "link": "https://www.elmundo.es/economia/empresas/2026/09/01/6a967c0dfdddff6c348b45b4.html",
           "position": 50,
-          "focus": "Enfatiza que el conflicto queda sin resolver a pesar de la aprobación, sin especificar la forma que toma esa disputa"
+          "focus": "Se centra en el desempeño bursatil de Shein en su debut en Hong Kong, sin relacion con las otras dos piezas"
         },
         {
-          "outlet": "El Pais",
-          "headline": "El Gobierno envía al Congreso el Estatuto Marco de los sanitarios mientras los sindicatos médicos amenazan con una huelga indefinida",
-          "link": "https://elpais.com/sociedad/2026-09-01/el-gobierno-envia-al-congreso-el-estatuto-marco-de-los-sanitarios-mientras-los-sindicatos-medicos-amenazan-con-una-huelga-indefinida.html",
-          "position": 95,
-          "focus": "Subraya la amenaza concreta de huelga indefinida por parte de los sindicatos médicos, dramatizando el enfrentamiento"
-        }
-      ],
-      "rango": 85,
-      "discrepancia": "alta",
-      "silenciosos": [
-        "20minutos",
-        "ABC",
-        "El Espanol",
-        "La Vanguardia"
-      ]
-    },
-    {
-      "neutral_headline": "Medios difieren en el foco del conflicto entre Irán y Estados Unidos: represión interna, ataque a Larak y respaldo de Rusia-China",
-      "section": "Internacional",
-      "facts": [
-        "Hossein Taeb, apodado 'el carnicero', regresa al aparato de inteligencia de Irán",
-        "Estados Unidos, bajo Trump, atacó la isla iraní de Larak",
-        "Putin y Xi han intervenido en apoyo de Irán",
-        "Trump buscaba un bloqueo más agresivo en el estrecho de Ormuz para asfixiar la economía iraní"
-      ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "Irán como actor represivo/responsable",
-        "polo_b": "Trump como actor fracasado/responsable",
-        "resumen": "Los medios difieren en si el centro del relato es la represión interna iraní o el fracaso de la estrategia de Trump frente a Irán, con apoyo de Rusia y China."
-      },
-      "frames": [
-        {
-          "outlet": "El Mundo",
-          "headline": "Irán refuerza su aparato represivo con el regreso del \"carnicero\" Hossein Taeb, un veterano de inteligencia",
-          "link": "https://www.elmundo.es/internacional/2026/08/31/6a95a5afe4d4d87e298b4575.html",
-          "position": 10,
-          "focus": "Centra el relato en la maquinaria represiva interna de Irán, personificada en Taeb, sin mencionar la acción de EEUU ni de otras potencias"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "El ataque de Trump a la isla iraní de Larak evidencia el intento de esconder su ineptitud",
-          "link": "https://www.eldiario.es/internacional/ataque-trump-isla-irani-larak-evidencia-esconder-ineptitud_129_13477786.html",
-          "position": 92,
-          "focus": "Atribuye el ataque a Larak a un intento de Trump de disimular su propia ineptitud, situando a EEUU como responsable del fracaso"
+          "outlet": "ABC",
+          "headline": "POCO presenta hoy los F9 y su gama se recoloca: cuatro modelos ahora se convierten en chollo",
+          "link": "https://www.abc.es/favorito/electronica/moviles-smartphones/poco-presenta-hoy-los-f9-y-20260831091531-nt.html",
+          "position": 50,
+          "focus": "Se centra en el lanzamiento comercial de los POCO F9 y la reorganizacion de precios de la gama"
         },
         {
           "outlet": "El Espanol",
-          "headline": "Putin y Xi acuden al rescate de Irán cuando Trump esperaba asfixiar su economía con un bloqueo más agresivo en Ormuz",
-          "link": "https://www.elespanol.com/mundo/oriente-proximo/20260901/putin-xi-acuden-rescate-iran-trump-esperaba-asfixiar-economia-bloqueo-agresivo-ormuz/1003744368189_0.html",
-          "position": 65,
-          "focus": "Muestra el fracaso de la estrategia de bloqueo de Trump al destacar la intervención de Putin y Xi en rescate de Irán, combinando crítica a EEUU con el papel de otras potencias"
+          "headline": "Apple estrena nuevo CEO: John Ternus tiene la IA como primer punto en la lista de retos que le deja el legado de Tim Cook",
+          "link": "https://www.elespanol.com/omicrono/tecnologia/20260901/apple-estrena-nuevo-ceo-john-ternus-ia-primer-punto-lista-retos-deja-legado-tim-cook/1003744367447_0.html",
+          "position": 50,
+          "focus": "Se centra en el cambio de liderazgo en Apple y los retos tecnologicos que enfrenta el nuevo CEO"
         }
       ],
-      "rango": 82,
-      "discrepancia": "alta",
+      "rango": 0,
+      "discrepancia": "baja",
       "silenciosos": [
         "20minutos",
-        "ABC",
         "El Pais",
-        "La Vanguardia"
+        "La Vanguardia",
+        "eldiario.es"
       ]
     },
     {
-      "neutral_headline": "Una mujer apuñala a una o dos personas en Times Square y muere tras ser tiroteada por la policía",
-      "section": "Sociedad",
+      "neutral_headline": "Una mujer apuñala a varias personas en Times Square y muere abatida por la policía",
+      "section": "Internacional",
       "facts": [
-        "El hecho ocurrió en Times Square, Nueva York",
-        "Una mujer apuñaló a personas en el lugar",
-        "La policía disparó y mató a la mujer",
+        "Un ataque con arma blanca ocurrió en Times Square, Nueva York",
+        "La policía disparó y mató a la mujer atacante",
         "ABC afirma que la mujer apuñaló a dos personas",
         "La Vanguardia afirma que la mujer mató a una persona y blandía dos cuchillos",
         "20minutos afirma que la mujer mató a puñaladas a una persona e hirió a otra"
@@ -420,32 +434,38 @@
       "eje": null,
       "frames": [
         {
+          "outlet": "El Mundo",
+          "headline": "Una legislatura vacacional",
+          "link": "https://www.elmundo.es/espana/2026/09/01/6a95b0fbfdddff6c348b4599.html",
+          "position": 50,
+          "focus": "Pieza sobre la actividad legislativa de verano, no relacionada con el suceso de Times Square"
+        },
+        {
           "outlet": "ABC",
           "headline": "Una mujer apuñala a dos personas en Times Square de Nueva York antes de morir por tiros de la policía",
           "link": "https://www.abc.es/internacional/mujer-apunala-dos-personas-times-square-nueva-20260901020303-nt.html",
           "position": 50,
-          "focus": "Destaca el numero de personas apuñaladas (dos) y la muerte de la agresora por disparos policiales, sin especificar si las victimas murieron o quedaron heridas"
+          "focus": "Destaca que la mujer apuñaló a dos personas antes de ser abatida; no precisa si ambas sobrevivieron"
         },
         {
           "outlet": "La Vanguardia",
           "headline": "La policía tirotea a una mujer que blandía dos cuchillos tras matar a una persona en Times Square",
           "link": "https://www.lavanguardia.com/internacional/20260901/11624307/policia-tirotea-mujer-blandia-dos-cuchillos-matar-persona-herir-times-square.html",
           "position": 50,
-          "focus": "Destaca que la mujer portaba dos cuchillos y que mato a una persona antes de ser tiroteada, sin mencionar una segunda victima"
+          "focus": "Destaca que la mujer blandía dos cuchillos y mató a una persona; no menciona una segunda víctima herida"
         },
         {
           "outlet": "20minutos",
           "headline": "Ataque en Nueva York: la Policía abate a tiros a una mujer que mató a puñaladas a una persona e hirió a otra en Times Square",
           "link": "https://www.20minutos.es/internacional/policia-neoyorquina-dispara-times-square-una-mujer-que-apunalo-gravemente-dos-personas_7031255_0.html",
           "position": 50,
-          "focus": "Detalla que hubo una victima mortal y otra herida, ademas del abatimiento policial de la agresora"
+          "focus": "Precisa que hubo una persona muerta y otra herida, con mayor detalle sobre el resultado del ataque"
         }
       ],
       "rango": 0,
       "discrepancia": "baja",
       "silenciosos": [
         "El Espanol",
-        "El Mundo",
         "El Pais",
         "eldiario.es"
       ]
