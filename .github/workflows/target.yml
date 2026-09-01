@@ -205,7 +205,7 @@ jobs:
                              if isinstance(i, int) and i < len(headlines)]
                   uno_por_medio = {}
                   for h in cluster:
-                  uno_por_medio.setdefault(h["outlet"], h)
+                      uno_por_medio.setdefault(h["outlet"], h)
                   cluster = list(uno_por_medio.values())
                   if len(set(h["outlet"] for h in cluster)) < 3:
                       print("  historia " + str(idx) + " descartada: menos de 3 medios")
