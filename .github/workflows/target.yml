@@ -1,4 +1,4 @@
-name: Edicion matinal de Target
+name: Edicion matinal de Prisma
 
 on:
   schedule:
@@ -118,7 +118,7 @@ jobs:
           def analyze(cluster, todos_los_medios):
               piezas = "\n".join(str(i) + ". [" + h["outlet"] + "] " + h["title"]
                                  for i, h in enumerate(cluster))
-              system = ("Eres el redactor jefe de Target, un medio cuya promesa es hacer "
+              system = ("Eres el redactor jefe de Prisma, un medio cuya promesa es hacer "
                         "visible el encuadre editorial SIN INVENTARLO. Prefieres decir que "
                         "no hay divergencia antes que fabricar una. REGLA INNEGOCIABLE: en "
                         "'facts' solo entra informacion deducible de los titulares "
