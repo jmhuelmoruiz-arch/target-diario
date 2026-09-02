@@ -59,6 +59,7 @@ jobs:
               print("Leidos " + str(len(items)) + " titulares.")
               return items
 
+          GASTO = {"in": 0, "out": 0}
           def claude(prompt, system, modelo, max_tokens=4000, intentos=3):
               for n in range(1, intentos + 1):
                   r = requests.post(
@@ -72,7 +73,11 @@ jobs:
                       timeout=180,
                   )
                   if r.status_code == 200:
-                      bloques = r.json().get("content", [])
+                      cuerpo = r.json()
+                      u = cuerpo.get("usage", {})
+                      GASTO["in"] += u.get("input_tokens", 0)
+                      GASTO["out"] += u.get("output_tokens", 0)
+                      bloques = cuerpo.get("content", [])bloques = r.json().get("content", [])
                       texto = "".join(b.get("text", "") for b in bloques
                                       if b.get("type") == "text")
                       if texto.strip():
