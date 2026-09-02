@@ -1,393 +1,358 @@
 {
-  "fecha": "2026-09-01T12:24:15.617164+00:00",
+  "fecha": "2026-09-02T09:00:27.002658+00:00",
   "esquema": 2,
   "historias": [
     {
-      "neutral_headline": "El Gobierno aprueba un plan de 309 millones de euros para Ceuta",
+      "neutral_headline": "Marlaska pregunta al director de la Policía por un informe sobre la posible implicación de Marruecos en la entrada masiva de migrantes a Ceuta",
       "section": "Politica",
       "facts": [
-        "El Gobierno anuncia un plan de choque de 309 millones de euros para Ceuta",
-        "El plan se desplegará hasta diciembre según El Español",
-        "El Pais indica que más de 100 millones se destinan a la acogida de menores",
-        "20minutos indica que el plan incluye ayudas para empresas ceutíes y mejora de la seguridad",
-        "La Vanguardia describe el plan como dirigido a rescatar la economía y los servicios de Ceuta",
-        "eldiario.es describe el plan como respuesta a una crisis humanitaria"
+        "Marlaska pidió explicaciones o aclaraciones al director de la Policía Nacional",
+        "Existe un informe policial relacionado con el asalto/entrada masiva de migrantes en Ceuta",
+        "El informe menciona una posible implicación de fuerzas o agentes marroquíes en los hechos"
       ],
       "tipo_divergencia": "editorial",
       "eje": {
-        "polo_a": "enfoque humanitario/social (menores, acogida)",
-        "polo_b": "enfoque económico/seguridad (empresas, servicios, seguridad)",
-        "resumen": "Los medios difieren en si presentan el plan como una respuesta humanitaria centrada en los menores migrantes o como un rescate económico y de seguridad para Ceuta"
+        "polo_a": "informe como hecho incierto/cuestionado",
+        "polo_b": "informe como hecho confirmado y detallado",
+        "resumen": "Los medios se dividen entre presentar el informe sobre Marruecos como una hipótesis que Marlaska pone en duda o cuya existencia cuestiona, y presentarlo como un hallazgo policial firme y detallado entregado a la jueza."
       },
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El plan de choque del Gobierno para Ceuta incluye más de 100 millones para la acogida de menores",
-          "link": "https://elpais.com/espana/2026-09-01/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
-          "position": 15,
-          "focus": "Destaca la partida para acogida de menores, omite el desglose económico o de seguridad"
-        },
-        {
-          "outlet": "ABC",
-          "headline": "El Gobierno anuncia la movilización de 309 millones para ayudar a Ceuta",
-          "link": "https://www.abc.es/espana/entrevista-pedro-sanchez-hoy-directo-declaraciones-ultimas-20260831081306-di.html",
-          "position": 50,
-          "focus": "Presenta la cifra global sin especificar destino concreto, encuadre neutro"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "El Gobierno aprueba un plan choque de 309 millones para responder a la crisis humanitaria en Ceuta",
-          "link": "https://www.eldiario.es/economia/gobierno-aprueba-plan-choque-309-millones-responder-crisis-humanitaria-ceuta_1_13479219.html",
-          "position": 35,
-          "focus": "Enmarca el plan como respuesta a una crisis humanitaria, sin detallar aspectos económicos"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "El Gobierno destina 309 millones para rescatar la economía y los servicios de Ceuta",
-          "link": "https://www.lavanguardia.com/politica/20260901/11624655/gobierno-destina-309-millones-rescatar-economia-servicios-ceuta.html",
-          "position": 65,
-          "focus": "Pone el foco en la economía y los servicios de Ceuta, omite la dimensión humanitaria o de menores"
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "El Gobierno activa un \"plan de choque\" económico de 309 millones para Ceuta que se desplegará hasta diciembre",
-          "link": "https://www.elespanol.com/invertia/economia/macroeconomia/20260901/gobierno-activa-plan-choque-economico-millones-ceuta-desplegara-diciembre/1003744368967_0.html",
-          "position": 70,
-          "focus": "Enfatiza el carácter económico del plan y su calendario de despliegue, sin mencionar menores"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "Moncloa aprueba 309 millones en ayudas para las empresas ceutíes y mejorar la seguridad",
-          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/gobierno-aprueba-bonificaciones-permanentes-sociedades-irpf-para-ceuta-melilla-un-paquete-309-millones_7031491_0.html",
-          "position": 85,
-          "focus": "Centra el titular en ayudas a empresas y seguridad, sin mención a menores ni crisis humanitaria"
-        }
-      ],
-      "rango": 70,
-      "discrepancia": "alta",
-      "silenciosos": [
-        "El Mundo"
-      ]
-    },
-    {
-      "neutral_headline": "Tensión diplomática entre España y Marruecos por una posible visita a Ceuta en medio de la crisis migratoria",
-      "section": "Politica",
-      "facts": [
-        "Marruecos está en periodo de campaña electoral",
-        "Existe la posibilidad de una visita real a Ceuta",
-        "El Rey lleva 20 años sin visitar Ceuta, según El Mundo",
-        "El Gobierno español no ha fijado fecha para la visita",
-        "Pedro Sánchez ha reaparecido públicamente tras un periodo de ausencia",
-        "Existe preocupación en Ceuta sobre la permanencia indefinida de migrantes, según El Español"
-      ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "foco en Marruecos como actor externo/reactivo",
-        "polo_b": "foco en la responsabilidad de Sánchez/gobierno español",
-        "resumen": "Los medios difieren en si el protagonista y responsable de la tensión es Marruecos (su reacción electoral) o el propio Gobierno español y Sánchez (su gestión y aislamiento diplomático)"
-      },
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "Marruecos observa como una provocación una visita real a Ceuta en medio de su campaña electoral",
-          "link": "https://elpais.com/espana/2026-09-01/marruecos-observa-como-una-provocacion-una-visita-real-a-ceuta-en-medio-de-su-campana-electoral.html",
-          "position": 15,
-          "focus": "Destaca la perspectiva marroquí y su contexto electoral interno como causa de la tensión; omite críticas a la gestión española"
+          "headline": "Marlaska exige al director de la Policía que aclare si el cuerpo tiene información de que Marruecos estuvo tras el asalto masivo a Ceuta",
+          "link": "https://elpais.com/espana/2026-09-02/marlaska-pide-al-director-de-la-policia-que-aclare-si-existe-un-informe-que-senala-a-marruecos-en-el-asalto-masivo-a-ceuta.html",
+          "position": 25,
+          "focus": "Destaca la exigencia de Marlaska de que se aclare si la Policía tiene información sobre Marruecos, tratándolo como algo por confirmar; omite detalles del contenido del informe."
         },
         {
           "outlet": "El Mundo",
-          "headline": "El Gobierno evita poner fecha a la visita del Rey a Ceuta y defiende que no es un \"reproche\" decir que lleva 20 años sin ir",
-          "link": "https://www.elmundo.es/espana/2026/09/01/6a96a8f7e4d4d821098b4587.html",
-          "position": 45,
-          "focus": "Se centra en la gestión práctica del Gobierno sobre la visita real, en tono defensivo pero descriptivo, sin atribuir culpas explícitas"
+          "headline": "Marlaska pide explicaciones al director de la Policía Nacional tras enterarse por la prensa del informe que acusa a Marruecos del asalto a Ceuta",
+          "link": "https://www.elmundo.es/espana/2026/09/02/6a97caa4e9cf4a201e8b456e.html",
+          "position": 35,
+          "focus": "Enfatiza el fallo político de comunicación (Marlaska se enteró por la prensa) más que el contenido del informe; sitúa el foco en la gestión interna del Gobierno."
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Marlaska pide explicaciones al director de la Policía por un informe que atribuye a fuerzas marroquíes la avalancha",
+          "link": "https://www.abc.es/espana/marlaska-pide-explicaciones-director-policia-informe-atribuiria-20260902073419-nt.html",
+          "position": 40,
+          "focus": "Presenta de forma directa que existe un informe que acusa a Marruecos, con Marlaska pidiendo explicaciones; no cuestiona la existencia del informe pero tampoco detalla su contenido."
         },
         {
           "outlet": "eldiario.es",
-          "headline": "Pedro Sánchez se queda solo junto a Marruecos",
-          "link": "https://www.eldiario.es/politica/pedro-sanchez-queda-marruecos_129_13477226.html",
-          "position": 70,
-          "focus": "Sugiere aislamiento político de Sánchez frente a Marruecos, insinuando fracaso de su política exterior"
+          "headline": "Marlaska pregunta al director de la Policía por el supuesto informe que atribuía a fuerzas marroquíes la entrada de migrantes en Ceuta",
+          "link": "https://www.eldiario.es/politica/marlaska-pregunta-director-policia-supuesto-informe-atribuia-fuerzas-marroquies-entrada-migrantes-ceuta_1_13481015.html",
+          "position": 15,
+          "focus": "Usa el término 'supuesto informe', introduciendo duda explícita sobre la veracidad o existencia del documento; es el más escéptico del grupo."
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Marlaska exige al director de la Policía que aclare si existe algún informe que sitúe a Marruecos tras el asalto masivo",
+          "link": "https://www.lavanguardia.com/politica/20260902/11625229/marlaska-exige-director-policia-aclare-existe-informe-situa-marruecos-asalto-masivo-ceuta.html",
+          "position": 12,
+          "focus": "Formula la pregunta como si la existencia misma del informe estuviera en duda ('si existe algún informe'), el enfoque más incierto sobre los hechos."
         },
         {
           "outlet": "El Espanol",
-          "headline": "La reaparición de Sánchez acrecienta el temor en Ceuta a que gran parte de los invasores se queden indefinidamente",
-          "link": "https://www.elespanol.com/espana/20260901/reaparicion-sanchez-acrecienta-temor-ceuta-gran-parte-invasores-queden-indefinidamente/1003744366351_0.html",
+          "headline": "La Policía informa a la juez que la invasión de Ceuta fue guiada por gendarmes marroquíes a las órdenes de agentes de paisano con un fin distinto al migratorio",
+          "link": "https://www.elespanol.com/espana/tribunales/20260901/policia-informa-juez-invasion-ceuta-guiada-gendarmes-marroquies-ordenes-agentes-paisano-fin-distinto-migratorio/1003744369590_0.html",
           "position": 90,
-          "focus": "Enmarca la reaparición de Sánchez como detonante de temor migratorio, usando lenguaje cargado ('invasores') que responsabiliza indirectamente al Gobierno"
+          "focus": "Detalla con precisión la operación (gendarmes marroquíes, agentes de paisano, fin distinto al migratorio) como hecho confirmado entregado a la jueza; omite cualquier duda sobre Marlaska o la validez del informe."
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "El informe que la Policía entregó a la jueza atribuye a los agentes de Marruecos la planificación de la entrada masiva en Ceuta",
+          "link": "https://www.20minutos.es/nacional/informe-policial-entregado-juez-atribuye-policia-marruecos-planificacion-entrada-masiva-ceuta_7031818_0.html",
+          "position": 85,
+          "focus": "Afirma directamente que el informe atribuye la planificación a agentes marroquíes, tratándolo como dato firme entregado por la Policía; no menciona la reacción política de Marlaska."
+        }
+      ],
+      "rango": 78,
+      "discrepancia": "alta",
+      "silenciosos": []
+    },
+    {
+      "neutral_headline": "Convocatorias de apoyo a Ceuta generan divisiones entre PP, PSOE y Gobierno",
+      "section": "Politica",
+      "facts": [
+        "Feijóo y Abascal convocan una protesta por la crisis migratoria en Ceuta",
+        "Varios alcaldes del PSOE participan o apoyan las movilizaciones pese a la postura de Ferraz",
+        "El PP organiza concentraciones municipales en apoyo a Ceuta",
+        "El Gobierno cuestiona que un ayuntamiento pueda organizar concentraciones"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "movilizacion legitima de apoyo a Ceuta",
+        "polo_b": "ataque partidista del PP contra el Gobierno",
+        "resumen": "Los medios discrepan en si las concentraciones son un apoyo institucional a Ceuta o una maniobra del PP para atacar al Gobierno y dividir al PSOE"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Feijóo y Abascal unen fuerzas en una protesta que esperan masiva por la crisis de Ceuta",
+          "link": "https://elpais.com/espana/2026-09-02/feijoo-y-abascal-unen-fuerzas-en-una-protesta-que-esperan-masiva-por-la-crisis-de-ceuta.html",
+          "position": 40,
+          "focus": "Destaca la union de Feijóo y Abascal como motor de la protesta, sin cuestionar su legitimidad; omite la respuesta del Gobierno"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Los alcaldes sin miedo del PSOE dan la cara frente a Sánchez: \"Hay que defender Ceuta hoy\"",
+          "link": "https://www.elmundo.es/espana/2026/09/01/6a971acbfc6c8347758b4593.html",
+          "position": 15,
+          "focus": "Presenta a los alcaldes del PSOE como valientes defensores de Ceuta frente a Sánchez, enfatizando la legitimidad de la causa"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Aumenta el número de alcaldes del PSOE que desobedecerán a Ferraz en las manifestaciones",
+          "link": "https://www.abc.es/espana/aumenta-numero-alcaldes-psoe-desobedeceran-hoy-ferraz-20260901192115-nt.html",
+          "position": 20,
+          "focus": "Centra el relato en la desobediencia interna del PSOE hacia Ferraz, sugiriendo division en el partido"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "El PP convierte las movilizaciones por Ceuta en un ataque al Gobierno con escaso apoyo de alcaldes del PSOE",
+          "link": "https://www.eldiario.es/politica/pp-convierte-movilizaciones-ceuta-ataque-gobierno-escaso-apoyo-alcaldes-psoe_1_13480529.html",
+          "position": 90,
+          "focus": "Enmarca las movilizaciones como una estrategia del PP para atacar al Gobierno, minimizando el respaldo real de alcaldes del PSOE"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "El PP logra dividir a la izquierda con sus convocatorias municipales en apoyo a Ceuta",
+          "link": "https://www.lavanguardia.com/politica/20260902/11624938/pp-logra-dividir-izquierda-convocatorias-municipales-apoyo-ceuta.html",
+          "position": 75,
+          "focus": "Subraya el exito del PP en fracturar a la izquierda, poniendo el foco en la division interna del PSOE"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "El Gobierno intenta boicotear los actos de apoyo a Ceuta negando que un ayuntamiento pueda montar concentraciones",
+          "link": "https://www.elespanol.com/espana/politica/20260901/gobierno-no-autoriza-madrid-concentracion-apoyo-ceuta-iban-asistir-feijoo-abascal/1003744369584_0.html",
+          "position": 10,
+          "focus": "Acusa al Gobierno de intentar impedir los actos de apoyo a Ceuta, presentando al Ejecutivo como obstaculizador"
+        }
+      ],
+      "rango": 80,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos"
+      ]
+    },
+    {
+      "neutral_headline": "Dos mujeres mueren al caer al mar el vehículo en que viajaban en el puerto de Algeciras; hecho no relacionado: taxista asesinado en Azpeitia",
+      "section": "Sociedad",
+      "facts": [
+        "Dos mujeres murieron al caer al mar un vehículo en el puerto de Algeciras (El Mundo, El Español, 20minutos)",
+        "El Mundo precisa que las víctimas intentaban embarcar en un buque",
+        "20minutos añade que dos hombres resultaron heridos en el mismo suceso",
+        "El País relata un hecho distinto y sin relación: un taxista de Azpeitia fue asesinado a tiros tras ser embestido por otro vehículo"
+      ],
+      "tipo_divergencia": "cronologica",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Asesinado a tiros un taxista de Azpeitia tras ser embestido por otro vehículo",
+          "link": "https://elpais.com/espana/pais-vasco/2026-09-02/asesinado-a-tiros-un-taxista-de-azpeitia-tras-ser-embestido-por-otro-vehiculo.html",
+          "position": 50,
+          "focus": "Cubre un suceso independiente (asesinato de un taxista en Azpeitia) sin relación con el hecho de Algeciras narrado por las demás piezas"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Mueren dos mujeres tras caer al mar el vehículo en el que viajaban cuando intentaban embarcar en un buque  en el puerto de Algeciras",
+          "link": "https://www.elmundo.es/andalucia/2026/09/02/6a97c192fc6c8386058b4591.html",
+          "position": 50,
+          "focus": "Detalla que las mujeres intentaban embarcar en un buque cuando el vehículo cayó al mar"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Mueren dos mujeres en el puerto de Algeciras al caer al mar el vehículo en el que viajaban",
+          "link": "https://www.elespanol.com/espana/andalucia/20260902/mueren-mujeres-puerto-algeciras-caer-mar-vehiculo-viajaban/1003744369799_0.html",
+          "position": 50,
+          "focus": "Versión escueta centrada solo en la caída del vehículo y las dos víctimas mortales"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Dos mujeres muertas y dos hombres heridos al caer al mar con el coche en el que viajaban en Algeciras",
+          "link": "https://www.20minutos.es/andalucia/cadiz/dos-muertos-una-mujer-grave-caer-mar-con-coche-que-viajaban-puerto-algeciras_7031792_0.html",
+          "position": 50,
+          "focus": "Añade el dato de dos hombres heridos, ampliando el balance de víctimas respecto a las otras piezas"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "ABC",
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Irán ataca bases de EEUU en Jordania y otros países en respuesta a bombardeos previos de Washington",
+      "section": "Internacional",
+      "facts": [
+        "Estados Unidos bombardeó Irán",
+        "Irán respondió atacando bases estadounidenses en Jordania",
+        "Según El Mundo y El Español, Irán también atacó bases en Bahréin y Kuwait, y El Mundo añade Irak",
+        "Es la segunda vez en menos de 48 horas que Jordania es blanco de ataques, según El Mundo",
+        "20minutos reporta al menos 11 muertos, cuatro de ellos en una boda, durante la segunda noche de ataques de EEUU a Irán"
+      ],
+      "tipo_divergencia": "cronologica",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania",
+          "link": "https://elpais.com/internacional/2026-09-01/estados-unidos-bombardea-iran-por-segunda-vez-en-una-semana.html",
+          "position": 50,
+          "focus": "Describe el intercambio general EEUU-Irán con foco en Jordania como blanco iraní"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Irán ataca bases estadounidenses en Bahréin, Kuwait e Irak tras golpear por segunda vez las de Jordania en menos de 48 horas",
+          "link": "https://www.elmundo.es/internacional/2026/09/01/6a973d46fdddff822f8b45ae.html",
+          "position": 50,
+          "focus": "Amplía el alcance del ataque iraní a Bahréin, Kuwait e Irak, y detalla la repetición sobre Jordania"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Irán responde al ataque de EE.UU. con una oleada de misiles contra sus bases militares en Jordania",
+          "link": "https://www.abc.es/internacional/iran-responde-ataque-eeuu-oleada-misiles-bases-20260902001102-nt.html",
+          "position": 50,
+          "focus": "Se centra en la respuesta iraní contra Jordania con énfasis en la magnitud del ataque (oleada de misiles)"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Irán responde a los ataques de EEUU y vuelve a bombardear bases norteamericanas en Jordania",
+          "link": "https://www.eldiario.es/internacional/iran-responde-ataques-eeuu-vuelve-bombardear-bases-norteamericanas-jordania_1_13480892.html",
+          "position": 50,
+          "focus": "Reporta la respuesta iraní limitada a Jordania, sin mencionar otros países"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Irán vuelve a atacar bases de EEUU en Jordania, Bahréin y Kuwait como respuesta a la última oleada de bombardeos",
+          "link": "https://www.elespanol.com/mundo/oriente-proximo/20260902/iran-vuelve-atacar-bases-estadounidenses-jordania-respuesta-ultima-oleada-bombardeos/1003744369706_0.html",
+          "position": 50,
+          "focus": "Amplía el alcance a Bahréin y Kuwait además de Jordania, similar a El Mundo pero sin mencionar Irak"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Bombas en una boda: al menos 11 muertos, cuatro de ellos en una celebración, en la segunda noche de ataques de EEUU a Irán",
+          "link": "https://www.20minutos.es/internacional/menos-11-muertos-cuatro-ellos-durante-celebracion-una-boda-58-heridos-segunda-noche-ataques-eeuu-iran_7031814_0.html",
+          "position": 50,
+          "focus": "Introduce un dato humano y de víctimas civiles (boda) ausente en las demás piezas, centrado en el balance de muertos"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "España pierde alrededor de 163.000 empleos en agosto y el paro sube por la regularización de inmigrantes",
+      "section": "Economia",
+      "facts": [
+        "En agosto se destruyeron entre 162.800 y 163.840 empleos según el medio",
+        "El paro subió, con cifras de 44.000 a 44.419 personas según el medio",
+        "Varios medios atribuyen la moderación en la pérdida de empleo a la regularización de trabajadores extranjeros",
+        "ABC atribuye la caída de empleo a los vaivenes en los contratos del sector educativo",
+        "El Mundo cita al Gobierno diciendo que la pérdida de empleo habría sido mayor sin la regularización"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "causa: regularización de inmigrantes",
+        "polo_b": "causa: factores estacionales/educativos",
+        "resumen": "Los medios difieren en si atribuyen la evolución del empleo y el paro a la regularización de extranjeros o a otros factores como los contratos educativos"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "La regularización atenúa la pérdida de empleos en agosto con 162.800 puestos menos, pero acelera el paro",
+          "link": "https://elpais.com/economia/2026-09-02/la-regularizacion-atenua-la-perdida-de-empleos-en-agosto-con-162000-puestos-menos-pero-acelera-el-paro.html",
+          "position": 15,
+          "focus": "Destaca que la regularización atenúa la pérdida de empleo, aunque acelera el paro; no cuestiona la causa"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "España destruye 163.840 empleos por el final del verano y el Gobierno dice que habrían sido más sin la regulación masiva de inmigrantes",
+          "link": "https://www.elmundo.es/economia/2026/09/02/6a97c8c9fc6c8341048b45ac.html",
+          "position": 20,
+          "focus": "Atribuye el efecto a la regularización pero con matiz crítico ('regulación masiva'), citando al Gobierno como fuente de la interpretación"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "España pierde 162.840 empleos en agosto por los vaivenes en los contratos de la educación",
+          "link": "https://www.abc.es/economia/espana-pierde-162840-empleos-agosto-vaivenes-contratos-20260902085743-nt.html",
+          "position": 90,
+          "focus": "Ignora la regularización como causa y señala los contratos del sector educativo como explicación principal"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "La regularización alivia la reducción de empleo del final del verano a 162.800 personas, aunque empuja al alza el paro",
+          "link": "https://www.eldiario.es/economia/regularizacion-alivia-reduccion-empleo-final-verano-162-800-personas-empuja-alza-paro_1_13480870.html",
+          "position": 15,
+          "focus": "Enfatiza que la regularización alivia la caída de empleo, con foco en el aspecto positivo para el mercado laboral"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "La regularización de extranjeros reduce la destrucción de empleo en agosto, con casi 163.000 ocupados menos en el mes",
+          "link": "https://www.lavanguardia.com/economia/20260902/11625279/regularizacion-extranjeros-reduce-destruccion-empleo-agosto-163-000-ocupados-mes.html",
+          "position": 15,
+          "focus": "Resalta que la regularización de extranjeros reduce la destrucción de empleo, foco en el efecto migratorio"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "El paro sufre su peor agosto desde 2019 al subir en 44.419 personas por la regularización y se pierden 162.840 empleos",
+          "link": "https://www.elespanol.com/invertia/economia/empleo/20260902/paro-sufre-peor-agosto-subir-personas-regularizacion-pierden-empleos/1003744369744_0.html",
+          "position": 25,
+          "focus": "Vincula la subida del paro a la regularización, aunque también reporta cifras de empleo sin explicar su causa"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "España destruye 163.000 empleos en agosto y el paro sube en 44.000 personas",
+          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/espana-destruye-163-000-empleos-agosto-paro-sube-44-000-personas_7031799_0.html",
+          "position": 50,
+          "focus": "Se limita a reportar las cifras de empleo y paro sin atribuir causa alguna"
         }
       ],
       "rango": 75,
       "discrepancia": "alta",
-      "silenciosos": [
-        "20minutos",
-        "ABC",
-        "La Vanguardia"
-      ]
+      "silenciosos": []
     },
     {
-      "neutral_headline": "Ceuta refuerza su sistema judicial y de seguridad tras el aumento de casos de agresión sexual vinculados a la crisis migratoria",
-      "section": "Sociedad",
-      "facts": [
-        "La fiscal jefa de Ceuta declara que hay casi una agresión sexual al día y expresa preocupación",
-        "El Mundo describe cinco días de violencia en Ceuta y cita advertencias sobre una posible desgracia",
-        "ABC informa de la detención de un menor marroquí por agresión sexual a tres niñas de 10 y 11 años en un centro, tras una avalancha migratoria",
-        "El CGPJ (Poder Judicial) designa una jueza para reforzar el Juzgado de Ceuta, sobrecargado de casos de agresión sexual",
-        "20minutos especifica que la jueza refuerza el juzgado de violencia contra la mujer de Ceuta"
-      ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "enfoque institucional/víctimas",
-        "polo_b": "enfoque amenaza migratoria",
-        "resumen": "Los medios varían entre presentar el aumento de agresiones como un problema institucional que requiere refuerzo judicial y presentarlo como consecuencia directa de una 'invasión' o llegada masiva de migrantes, señalando su origen nacional"
-      },
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "La fiscal jefa de Ceuta: “Hay casi una agresión sexual al día. Hay preocupación”",
-          "link": "https://elpais.com/espana/2026-09-01/la-fiscal-jefa-de-ceuta-hay-casi-una-agresion-sexual-al-dia-hay-preocupacion.html",
-          "position": 45,
-          "focus": "Cita textual de la fiscal centrada en datos y preocupación institucional, sin mencionar causa migratoria explícita"
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "Cinco días de violencia ya en Ceuta: \"Va a ocurrir una desgracia\"",
-          "link": "https://www.elmundo.es/espana/2026/08/31/6a95c50efc6c83fa308b459e.html",
-          "position": 50,
-          "focus": "Enfatiza la escalada de violencia y advertencias de riesgo, sin atribuir causa a un grupo específico"
-        },
-        {
-          "outlet": "ABC",
-          "headline": "Detenido un menor marroquí por agresión sexual a tres niñas de entre 10 y 11 años en un centro tras la avalancha",
-          "link": "https://www.abc.es/espana/detenido-menor-agresion-sexual-tres-ninas-centro-20260901130006-nt.html",
-          "position": 75,
-          "focus": "Detalla nacionalidad del agresor (marroquí) y vincula el hecho directamente con la 'avalancha' migratoria, resaltando el origen extranjero"
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "El CGPJ designa a una jueza para reforzar el Juzgado de Ceuta sobrecargado de casos de agresión sexual tras la invasión",
-          "link": "https://www.elespanol.com/espana/tribunales/20260901/cgpj-designa-juez-reforzar-juzgado-ceuta-sobrecargado-casos-agresion-sexual-invasion/1003744368661_0.html",
-          "position": 85,
-          "focus": "Usa el término 'invasión' para describir la llegada migratoria, encuadrando la sobrecarga judicial como consecuencia directa de esa 'invasión'"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "El Poder Judicial nombra a una jueza para reforzar el juzgado de violencia contra la mujer de Ceuta",
-          "link": "https://www.20minutos.es/nacional/cgpj-nombra-una-jueza-para-reforzar-juzgado-violencia-contra-mujer-ceuta_7031373_0.html",
-          "position": 40,
-          "focus": "Enfoque institucional neutro centrado en el refuerzo judicial sin mencionar causa migratoria ni nacionalidad"
-        }
-      ],
-      "rango": 45,
-      "discrepancia": "media",
-      "silenciosos": [
-        "La Vanguardia",
-        "eldiario.es"
-      ]
-    },
-    {
-      "neutral_headline_general_note": "Se agrupan dos hechos distintos: (A) balance del verano en España y (B) subida de la inflación en la eurozona en agosto.",
-      "facts_general": [],
-      "items": [
-        {
-          "idx": 0,
-          "neutral_headline": "El verano de 2024 en España es el más cálido registrado y el que más fallecidos ha causado",
-          "section": "Sociedad",
-          "facts": [
-            "Ha sido el verano más cálido registrado en España",
-            "Se han contabilizado más de 5.000 fallecidos asociados al calor"
-          ],
-          "tipo_divergencia": "ninguna",
-          "eje": {
-            "polo_a": null,
-            "polo_b": null,
-            "resumen": null
-          },
-          "frames": [
-            {
-              "idx": 0,
-              "position": 50,
-              "focus": "Destaca el récord de temperatura y la cifra de muertes; no compara con otros medios porque trata un hecho distinto al de la inflación"
-            }
-          ]
-        },
-        {
-          "idx": 1,
-          "neutral_headline": "La inflación de la eurozona sube al 3,3% en agosto, su nivel más alto en tres años",
-          "section": "Economia",
-          "facts": [
-            "La inflación de la eurozona subió al 3,3% en agosto",
-            "Es el nivel más alto en tres años",
-            "La subida presiona hacia un alza de tipos del BCE"
-          ],
-          "tipo_divergencia": "ninguna",
-          "eje": {
-            "polo_a": null,
-            "polo_b": null,
-            "resumen": null
-          },
-          "frames": [
-            {
-              "idx": 1,
-              "position": 50,
-              "focus": "Se centra en el dato histórico (máximo en tres años) y su efecto sobre la política monetaria, sin mencionar la causa concreta del alza"
-            }
-          ]
-        },
-        {
-          "idx": 2,
-          "neutral_headline": "La inflación de la eurozona acelera hasta el 3,3% en agosto y presiona al BCE a subir tipos",
-          "section": "Economia",
-          "facts": [
-            "La inflación de la eurozona aceleró hasta el 3,3% en agosto",
-            "La aceleración presiona al BCE para volver a subir los tipos de interés"
-          ],
-          "tipo_divergencia": "ninguna",
-          "eje": {
-            "polo_a": null,
-            "polo_b": null,
-            "resumen": null
-          },
-          "frames": [
-            {
-              "idx": 2,
-              "position": 50,
-              "focus": "Enfatiza la aceleración y la presión directa sobre el BCE, sin citar la causa energética ni la fecha concreta de la decisión"
-            }
-          ]
-        },
-        {
-          "idx": 3,
-          "neutral_headline": "La inflación de la eurozona sube al 3,3% en agosto por la energía y abre paso a una subida de tipos del BCE en septiembre",
-          "section": "Economia",
-          "facts": [
-            "La inflación de la eurozona subió al 3,3% en agosto",
-            "El alza se atribuye al precio de la energía",
-            "Se anticipa una subida de tipos del BCE en septiembre"
-          ],
-          "tipo_divergencia": "ninguna",
-          "eje": {
-            "polo_a": null,
-            "polo_b": null,
-            "resumen": null
-          },
-          "frames": [
-            {
-              "idx": 3,
-              "position": 50,
-              "focus": "Añade la causa concreta (energía) y precisa el momento de la posible decisión del BCE (septiembre), detalle que los otros dos medios no incluyen"
-            }
-          ]
-        }
-      ],
-      "eje": null,
-      "frames": [],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "20minutos",
-        "ABC",
-        "El Espanol",
-        "El Mundo",
-        "El Pais",
-        "La Vanguardia",
-        "eldiario.es"
-      ]
-    },
-    {
-      "neutral_headline": "Piezas distintas del entorno judicial y político del caso Koldo",
+      "neutral_headline": "Debate sobre las causas de la crisis migratoria de Ceuta y el papel de redes de inteligencia extranjeras",
       "section": "Politica",
       "facts": [
-        "La Fiscalía se opone a los recursos de Ábalos y Koldo contra la sentencia del Supremo",
-        "La Fiscalía califica esos recursos como abocados al fracaso",
-        "Macarena Olona fue diputada de Vox",
-        "Olona se incorpora al despacho de abogados que representa a Aldama y a Julio Iglesias",
-        "Serrano fue jefe de gabinete de Pedro Sánchez",
-        "Serrano pide anular el clonado de su móvil",
-        "En el móvil clonado de Serrano había 10.000 mensajes de WhatsApp con Leire"
-      ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "La Fiscalía se opone a las quejas de Ábalos y Koldo contra la sentencia del Supremo: “Están abocadas al fracaso”",
-          "link": "https://elpais.com/espana/2026-09-01/la-fiscalia-se-opone-a-las-quejas-de-abalos-y-koldo-contra-la-sentencia-del-supremo-estan-abocadas-al-fracaso.html",
-          "position": 50,
-          "focus": "Informa sobre la postura de la Fiscalía ante los recursos de Ábalos y Koldo, centrada en el proceso judicial"
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "Macarena Olona, ex diputada de Vox, se incorpora al despacho del abogado de Aldama y Julio Iglesias",
-          "link": "https://www.elmundo.es/espana/2026/09/01/6a969912e85ece5a698b45af.html",
-          "position": 50,
-          "focus": "Informa sobre la incorporación de Olona a un despacho de abogados vinculado a Aldama y Julio Iglesias"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "La exdiputada de Vox Macarena Olona se incorpora al despacho del abogado de Aldama y Julio Iglesias",
-          "link": "https://www.eldiario.es/politica/exdiputada-vox-macarena-olona-incorpora-despacho-abogado-aldama-julio-iglesias_1_13479228.html",
-          "position": 50,
-          "focus": "Reproduce el mismo hecho que El Mundo sobre la incorporación de Olona, con redacción casi idéntica"
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "Serrano, exjefe de gabinete de Sánchez, pide ahora anular el clonado de su móvil en el que tenía 10.000 'wasaps' con Leire",
-          "link": "https://www.elespanol.com/espana/tribunales/20260901/serrano-exjefe-gabinete-sanchez-pide-ahora-anular-clonado-movil-wasaps-leire/1003744368965_0.html",
-          "position": 50,
-          "focus": "Informa sobre la petición de Serrano de anular el clonado de su móvil con mensajes con Leire"
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "20minutos",
-        "ABC",
-        "La Vanguardia"
-      ]
-    },
-    {
-      "neutral_headline": "El secretario del Ejército de Estados Unidos dimite de su cargo",
-      "section": "Internacional",
-      "facts": [
-        "El secretario del Ejército de Estados Unidos, Dan Driscoll, presenta su dimisión",
-        "El Pais vincula la dimisión a despidos en la cúpula de las Fuerzas Armadas",
-        "El Espanol vincula la dimisión a meses de choques con Hegseth y a una 'purga' de generales en el Pentágono",
-        "eldiario.es señala que la dimisión ocurre en medio de la guerra de Irán y agrava un vacío de liderazgo"
+        "Se investigó la posible participación de redes rusas e israelíes en la crisis migratoria de Ceuta",
+        "Marruecos y países europeos criticaron a España por la regularización de migrantes",
+        "Policía y Guardia Civil no detectaron maniobras de las redes de inteligencia rusa e israelí antes del asalto a Ceuta, según El Español"
       ],
       "tipo_divergencia": "editorial",
       "eje": {
-        "polo_a": "causa institucional (despidos en la cúpula militar)",
-        "polo_b": "causa personal-política (choques con Hegseth y purga interna)",
-        "resumen": "Los medios difieren en si la dimisión responde a una reestructuración institucional o a un conflicto político-personal dentro del Pentágono"
+        "polo_a": "causa geopolitica externa (redes de inteligencia)",
+        "polo_b": "causa politica interna (regularizacion/efecto llamada)",
+        "resumen": "Unos medios centran la crisis en la posible injerencia de redes rusas e israelies, mientras otro desplaza el foco hacia el debate sobre el efecto llamada y la regularizacion de migrantes en Espana"
       },
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "El secretario del Ejército de Estados Unidos, Dan Driscoll, dimite por los despidos en la cúpula de las Fuerzas Armadas",
-          "link": "https://elpais.com/internacional/2026-09-01/el-secretario-del-ejercito-de-estados-unidos-dan-driscoll-dimite-por-los-despidos-en-la-cupula-de-las-fuerzas-armadas.html",
+          "headline": "¿Cómo han participado las redes rusas e israelies en la crisis migratoria de Ceuta?",
+          "link": "https://elpais.com/videos/2026-09-02/como-han-participado-las-redes-rusas-e-israelies-en-la-crisis-migratoria-de-ceuta.html",
           "position": 15,
-          "focus": "Atribuye la dimisión directamente a los despidos en la cúpula de las Fuerzas Armadas, presentándola como consecuencia de una decisión institucional"
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "El secretario del Ejército de Estados Unidos presenta su renuncia",
-          "link": "https://www.elmundo.es/internacional/2026/09/01/6a960dd721efa027598b4589.html",
-          "position": 50,
-          "focus": "Se limita a informar la renuncia sin atribuir causa explícita, encuadre puramente descriptivo"
+          "focus": "Explora la implicacion de redes rusas e israelies como factor explicativo de la crisis, sin cuestionar si hubo o no participacion; omite el debate sobre politicas migratorias internas"
         },
         {
           "outlet": "eldiario.es",
-          "headline": "El secretario del Ejército de EEUU dimite y aumenta el vacío de liderazgo en medio de la guerra de Irán",
-          "link": "https://www.eldiario.es/internacional/secretario-ejercito-eeuu-dimite-aumenta-vacio-liderazgo-medio-guerra-iran_1_13478327.html",
-          "position": 55,
-          "focus": "Enfatiza las consecuencias geopolíticas del vacío de liderazgo en el contexto de la guerra de Irán, más que la causa interna de la dimisión"
+          "headline": "El falso “efecto llamada”: la paradoja de las críticas de Marruecos y países europeos a España por la regularización de migrantes",
+          "link": "https://www.eldiario.es/internacional/falso-efecto-llamada-paradoja-criticas-marruecos-paises-europeos-espana-regularizacion-migrantes_129_13478752.html",
+          "position": 85,
+          "focus": "Cuestiona el relato del 'efecto llamada' usado por Marruecos y la UE para criticar a Espana por la regularizacion, centrando el debate en politica migratoria interna y omitiendo cualquier referencia a redes de inteligencia extranjeras"
         },
         {
           "outlet": "El Espanol",
-          "headline": "El secretario del Ejército de EEUU dimite tras meses de choques con Hegseth y la 'purga' de generales en el Pentágono",
-          "link": "https://www.elespanol.com/mundo/america/eeuu/20260901/secretario-ejercito-eeuu-dimite-meses-choques-hegseth-purga-generales-pentagono/1003744368749_0.html",
-          "position": 85,
-          "focus": "Destaca el conflicto personal con Hegseth y la 'purga' de generales como motivo detrás de la dimisión, enfatizando la tensión política interna"
+          "headline": "Ni Policía ni Guardia Civil detectaron maniobras en las redes de las inteligencias rusa e israelí previas al asalto de Ceuta",
+          "link": "https://www.elespanol.com/espana/20260902/policia-guardia-civil-detectaron-maniobras-redes-inteligencias-rusa-israeli-previas-asalto-ceuta/1003744369365_0.html",
+          "position": 25,
+          "focus": "Mantiene el foco en las redes de inteligencia rusa e israeli, pero anade un angulo critico hacia la falta de deteccion por parte de Policia y Guardia Civil, senalando un fallo institucional dentro del mismo marco geopolitico"
         }
       ],
       "rango": 70,
@@ -395,383 +360,61 @@
       "silenciosos": [
         "20minutos",
         "ABC",
-        "La Vanguardia"
-      ]
-    },
-    {
-      "neutral_headline": "Un jurado declara culpable a Duane 'Keffe D' Davis de orquestar el asesinato de Tupac Shakur en 1996",
-      "section": "Sociedad",
-      "facts": [
-        "Un jurado declaró culpable al acusado",
-        "El acusado es identificado como exlíder de pandilla, conocido como 'Keffe D' o Duane Davis",
-        "Se le declara culpable de planear/orquestar el asesinato del rapero Tupac Shakur",
-        "El asesinato ocurrió en 1996",
-        "El veredicto llega cerca de 30 años después del crimen"
-      ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "El jurado declara culpable al exlíder de una pandilla que planeó el asesinato del rapero Tupac Shakur en 1996",
-          "link": "https://elpais.com/us/2026-09-01/el-jurado-declara-culpable-al-exlider-de-una-pandilla-que-planeo-el-asesinato-del-rapero-tupac-shakur-en-1996.html",
-          "position": 50,
-          "focus": "Describe al condenado por su rol (exlíder de pandilla) sin usar su nombre propio, enfatiza el hecho de la planificación del crimen"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "El jurado halla culpable a 'Keffe D' de orquestar el asesinato de Tupac Shakur hace casi 30 años",
-          "link": "https://www.lavanguardia.com/gente/20260901/11624305/jurado-halla-culpable-keffe-d-orquestar-asesinato-tupa-shakur-30-anos.html",
-          "position": 50,
-          "focus": "Usa el apodo 'Keffe D' y resalta el tiempo transcurrido desde el crimen (casi 30 años)"
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "Un jurado declara culpable del asesinato de Tupac Shakur a Duane 'Keffe D' Davis, 30 años después del crimen",
-          "link": "https://www.elespanol.com/mundo/america/20260901/jurado-declara-culpable-exlider-pandilla-planeo-asesinato-tupac-shakur-anos-despues-crimen/1003744368544_0.html",
-          "position": 50,
-          "focus": "Identifica completamente al condenado (nombre y apodo) y precisa la cifra exacta de años transcurridos (30 años)"
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "20minutos",
-        "ABC",
         "El Mundo",
-        "eldiario.es"
-      ]
-    },
-    {
-      "neutral_headline": "Más Madrid y PSOE se personan como acusación en el caso del ático comprado por el Gobierno de Ayuso",
-      "section": "Politica",
-      "facts": [
-        "Más Madrid calcula que la compra del ático constituye un 'comportamiento delictivo'",
-        "Más Madrid se presenta como acusación popular en la causa",
-        "El PSOE también se persona en la causa del ático",
-        "García es descrito como 'hombre para todo' de Ayuso",
-        "Sánchez ha realizado ataques a Ayuso por la compra del ático",
-        "Existe malestar en parte del PP madrileño por este asunto"
-      ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "Denuncia opositora contra el Gobierno de Ayuso",
-        "polo_b": "Ayuso como víctima de ataques políticos de Sánchez",
-        "resumen": "El Pais y eldiario.es centran el foco en la acción legal de la oposición contra la compra, mientras El Mundo desplaza el eje hacia la defensa de Ayuso frente a los ataques de Sánchez y las tensiones internas del PP"
-      },
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "Más Madrid ve un “comportamiento delictivo” en la compra del ático por parte del Gobierno de Ayuso y se presenta como acusación popular",
-          "link": "https://elpais.com/espana/madrid/2026-09-01/mas-madrid-ve-un-comportamiento-delictivo-en-la-compra-del-atico-por-parte-del-atico-del-gobierno-de-ayuso-y-se-presenta-como-acusacion-popular.html",
-          "position": 15,
-          "focus": "Destaca la calificación de 'comportamiento delictivo' hecha por Más Madrid y su papel como acusación popular; omite la perspectiva de Ayuso o su entorno"
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "Ayuso protege a García, su 'hombre para todo' entre los ataques de Sánchez por la compra del ático y el malestar de parte del PP madrileño",
-          "link": "https://www.elmundo.es/madrid/2026/09/01/6a95b7dae9cf4af5038b459f.html",
-          "position": 85,
-          "focus": "Centra el relato en Ayuso protegiendo a su colaborador frente a los ataques de Sánchez y las tensiones internas del PP; minimiza el contenido de la denuncia legal"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "Más Madrid y el PSOE se personan en la causa del ático comprado por el Gobierno de Ayuso",
-          "link": "https://www.eldiario.es/madrid/madrid-persona-causa-atico-comprado-gobierno-ayuso_1_13478696.html",
-          "position": 30,
-          "focus": "Describe de forma más neutral la personación de Más Madrid y PSOE en la causa, sin calificar los hechos ni entrar en el relato de defensa de Ayuso"
-        }
-      ],
-      "rango": 70,
-      "discrepancia": "alta",
-      "silenciosos": [
-        "20minutos",
-        "ABC",
-        "El Espanol",
         "La Vanguardia"
       ]
     },
     {
-      "neutral_headline": "La inflación de la eurozona sube al 3,3% en agosto, su nivel más alto en tres años, impulsada por la energía",
-      "section": "Economia",
+      "neutral_headline": "Ana Peleteiro cuestiona el carácter feminista de la iniciativa de congelar óvulos a futbolistas",
+      "section": "Deportes",
       "facts": [
-        "La inflación de la eurozona alcanzó el 3,3% en agosto",
-        "Es el nivel más alto en tres años",
-        "La energía es señalada como principal impulsor del alza",
-        "Varios medios vinculan el dato a una posible subida de tipos del BCE",
-        "El Mundo señala que España encabeza la subida de precios en la eurozona"
+        "Ana Peleteiro se pronunció sobre la iniciativa de congelar óvulos a las futbolistas de la RFEF",
+        "Peleteiro cuestionó que la medida sea feminista, sugiriendo que podría ser 'profundamente machista'",
+        "eldiario.es señala que congelar óvulos es un alivio para algunas personas pero no resuelve la crisis de fertilidad de fondo"
       ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "foco en la eurozona/dato técnico",
-        "polo_b": "foco en España y tono alarmista sobre el invierno energético",
-        "resumen": "La mayoría de medios centra el titular en el dato agregado de la eurozona y su efecto en el BCE, mientras El Mundo destaca a España como protagonista y anticipa un 'duro invierno energético'."
-      },
+      "tipo_divergencia": "ninguna",
+      "eje": null,
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "La inflación en la eurozona se eleva al 3,3% en agosto impulsada por la energía",
-          "link": "https://elpais.com/economia/2026-09-01/la-inflacion-en-la-eurozona-se-eleva-al-33-en-agosto-impulsada-por-la-energia.html",
-          "position": 45,
-          "focus": "Se centra en el dato agregado de la eurozona y la energía como causa, sin mencionar consecuencias futuras ni a España."
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "Los precios se disparan en agosto en la Eurozona a máximos de tres años, con España a la cabeza en la antesala de un duro invierno energético",
-          "link": "https://www.elmundo.es/economia/macroeconomia/2026/09/01/6a96a31de9cf4aac248b4576.html",
-          "position": 75,
-          "focus": "Destaca a España como protagonista y añade un tono de advertencia sobre el invierno energético, ampliando el marco más allá del dato puro."
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "La inflación en la eurozona sube al 3,3% en agosto, su nivel más alto en tres años, y empuja a una subida de tipos",
-          "link": "https://www.eldiario.es/economia/inflacion-eurozona-sube-3-3-agosto-nivel-alto-tres-anos-empuja-subida-tipos_1_13478753.html",
-          "position": 45,
-          "focus": "Vincula el dato al BCE y a una posible subida de tipos, manteniendo el foco en la eurozona en su conjunto."
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "La inflación de la eurozona acelera hasta el 3,3% en agosto y mete presión al BCE para volver a subir los tipos de interés",
-          "link": "https://www.elespanol.com/invertia/economia/bancos-centrales/20260901/inflacion-eurozona-acelera-agosto-mete-presion-bce-volver-subir-tipos-interes/1003744368683_0.html",
-          "position": 45,
-          "focus": "Enfatiza la presión sobre el BCE para subir tipos, sin mencionar a España ni anticipar escenarios futuros."
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "La inflación de la Eurozona se dispara al 3,3% por la energía y da vía libre a un alza de tipos del BCE en septiembre",
-          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/inflacion-eurozona-se-dispara-3-3-por-energia-da-via-libre-un-alza-tipos-bce-septiembre_7031392_0.html",
-          "position": 45,
-          "focus": "Resalta la energía como causa y anticipa una subida de tipos del BCE en septiembre, centrado en la eurozona."
-        }
-      ],
-      "rango": 30,
-      "discrepancia": "media",
-      "silenciosos": [
-        "ABC",
-        "La Vanguardia"
-      ]
-    },
-    {
-      "neutral_headline": "La policía de Nueva York mata a tiros a una mujer que apuñaló y mató a una persona e hirió a otra en Times Square",
-      "section": "Sociedad",
-      "facts": [
-        "El hecho ocurrió en Times Square, Nueva York",
-        "Una mujer apuñaló a dos personas, matando a una e hiriendo gravemente a otra",
-        "La policía disparó y mató a la mujer",
-        "La Vanguardia especifica que la mujer blandía dos cuchillos"
-      ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "El Mundo",
-          "headline": "La Policía de Nueva York mata a tiros a una mujer en Times Square que apuñaló y mató a una persona e hirió gravemente a otra",
-          "link": "https://www.elmundo.es/internacional/2026/09/01/6a9604d3e9cf4ab86c8b4583.html",
+          "headline": "Ana Peleteiro, sobre la iniciativa de congelar los óvulos de las futbolistas: “Que no te vendan que es feminista”",
+          "link": "https://elpais.com/sociedad/2026-09-02/ana-peleteiro-sobre-la-iniciativa-de-congelar-los-ovulos-de-las-futbolistas-que-no-te-vendan-que-es-feminista.html",
           "position": 50,
-          "focus": "Se centra en la secuencia: ataque con arma blanca y respuesta policial letal, sin detalles adicionales sobre el arma"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "La policía tirotea a una mujer que blandía dos cuchillos tras matar a una persona en Times Square",
-          "link": "https://www.lavanguardia.com/internacional/20260901/11624307/policia-tirotea-mujer-blandia-dos-cuchillos-matar-persona-herir-times-square.html",
-          "position": 50,
-          "focus": "Añade el detalle de que la mujer portaba dos cuchillos, pero omite mención a la persona herida en el titular principal"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "Ataque en Nueva York: la Policía abate a tiros a una mujer que mató a puñaladas a una persona e hirió a otra en Times Square",
-          "link": "https://www.20minutos.es/internacional/policia-neoyorquina-dispara-times-square-una-mujer-que-apunalo-gravemente-dos-personas_7031255_0.html",
-          "position": 50,
-          "focus": "Enmarca el suceso como 'ataque en Nueva York', destacando el contexto general del hecho junto con la respuesta policial"
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "ABC",
-        "El Espanol",
-        "El Pais",
-        "eldiario.es"
-      ]
-    },
-    {
-      "neutral_headline": "Detenidos en Sevilla los padres de tres niños hallados solos con hambre, frío y cucarachas",
-      "section": "Sociedad",
-      "facts": [
-        "Dos padres fueron detenidos en Sevilla",
-        "Se les acusa de abandonar a sus tres hijos",
-        "Los niños estaban sin comida",
-        "Los niños estaban en un ambiente con frío",
-        "Había cucarachas en el lugar",
-        "El Mundo y ABC señalan que los padres estaban ebrios"
-      ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "El Mundo",
-          "headline": "Detenidos en Sevilla dos padres ebrios por abandonar a sus tres hijos, con hambre, frío y entre cucarachas",
-          "link": "https://www.elmundo.es/andalucia/2026/09/01/6a96981de4d4d87e298b4594.html",
-          "position": 50,
-          "focus": "Incluye el detalle de que los padres estaban ebrios y detalla las condiciones (hambre, frío, cucarachas)"
+          "focus": "Recoge la cita de Peleteiro cuestionando el etiquetado feminista de la medida"
         },
         {
           "outlet": "ABC",
-          "headline": "Detenidos dos padres ebrios en Sevilla por abandonar a sus tres hijos, a los que tenían sin comida y entre cucarachas",
-          "link": "https://www.abc.es/sevilla/ciudad/detenidos-dos-padres-ebrios-sevilla-abandonar-tres-20260901101938-nts.html",
+          "headline": "Ana Peleteiro, contra la RFEF: ¿Y si la medida feminista fuera en realidad profundamente machista?",
+          "link": "https://www.abc.es/deportes/futbol/ana-peleteiro-rfef-medida-feminista-realidad-profundamente-20260902100352-nt.html",
           "position": 50,
-          "focus": "Igual que El Mundo, menciona la ebriedad de los padres y las condiciones de los niños"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Detenidos en Sevilla los padres de tres niños que estaban solos en casa con hambre, frío y cucarachas",
-          "link": "https://www.lavanguardia.com/local/andalucia/20260901/11624469/detenidos-sevilla-padres-tres-ninos-estaban-solos-casa-hambre-frio-cucarachas.html",
-          "position": 50,
-          "focus": "Omite la mención a la ebriedad de los padres, centra el foco en que los niños estaban solos en casa"
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "20minutos",
-        "El Espanol",
-        "El Pais",
-        "eldiario.es"
-      ]
-    },
-    {
-      "neutral_headline": "Rusia pide a España pruebas de su supuesta implicación en la crisis migratoria de Ceuta",
-      "section": "Internacional",
-      "facts": [
-        "Rusia solicitó a España pruebas sobre su presunta implicación en la crisis de Ceuta",
-        "La solicitud incluye la exigencia de hechos, materiales, cifras, fechas y nombres, según cita El Mundo y 20minutos",
-        "El Espanol vincula la implicación a una presunta campaña de desinformación en la crisis migratoria de Ceuta"
-      ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "El Mundo",
-          "headline": "Rusia pide a España pruebas de su supuesta implicación en la crisis de Ceuta que denunció Sánchez: \"Sin hechos, sin materiales respaldados con cifras, fechas y nombres, no hay nada de qué hablar\"",
-          "link": "https://www.elmundo.es/espana/2026/09/01/6a9699c9e9cf4ab3448b458d.html",
-          "position": 50,
-          "focus": "Incluye cita textual de Rusia exigiendo pruebas concretas (hechos, cifras, fechas, nombres)"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Rusia pide a España pruebas sobre su supuesta implicación en la crisis de Ceuta",
-          "link": "https://www.lavanguardia.com/politica/20260901/11624432/rusia-pide-espana-pruebas-sobre-supuesta-implicacion-crisis-ceuta.html",
-          "position": 50,
-          "focus": "Versión escueta del mismo hecho, sin cita textual"
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "Rusia pide a España pruebas sobre su implicación en la campaña de desinformación en la crisis migratoria de Ceuta",
-          "link": "https://www.elespanol.com/espana/politica/20260901/rusia-pide-espana-pruebas-implicacion-campana-desinformacion-crisis-ceuta/1003744368670_0.html",
-          "position": 50,
-          "focus": "Añade el matiz de que la implicación se relaciona con una campaña de desinformación"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "Rusia exige a Sánchez pruebas concretas de su supuesta implicación: \"Sin hechos, simplemente no hay nada de qué hablar\"",
-          "link": "https://www.20minutos.es/internacional/rusia-exige-sanchez-pruebas-concretas-su-supuesta-implicacion-crisis-ceuta_7031370_0.html",
-          "position": 50,
-          "focus": "Cita textual similar a El Mundo, centrada en la exigencia a Sánchez"
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "ABC",
-        "El Pais",
-        "eldiario.es"
-      ]
-    },
-    {
-      "neutral_headline_general": "Piezas sobre eventos distintos: dimisión de Keir Starmer y ataque en Times Square",
-      "neutral_headline": "Resumen de dos hechos noticiosos distintos publicados el mismo día",
-      "section": "Internacional",
-      "facts": [
-        "Keir Starmer, ex primer ministro británico, renuncia a su escaño en el Parlamento (El Mundo)",
-        "Una mujer atacó con cuchillos en Times Square (La Vanguardia, 20minutos)",
-        "La policía disparó y mató a la mujer atacante (La Vanguardia, 20minutos)",
-        "Según La Vanguardia, la mujer mató a una persona",
-        "Según 20minutos, la mujer mató a una persona a puñaladas e hirió a otra"
-      ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "El Mundo",
-          "headline": "El ex primer ministro británico Keir Starmer renuncia a su escaño en el Parlamento británico",
-          "link": "https://www.elmundo.es/internacional/2026/09/01/6a96bebae9cf4a9a128b458a.html",
-          "position": 50,
-          "focus": "Informa sobre la renuncia de Keir Starmer a su escaño parlamentario; no guarda relación temática con las otras dos piezas."
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "La policía tirotea a una mujer que blandía dos cuchillos tras matar a una persona en Times Square",
-          "link": "https://www.lavanguardia.com/internacional/20260901/11624307/policia-tirotea-mujer-blandia-dos-cuchillos-matar-persona-herir-times-square.html",
-          "position": 50,
-          "focus": "Describe el tiroteo policial y el ataque con cuchillos en Times Square, mencionando una víctima mortal."
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "Ataque en Nueva York: la Policía abate a tiros a una mujer que mató a puñaladas a una persona e hirió a otra en Times Square",
-          "link": "https://www.20minutos.es/internacional/policia-neoyorquina-dispara-times-square-una-mujer-que-apunalo-gravemente-dos-personas_7031255_0.html",
-          "position": 50,
-          "focus": "Describe el mismo ataque en Times Square, añadiendo el dato de una segunda víctima herida además de la fallecida."
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "ABC",
-        "El Espanol",
-        "El Pais",
-        "eldiario.es"
-      ]
-    },
-    {
-      "neutral_headline": "El Gobierno aprueba el Estatuto Marco con el rechazo de los médicos y el conflicto sigue abierto",
-      "section": "Politica",
-      "facts": [
-        "El Consejo de Ministros aprobó el nuevo Estatuto Marco",
-        "Los médicos rechazan o se oponen a la norma",
-        "El texto pasa ahora a tramitación en las Cortes",
-        "El conflicto entre el Gobierno y los médicos no se ha resuelto"
-      ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "ABC",
-          "headline": "El Consejo de Ministros aprueba el nuevo Estatuto Marco pese al rechazo de los médicos",
-          "link": "https://www.abc.es/sociedad/consejo-ministros-aprobara-hoy-nuevo-estatuto-marco-20260901094923-nt.html",
-          "position": 50,
-          "focus": "Destaca la aprobación en Consejo de Ministros pese al rechazo médico, sin detallar más pasos del proceso"
+          "focus": "Plantea en formato pregunta la reflexión de Peleteiro sobre si la medida es machista"
         },
         {
           "outlet": "eldiario.es",
-          "headline": "El Gobierno aprueba el Estatuto Marco sin resolver el conflicto con los médicos",
-          "link": "https://www.eldiario.es/sociedad/gobierno-aprobara-martes-estatuto-marco-resolver-conflicto-medicos_1_13477548.html",
+          "headline": "Congelar óvulos, un alivio para muchas que no puede ser la respuesta a la crisis de fertilidad",
+          "link": "https://www.eldiario.es/sociedad/congelar-ovulos-alivio-no-respuesta-crisis-fertilidad_129_13479233.html",
           "position": 50,
-          "focus": "Pone el foco en que el conflicto con los médicos permanece sin resolver tras la aprobación"
+          "focus": "Analiza el debate de fondo sobre la congelación de óvulos como solución a la crisis de fertilidad, sin centrarse en Peleteiro"
         },
         {
-          "outlet": "El Mundo",
-          "headline": "El Gobierno da luz verde a la tramitación del Estatuto Marco de Mónica García en las Cortes con la oposición de los médicos: \"El conflicto sigue abierto\"",
-          "link": "https://www.elmundo.es/salud/2026/09/01/6a967abdfdddfffb108b4570.html",
+          "outlet": "El Espanol",
+          "headline": "Ana Peleteiro, contra la iniciativa de congelar los óvulos de las futbolistas: \"Que no vendan que es feminista\"",
+          "link": "https://www.elespanol.com/deportes/futbol/20260902/ana-peleteiro-iniciativa-congelar-ovulos-futbolistas-no-vendan-feminista/1003744369752_0.html",
           "position": 50,
-          "focus": "Añade el dato de que el texto pasa a tramitación parlamentaria y cita la persistencia del conflicto"
+          "focus": "Reproduce la misma declaración de Peleteiro con leve variación de redacción"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Ana Peleteiro, sobre la congelación de óvulos en la selección: \"¿Y si la medida 'feminista' fuera en realidad profundamente machista?\"",
+          "link": "https://www.20minutos.es/deportes/ana-peleteiro-sobre-congelacion-ovulos-seleccion-si-medida-feminista-fuera-realidad-profundamente-machista_7031702_0.html",
+          "position": 50,
+          "focus": "Repite la cita textual de Peleteiro en formato de pregunta, igual que ABC"
         }
       ],
       "rango": 0,
       "discrepancia": "baja",
       "silenciosos": [
-        "20minutos",
-        "El Espanol",
-        "El Pais",
+        "El Mundo",
         "La Vanguardia"
       ]
     }
