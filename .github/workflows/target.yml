@@ -77,7 +77,7 @@ jobs:
                       u = cuerpo.get("usage", {})
                       GASTO["in"] += u.get("input_tokens", 0)
                       GASTO["out"] += u.get("output_tokens", 0)
-                      bloques = cuerpo.get("content", [])bloques = r.json().get("content", [])
+                      bloques = cuerpo.get("content", [])
                       texto = "".join(b.get("text", "") for b in bloques
                                       if b.get("type") == "text")
                       if texto.strip():
