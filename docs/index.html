@@ -3,8 +3,9 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Target — La misma noticia, todos los ángulos</title>
+<title>Prisma — Un hecho, según quién lo cuente</title>
 <meta name="description" content="Cada mañana, la misma noticia contada por siete periódicos españoles. Los hechos por un lado, el encuadre por otro.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 44 44'%3E%3Cpath d='M22 6 L38 34 L6 34 Z' fill='none' stroke='%230E1626' stroke-width='4' stroke-linejoin='round'/%3E%3Cpath d='M0 21 H13' stroke='%230E1626' stroke-width='3'/%3E%3Cpath d='M30 21 L44 12' stroke='%23C93A3A' stroke-width='3'/%3E%3Cpath d='M30 22 H44' stroke='%238892A0' stroke-width='3'/%3E%3Cpath d='M30 23 L44 32' stroke='%232F5FA8' stroke-width='3'/%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;700;900&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet">
@@ -27,14 +28,19 @@
   /* ---------- Cabecera ---------- */
   header{padding:28px 0 16px;border-bottom:3px solid var(--ink)}
   .masthead{display:flex;align-items:center;gap:12px}
-  .bullseye{width:42px;height:42px;flex:none}
+  .prisma{width:44px;height:44px;flex:none}
   h1.logo{font-family:'Archivo',sans-serif;font-weight:900;font-size:clamp(36px,9vw,52px);letter-spacing:-.03em;line-height:1}
-  .tagline{font-family:'Space Grotesk',sans-serif;font-size:11.5px;letter-spacing:.16em;text-transform:uppercase;color:var(--ink-soft);margin-top:6px}
-  .dateline{display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px;font-family:'Space Grotesk',sans-serif;font-size:12px;color:var(--ink-soft);margin-top:14px;border-top:1px solid var(--line);padding-top:8px}
+  .tagline{font-family:'Space Grotesk',sans-serif;font-size:11.5px;letter-spacing:.10em;text-transform:uppercase;color:var(--ink-soft);margin-top:6px}
+  .dateline{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px;font-family:'Space Grotesk',sans-serif;font-size:12px;color:var(--ink-soft);margin-top:14px;border-top:1px solid var(--line);padding-top:8px}
+  #edicion{font-family:'Space Grotesk',sans-serif;font-size:12px;color:var(--ink);background:var(--card);border:1px solid var(--line);padding:4px 8px;cursor:pointer}
+  #edicion:focus-visible{outline:2px solid var(--ink);outline-offset:1px}
 
   /* ---------- Estado ---------- */
   .estado{padding:60px 0;text-align:center;font-family:'Space Grotesk',sans-serif;color:var(--ink-soft);font-size:14px}
   .estado strong{display:block;color:var(--ink);font-size:16px;margin-bottom:8px}
+
+  /* ---------- Aviso de edición antigua ---------- */
+  .aviso{background:var(--ink);color:var(--paper);font-family:'Space Grotesk',sans-serif;font-size:13px;line-height:1.5;padding:15px 17px;margin-top:26px}
 
   /* ---------- Historia ---------- */
   article.historia{padding:30px 0;border-bottom:1px solid var(--line)}
@@ -93,35 +99,40 @@
 <header>
   <div class="wrap">
     <div class="masthead">
-      <svg class="bullseye" viewBox="0 0 44 44" aria-hidden="true">
-        <circle cx="22" cy="22" r="20" fill="none" stroke="#0E1626" stroke-width="3"/>
-        <circle cx="22" cy="22" r="12" fill="none" stroke="#0E1626" stroke-width="3"/>
-        <circle cx="22" cy="22" r="5" fill="#E03131"/>
+      <svg class="prisma" viewBox="0 0 44 44" aria-hidden="true">
+        <path d="M22 6 L38 34 L6 34 Z" fill="none" stroke="#0E1626" stroke-width="3" stroke-linejoin="round"/>
+        <path d="M0 21 H13" stroke="#0E1626" stroke-width="2.5"/>
+        <path d="M30 21 L44 12" stroke="#C93A3A" stroke-width="2.5"/>
+        <path d="M30 22 H44" stroke="#8892A0" stroke-width="2.5"/>
+        <path d="M30 23 L44 32" stroke="#2F5FA8" stroke-width="2.5"/>
       </svg>
-      <h1 class="logo">Target</h1>
+      <h1 class="logo">Prisma</h1>
     </div>
-    <div class="tagline">La misma noticia. Todos los ángulos.</div>
+    <div class="tagline">Un hecho, según quién lo cuente</div>
     <div class="dateline">
       <span id="fecha">Cargando edición…</span>
+      <select id="edicion" aria-label="Elegir edición" hidden></select>
       <span id="resumen"></span>
     </div>
   </div>
 </header>
 
 <main class="wrap" id="main">
-  <div class="estado"><strong>Cargando la edición de hoy…</strong>Leyendo los titulares de siete diarios.</div>
+  <div class="estado"><strong>Cargando la edición…</strong>Leyendo los titulares de siete diarios.</div>
 </main>
 
 <footer>
   <div class="wrap">
-    <p><b>Cómo se hace:</b> cada mañana Target lee los titulares publicados por siete diarios españoles, agrupa las piezas que cuentan el mismo hecho y separa lo verificable del encuadre. El espectro solo aparece cuando la divergencia es editorial: si los medios difieren solo porque uno actualizó antes, Target lo dice y no lo llama sesgo.</p>
-    <p>Target enlaza siempre al artículo original y nunca reproduce su contenido. Los titulares pertenecen a sus respectivos medios.</p>
+    <p><b>Cómo se hace:</b> cada mañana Prisma lee los titulares publicados por siete diarios españoles, agrupa las piezas que cuentan el mismo hecho y separa lo verificable del encuadre. El espectro solo aparece cuando la divergencia es editorial: si los medios difieren solo porque uno actualizó antes, Prisma lo dice y no lo llama sesgo.</p>
+    <p>Prisma enlaza siempre al artículo original y nunca reproduce su contenido. Los titulares pertenecen a sus respectivos medios.</p>
   </div>
 </footer>
 
 <script>
 (function(){
   const main = document.getElementById('main');
+  const sel  = document.getElementById('edicion');
+  const pedida = new URLSearchParams(location.search).get('f');
 
   const esc = s => String(s == null ? '' : s)
     .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
@@ -145,6 +156,33 @@
     }catch(e){ return ''; }
   };
 
+  const fmtCorta = ymd => {
+    try{
+      const d = new Date(ymd + 'T12:00:00');
+      return d.toLocaleDateString('es-ES', {day:'numeric', month:'short', year:'numeric'});
+    }catch(e){ return ymd; }
+  };
+
+  // ---------- Selector de ediciones ----------
+  function montarSelector(){
+    fetch('ediciones/index.json?v=' + Date.now())
+      .then(r => r.ok ? r.json() : [])
+      .then(lista => {
+        if (!Array.isArray(lista) || lista.length < 2) return;
+        const fechas = lista.slice().sort().reverse();
+        sel.innerHTML = fechas.map((d, i) => {
+          const marcada = pedida ? (d === pedida) : (i === 0);
+          return '<option value="' + esc(d) + '"' + (marcada ? ' selected' : '') + '>'
+               + esc(fmtCorta(d)) + '</option>';
+        }).join('');
+        sel.hidden = false;
+        sel.addEventListener('change', () => {
+          location.search = '?f=' + sel.value;
+        });
+      })
+      .catch(() => {});
+  }
+
   function historiaHTML(h, i){
     const editorial = h.tipo_divergencia === 'editorial' && h.eje;
     const frames = (h.frames || []).slice()
@@ -165,7 +203,7 @@
     out += '<h2 class="head">' + esc(h.neutral_headline) + '</h2>';
 
     if (h.facts && h.facts.length){
-      out += '<div class="facts"><h3>◉ Solo los hechos</h3><ul>';
+      out += '<div class="facts"><h3>Solo los hechos</h3><ul>';
       h.facts.forEach(f => { out += '<li>' + esc(f) + '</li>'; });
       out += '</ul></div>';
     }
@@ -230,12 +268,21 @@
       hist.length + ' historias · ' + conEje + ' con divergencia editorial';
 
     if (!hist.length){
-      main.innerHTML = '<div class="estado"><strong>Hoy no hay edición.</strong>'
-        + 'Ninguna historia reunió cobertura suficiente.</div>';
+      main.innerHTML = '<div class="estado"><strong>Esta edición está vacía.</strong>'
+        + 'Ninguna historia reunió cobertura suficiente ese día.</div>';
       return;
     }
 
-    main.innerHTML = hist.map(historiaHTML).join('');
+    let cabecera = '';
+    if (data.esquema !== 2){
+      cabecera = '<div class="aviso">Edición anterior al 2 de septiembre de 2026. '
+        + 'El rango de divergencia y la lista de medios silenciosos se calcularon con un '
+        + 'método defectuoso: el rango salía siempre alto por construcción y se contaban '
+        + 'como silenciosos medios cuyos titulares no llegaban a leerse. No compares estas '
+        + 'cifras con las de las ediciones posteriores.</div>';
+    }
+
+    main.innerHTML = cabecera + hist.map(historiaHTML).join('');
 
     main.querySelectorAll('.dot').forEach(d => {
       d.addEventListener('click', () => {
@@ -250,13 +297,18 @@
     });
   }
 
-  fetch('data.json?v=' + Date.now())
+  montarSelector();
+
+  const ruta = pedida ? 'ediciones/' + encodeURIComponent(pedida) + '.json' : 'data.json';
+
+  fetch(ruta + '?v=' + Date.now())
     .then(r => { if(!r.ok) throw new Error(r.status); return r.json(); })
     .then(pintar)
     .catch(err => {
-      main.innerHTML = '<div class="estado"><strong>No se pudo cargar la edición.</strong>'
-        + 'El fichero data.json no está disponible todavía. '
-        + 'Vuelve a intentarlo en unos minutos.</div>';
+      main.innerHTML = '<div class="estado"><strong>Esa edición no existe.</strong>'
+        + (pedida ? 'No hay ninguna edición archivada con fecha ' + esc(pedida) + '. '
+                  : 'La edición de hoy todavía no se ha publicado. ')
+        + '<a href="./">Ver la última edición</a></div>';
       console.error(err);
     });
 })();
