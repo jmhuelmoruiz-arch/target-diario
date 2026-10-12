@@ -1,0 +1,403 @@
+{
+  "fecha": "2026-10-12T12:21:47.108469+00:00",
+  "esquema": 2,
+  "historias": [
+    {
+      "neutral_headline": "Los Reyes presiden el desfile militar y el besamanos del 12 de octubre en el Palacio Real",
+      "section": "Politica",
+      "facts": [
+        "Se celebró el desfile militar del Día de la Hispanidad/12 de octubre",
+        "Los Reyes presidieron un besamanos tradicional en el Palacio Real",
+        "Autoridades asistieron a la recepción en el Palacio Real"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Desfile del Día de la Hispanidad y reacciones políticas en directo | Los Reyes celebran en el Palacio Real el tradicional besamanos",
+          "link": "https://elpais.com/espana/2026-10-12/ultima-hora-del-dia-de-la-hispanidad-y-reacciones-politicas-en-directo.html",
+          "position": 50,
+          "focus": "Cobertura en directo del desfile y reacciones políticas, además del besamanos"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Los actos del 12-O se trasladan al Palacio Real para el tradicional besamanos",
+          "link": "https://www.abc.es/espana/desfile-fuerzas-armadas-dia-fiesta-nacional-directo-20261012094412-di.html",
+          "position": 50,
+          "focus": "Centra el titular en el traslado de los actos al Palacio Real para el besamanos"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Los Reyes abren el Palacio Real a las autoridades en el tradicional besamanos",
+          "link": "https://www.lavanguardia.com/politica/20261012/11656931/insultos-abucheos-pedro-sanchez-llegada-desfile-militar.html",
+          "position": 50,
+          "focus": "Destaca la apertura del Palacio Real a las autoridades en el besamanos"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Desfile militar del 12 de octubre, en directo | La Familia Real celebra el besamanos de la recepción el Palacio por la Fiesta Nacional",
+          "link": "https://www.20minutos.es/madrid/desfile-militar-12-octubre-directo-madrid-se-prepara-para-desfile-12-con-casi-4-400-militares-medio-centenar-aviones_7047709_6.html",
+          "position": 50,
+          "focus": "Cobertura en directo del desfile militar y mención de la Familia Real en el besamanos"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "El Espanol",
+        "El Mundo",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Robert E. Hall y Michael Woodford ganan el Nobel de Economía por sus trabajos sobre los fundamentos microeconómicos de la estabilización macroeconómica",
+      "section": "Economia",
+      "facts": [
+        "Robert E. Hall y Michael Woodford, ambos estadounidenses, han sido galardonados con el Nobel de Economía",
+        "El premio reconoce sus estudios sobre los fundamentos microeconómicos aplicados a la estabilización macroeconómica",
+        "El Español sitúa el premio en la edición de 2026",
+        "La pieza sobre un destructor de EE UU llegando a Rota corresponde a un hecho distinto, sin relación aparente con el Nobel"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "El sexto destructor lanzamisiles de EE UU llegará este jueves a la base naval de Rota",
+          "link": "https://elpais.com/espana/2026-10-12/el-sexto-destructor-lanzamisiles-de-ee-uu-llegara-este-jueves-a-la-base-naval-de-rota.html",
+          "position": 50,
+          "focus": "Informa sobre la llegada de un destructor estadounidense a la base de Rota; no guarda relación temática con el anuncio del Nobel de Economía."
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Los estadounidenses Robert E. Hall y Michael Woodford  se llevan el Nobel de Economía por estudiar los fundamentos micro en la estabilización macroeconómica",
+          "link": "https://www.elmundo.es/economia/2026/10/12/6accaf72fdddff80638b45a9.html",
+          "position": 50,
+          "focus": "Detalla el objeto del premio (fundamentos micro en la estabilización macro) y nombra a ambos premiados por igual."
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Robert E. Hall y Michael Woodford ganan el Nobel de Economía por sus fundamentos sobre la estabilización macroeconómica",
+          "link": "https://www.abc.es/economia/nobel-economia-robert-hall-michael-woodford-fundamentos-20261012115101-nt.html",
+          "position": 50,
+          "focus": "Misma información que El Mundo, formulación casi idéntica sobre el motivo del premio."
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Robert Hall y Michael Woodford ganan el Nobel de Economía por \"ayudar a suavizar los altibajos de la economía\"",
+          "link": "https://www.eldiario.es/economia/profesores-estadounidenses-robert-hall-michael-woodford-ganan-nobel-economia_1_13579499.html",
+          "position": 50,
+          "focus": "Cita textual de la Academia ('suavizar los altibajos de la economía'), aportando la justificación en formato de cita directa."
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Los académicos estadounidenses Hall y Woodford ganan el Nobel de Economía",
+          "link": "https://www.lavanguardia.com/economia/20261012/11656962/hall-woodford-ganan-premio-nobel-economia-2026.html",
+          "position": 50,
+          "focus": "Titular más escueto: solo identifica a los ganadores y el país de origen, sin detallar el motivo del premio."
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Michael Woodford y Robert E. Hall ganan el premio Nobel de Economía 2026",
+          "link": "https://www.elespanol.com/invertia/economia/macroeconomia/20261012/michael-woodford-robert-hall-ganan-premio-nobel-economia/1003744417151_0.html",
+          "position": 50,
+          "focus": "Igual que los demás en cuanto a protagonistas, pero añade el año 2026 como dato distintivo."
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos"
+      ]
+    },
+    {
+      "neutral_headline": "Buques militares marroquíes entraron en aguas de Ceuta en el contexto de la crisis migratoria de julio-agosto",
+      "section": "Politica",
+      "facts": [
+        "Buques de guerra marroquíes entraron en aguas de Ceuta",
+        "El hecho coincidió con una llegada masiva de inmigrantes a la ciudad",
+        "Según eldiario.es, la Armada española desplegó fragatas en julio y agosto en respuesta",
+        "Según El Español, la entrada de buques ocurrió a finales de julio",
+        "Abascal realizó declaraciones críticas hacia el Gobierno desde Ceuta, calificándolo de 'Gobierno de traidores' y pidiendo la militarización de la frontera"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "relato factual del incidente naval",
+        "polo_b": "narrativa política alarmista sobre el Gobierno y la inmigración",
+        "resumen": "Tres medios describen el episodio naval de forma informativa mientras que El Mundo centra la pieza en la reacción política de Abascal con lenguaje cargado contra el Gobierno."
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Buques de guerra marroquíes entraron en aguas de Ceuta coincidiendo con la llegada masiva de inmigrantes",
+          "link": "https://elpais.com/espana/2026-10-12/buques-de-guerra-marroquies-invadieron-aguas-de-ceuta-coincidiendo-con-la-entrada-masiva-de-inmigrantes.html",
+          "position": 40,
+          "focus": "Describe el hecho naval y lo vincula a la llegada de inmigrantes, sin opinión explícita"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Abascal arremete desde Ceuta contra el \"Gobierno de traidores\" y exige la \"militarización\" de la frontera",
+          "link": "https://www.elmundo.es/espana/2026/10/12/6accc854fc6c835e4f8b458e.html",
+          "position": 90,
+          "focus": "Centra la noticia en las declaraciones de Abascal, usando términos como 'traidores' y pidiendo militarización, omitiendo detalles del propio incidente naval"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "La Armada española desplegó fragatas en julio y agosto por la entrada de buques de guerra de Marruecos en aguas de Ceuta",
+          "link": "https://www.eldiario.es/politica/armada-espanola-desplego-fragatas-julio-agosto-despues-buques-guerra-marruecos-entraran-aguas-ceuta-autorizacion_1_13579242.html",
+          "position": 35,
+          "focus": "Aporta datos concretos sobre el despliegue de la Armada española, con tono estrictamente informativo"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Buques militares marroquíes irrumpieron en aguas de Ceuta en plena invasión migratoria a finales de julio",
+          "link": "https://www.elespanol.com/observatorio-defensa/20261012/buques-militares-marroquies-irrumpieron-aguas-ceuta-plena-invasion-migratoria-finales-julio/1003744417018_0.html",
+          "position": 65,
+          "focus": "Usa la expresión 'invasión migratoria', una elección léxica más cargada que sugiere una lectura más alarmista del fenómeno migratorio"
+        }
+      ],
+      "rango": 55,
+      "discrepancia": "media",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "Podemos y ERC pactan concurrir juntos en Cataluña para las elecciones generales del 29-N",
+      "section": "Politica",
+      "facts": [
+        "Rufián (ERC) y Montero (Podemos) han alcanzado un acuerdo de cara a las elecciones del 29-N",
+        "ERC incorporará a Podemos en sus listas en Cataluña",
+        "Podemos no se presentará de forma independiente en Cataluña",
+        "ERC pedirá el voto para Podemos en el resto de España"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "eldiario.es",
+          "headline": "Rufián y Montero harán “equipo” en la campaña de las elecciones y ERC incorporará a Podemos en las listas",
+          "link": "https://www.eldiario.es/politica/confirma-erc-les-incorporara-listas-rufian-hara-campana-montero_1_13579498.html",
+          "position": 50,
+          "focus": "Destaca la idea de 'equipo' entre los lideres y la incorporacion de Podemos a las listas de ERC; no detalla la distribucion territorial del voto"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Montero y Rufián pactan para el 29-N: Podemos no se presentará en Cataluña y ERC pedirá para ella el voto en el resto de España",
+          "link": "https://www.elespanol.com/espana/politica/20261012/montero-rufian-pactan-podemos-no-presentara-cataluna-erc-pedira-voto-resto-espana/1003744417179_0.html",
+          "position": 50,
+          "focus": "Detalla los terminos concretos del pacto: ausencia de Podemos en Cataluña y peticion de voto por parte de ERC en el resto de España"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Podemos confirma el acuerdo para ir junto a ERC en Cataluña en las generales",
+          "link": "https://www.20minutos.es/cataluna/podemos-confirma-que-ha-cerrado-acuerdo-para-ir-junto-erc-cataluna-las-generales_7047765_0.html",
+          "position": 50,
+          "focus": "Se centra en la confirmacion oficial del acuerdo por parte de Podemos, sin entrar en detalles de la distribucion territorial"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "ABC",
+        "El Mundo",
+        "El Pais",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "Un estudiante de 14 años dispara y hiere al director y a una profesora en un instituto del sur de Francia",
+      "section": "Sociedad",
+      "facts": [
+        "El atacante es un estudiante de 14 años",
+        "Hirió al director del centro y a una profesora",
+        "El hecho ocurrió en un instituto del sur de Francia",
+        "El Pais describe el arma como una escopeta",
+        "ABC describe el arma como un fusil de caza",
+        "ABC sitúa el instituto cerca de Marsella",
+        "El Mundo señala que el suceso desató alerta en los institutos franceses",
+        "El Espanol indica que el estudiante fue detenido tras el ataque"
+      ],
+      "tipo_divergencia": "cronologica",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Un estudiante de 14 años hiere con una escopeta al director del centro y a una profesora en el sur de Francia",
+          "link": "https://elpais.com/internacional/2026-10-12/un-estudiante-de-14-anos-hiere-con-una-escopeta-al-director-del-centro-y-a-una-profesora.html",
+          "position": 50,
+          "focus": "Centra el relato en los dos heridos y especifica el arma como escopeta, sin mencionar detención ni alerta posterior"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Un estudiante de 14 años dispara contra un director y una profesora y desata la alerta en los institutos franceses",
+          "link": "https://www.elmundo.es/internacional/2026/10/12/6acca8f121efa090288b4597.html",
+          "position": 50,
+          "focus": "Añade la reacción posterior: la alerta generada en otros institutos franceses tras el ataque"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Dos heridos en un instituto cerca de Marsella después de que un alumno les disparara con un fusil de caza",
+          "link": "https://www.abc.es/internacional/dos-heridos-instituto-cerca-marsella-despues-alumno-20261012125052-nt.html",
+          "position": 50,
+          "focus": "Precisa la ubicación geográfica (cerca de Marsella) y detalla el tipo de arma como fusil de caza"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Un estudiante francés de 14 años, detenido tras disparar y herir al director y a una profesora de su instituto",
+          "link": "https://www.elespanol.com/mundo/europa/20261012/estudiante-frances-anos-detenido-disparar-herir-director-profesora-instituto/1003744417205_0.html",
+          "position": 50,
+          "focus": "Incorpora el dato más reciente: la detención del estudiante tras el ataque"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Los looks de la Familia Real en el desfile del Día de la Hispanidad",
+      "section": "Sociedad",
+      "facts": [
+        "La Reina Letizia llevó un vestido rosa empolvado",
+        "La Reina Letizia lució un broche de su joyero habitual",
+        "La Princesa de Asturias vistió de uniforme militar",
+        "La Infanta Sofía llevó un traje rojo abotonado",
+        "El desfile tuvo lugar con motivo del Día de la Hispanidad"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "La Reina Letizia sorprende con un delicado vestido rosa empolvado; la Princesa de Asturias, de uniforme militar; y la Infanta Sofía, con traje rojo: los looks reales en el desfile del Día de la Hispanidad",
+          "link": "https://www.elmundo.es/yodona/moda/reina-letizia/2026/10/12/6acc9db5fdddff6c2a8b459a.html",
+          "position": 50,
+          "focus": "Cubre a las tres mujeres de la Familia Real y sus respectivos looks, sin centrarse en una sola figura"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "La Infanta Sofía, con un traje rojo abotonado",
+          "link": "https://www.abc.es/estilo/moda/infanta-sofia-dia-hispanidad-20261012140123-nt.html",
+          "position": 50,
+          "focus": "Se centra exclusivamente en el look de la Infanta Sofía, omitiendo a Letizia y la Princesa"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Letizia apuesta por el rosa suave y uno de sus broches favoritos del joyero de pasar en el Día de la Hispanidad",
+          "link": "https://www.elespanol.com/mujer/royals/20261012/letizia-apuesta-rosa-suave-broches-favoritos-joyero-pasar-dia-hispanidad/1003744417059_0.html",
+          "position": 50,
+          "focus": "Se centra exclusivamente en el look de la Reina Letizia, con detalle en el broche, omitiendo a las infantas"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "El Pais",
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "La UE y China acuerdan un cupo anual de coches híbridos mientras Francia y Alemania pactan medidas para proteger su industria automovilística",
+      "section": "Economia",
+      "facts": [
+        "Existe un pacto comercial entre la UE y China sobre coches híbridos",
+        "Según eldiario.es, el pacto establece un cupo de 350.000 vehículos híbridos chinos al año",
+        "Según eldiario.es, ese cupo no afecta a los vehículos fabricados en la UE",
+        "Según 20minutos, Macron anunció un acuerdo con Alemania para proteger la industria del automóvil"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "Protagonismo del pacto UE-China",
+        "polo_b": "Protagonismo del eje Francia-Alemania",
+        "resumen": "Los medios difieren en si el foco de la noticia es el acuerdo comercial UE-China o la respuesta bilateral franco-alemana para proteger su industria"
+      },
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "Europa pone un dique a la avalancha de coches híbridos chinos: las claves del pacto comercial con Pekín",
+          "link": "https://www.elmundo.es/economia/macroeconomia/2026/10/12/6accc5eb21efa0354d8b4575.html",
+          "position": 15,
+          "focus": "Destaca el pacto UE-China como una barrera protectora ('dique') frente a la avalancha de híbridos chinos, sin detallar cifras exactas del cupo"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Claves del pacto sobre coches híbridos chinos: cupo de 350.000 vehículos al año sin afectar a los fabricados en la UE",
+          "link": "https://www.eldiario.es/economia/claves-pacto-coches-hibridos-chinos-cupo-350-000-vehiculos-ano-afectar-fabricados-ue_1_13579340.html",
+          "position": 30,
+          "focus": "Explica el pacto UE-China con datos concretos (cupo de 350.000 vehículos) y aclara que no afecta a la producción europea, en tono informativo"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Macron anuncia un acuerdo con Alemania para proteger la industria del automóvil",
+          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/macron-anuncia-un-acuerdo-con-alemania-para-proteger-industria-europea-automovil_7047739_0.html",
+          "position": 85,
+          "focus": "Pone el foco en Francia y Alemania como protagonistas de un acuerdo bilateral para proteger su propia industria automovilística, omitiendo el acuerdo UE-China"
+        }
+      ],
+      "rango": 70,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "ABC",
+        "El Espanol",
+        "El Pais",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "El Papa será hospitalizado para ser operado de un nódulo en el pulmón",
+      "section": "Internacional",
+      "facts": [
+        "El Papa será hospitalizado para una operación relacionada con un nódulo en el pulmón",
+        "El Mundo y 20minutos sitúan la hospitalización 'mañana'",
+        "El Espanol sitúa la operación 'este martes'",
+        "El Espanol añade que el Papa mantiene su gira por América Latina y cita que 'tiene una excelente forma'"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "foco en la intervención médica",
+        "polo_b": "foco en la normalidad y continuidad de su actividad",
+        "resumen": "El Mundo y 20minutos se limitan a anunciar la hospitalización y operación, mientras El Espanol enmarca la noticia subrayando que el Papa sigue con su agenda y goza de buena salud"
+      },
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "El Papa será hospitalizado mañana a mediodía para ser operado del nódulo en el pulmón",
+          "link": "https://www.elmundo.es/internacional/2026/10/12/6accb125e9cf4a18268b456f.html",
+          "position": 20,
+          "focus": "Informa escuetamente de la hospitalización y la operación, sin mencionar el estado general del Papa ni su actividad"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "El Papa afronta la operación de pulmón este martes y mantiene su gira por América Latina: \"Tiene una excelente forma\"",
+          "link": "https://www.elespanol.com/mundo/20261012/papa-leon-xiv-afronta-operacion-nodulo-pulmon-escasas-semanas-gira-america-latina-excelente-forma-fisica/1003744416841_0.html",
+          "position": 75,
+          "focus": "Encuadra la operación como un trámite menor, destacando que mantiene la gira y citando una valoración positiva de su salud"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "El Papa será hospitalizado mañana para ser operado del nódulo en el pulmón",
+          "link": "https://www.20minutos.es/internacional/papa-leon-xiv-sera-hospitalizado-martes-mediodia-para-ser-operado-nodulo-pulmon_7047787_0.html",
+          "position": 20,
+          "focus": "Igual que El Mundo, se centra solo en el hecho médico sin añadir contexto sobre su estado o agenda"
+        }
+      ],
+      "rango": 55,
+      "discrepancia": "media",
+      "silenciosos": [
+        "ABC",
+        "El Pais",
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    }
+  ]
+}

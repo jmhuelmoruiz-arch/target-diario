@@ -1,618 +1,399 @@
 {
-  "fecha": "2026-10-11T11:00:41.766142+00:00",
+  "fecha": "2026-10-12T12:21:47.108469+00:00",
   "esquema": 2,
   "historias": [
     {
-      "neutral_headline": "ERC confirma a Gabriel Rufián como cabeza de lista para las elecciones generales del 29-N",
+      "neutral_headline": "Los Reyes presiden el desfile militar y el besamanos del 12 de octubre en el Palacio Real",
       "section": "Politica",
       "facts": [
-        "Gabriel Rufián encabezará la candidatura de ERC al Congreso en las elecciones generales del 29 de noviembre",
-        "Según eldiario.es y El Español, ERC cierra la puerta a que Rufián lidere un Frente Amplio junto a Ada Colau",
-        "El Mundo añade que Rufián y ERC 'sellan la paz' antes de confirmar la candidatura",
-        "Cándido Conde-Pumpido afirmó que 'cuestionar al Tribunal Constitucional es cuestionar la democracia' (El País), hecho no relacionado con la candidatura de Rufián"
+        "Se celebró el desfile militar del Día de la Hispanidad/12 de octubre",
+        "Los Reyes presidieron un besamanos tradicional en el Palacio Real",
+        "Autoridades asistieron a la recepción en el Palacio Real"
       ],
       "tipo_divergencia": "ninguna",
       "eje": null,
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "Cándido Conde-Pumpido: “Cuestionar al Tribunal Constitucional es cuestionar la democracia”",
-          "link": "https://elpais.com/espana/2026-10-11/candido-conde-pumpido-cuestionar-al-tribunal-constitucional-es-cuestionar-la-democracia.html",
+          "headline": "Desfile del Día de la Hispanidad y reacciones políticas en directo | Los Reyes celebran en el Palacio Real el tradicional besamanos",
+          "link": "https://elpais.com/espana/2026-10-12/ultima-hora-del-dia-de-la-hispanidad-y-reacciones-politicas-en-directo.html",
           "position": 50,
-          "focus": "Esta pieza trata un hecho distinto (declaraciones de Conde-Pumpido sobre el Tribunal Constitucional) y no aporta información sobre la candidatura de Rufián."
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "Gabriel Rufián y ERC sellan la paz y volverá a liderar la candidatura de las elecciones generales del 29-N",
-          "link": "https://www.elmundo.es/cataluna/2026/10/11/6aca79c0e9cf4a25568b45b0.html",
-          "position": 50,
-          "focus": "Destaca la reconciliación interna en ERC ('sellan la paz') antes de confirmar el liderazgo de Rufián."
+          "focus": "Cobertura en directo del desfile y reacciones políticas, además del besamanos"
         },
         {
           "outlet": "ABC",
-          "headline": "Gabriel Rufián encabezará la candidatura de ERC para las elecciones del 29N",
-          "link": "https://www.abc.es/espana/cataluna/rufian-encabezara-candidatura-erc-elecciones-29n-20261011121241-nt.html",
+          "headline": "Los actos del 12-O se trasladan al Palacio Real para el tradicional besamanos",
+          "link": "https://www.abc.es/espana/desfile-fuerzas-armadas-dia-fiesta-nacional-directo-20261012094412-di.html",
           "position": 50,
-          "focus": "Informa de forma directa que Rufián encabezará la lista de ERC para el 29N, sin añadir contexto adicional."
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "ERC confirma a Rufián como cabeza de lista y cierra la puerta al Frente Amplio",
-          "link": "https://www.eldiario.es/catalunya/erc-confirma-rufian-cabeza-lista-cierra-puerta-frente-amplio_1_13577275.html",
-          "position": 50,
-          "focus": "Añade el dato de que ERC descarta la opción del Frente Amplio, centrando el relato en la decisión interna del partido."
+          "focus": "Centra el titular en el traslado de los actos al Palacio Real para el besamanos"
         },
         {
           "outlet": "La Vanguardia",
-          "headline": "Gabriel Rufián volverá a liderar la candidatura de ERC en el 29-N",
-          "link": "https://www.lavanguardia.com/politica/20261011/11656507/gabriel-rufian-volvera-liderar-candidatura-erc-elecciones-29-n.html",
+          "headline": "Los Reyes abren el Palacio Real a las autoridades en el tradicional besamanos",
+          "link": "https://www.lavanguardia.com/politica/20261012/11656931/insultos-abucheos-pedro-sanchez-llegada-desfile-militar.html",
           "position": 50,
-          "focus": "Repite la confirmación del liderazgo de Rufián sin mencionar el tema del Frente Amplio."
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "Rufián encabezará la lista de ERC al Congreso y cierra la puerta a liderar el Frente Amplio junto a Ada Colau",
-          "link": "https://www.elespanol.com/espana/politica/20261011/rufian-encabezara-lista-erc-congreso-cierra-puerta-liderar-frente-amplio-junto-ada-colau/1003744416676_0.html",
-          "position": 50,
-          "focus": "Combina la confirmación de Rufián con el cierre de la opción de liderar el Frente Amplio junto a Ada Colau."
+          "focus": "Destaca la apertura del Palacio Real a las autoridades en el besamanos"
         },
         {
           "outlet": "20minutos",
-          "headline": "Gabriel Rufián encabezará la lista de ERC al Congreso en las elecciones generales",
-          "link": "https://www.20minutos.es/nacional/gabriel-rufia-cabeza-lista-erc-congreso-elecciones-generales-noviembre-2026_7047601_0.html",
+          "headline": "Desfile militar del 12 de octubre, en directo | La Familia Real celebra el besamanos de la recepción el Palacio por la Fiesta Nacional",
+          "link": "https://www.20minutos.es/madrid/desfile-militar-12-octubre-directo-madrid-se-prepara-para-desfile-12-con-casi-4-400-militares-medio-centenar-aviones_7047709_6.html",
           "position": 50,
-          "focus": "Presenta la noticia de forma escueta, solo confirmando que Rufián encabezará la lista de ERC al Congreso."
+          "focus": "Cobertura en directo del desfile militar y mención de la Familia Real en el besamanos"
         }
       ],
       "rango": 0,
       "discrepancia": "baja",
-      "silenciosos": []
+      "silenciosos": [
+        "El Espanol",
+        "El Mundo",
+        "eldiario.es"
+      ]
     },
     {
-      "neutral_headline": "El Papa anuncia que deberá operarse de un nódulo en el pulmón",
-      "section": "Internacional",
+      "neutral_headline": "Robert E. Hall y Michael Woodford ganan el Nobel de Economía por sus trabajos sobre los fundamentos microeconómicos de la estabilización macroeconómica",
+      "section": "Economia",
       "facts": [
-        "El Papa tiene un nódulo en un pulmón",
-        "El Papa será operado",
-        "El Mundo, eldiario.es y 20minutos señalan que el nódulo está en fase 'muy inicial'",
-        "El Español también indica fase 'muy inicial'",
-        "ABC indica que la operación será en los próximos días",
-        "La Vanguardia y El Español identifican al Papa como León XIV"
+        "Robert E. Hall y Michael Woodford, ambos estadounidenses, han sido galardonados con el Nobel de Economía",
+        "El premio reconoce sus estudios sobre los fundamentos microeconómicos aplicados a la estabilización macroeconómica",
+        "El Español sitúa el premio en la edición de 2026",
+        "La pieza sobre un destructor de EE UU llegando a Rota corresponde a un hecho distinto, sin relación aparente con el Nobel"
       ],
       "tipo_divergencia": "ninguna",
       "eje": null,
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "El Papa anuncia que tiene un nódulo en un pulmón y va a ser operado",
-          "link": "https://elpais.com/internacional/2026-10-11/el-papa-anuncia-que-tiene-un-nodulo-en-un-pulmon-y-va-a-ser-operado.html",
+          "headline": "El sexto destructor lanzamisiles de EE UU llegará este jueves a la base naval de Rota",
+          "link": "https://elpais.com/espana/2026-10-12/el-sexto-destructor-lanzamisiles-de-ee-uu-llegara-este-jueves-a-la-base-naval-de-rota.html",
           "position": 50,
-          "focus": "Anuncia el nódulo y la operación sin detalles adicionales sobre fase o plazo"
+          "focus": "Informa sobre la llegada de un destructor estadounidense a la base de Rota; no guarda relación temática con el anuncio del Nobel de Economía."
         },
         {
           "outlet": "El Mundo",
-          "headline": "El Papa anuncia que deberá operarse de un nódulo en el pulmón en fase \"muy inicial\"",
-          "link": "https://www.elmundo.es/internacional/2026/10/11/6acb6381e9cf4a4d388b459c.html",
+          "headline": "Los estadounidenses Robert E. Hall y Michael Woodford  se llevan el Nobel de Economía por estudiar los fundamentos micro en la estabilización macroeconómica",
+          "link": "https://www.elmundo.es/economia/2026/10/12/6accaf72fdddff80638b45a9.html",
           "position": 50,
-          "focus": "Añade que el nódulo está en fase 'muy inicial'"
+          "focus": "Detalla el objeto del premio (fundamentos micro en la estabilización macro) y nombra a ambos premiados por igual."
         },
         {
           "outlet": "ABC",
-          "headline": "El Papa anuncia que le van a operar de un nódulo en el pulmón en los próximos días",
-          "link": "https://www.abc.es/sociedad/papa-anuncia-van-operar-nodulo-pulmon-proximos-20261011122451-nt.html",
+          "headline": "Robert E. Hall y Michael Woodford ganan el Nobel de Economía por sus fundamentos sobre la estabilización macroeconómica",
+          "link": "https://www.abc.es/economia/nobel-economia-robert-hall-michael-woodford-fundamentos-20261012115101-nt.html",
           "position": 50,
-          "focus": "Añade que la operación será en los próximos días"
+          "focus": "Misma información que El Mundo, formulación casi idéntica sobre el motivo del premio."
         },
         {
           "outlet": "eldiario.es",
-          "headline": "El papa anuncia que deberá operarse de un nódulo en el pulmón en fase \"muy inicial\"",
-          "link": "https://www.eldiario.es/sociedad/papa-anuncia-debera-operarse-nodulo-pulmon-fase-inicial_1_13578519.html",
+          "headline": "Robert Hall y Michael Woodford ganan el Nobel de Economía por \"ayudar a suavizar los altibajos de la economía\"",
+          "link": "https://www.eldiario.es/economia/profesores-estadounidenses-robert-hall-michael-woodford-ganan-nobel-economia_1_13579499.html",
           "position": 50,
-          "focus": "Añade que el nódulo está en fase 'muy inicial'"
+          "focus": "Cita textual de la Academia ('suavizar los altibajos de la economía'), aportando la justificación en formato de cita directa."
         },
         {
           "outlet": "La Vanguardia",
-          "headline": "El papa León XIV anuncia que será operado de un nódulo en el pulmón",
-          "link": "https://www.lavanguardia.com/internacional/20261011/11656513/papa-leon-xiv-anuncia-sera-operado-nodulo-pulmon.html",
+          "headline": "Los académicos estadounidenses Hall y Woodford ganan el Nobel de Economía",
+          "link": "https://www.lavanguardia.com/economia/20261012/11656962/hall-woodford-ganan-premio-nobel-economia-2026.html",
           "position": 50,
-          "focus": "Identifica al Papa como León XIV, sin detalles de fase o plazo"
+          "focus": "Titular más escueto: solo identifica a los ganadores y el país de origen, sin detallar el motivo del premio."
         },
         {
           "outlet": "El Espanol",
-          "headline": "El papa León XIV anuncia que tendrá que operarse de un nódulo en el pulmón en una fase \"muy inicial\"",
-          "link": "https://www.elespanol.com/mundo/20261011/papa-leon-xiv-anuncia-operarse-nodulo-pulmon-fase-inicial/1003744416684_0.html",
+          "headline": "Michael Woodford y Robert E. Hall ganan el premio Nobel de Economía 2026",
+          "link": "https://www.elespanol.com/invertia/economia/macroeconomia/20261012/michael-woodford-robert-hall-ganan-premio-nobel-economia/1003744417151_0.html",
           "position": 50,
-          "focus": "Identifica al Papa como León XIV y añade que el nódulo está en fase 'muy inicial'"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "El papa anuncia que deberá operarse de un nódulo en el pulmón en fase \"muy inicial\"",
-          "link": "https://www.20minutos.es/internacional/papa-anuncia-que-debera-operarse-un-nodulo-pulmon-fase-muy-inicial_7047606_0.html",
-          "position": 50,
-          "focus": "Añade que el nódulo está en fase 'muy inicial'"
+          "focus": "Igual que los demás en cuanto a protagonistas, pero añade el año 2026 como dato distintivo."
         }
       ],
       "rango": 0,
       "discrepancia": "baja",
-      "silenciosos": []
+      "silenciosos": [
+        "20minutos"
+      ]
     },
     {
-      "neutral_headline": "Ataque hutí contra el aeropuerto de Riad deja muertos y heridos",
-      "section": "Internacional",
+      "neutral_headline": "Buques militares marroquíes entraron en aguas de Ceuta en el contexto de la crisis migratoria de julio-agosto",
+      "section": "Politica",
       "facts": [
-        "El Pais informa de una docena de muertos y mas de 300 heridos en el ataque",
-        "El Mundo informa de 12 muertos en Riad y senala que Kuwait Airways se suma a aerolineas que cancelan vuelos",
-        "eldiario.es informa de al menos 12 muertos y 300 heridos",
-        "La Vanguardia informa de 12 muertos y mas de 300 heridos",
-        "El Espanol informa de 15 muertos en dos atentados ocurridos en 24 horas",
-        "Los hutíes del Yemen son senalados como autores del ataque",
-        "Los hutíes amenazan con nuevos ataques a aeropuertos saudies segun El Mundo y El Espanol"
+        "Buques de guerra marroquíes entraron en aguas de Ceuta",
+        "El hecho coincidió con una llegada masiva de inmigrantes a la ciudad",
+        "Según eldiario.es, la Armada española desplegó fragatas en julio y agosto en respuesta",
+        "Según El Español, la entrada de buques ocurrió a finales de julio",
+        "Abascal realizó declaraciones críticas hacia el Gobierno desde Ceuta, calificándolo de 'Gobierno de traidores' y pidiendo la militarización de la frontera"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "relato factual del incidente naval",
+        "polo_b": "narrativa política alarmista sobre el Gobierno y la inmigración",
+        "resumen": "Tres medios describen el episodio naval de forma informativa mientras que El Mundo centra la pieza en la reacción política de Abascal con lenguaje cargado contra el Gobierno."
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Buques de guerra marroquíes entraron en aguas de Ceuta coincidiendo con la llegada masiva de inmigrantes",
+          "link": "https://elpais.com/espana/2026-10-12/buques-de-guerra-marroquies-invadieron-aguas-de-ceuta-coincidiendo-con-la-entrada-masiva-de-inmigrantes.html",
+          "position": 40,
+          "focus": "Describe el hecho naval y lo vincula a la llegada de inmigrantes, sin opinión explícita"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Abascal arremete desde Ceuta contra el \"Gobierno de traidores\" y exige la \"militarización\" de la frontera",
+          "link": "https://www.elmundo.es/espana/2026/10/12/6accc854fc6c835e4f8b458e.html",
+          "position": 90,
+          "focus": "Centra la noticia en las declaraciones de Abascal, usando términos como 'traidores' y pidiendo militarización, omitiendo detalles del propio incidente naval"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "La Armada española desplegó fragatas en julio y agosto por la entrada de buques de guerra de Marruecos en aguas de Ceuta",
+          "link": "https://www.eldiario.es/politica/armada-espanola-desplego-fragatas-julio-agosto-despues-buques-guerra-marruecos-entraran-aguas-ceuta-autorizacion_1_13579242.html",
+          "position": 35,
+          "focus": "Aporta datos concretos sobre el despliegue de la Armada española, con tono estrictamente informativo"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Buques militares marroquíes irrumpieron en aguas de Ceuta en plena invasión migratoria a finales de julio",
+          "link": "https://www.elespanol.com/observatorio-defensa/20261012/buques-militares-marroquies-irrumpieron-aguas-ceuta-plena-invasion-migratoria-finales-julio/1003744417018_0.html",
+          "position": 65,
+          "focus": "Usa la expresión 'invasión migratoria', una elección léxica más cargada que sugiere una lectura más alarmista del fenómeno migratorio"
+        }
+      ],
+      "rango": 55,
+      "discrepancia": "media",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "Podemos y ERC pactan concurrir juntos en Cataluña para las elecciones generales del 29-N",
+      "section": "Politica",
+      "facts": [
+        "Rufián (ERC) y Montero (Podemos) han alcanzado un acuerdo de cara a las elecciones del 29-N",
+        "ERC incorporará a Podemos en sus listas en Cataluña",
+        "Podemos no se presentará de forma independiente en Cataluña",
+        "ERC pedirá el voto para Podemos en el resto de España"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "eldiario.es",
+          "headline": "Rufián y Montero harán “equipo” en la campaña de las elecciones y ERC incorporará a Podemos en las listas",
+          "link": "https://www.eldiario.es/politica/confirma-erc-les-incorporara-listas-rufian-hara-campana-montero_1_13579498.html",
+          "position": 50,
+          "focus": "Destaca la idea de 'equipo' entre los lideres y la incorporacion de Podemos a las listas de ERC; no detalla la distribucion territorial del voto"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Montero y Rufián pactan para el 29-N: Podemos no se presentará en Cataluña y ERC pedirá para ella el voto en el resto de España",
+          "link": "https://www.elespanol.com/espana/politica/20261012/montero-rufian-pactan-podemos-no-presentara-cataluna-erc-pedira-voto-resto-espana/1003744417179_0.html",
+          "position": 50,
+          "focus": "Detalla los terminos concretos del pacto: ausencia de Podemos en Cataluña y peticion de voto por parte de ERC en el resto de España"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Podemos confirma el acuerdo para ir junto a ERC en Cataluña en las generales",
+          "link": "https://www.20minutos.es/cataluna/podemos-confirma-que-ha-cerrado-acuerdo-para-ir-junto-erc-cataluna-las-generales_7047765_0.html",
+          "position": 50,
+          "focus": "Se centra en la confirmacion oficial del acuerdo por parte de Podemos, sin entrar en detalles de la distribucion territorial"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "ABC",
+        "El Mundo",
+        "El Pais",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "Un estudiante de 14 años dispara y hiere al director y a una profesora en un instituto del sur de Francia",
+      "section": "Sociedad",
+      "facts": [
+        "El atacante es un estudiante de 14 años",
+        "Hirió al director del centro y a una profesora",
+        "El hecho ocurrió en un instituto del sur de Francia",
+        "El Pais describe el arma como una escopeta",
+        "ABC describe el arma como un fusil de caza",
+        "ABC sitúa el instituto cerca de Marsella",
+        "El Mundo señala que el suceso desató alerta en los institutos franceses",
+        "El Espanol indica que el estudiante fue detenido tras el ataque"
       ],
       "tipo_divergencia": "cronologica",
       "eje": null,
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "Una docena de muertos y más de 300 heridos en un ataque hutí contra el aeropuerto de Riad, la capital de Arabia Saudí",
-          "link": "https://elpais.com/internacional/2026-10-10/un-ataque-de-los-huties-contra-el-aeropuerto-de-la-capital-de-arabia-saudi-causa-al-menos-12-muertos.html",
+          "headline": "Un estudiante de 14 años hiere con una escopeta al director del centro y a una profesora en el sur de Francia",
+          "link": "https://elpais.com/internacional/2026-10-12/un-estudiante-de-14-anos-hiere-con-una-escopeta-al-director-del-centro-y-a-una-profesora.html",
           "position": 50,
-          "focus": "Cifra de victimas en el momento de cierre, sin mencionar amenazas posteriores"
+          "focus": "Centra el relato en los dos heridos y especifica el arma como escopeta, sin mencionar detención ni alerta posterior"
         },
         {
           "outlet": "El Mundo",
-          "headline": "Los hutíes amenazan con más ataques a aeropuertos saudíes tras la muerte de 12 personas en Riad y Kuwait Airways se suma a las aerolíneas que cancelan  vuelos",
-          "link": "https://www.elmundo.es/internacional/2026/10/11/6acb5c33e4d4d89f188b459d.html",
+          "headline": "Un estudiante de 14 años dispara contra un director y una profesora y desata la alerta en los institutos franceses",
+          "link": "https://www.elmundo.es/internacional/2026/10/12/6acca8f121efa090288b4597.html",
           "position": 50,
-          "focus": "Anade la amenaza de nuevos ataques y el impacto en aerolineas, dato mas reciente"
+          "focus": "Añade la reacción posterior: la alerta generada en otros institutos franceses tras el ataque"
         },
         {
-          "outlet": "eldiario.es",
-          "headline": "Al menos 12 muertos y 300 heridos en un ataque de los hutíes contra el aeropuerto saudí de Riad",
-          "link": "https://www.eldiario.es/internacional/12-muertos-300-heridos-ataque-huti-aeropuerto-riad_1_13578028.html",
+          "outlet": "ABC",
+          "headline": "Dos heridos en un instituto cerca de Marsella después de que un alumno les disparara con un fusil de caza",
+          "link": "https://www.abc.es/internacional/dos-heridos-instituto-cerca-marsella-despues-alumno-20261012125052-nt.html",
           "position": 50,
-          "focus": "Cifra de victimas similar a El Pais y La Vanguardia, sin mencion de amenazas"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Un ataque al aeropuerto de Riad causa 12 muertos y más de 300 heridos",
-          "link": "https://www.lavanguardia.com/internacional/20261010/11656029/fuerte-explosion-aeropuerto-riad-lleva-cancelar-nuevos-vuelos.html",
-          "position": 50,
-          "focus": "Cifra de victimas identica a El Pais, foco en el balance del ataque"
+          "focus": "Precisa la ubicación geográfica (cerca de Marsella) y detalla el tipo de arma como fusil de caza"
         },
         {
           "outlet": "El Espanol",
-          "headline": "Los hutíes del Yemen amenazan a Riad con más ataques tras los dos atentados en 24 horas en los que han muerto 15 personas",
-          "link": "https://www.elespanol.com/mundo/oriente-proximo/20261011/muertos-heridos-aeropuerto-riad-alcanzado-misiles-lanzados-huties/1003744416519_0.html",
+          "headline": "Un estudiante francés de 14 años, detenido tras disparar y herir al director y a una profesora de su instituto",
+          "link": "https://www.elespanol.com/mundo/europa/20261012/estudiante-frances-anos-detenido-disparar-herir-director-profesora-instituto/1003744417205_0.html",
           "position": 50,
-          "focus": "Incluye un segundo atentado y actualiza el balance total a 15 muertos, con amenaza de mas ataques"
+          "focus": "Incorpora el dato más reciente: la detención del estudiante tras el ataque"
         }
       ],
       "rango": 0,
       "discrepancia": "baja",
       "silenciosos": [
         "20minutos",
-        "ABC"
-      ]
-    },
-    {
-      "neutral_headline": "La Policía desaloja el asentamiento de migrantes de El Guano en Ceuta",
-      "section": "Sociedad",
-      "facts": [
-        "La Policía se desplegó en la playa de El Guano en Ceuta",
-        "Se desalojó un asentamiento de inmigrantes",
-        "El Guano era considerado el último gran asentamiento ilegal de migrantes en Ceuta",
-        "El Pais señala que el desalojo ocurrió 48 horas antes de una visita de los Reyes",
-        "eldiario.es afirma que decenas de migrantes fueron expulsados a Marruecos 'a puerta cerrada' tras el desalojo",
-        "El Espanol afirma que en la playa dormían cientos de inmigrantes que entraron durante lo que denomina 'la invasión'",
-        "20minutos afirma que cientos de migrantes permanecían en el asentamiento antes del desalojo"
-      ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "enfoque humanitario/derechos de los migrantes",
-        "polo_b": "enfoque de seguridad/ilegalidad-invasión",
-        "resumen": "Los medios difieren en si enmarcan el desalojo como una cuestión de derechos y trato a los migrantes o como una operación de control de la ilegalidad migratoria"
-      },
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "La Policía se despliega en El Guano para desalojar otro asentamiento de inmigrantes en Ceuta 48 horas antes de la visita de los Reyes",
-          "link": "https://elpais.com/espana/2026-10-11/la-policia-se-despliega-en-el-guano-para-desalojar-otro-asentamiento-de-inmigrantes-en-ceuta-48-horas-antes-de-la-visita-de-los-reyes.html",
-          "position": 45,
-          "focus": "Destaca el contexto político-temporal (visita real) sin cargar el juicio sobre los migrantes; omite detalles sobre su destino posterior"
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "La Policía se despliega en la playa de El Guano de Ceuta para desalojar el último gran asentamiento ilegal de inmigrantes",
-          "link": "https://www.elmundo.es/espana/2026/10/11/6acb3418e85ece49688b458e.html",
-          "position": 60,
-          "focus": "Usa el término 'ilegal' para calificar el asentamiento, enmarcando la acción como aplicación de la ley; omite la situación humana de los desalojados"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "Decenas de migrantes son expulsados a Marruecos ‘a puerta cerrada’ tras el desalojo del asentamiento del Guano en Ceuta: “Adiós España”",
-          "link": "https://www.eldiario.es/desalambre/policia-ejercito-desalojan-asentamiento-guano-ceuta-resignacion-migrantes-adios-espana_1_13578061.html",
-          "position": 15,
-          "focus": "Centra el relato en la expulsión de migrantes a Marruecos y da voz directa a uno de ellos ('Adiós España'), resaltando un posible trato opaco ('a puerta cerrada')"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Culmina el desalojo del último gran asentamiento de migrantes en Ceuta",
-          "link": "https://www.lavanguardia.com/politica/20261011/11656424/policia-desaloja-ultimo-gran-asentamiento-migrantes-ceuta.html",
-          "position": 50,
-          "focus": "Describe el hecho de forma neutra, como culminación de un proceso, sin calificar a los migrantes ni al operativo"
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "La Policía desaloja la playa ceutí de 'El Guano', donde dormían cientos de inmigrantes que entraron durante la invasión",
-          "link": "https://www.elespanol.com/espana/20261011/policia-desaloja-playa-ceuti-guano-dormian-cientos-inmigrantes-entraron-invasion/1003744416513_0.html",
-          "position": 90,
-          "focus": "Emplea el término 'invasión' para describir la llegada de los migrantes, enmarcando el hecho desde una óptica de seguridad y amenaza"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "La Policía desaloja a cientos de migrantes que permanecían en el Guano, el último gran asentamiento ilegal que quedaba en Ceuta",
-          "link": "https://www.20minutos.es/ceuta/policia-desaloja-cientos-migrantes-que-permanecian-guano-ultimo-gran-asentamiento-ilegal-que-quedaba-ceuta_7047557_0.html",
-          "position": 60,
-          "focus": "Describe el desalojo como fin de un asentamiento 'ilegal', centrando la noticia en el cumplimiento de la ley más que en la situación de los migrantes"
-        }
-      ],
-      "rango": 75,
-      "discrepancia": "alta",
-      "silenciosos": [
-        "ABC"
-      ]
-    },
-    {
-      "neutral_headline": "Gabriel Rufián encabezará la candidatura de ERC para las elecciones generales del 29-N",
-      "section": "Politica",
-      "facts": [
-        "Gabriel Rufián será cabeza de lista de ERC en las elecciones generales del 29 de noviembre",
-        "ERC descarta que Rufián lidere un Frente Amplio junto a Ada Colau"
-      ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "Gabriel Rufián será candidato por Esquerra Republicana el 29-N",
-          "link": "https://elpais.com/espana/catalunya/2026-10-11/rufian-sera-candidato-por-esquerra-republicana-el-29-n.html",
-          "position": 50,
-          "focus": "Anuncia la candidatura de Rufián sin detalles adicionales"
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "Gabriel Rufián y ERC sellan la paz y volverá a liderar la candidatura de las elecciones generales del 29-N",
-          "link": "https://www.elmundo.es/cataluna/2026/10/11/6aca79c0e9cf4a25568b45b0.html",
-          "position": 50,
-          "focus": "Enmarca la decisión como resolución de tensiones previas dentro de ERC"
-        },
-        {
-          "outlet": "ABC",
-          "headline": "Gabriel Rufián encabezará la candidatura de ERC para las elecciones del 29N",
-          "link": "https://www.abc.es/espana/cataluna/rufian-encabezara-candidatura-erc-elecciones-29n-20261011121241-nt.html",
-          "position": 50,
-          "focus": "Confirma a Rufián como cabeza de lista de forma directa"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "ERC confirma a Rufián como cabeza de lista y cierra la puerta al Frente Amplio",
-          "link": "https://www.eldiario.es/catalunya/erc-confirma-rufian-cabeza-lista-cierra-puerta-frente-amplio_1_13577275.html",
-          "position": 50,
-          "focus": "Añade que se descarta la opción del Frente Amplio"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Gabriel Rufián volverá a liderar la candidatura de ERC en el 29-N",
-          "link": "https://www.lavanguardia.com/politica/20261011/11656507/gabriel-rufian-volvera-liderar-candidatura-erc-elecciones-29-n.html",
-          "position": 50,
-          "focus": "Confirma la continuidad de Rufián al frente de la candidatura"
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "Rufián encabezará la lista de ERC al Congreso y cierra la puerta a liderar el Frente Amplio junto a Ada Colau",
-          "link": "https://www.elespanol.com/espana/politica/20261011/rufian-encabezara-lista-erc-congreso-cierra-puerta-liderar-frente-amplio-junto-ada-colau/1003744416676_0.html",
-          "position": 50,
-          "focus": "Destaca el descarte de liderar un Frente Amplio con Ada Colau"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "Gabriel Rufián encabezará la lista de ERC al Congreso en las elecciones generales",
-          "link": "https://www.20minutos.es/nacional/gabriel-rufia-cabeza-lista-erc-congreso-elecciones-generales-noviembre-2026_7047601_0.html",
-          "position": 50,
-          "focus": "Informa de forma escueta sobre la confirmación de la candidatura"
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": []
-    },
-    {
-      "neutral_headline": "Mertxe Aizpurua no repetirá como candidata de EH Bildu al Congreso en las generales del 29-N",
-      "section": "Politica",
-      "facts": [
-        "Mertxe Aizpurua no repetirá como candidata de EH Bildu al Congreso",
-        "Las elecciones generales son el 29-N",
-        "Aizpurua no continuará en el Congreso tras las elecciones (eldiario.es)",
-        "La Vanguardia atribuye la decisión a voluntad propia de Aizpurua"
-      ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "causa no explicitada",
-        "polo_b": "decisión propia explícita",
-        "resumen": "La Vanguardia precisa que la no repetición responde a una decisión propia de Aizpurua, mientras el resto de medios no atribuye causa alguna."
-      },
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "Mertxe Aizpurua no repetirá como candidata de EH Bildu al Congreso el 29-N",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-10-11/mertxe-aizpurua-no-repetira-como-candidata-de-eh-bildu-al-congreso-el-29-n.html",
-          "position": 50,
-          "focus": "Informa del hecho sin atribuir causa, centrado en la fecha electoral."
-        },
-        {
-          "outlet": "ABC",
-          "headline": "Mertxe Aizpurua no repetirá como candidata de Bildu a las generales",
-          "link": "https://www.abc.es/espana/mertxe-aizpurua-repetira-candidata-bildu-generales-20261011111544-nt.html",
-          "position": 50,
-          "focus": "Versión escueta, sin mencionar motivo ni fecha concreta."
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "Mertxe Aizpurua no irá en las listas de EH Bildu para las generales y no continuará en el Congreso",
-          "link": "https://www.eldiario.es/euskadi/mertxe-aizpurua-no-ira-listas-eh-bildu-generales-no-continuara-congreso_1_13578124.html",
-          "position": 50,
-          "focus": "Añade el dato de que tampoco seguirá en el Congreso, sin explicar por qué."
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Mertxe Aizpurua no repetirá como candidata de EH Bildu al Congreso por decisión propia",
-          "link": "https://www.lavanguardia.com/politica/20261011/11656480/mertxe-aizpurua-repetira-candidata-eh-bildu-congreso-decision-propia.html",
-          "position": 65,
-          "focus": "Única pieza que explicita que la decisión fue voluntaria, sugiriendo ausencia de presión externa."
-        }
-      ],
-      "rango": 15,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "20minutos",
-        "El Espanol",
-        "El Mundo"
-      ]
-    },
-    {
-      "neutral_headline": "Vinicius recibe tarjeta roja en partido del Madrid, en jugada polemica que podria dejarle fuera del Clasico",
-      "section": "Deportes",
-      "facts": [
-        "Vinicius recibio una tarjeta roja durante el partido",
-        "Mourinho se nego a comparecer en rueda de prensa (El Mundo)",
-        "Vinicius pidio perdon tras la expulsion (El Mundo)",
-        "Vinicius podria perderse el proximo Clasico (El Mundo, La Vanguardia, El Espanol)",
-        "Diomande debuto con el Madrid (ABC)",
-        "El Madrid gano el partido (ABC)",
-        "Se anulo un gol del Madrid en la misma jugada de la roja (El Espanol)",
-        "El acta arbitral podria determinar una sancion para Vinicius (La Vanguardia)"
-      ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "Madrid victimista/cuestiona arbitrajes reiteradamente",
-        "polo_b": "Arbitraje perjudica injustamente al Madrid",
-        "resumen": "Los medios difieren en si enmarcan la reaccion del Madrid como una queja reiterada o como una injusticia arbitral sufrida por el equipo"
-      },
-      "frames": [
-        {
-          "outlet": "El Mundo",
-          "headline": "El Madrid, de nuevo contra los árbitros: Mourinho se niega a salir en rueda de prensa tras la roja a Vinicius, que pide \"perdón\" y se podría perder el clásico",
-          "link": "https://www.elmundo.es/deportes/futbol/primera-division/2026/10/10/6acab451fdddff582d8b456f.html",
-          "position": 20,
-          "focus": "Destaca el patron de enfrentamiento del Madrid con los arbitros y la reaccion de Mourinho, sugiriendo una actitud reiterada de queja; omite si hubo o no error arbitral"
-        },
-        {
-          "outlet": "ABC",
-          "headline": "Diomande se estrena en una bronca victoria del Madrid",
-          "link": "https://www.abc.es/deportes/real-madrid/diomande-estrena-bronca-victoria-madrid-20261010230011-nt.html",
-          "position": 50,
-          "focus": "Centra el titular en el debut de Diomande y la victoria, mencionando la polemica solo como contexto sin tomar partido"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "La sanción que le puede caer a Vinícius según el acta arbitral: peligra el clásico",
-          "link": "https://www.lavanguardia.com/deportes/real-madrid/20261011/11656474/sancion-le-caer-vinicius-acta-arbitral-peligra-clasico.html",
-          "position": 50,
-          "focus": "Informa de forma procedimental sobre la posible sancion segun el acta arbitral, sin atribuir culpa a ninguna parte"
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "El gol anulado y la roja a Vinicius en la misma acción: otra polémica arbitral castiga al Madrid en vistas de El Clásico",
-          "link": "https://www.elespanol.com/deportes/futbol/20261011/gol-anulado-roja-vinicius-misma-accion-polemica-arbitral-castiga-madrid-vistas-clasico/1003744416512_0.html",
-          "position": 80,
-          "focus": "Enfatiza la polemica arbitral como una injusticia reiterada contra el Madrid, vinculando el gol anulado y la roja como parte de un patron perjudicial"
-        }
-      ],
-      "rango": 60,
-      "discrepancia": "alta",
-      "silenciosos": [
-        "20minutos",
-        "El Pais",
-        "eldiario.es"
-      ]
-    },
-    {
-      "neutral_headline": "Tensión entre Ucrania, Rusia y EEUU por la guerra y el liderazgo de Zelenski",
-      "section": "Internacional",
-      "facts": [
-        "El ministro de Exteriores ucraniano ha respondido públicamente a declaraciones de Trump",
-        "Trump ha cuestionado la continuidad de Zelenski como presidente",
-        "Existe un pacto energético relacionado con Putin mencionado por El Español",
-        "Kiev ha lanzado una alerta a Europa sobre la guerra híbrida rusa"
-      ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "Rusia como amenaza y agresor",
-        "polo_b": "Zelenski como problema y responsable de la crisis",
-        "resumen": "Los medios difieren en si el foco del conflicto está en la amenaza rusa o en el liderazgo cuestionado de Zelenski"
-      },
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "“No ayudes al enemigo”: Kiev alerta a Europa del peligro de la guerra híbrida rusa",
-          "link": "https://elpais.com/internacional/2026-10-11/no-ayudes-al-enemigo-kiev-alerta-a-europa-del-peligro-de-la-guerra-hibrida-rusa.html",
-          "position": 10,
-          "focus": "Pone el acento en la amenaza híbrida rusa contra Europa, situando a Rusia como agresor y a Kiev como víctima que alerta; omite las críticas internas a Zelenski"
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "El ministro de Exteriores ucraniano responde a Trump que Zelenski cuenta con el apoyo del pueblo",
-          "link": "https://www.elmundo.es/internacional/2026/10/11/6acb563421efa0b44a8b4590.html",
-          "position": 30,
-          "focus": "Destaca la defensa ucraniana de Zelenski frente a las dudas de Trump, enfatizando el respaldo popular; matiza pero no ignora la presión externa sobre el liderazgo"
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "Trump rompe con Zelenski tras el pacto energético con Putin para salvar su inflación: \"Ucrania debe elegir un nuevo presidente\"",
-          "link": "https://www.elespanol.com/mundo/20261011/trump-rompe-zelenski-pacto-energetico-putin-salvar-inflacion-ucrania-debe-elegir-nuevo-presidente/1003744416463_0.html",
-          "position": 85,
-          "focus": "Enmarca a Zelenski como el problema político, vinculándolo a un pacto energético con Putin y a la ruptura de Trump; el responsable señalado es el propio presidente ucraniano, no Rusia"
-        }
-      ],
-      "rango": 75,
-      "discrepancia": "alta",
-      "silenciosos": [
-        "20minutos",
-        "ABC",
         "La Vanguardia",
         "eldiario.es"
       ]
     },
     {
-      "neutral_headline": "Tres entrevistas de prensa abordan temas distintos: censura cultural, ansiedad anticipatoria y dependencia tecnológica",
-      "section": "Cultura",
+      "neutral_headline": "Los looks de la Familia Real en el desfile del Día de la Hispanidad",
+      "section": "Sociedad",
       "facts": [
-        "Aitana Sánchez-Gijón declara en una entrevista sobre censura y denuncias",
-        "Marian Rojas Estapé explica en una entrevista que la anticipación exagerada genera estrés crónico",
-        "Eurídice Cabañes afirma en una entrevista que existen tecnologías diseñadas para generar dependencia"
+        "La Reina Letizia llevó un vestido rosa empolvado",
+        "La Reina Letizia lució un broche de su joyero habitual",
+        "La Princesa de Asturias vistió de uniforme militar",
+        "La Infanta Sofía llevó un traje rojo abotonado",
+        "El desfile tuvo lugar con motivo del Día de la Hispanidad"
       ],
       "tipo_divergencia": "ninguna",
       "eje": null,
       "frames": [
         {
-          "outlet": "El Pais",
-          "headline": "Aitana Sánchez-Gijón: “Ya están aquí. Censurando, denunciando, ganando. Y nos lo estamos comiendo”",
-          "link": "https://elpais.com/eps/2026-10-11/aitana-sanchez-gijon-ya-estan-aqui-censurando-denunciando-ganando-y-nos-lo-estamos-comiendo.html",
+          "outlet": "El Mundo",
+          "headline": "La Reina Letizia sorprende con un delicado vestido rosa empolvado; la Princesa de Asturias, de uniforme militar; y la Infanta Sofía, con traje rojo: los looks reales en el desfile del Día de la Hispanidad",
+          "link": "https://www.elmundo.es/yodona/moda/reina-letizia/2026/10/12/6acc9db5fdddff6c2a8b459a.html",
           "position": 50,
-          "focus": "Centra la pieza en declaraciones de la actriz sobre censura y denuncias en el ámbito cultural"
+          "focus": "Cubre a las tres mujeres de la Familia Real y sus respectivos looks, sin centrarse en una sola figura"
         },
         {
           "outlet": "ABC",
-          "headline": "Marian Rojas Estapé: «La anticipación exagerada genera estrés crónico y malestar por cosas que ni siquiera llegan a pasar»",
-          "link": "https://www.abc.es/bienestar/psicologia-sexo/psicologia/marian-rojas-estape-psiquiatra-anticipacion-exagerada-genera-20261011113000-nt.html",
+          "headline": "La Infanta Sofía, con un traje rojo abotonado",
+          "link": "https://www.abc.es/estilo/moda/infanta-sofia-dia-hispanidad-20261012140123-nt.html",
           "position": 50,
-          "focus": "Centra la pieza en explicaciones psicológicas de Marian Rojas Estapé sobre la anticipación y el estrés"
+          "focus": "Se centra exclusivamente en el look de la Infanta Sofía, omitiendo a Letizia y la Princesa"
         },
         {
-          "outlet": "eldiario.es",
-          "headline": "Eurídice Cabañes, filósofa: “Tenemos tecnologías muy discapacitantes para que dependamos constantemente de ellas”",
-          "link": "https://www.eldiario.es/cultura/libros/euridice-cabanes-filosofa-tecnologias-discapacitantes-dependamos-constantemente_128_13574946.html",
+          "outlet": "El Espanol",
+          "headline": "Letizia apuesta por el rosa suave y uno de sus broches favoritos del joyero de pasar en el Día de la Hispanidad",
+          "link": "https://www.elespanol.com/mujer/royals/20261012/letizia-apuesta-rosa-suave-broches-favoritos-joyero-pasar-dia-hispanidad/1003744417059_0.html",
           "position": 50,
-          "focus": "Centra la pieza en la reflexión filosófica de Eurídice Cabañes sobre la dependencia tecnológica"
+          "focus": "Se centra exclusivamente en el look de la Reina Letizia, con detalle en el broche, omitiendo a las infantas"
         }
       ],
       "rango": 0,
       "discrepancia": "baja",
       "silenciosos": [
         "20minutos",
-        "El Espanol",
-        "El Mundo",
-        "La Vanguardia"
+        "El Pais",
+        "La Vanguardia",
+        "eldiario.es"
       ]
     },
     {
-      "neutral_headline": "Debate sobre las causas del encarecimiento y la escasez de vivienda en España",
+      "neutral_headline": "La UE y China acuerdan un cupo anual de coches híbridos mientras Francia y Alemania pactan medidas para proteger su industria automovilística",
       "section": "Economia",
       "facts": [
-        "El movimiento de vivienda señala a los pequeños caseros como posible causa del alza de precios (El Pais)",
-        "Jorge Galindo afirma que están saliendo pisos del mercado y que hay menos oferta que antes de los decretos (El Espanol)",
-        "Marc Vidal afirma que no se construye más vivienda porque no hay suelo y que urbanizarlo puede tardar hasta 15 años (20minutos)"
+        "Existe un pacto comercial entre la UE y China sobre coches híbridos",
+        "Según eldiario.es, el pacto establece un cupo de 350.000 vehículos híbridos chinos al año",
+        "Según eldiario.es, ese cupo no afecta a los vehículos fabricados en la UE",
+        "Según 20minutos, Macron anunció un acuerdo con Alemania para proteger la industria del automóvil"
       ],
       "tipo_divergencia": "editorial",
       "eje": {
-        "polo_a": "la regulacion (decretos) reduce la oferta y encarece la vivienda",
-        "polo_b": "la falta de suelo urbanizable es la causa estructural del problema",
-        "resumen": "Los medios difieren en si el origen de la crisis de vivienda esta en las medidas regulatorias/los caseros o en la escasez de suelo disponible para construir"
+        "polo_a": "Protagonismo del pacto UE-China",
+        "polo_b": "Protagonismo del eje Francia-Alemania",
+        "resumen": "Los medios difieren en si el foco de la noticia es el acuerdo comercial UE-China o la respuesta bilateral franco-alemana para proteger su industria"
       },
       "frames": [
         {
-          "outlet": "El Pais",
-          "headline": "El movimiento de vivienda señala a los pequeños caseros: ¿son responsables del alza de los precios?",
-          "link": "https://elpais.com/economia/vivienda/2026-10-11/el-movimiento-de-vivienda-senala-a-los-pequenos-caseros-son-responsables-del-alza-de-los-precios.html",
-          "position": 40,
-          "focus": "Plantea como pregunta abierta si los pequeños caseros son responsables del alza de precios, sin cerrar la respuesta pero introduciendo el marco regulatorio/caseros como foco"
+          "outlet": "El Mundo",
+          "headline": "Europa pone un dique a la avalancha de coches híbridos chinos: las claves del pacto comercial con Pekín",
+          "link": "https://www.elmundo.es/economia/macroeconomia/2026/10/12/6accc5eb21efa0354d8b4575.html",
+          "position": 15,
+          "focus": "Destaca el pacto UE-China como una barrera protectora ('dique') frente a la avalancha de híbridos chinos, sin detallar cifras exactas del cupo"
         },
         {
-          "outlet": "El Espanol",
-          "headline": "Jorge Galindo, experto en vivienda: \"Están saliendo pisos del mercado, hay menos que antes de los decretos\"",
-          "link": "https://www.elespanol.com/espana/politica/20261011/jorge-galindo-experto-vivienda-saliendo-pisos-mercado-decretos/1003744415232_0.html",
-          "position": 15,
-          "focus": "Cita a un experto que vincula explicitamente los decretos con la reduccion de la oferta de vivienda, apuntando a la regulacion como causa"
+          "outlet": "eldiario.es",
+          "headline": "Claves del pacto sobre coches híbridos chinos: cupo de 350.000 vehículos al año sin afectar a los fabricados en la UE",
+          "link": "https://www.eldiario.es/economia/claves-pacto-coches-hibridos-chinos-cupo-350-000-vehiculos-ano-afectar-fabricados-ue_1_13579340.html",
+          "position": 30,
+          "focus": "Explica el pacto UE-China con datos concretos (cupo de 350.000 vehículos) y aclara que no afecta a la producción europea, en tono informativo"
         },
         {
           "outlet": "20minutos",
-          "headline": "Marc Vidal: \"No se construye más vivienda porque no hay suelo y hacerlo urbanizable puede tardar hasta 15 años\"",
-          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/marc-vidal-inversor-no-construye-mas-vivienda-no-hay-suelo-hacerlo-urbanizable-anos_7047533_0.html",
+          "headline": "Macron anuncia un acuerdo con Alemania para proteger la industria del automóvil",
+          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/macron-anuncia-un-acuerdo-con-alemania-para-proteger-industria-europea-automovil_7047739_0.html",
           "position": 85,
-          "focus": "Cita a un experto que atribuye la falta de construccion a la escasez de suelo urbanizable y los largos plazos administrativos, dejando fuera el factor regulatorio de alquiler"
+          "focus": "Pone el foco en Francia y Alemania como protagonistas de un acuerdo bilateral para proteger su propia industria automovilística, omitiendo el acuerdo UE-China"
         }
       ],
       "rango": 70,
       "discrepancia": "alta",
       "silenciosos": [
         "ABC",
-        "El Mundo",
-        "La Vanguardia",
-        "eldiario.es"
+        "El Espanol",
+        "El Pais",
+        "La Vanguardia"
       ]
     },
     {
-      "neutral_headline": "Gran Premio de Indonesia: Máximo Quiles campeón de Moto3 y Jorge Martín recupera liderato en MotoGP",
-      "section": "Deportes",
+      "neutral_headline": "El Papa será hospitalizado para ser operado de un nódulo en el pulmón",
+      "section": "Internacional",
       "facts": [
-        "Máximo Quiles venció en Indonesia y se proclamó campeón del mundo de Moto3 (El Mundo, ABC)",
-        "Máximo Quiles es descrito como pupilo de Marc Márquez (ABC)",
-        "Jorge Martín recuperó el liderato del Mundial en la carrera de Indonesia (20minutos)",
-        "La jornada fue calificada como un mal domingo para Marc Márquez (20minutos)"
+        "El Papa será hospitalizado para una operación relacionada con un nódulo en el pulmón",
+        "El Mundo y 20minutos sitúan la hospitalización 'mañana'",
+        "El Espanol sitúa la operación 'este martes'",
+        "El Espanol añade que el Papa mantiene su gira por América Latina y cita que 'tiene una excelente forma'"
       ],
       "tipo_divergencia": "editorial",
       "eje": {
-        "polo_a": "Foco en Moto3 / Máximo Quiles",
-        "polo_b": "Foco en MotoGP / Martín-Márquez",
-        "resumen": "Los medios eligen como protagonista del fin de semana a categorías y pilotos distintos dentro del mismo Gran Premio."
+        "polo_a": "foco en la intervención médica",
+        "polo_b": "foco en la normalidad y continuidad de su actividad",
+        "resumen": "El Mundo y 20minutos se limitan a anunciar la hospitalización y operación, mientras El Espanol enmarca la noticia subrayando que el Papa sigue con su agenda y goza de buena salud"
       },
       "frames": [
         {
           "outlet": "El Mundo",
-          "headline": "Máximo Quiles vence en Indonesia y se proclama campeón del mundo",
-          "link": "https://www.elmundo.es/deportes/motociclismo/2026/10/11/6acb1bd0fdddff6c2a8b457d.html",
-          "position": 0,
-          "focus": "Destaca el título mundial de Quiles en Moto3, sin mencionar la categoría reina ni a Martín/Márquez"
+          "headline": "El Papa será hospitalizado mañana a mediodía para ser operado del nódulo en el pulmón",
+          "link": "https://www.elmundo.es/internacional/2026/10/12/6accb125e9cf4a18268b456f.html",
+          "position": 20,
+          "focus": "Informa escuetamente de la hospitalización y la operación, sin mencionar el estado general del Papa ni su actividad"
         },
         {
-          "outlet": "ABC",
-          "headline": "Máximo Quiles toca el cielo: el pupilo de Marc Márquez se corona campeón del mundo de Moto3",
-          "link": "https://www.abc.es/deportes/motos/maximo-quiles-toca-cielo-mandalika-pupilo-marc-20261011084505-nt.html",
-          "position": 5,
-          "focus": "Resalta el logro de Quiles y su vínculo con Marc Márquez como mentor, ignorando el resultado de MotoGP"
+          "outlet": "El Espanol",
+          "headline": "El Papa afronta la operación de pulmón este martes y mantiene su gira por América Latina: \"Tiene una excelente forma\"",
+          "link": "https://www.elespanol.com/mundo/20261012/papa-leon-xiv-afronta-operacion-nodulo-pulmon-escasas-semanas-gira-america-latina-excelente-forma-fisica/1003744416841_0.html",
+          "position": 75,
+          "focus": "Encuadra la operación como un trámite menor, destacando que mantiene la gira y citando una valoración positiva de su salud"
         },
         {
           "outlet": "20minutos",
-          "headline": "Jorge Martín recupera el liderato del Mundial en Indonesia en un mal domingo para Marc Márquez",
-          "link": "https://www.20minutos.es/deportes/deportes_motor/motogp-indonesia-directo-resultados-ultima-hora-jorge-martin-marc-marquez_7047552_6.html",
-          "position": 100,
-          "focus": "Centra la noticia en el liderato recuperado por Martín y el mal resultado de Márquez en MotoGP, sin mencionar Moto3"
+          "headline": "El Papa será hospitalizado mañana para ser operado del nódulo en el pulmón",
+          "link": "https://www.20minutos.es/internacional/papa-leon-xiv-sera-hospitalizado-martes-mediodia-para-ser-operado-nodulo-pulmon_7047787_0.html",
+          "position": 20,
+          "focus": "Igual que El Mundo, se centra solo en el hecho médico sin añadir contexto sobre su estado o agenda"
         }
       ],
-      "rango": 100,
-      "discrepancia": "alta",
+      "rango": 55,
+      "discrepancia": "media",
       "silenciosos": [
-        "El Espanol",
+        "ABC",
         "El Pais",
         "La Vanguardia",
         "eldiario.es"
