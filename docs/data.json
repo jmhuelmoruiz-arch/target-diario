@@ -1,163 +1,120 @@
 {
-  "fecha": "2026-10-12T12:21:47.108469+00:00",
+  "fecha": "2026-10-13T12:07:26.481158+00:00",
   "esquema": 2,
   "historias": [
     {
-      "neutral_headline": "Los Reyes presiden el desfile militar y el besamanos del 12 de octubre en el Palacio Real",
+      "neutral_headline": "Los Reyes visitan Ceuta y son recibidos por una multitud entusiasta",
       "section": "Politica",
       "facts": [
-        "Se celebró el desfile militar del Día de la Hispanidad/12 de octubre",
-        "Los Reyes presidieron un besamanos tradicional en el Palacio Real",
-        "Autoridades asistieron a la recepción en el Palacio Real"
-      ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "Desfile del Día de la Hispanidad y reacciones políticas en directo | Los Reyes celebran en el Palacio Real el tradicional besamanos",
-          "link": "https://elpais.com/espana/2026-10-12/ultima-hora-del-dia-de-la-hispanidad-y-reacciones-politicas-en-directo.html",
-          "position": 50,
-          "focus": "Cobertura en directo del desfile y reacciones políticas, además del besamanos"
-        },
-        {
-          "outlet": "ABC",
-          "headline": "Los actos del 12-O se trasladan al Palacio Real para el tradicional besamanos",
-          "link": "https://www.abc.es/espana/desfile-fuerzas-armadas-dia-fiesta-nacional-directo-20261012094412-di.html",
-          "position": 50,
-          "focus": "Centra el titular en el traslado de los actos al Palacio Real para el besamanos"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Los Reyes abren el Palacio Real a las autoridades en el tradicional besamanos",
-          "link": "https://www.lavanguardia.com/politica/20261012/11656931/insultos-abucheos-pedro-sanchez-llegada-desfile-militar.html",
-          "position": 50,
-          "focus": "Destaca la apertura del Palacio Real a las autoridades en el besamanos"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "Desfile militar del 12 de octubre, en directo | La Familia Real celebra el besamanos de la recepción el Palacio por la Fiesta Nacional",
-          "link": "https://www.20minutos.es/madrid/desfile-militar-12-octubre-directo-madrid-se-prepara-para-desfile-12-con-casi-4-400-militares-medio-centenar-aviones_7047709_6.html",
-          "position": 50,
-          "focus": "Cobertura en directo del desfile militar y mención de la Familia Real en el besamanos"
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "El Espanol",
-        "El Mundo",
-        "eldiario.es"
-      ]
-    },
-    {
-      "neutral_headline": "Robert E. Hall y Michael Woodford ganan el Nobel de Economía por sus trabajos sobre los fundamentos microeconómicos de la estabilización macroeconómica",
-      "section": "Economia",
-      "facts": [
-        "Robert E. Hall y Michael Woodford, ambos estadounidenses, han sido galardonados con el Nobel de Economía",
-        "El premio reconoce sus estudios sobre los fundamentos microeconómicos aplicados a la estabilización macroeconómica",
-        "El Español sitúa el premio en la edición de 2026",
-        "La pieza sobre un destructor de EE UU llegando a Rota corresponde a un hecho distinto, sin relación aparente con el Nobel"
-      ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "El sexto destructor lanzamisiles de EE UU llegará este jueves a la base naval de Rota",
-          "link": "https://elpais.com/espana/2026-10-12/el-sexto-destructor-lanzamisiles-de-ee-uu-llegara-este-jueves-a-la-base-naval-de-rota.html",
-          "position": 50,
-          "focus": "Informa sobre la llegada de un destructor estadounidense a la base de Rota; no guarda relación temática con el anuncio del Nobel de Economía."
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "Los estadounidenses Robert E. Hall y Michael Woodford  se llevan el Nobel de Economía por estudiar los fundamentos micro en la estabilización macroeconómica",
-          "link": "https://www.elmundo.es/economia/2026/10/12/6accaf72fdddff80638b45a9.html",
-          "position": 50,
-          "focus": "Detalla el objeto del premio (fundamentos micro en la estabilización macro) y nombra a ambos premiados por igual."
-        },
-        {
-          "outlet": "ABC",
-          "headline": "Robert E. Hall y Michael Woodford ganan el Nobel de Economía por sus fundamentos sobre la estabilización macroeconómica",
-          "link": "https://www.abc.es/economia/nobel-economia-robert-hall-michael-woodford-fundamentos-20261012115101-nt.html",
-          "position": 50,
-          "focus": "Misma información que El Mundo, formulación casi idéntica sobre el motivo del premio."
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "Robert Hall y Michael Woodford ganan el Nobel de Economía por \"ayudar a suavizar los altibajos de la economía\"",
-          "link": "https://www.eldiario.es/economia/profesores-estadounidenses-robert-hall-michael-woodford-ganan-nobel-economia_1_13579499.html",
-          "position": 50,
-          "focus": "Cita textual de la Academia ('suavizar los altibajos de la economía'), aportando la justificación en formato de cita directa."
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Los académicos estadounidenses Hall y Woodford ganan el Nobel de Economía",
-          "link": "https://www.lavanguardia.com/economia/20261012/11656962/hall-woodford-ganan-premio-nobel-economia-2026.html",
-          "position": 50,
-          "focus": "Titular más escueto: solo identifica a los ganadores y el país de origen, sin detallar el motivo del premio."
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "Michael Woodford y Robert E. Hall ganan el premio Nobel de Economía 2026",
-          "link": "https://www.elespanol.com/invertia/economia/macroeconomia/20261012/michael-woodford-robert-hall-ganan-premio-nobel-economia/1003744417151_0.html",
-          "position": 50,
-          "focus": "Igual que los demás en cuanto a protagonistas, pero añade el año 2026 como dato distintivo."
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "20minutos"
-      ]
-    },
-    {
-      "neutral_headline": "Buques militares marroquíes entraron en aguas de Ceuta en el contexto de la crisis migratoria de julio-agosto",
-      "section": "Politica",
-      "facts": [
-        "Buques de guerra marroquíes entraron en aguas de Ceuta",
-        "El hecho coincidió con una llegada masiva de inmigrantes a la ciudad",
-        "Según eldiario.es, la Armada española desplegó fragatas en julio y agosto en respuesta",
-        "Según El Español, la entrada de buques ocurrió a finales de julio",
-        "Abascal realizó declaraciones críticas hacia el Gobierno desde Ceuta, calificándolo de 'Gobierno de traidores' y pidiendo la militarización de la frontera"
+        "Los Reyes Felipe VI y Letizia visitaron Ceuta",
+        "La visita se produce dos meses después de una crisis en la ciudad (El Pais)",
+        "Miles de ceutíes acudieron a recibirles (El Mundo)",
+        "Hubo vítores, banderas y gritos de \"yo soy español\" durante la recepción (La Vanguardia)",
+        "Según El Español, parte del público abucheó a Ángel Víctor Torres durante el acto",
+        "Los Reyes realizaron un saludo largo y efusivo antes de la recepción en el Ayuntamiento (20minutos)"
       ],
       "tipo_divergencia": "editorial",
       "eje": {
-        "polo_a": "relato factual del incidente naval",
-        "polo_b": "narrativa política alarmista sobre el Gobierno y la inmigración",
-        "resumen": "Tres medios describen el episodio naval de forma informativa mientras que El Mundo centra la pieza en la reacción política de Abascal con lenguaje cargado contra el Gobierno."
+        "polo_a": "recibimiento armonioso y festivo",
+        "polo_b": "recibimiento con tensión política visible",
+        "resumen": "La mayoría de medios enmarca la visita como un acto de entusiasmo y unidad, mientras El Español introduce un elemento de conflicto político al señalar el abucheo a un cargo del Gobierno"
       },
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "Buques de guerra marroquíes entraron en aguas de Ceuta coincidiendo con la llegada masiva de inmigrantes",
-          "link": "https://elpais.com/espana/2026-10-12/buques-de-guerra-marroquies-invadieron-aguas-de-ceuta-coincidiendo-con-la-entrada-masiva-de-inmigrantes.html",
+          "headline": "Última hora de la visita de los Reyes a Ceuta, en directo | Ceuta recibe entusiasmada a los Reyes en su histórica visita a la ciudad dos meses después de la crisis",
+          "link": "https://elpais.com/espana/2026-10-13/ultima-hora-de-la-visita-de-los-reyes-a-ceuta-en-directo.html",
           "position": 40,
-          "focus": "Describe el hecho naval y lo vincula a la llegada de inmigrantes, sin opinión explícita"
+          "focus": "Cobertura en directo centrada en el entusiasmo del recibimiento y su contexto tras la crisis previa, sin mencionar incidentes"
         },
         {
           "outlet": "El Mundo",
-          "headline": "Abascal arremete desde Ceuta contra el \"Gobierno de traidores\" y exige la \"militarización\" de la frontera",
-          "link": "https://www.elmundo.es/espana/2026/10/12/6accc854fc6c835e4f8b458e.html",
-          "position": 90,
-          "focus": "Centra la noticia en las declaraciones de Abascal, usando términos como 'traidores' y pidiendo militarización, omitiendo detalles del propio incidente naval"
+          "headline": "\"El Rey viene a una parte de España\": miles de ceutíes se vuelcan en recibir a Felipe VI y Letizia",
+          "link": "https://www.elmundo.es/espana/2026/10/13/6ace1460e4d4d8dc618b4576.html",
+          "position": 35,
+          "focus": "Destaca la identidad española y la masividad del recibimiento como gesto de pertenencia"
         },
         {
-          "outlet": "eldiario.es",
-          "headline": "La Armada española desplegó fragatas en julio y agosto por la entrada de buques de guerra de Marruecos en aguas de Ceuta",
-          "link": "https://www.eldiario.es/politica/armada-espanola-desplego-fragatas-julio-agosto-despues-buques-guerra-marruecos-entraran-aguas-ceuta-autorizacion_1_13579242.html",
+          "outlet": "ABC",
+          "headline": "Campanas y emoción desbordada por los Reyes en Ceuta",
+          "link": "https://www.abc.es/espana/casa-real/campanas-emocion-desbordada-reyes-ceuta-20261013131804-nt.html",
+          "position": 30,
+          "focus": "Enfatiza la emoción y el componente simbólico-religioso (campanas) del recibimiento"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Los Reyes arrancan su visita a Ceuta entre vítores, banderas y gritos de “yo soy español”",
+          "link": "https://www.lavanguardia.com/politica/20261013/11657794/reyes-arrancan-visita-ceuta-vitores-banderas-gritos-espanol.html",
           "position": 35,
-          "focus": "Aporta datos concretos sobre el despliegue de la Armada española, con tono estrictamente informativo"
+          "focus": "Resalta los símbolos patrióticos y las consignas identitarias del público"
         },
         {
           "outlet": "El Espanol",
-          "headline": "Buques militares marroquíes irrumpieron en aguas de Ceuta en plena invasión migratoria a finales de julio",
-          "link": "https://www.elespanol.com/observatorio-defensa/20261012/buques-militares-marroquies-irrumpieron-aguas-ceuta-plena-invasion-migratoria-finales-julio/1003744417018_0.html",
-          "position": 65,
-          "focus": "Usa la expresión 'invasión migratoria', una elección léxica más cargada que sugiere una lectura más alarmista del fenómeno migratorio"
+          "headline": "Ceuta recibe a Felipe VI y a Letizia entre el clamor y el entusiasmo mientras abuchea a Ángel Víctor Torres",
+          "link": "https://www.elespanol.com/reportajes/20261013/ceuta-recibe-felipe-vi-letizia-clamor-entusiasmo-abuchea-angel-victor-torres/1003744417880_0.html",
+          "position": 75,
+          "focus": "Combina el entusiasmo popular con el abucheo a un cargo político, introduciendo un elemento de conflicto ausente en otros medios"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Los Reyes se vuelcan con los ceutíes en un efusivo y largo saludo antes de su recepción en el Ayuntamiento",
+          "link": "https://www.20minutos.es/nacional/directo-visita-rey-felipe-vi-letizia-ceuta-melilla-crisis-inmigrantes-marruecos_7047926_6.html",
+          "position": 30,
+          "focus": "Centra el relato en el trato cercano de los Reyes con los ciudadanos, sin mencionar tensiones"
         }
       ],
-      "rango": 55,
+      "rango": 45,
+      "discrepancia": "media",
+      "silenciosos": [
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Tensión diplomática entre España y Marruecos marca la visita real a Ceuta y Melilla y la crisis migratoria",
+      "section": "Internacional",
+      "facts": [
+        "Los reyes de España visitan Ceuta y Melilla, primera visita de un rey en dos décadas",
+        "Von der Leyen pide el retorno de inmigrantes a Marruecos y advierte consecuencias",
+        "El Gobierno español no informó de una incursión naval marroquí, calificándola de 'hecho puntual'",
+        "Existe precedente de crisis diplomática en 2007 tras una visita similar"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "cautela/normalización diplomática",
+        "polo_b": "crítica a la complacencia con Marruecos",
+        "resumen": "Los medios se dividen entre describir la tensión con prudencia institucional y cuestionar abiertamente la actitud del Gobierno español hacia Marruecos"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Prudencia en Marruecos ante la primera visita de un rey de España a Ceuta y Melilla en dos décadas",
+          "link": "https://elpais.com/espana/2026-10-13/prudencia-en-marruecos-ante-la-primera-visita-de-un-rey-de-espana-a-ceuta-y-melilla-en-dos-decadas.html",
+          "position": 45,
+          "focus": "Describe el ambiente de cautela en Marruecos ante la visita real, sin atribuir responsabilidades ni valorar la política del Gobierno"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Von der Leyen exige \"el rápido retorno a Marruecos\" de los inmigrantes que siguen en Ceuta y avisa a Rabat de que \"extraerá lecciones\" de la crisis",
+          "link": "https://www.elmundo.es/espana/2026/10/13/6ace0527e85eceb2298b4586.html",
+          "position": 55,
+          "focus": "Centra el foco en la presión de la UE sobre Marruecos por la crisis migratoria, mostrando a Von der Leyen como actor exigente, no al Gobierno español"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Marruecos ante la visita de los reyes a Ceuta y Melilla: el fantasma de 2007 y el riesgo a una crisis diplomática",
+          "link": "https://www.eldiario.es/desalambre/marruecos-visita-reyes-ceuta-melilla-fantasma-2007-riesgo-crisis-diplomatica_1_13580440.html",
+          "position": 50,
+          "focus": "Recuerda el precedente de 2007 y advierte del riesgo de crisis diplomática, en tono de alerta pero sin señalar culpables"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "El Gobierno sigue alabando a Marruecos y dice que no informó de la incursión naval por ser \"un hecho puntual\"",
+          "link": "https://www.elespanol.com/espana/politica/20261013/gobierno-sigue-alabando-marruecos-dice-no-informo-incursion-naval-hecho-puntual/1003744418303_0.html",
+          "position": 88,
+          "focus": "Critica explícitamente al Gobierno por minimizar un incidente naval y mantener una postura elogiosa hacia Marruecos"
+        }
+      ],
+      "rango": 43,
       "discrepancia": "media",
       "silenciosos": [
         "20minutos",
@@ -166,237 +123,558 @@
       ]
     },
     {
-      "neutral_headline": "Podemos y ERC pactan concurrir juntos en Cataluña para las elecciones generales del 29-N",
+      "neutral_headline": "El Gobierno busca la intervención del Constitucional tras la orden del Supremo de suspender votos de la 'ley de nietos'",
       "section": "Politica",
       "facts": [
-        "Rufián (ERC) y Montero (Podemos) han alcanzado un acuerdo de cara a las elecciones del 29-N",
-        "ERC incorporará a Podemos en sus listas en Cataluña",
-        "Podemos no se presentará de forma independiente en Cataluña",
-        "ERC pedirá el voto para Podemos en el resto de España"
+        "El Tribunal Supremo ordenó suspender el voto de personas acogidas a la 'ley de nietos'",
+        "eldiario.es cifra en 163.020 el número de españoles afectados por la suspensión",
+        "El Gobierno calificó la orden del Supremo como una 'situación de extraordinaria gravedad' (El País)",
+        "El Gobierno considera 'materialmente imposible' aplicar la suspensión (eldiario.es)",
+        "El Gobierno pretende recurrir o que el Tribunal Constitucional anule la resolución del Supremo",
+        "El Espanol señala el 29 de noviembre como fecha límite relevante",
+        "El Mundo identifica a Cándido Conde-Pumpido como presidente del Tribunal Constitucional"
       ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "Gobierno actúa ante una situación judicial legítima",
+        "polo_b": "Gobierno manipula el sistema para mantener un procedimiento irregular",
+        "resumen": "Los medios difieren en si presentan la respuesta del Gobierno como una reacción justificada ante una orden judicial problemática o como una maniobra para forzar al Constitucional a revertir una decisión legítima del Supremo"
+      },
       "frames": [
         {
+          "outlet": "El Pais",
+          "headline": "Última hora de la actualidad política, en directo | El Gobierno, tras la orden del Supremo sobre la ‘ley de nietos’: “Es una situación de extraordinaria gravedad”",
+          "link": "https://elpais.com/espana/2026-10-13/ultima-hora-de-la-actualidad-politica-y-de-la-visita-de-los-reyes-a-ceuta-en-directo.html",
+          "position": 25,
+          "focus": "Recoge literalmente la valoración del Gobierno ('extraordinaria gravedad'), centrando el relato en su perspectiva de víctima de la situación"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "El Gobierno se aferra al Constitucional de Pumpido para salvar los 'votos de los nietos'",
+          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/12/6acd1eeae4d4d85c4e8b4599.html",
+          "position": 70,
+          "focus": "Enfatiza que el Gobierno 'se aferra' al Constitucional, sugiriendo dependencia de un tribunal visto como afín (menciona a Pumpido), insinuando maniobra política"
+        },
+        {
           "outlet": "eldiario.es",
-          "headline": "Rufián y Montero harán “equipo” en la campaña de las elecciones y ERC incorporará a Podemos en las listas",
-          "link": "https://www.eldiario.es/politica/confirma-erc-les-incorporara-listas-rufian-hara-campana-montero_1_13579498.html",
+          "headline": "El Supremo ordena suspender el voto de 163.020 españoles pese a que el Gobierno lo considera “materialmente imposible”",
+          "link": "https://www.eldiario.es/politica/supremo-ordena-suspender-voto-163-020-espanoles-pese-gobierno-considera-materialmente-imposible_1_13580454.html",
           "position": 50,
-          "focus": "Destaca la idea de 'equipo' entre los lideres y la incorporacion de Podemos a las listas de ERC; no detalla la distribucion territorial del voto"
+          "focus": "Presenta datos concretos (163.020 afectados) y cita ambas posturas -orden judicial y respuesta del Gobierno- sin cargar el juicio hacia ningún lado"
         },
         {
           "outlet": "El Espanol",
-          "headline": "Montero y Rufián pactan para el 29-N: Podemos no se presentará en Cataluña y ERC pedirá para ella el voto en el resto de España",
-          "link": "https://www.elespanol.com/espana/politica/20261012/montero-rufian-pactan-podemos-no-presentara-cataluna-erc-pedira-voto-resto-espana/1003744417179_0.html",
-          "position": 50,
-          "focus": "Detalla los terminos concretos del pacto: ausencia de Podemos en Cataluña y peticion de voto por parte de ERC en el resto de España"
+          "headline": "El Gobierno pretende que el TC anule la resolución del Supremo y reabra el coladero de la 'ley de nietos' antes del 29-N",
+          "link": "https://www.elespanol.com/espana/politica/20261013/gobierno-pretende-tc-anule-resolucion-supremo-reabra-coladero-ley-nietos/1003744417618_0.html",
+          "position": 85,
+          "focus": "Usa el término peyorativo 'coladero' y enmarca la acción del Gobierno como intento de anular una decisión judicial legítima antes de una fecha clave, acentuando la crítica"
         },
         {
           "outlet": "20minutos",
-          "headline": "Podemos confirma el acuerdo para ir junto a ERC en Cataluña en las generales",
-          "link": "https://www.20minutos.es/cataluna/podemos-confirma-que-ha-cerrado-acuerdo-para-ir-junto-erc-cataluna-las-generales_7047765_0.html",
-          "position": 50,
-          "focus": "Se centra en la confirmacion oficial del acuerdo por parte de Podemos, sin entrar en detalles de la distribucion territorial"
+          "headline": "La decisión del Supremo sobre la 'ley de nietos' cierra la puerta a un recurso del Gobierno ante el Constitucional",
+          "link": "https://www.20minutos.es/nacional/decision-supremo-sobre-ley-nietos-cierra-puerta-un-recurso-gobierno-ante-constitucional_7047898_0.html",
+          "position": 48,
+          "focus": "Centra el foco en la decisión del Supremo y su efecto procesal (cierre de vía al Constitucional), con tono descriptivo y poco valorativo sobre el Gobierno"
         }
       ],
-      "rango": 0,
-      "discrepancia": "baja",
+      "rango": 60,
+      "discrepancia": "alta",
       "silenciosos": [
         "ABC",
-        "El Mundo",
-        "El Pais",
         "La Vanguardia"
       ]
     },
     {
-      "neutral_headline": "Un estudiante de 14 años dispara y hiere al director y a una profesora en un instituto del sur de Francia",
-      "section": "Sociedad",
+      "neutral_headline": "Podemos y Frente Amplio chocan sobre la candidatura catalana entre ofertas de alianza y acusaciones de ultimátum",
+      "section": "Politica",
       "facts": [
-        "El atacante es un estudiante de 14 años",
-        "Hirió al director del centro y a una profesora",
-        "El hecho ocurrió en un instituto del sur de Francia",
-        "El Pais describe el arma como una escopeta",
-        "ABC describe el arma como un fusil de caza",
-        "ABC sitúa el instituto cerca de Marsella",
-        "El Mundo señala que el suceso desató alerta en los institutos franceses",
-        "El Espanol indica que el estudiante fue detenido tras el ataque"
+        "Podemos propone al Frente Amplio sumarse a su alianza con ERC",
+        "Irene Montero es presentada como candidata junto a Gabriel Rufián",
+        "Irene Montero confirma que Podemos no se integrará en el Frente Amplio",
+        "El Frente Amplio confirma a Ada Colau como candidata y pide a Montero sumarse a su proyecto",
+        "Podemos reivindica su pacto con ERC sin aclarar su relación con el Frente Amplio de Sumar"
       ],
-      "tipo_divergencia": "cronologica",
-      "eje": null,
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "Podemos como actor conciliador que ofrece alianza",
+        "polo_b": "Podemos/Rufián como pinza agresiva que impone un órdago",
+        "resumen": "Los medios difieren en si la jugada de Podemos-ERC es una oferta de colaboración o una maniobra de presión contra el Frente Amplio de Colau"
+      },
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "Un estudiante de 14 años hiere con una escopeta al director del centro y a una profesora en el sur de Francia",
-          "link": "https://elpais.com/internacional/2026-10-12/un-estudiante-de-14-anos-hiere-con-una-escopeta-al-director-del-centro-y-a-una-profesora.html",
-          "position": 50,
-          "focus": "Centra el relato en los dos heridos y especifica el arma como escopeta, sin mencionar detención ni alerta posterior"
+          "headline": "Podemos da la vuelta a la oferta del Frente Amplio y lo invita a “sumarse” a su alianza con ERC",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-10-13/montero-confirma-conversaciones-con-el-frente-amplio-lo-importante-es-llegar-a-buen-puerto.html",
+          "position": 20,
+          "focus": "Destaca la invitación de Podemos como gesto de apertura hacia el Frente Amplio, omitiendo el conflicto previo"
         },
         {
           "outlet": "El Mundo",
-          "headline": "Un estudiante de 14 años dispara contra un director y una profesora y desata la alerta en los institutos franceses",
-          "link": "https://www.elmundo.es/internacional/2026/10/12/6acca8f121efa090288b4597.html",
-          "position": 50,
-          "focus": "Añade la reacción posterior: la alerta generada en otros institutos franceses tras el ataque"
+          "headline": "Podemos ignora a Colau y se enroca en situar a Irene Montero como candidata de todos: \"Ella y Rufián son el equipo titular\"",
+          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/13/6ace0e46e4d4d84f4e8b4580.html",
+          "position": 65,
+          "focus": "Resalta que Podemos ignora a Colau y se enroca en su posición, con tono crítico hacia su rigidez"
         },
         {
           "outlet": "ABC",
-          "headline": "Dos heridos en un instituto cerca de Marsella después de que un alumno les disparara con un fusil de caza",
-          "link": "https://www.abc.es/internacional/dos-heridos-instituto-cerca-marsella-despues-alumno-20261012125052-nt.html",
+          "headline": "Irene Montero confirma que Podemos no se integrará en el Frente Amplio: «No quiero seguir en el bucle infinito»",
+          "link": "https://www.abc.es/espana/irene-montero-rompe-silencio-sobre-pacto-rufian-20261013110214-nt.html",
+          "position": 35,
+          "focus": "Recoge la versión de Montero en primera persona, centrando el relato en su justificación personal"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "El Frente Amplio responde al órdago de Podemos y Rufián: confirma a Colau como candidata y llama a Montero a sumarse",
+          "link": "https://www.eldiario.es/politica/frente-amplio-responde-ordago-rufian-confirma-colau-candidata-llama-montero-sumarse_1_13580395.html",
+          "position": 70,
+          "focus": "Usa el término 'órdago' para enmarcar la jugada de Podemos como una provocación, y centra el protagonismo en la respuesta de Colau"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Podemos reivindica su pacto con ERC pero evita aclarar su encaje en el Frente Amplio de Sumar",
+          "link": "https://www.lavanguardia.com/politica/20261013/11657624/montero-reivindica-pacto-erc-evita-aclarar-encaje-frente-amplio.html",
           "position": 50,
-          "focus": "Precisa la ubicación geográfica (cerca de Marsella) y detalla el tipo de arma como fusil de caza"
+          "focus": "Describe la ambigüedad de Podemos sin tomar partido claro entre las dos partes"
         },
         {
           "outlet": "El Espanol",
-          "headline": "Un estudiante francés de 14 años, detenido tras disparar y herir al director y a una profesora de su instituto",
-          "link": "https://www.elespanol.com/mundo/europa/20261012/estudiante-frances-anos-detenido-disparar-herir-director-profesora-instituto/1003744417205_0.html",
-          "position": 50,
-          "focus": "Incorpora el dato más reciente: la detención del estudiante tras el ataque"
+          "headline": "El Frente Amplio de Colau se niega a sucumbir ante la pinza de Rufián y Podemos: a cuatro días de una guerra fratricida",
+          "link": "https://www.elespanol.com/espana/politica/20261013/frente-amplio-colau-niega-sucumbir-pinza-rufian-podemos-dias-guerra-fratricida/1003744417641_0.html",
+          "position": 85,
+          "focus": "Enmarca a Podemos y Rufián como una 'pinza' agresiva y anticipa una 'guerra fratricida', presentando al Frente Amplio como víctima de presión"
         }
       ],
-      "rango": 0,
-      "discrepancia": "baja",
+      "rango": 65,
+      "discrepancia": "alta",
       "silenciosos": [
-        "20minutos",
-        "La Vanguardia",
-        "eldiario.es"
+        "20minutos"
       ]
     },
     {
-      "neutral_headline": "Los looks de la Familia Real en el desfile del Día de la Hispanidad",
-      "section": "Sociedad",
+      "neutral_headline": "Netflix adquiere los derechos exclusivos para emitir el Mundial de fútbol 2030 en España",
+      "section": "Deportes",
       "facts": [
-        "La Reina Letizia llevó un vestido rosa empolvado",
-        "La Reina Letizia lució un broche de su joyero habitual",
-        "La Princesa de Asturias vistió de uniforme militar",
-        "La Infanta Sofía llevó un traje rojo abotonado",
-        "El desfile tuvo lugar con motivo del Día de la Hispanidad"
+        "Netflix adquiere los derechos audiovisuales exclusivos del Mundial de fútbol 2030",
+        "Los derechos cubren España",
+        "Según El País, los derechos también incluyen Andorra"
       ],
       "tipo_divergencia": "ninguna",
       "eje": null,
       "frames": [
         {
-          "outlet": "El Mundo",
-          "headline": "La Reina Letizia sorprende con un delicado vestido rosa empolvado; la Princesa de Asturias, de uniforme militar; y la Infanta Sofía, con traje rojo: los looks reales en el desfile del Día de la Hispanidad",
-          "link": "https://www.elmundo.es/yodona/moda/reina-letizia/2026/10/12/6acc9db5fdddff6c2a8b459a.html",
+          "outlet": "El Pais",
+          "headline": "Netflix adquiere los derechos exclusivos para España y Andorra del Mundial de fútbol 2030",
+          "link": "https://elpais.com/television/2026-10-13/netflix-adquiere-los-derechos-exclusivos-para-espana-y-andorra-del-mundial-de-futbol-2030.html",
           "position": 50,
-          "focus": "Cubre a las tres mujeres de la Familia Real y sus respectivos looks, sin centrarse en una sola figura"
+          "focus": "Incluye Andorra junto con España en el alcance de los derechos adquiridos"
         },
         {
           "outlet": "ABC",
-          "headline": "La Infanta Sofía, con un traje rojo abotonado",
-          "link": "https://www.abc.es/estilo/moda/infanta-sofia-dia-hispanidad-20261012140123-nt.html",
+          "headline": "Netflix compra los derechos para emitir en exclusiva el Mundial de fútbol de 2030 en España",
+          "link": "https://www.abc.es/play/television/noticias/netflix-compra-derechos-emitir-exclusiva-mundial-futbol-20261013132446-nt.html",
           "position": 50,
-          "focus": "Se centra exclusivamente en el look de la Infanta Sofía, omitiendo a Letizia y la Princesa"
+          "focus": "Se centra únicamente en España, sin mencionar Andorra"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Netflix adquiere los derechos audiovisuales exclusivos del Mundial 2030 en España",
+          "link": "https://www.20minutos.es/deportes/futbol/netflix-adquiere-los-derechos-audiovisuales-exclusivos-mundial-2030-espana_7048162_0.html",
+          "position": 50,
+          "focus": "Describe la adquisición en España, sin mencionar Andorra"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "El Espanol",
+        "El Mundo",
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "CCOO y UGT piden que el salario mínimo suba un 7% en 2027",
+      "section": "Economia",
+      "facts": [
+        "CCOO y UGT piden al Gobierno una subida del salario mínimo interprofesional del 7% para 2027",
+        "El Mundo cifra la subida en hasta 1.306,5 euros",
+        "20minutos cifra la subida en 1.307 euros brutos al mes",
+        "ABC, eldiario.es y La Vanguardia sitúan la cifra en 1.300 euros al mes",
+        "El Español vincula la petición sindical con la proximidad de una huelga general y las elecciones del 29N"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "reivindicación laboral/técnica",
+        "polo_b": "maniobra política-electoral",
+        "resumen": "La mayoría presenta la petición como una demanda laboral pura, mientras El Español la enmarca en un contexto de tensión política y electoral"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "CC OO y UGT reclaman que el salario mínimo suba un 7% en 2027",
+          "link": "https://elpais.com/economia/2026-10-13/cc-oo-y-ugt-reclaman-que-el-salario-minimo-suba-un-7-en-2027.html",
+          "position": 50,
+          "focus": "Informa de la petición sindical sin añadir contexto adicional"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Los sindicatos exigen al Gobierno una subida del salario mínimo del 7% en 2027, hasta los 1.306,5 euros",
+          "link": "https://www.elmundo.es/economia/2026/10/13/6acdfd42fdddffec208b458d.html",
+          "position": 50,
+          "focus": "Detalla la cifra exacta resultante (1.306,5€) sin añadir valoración política"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "UGT y CC.OO. exigen que el salario mínimo suba «al menos» el 7% y supere los 1.300 euros",
+          "link": "https://www.abc.es/economia/ugt-ccoo-exigen-salario-minimo-suba-supere-20261013122421-nt.html",
+          "position": 50,
+          "focus": "Destaca el carácter mínimo de la exigencia ('al menos 7%') y la cifra redondeada"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "CCOO y UGT piden al Gobierno que el salario mínimo suba \"al menos un 7%\" hasta los 1.300 euros en 2027",
+          "link": "https://www.eldiario.es/economia/ccoo-ugt-piden-gobierno-salario-minimo-suba-7-1-300-euros-2027_1_13581251.html",
+          "position": 50,
+          "focus": "Reproduce la petición textual de los sindicatos con la cifra de 1.300€"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Los sindicatos piden un aumento del 7% del SMI, hasta los 1.300 euros al mes en 2027",
+          "link": "https://www.lavanguardia.com/economia/20261013/11657700/sindicatos-piden-aumento-7-smi.html",
+          "position": 50,
+          "focus": "Resume la petición con cifra redondeada, sin contexto adicional"
         },
         {
           "outlet": "El Espanol",
-          "headline": "Letizia apuesta por el rosa suave y uno de sus broches favoritos del joyero de pasar en el Día de la Hispanidad",
-          "link": "https://www.elespanol.com/mujer/royals/20261012/letizia-apuesta-rosa-suave-broches-favoritos-joyero-pasar-dia-hispanidad/1003744417059_0.html",
+          "headline": "Los sindicatos demandan que el SMI suba un 7% en 2027 a las puertas de la huelga general y de las elecciones del 29N",
+          "link": "https://www.elespanol.com/invertia/economia/empleo/20261013/sindicatos-demandan-smi-suba-puertas-huelga-general-elecciones/1003744417959_0.html",
+          "position": 65,
+          "focus": "Enmarca la petición dentro de un contexto político más amplio, mencionando huelga general y elecciones, lo que sugiere una lectura estratégica de la demanda"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Los sindicatos plantean subir el SMI un 7% hasta situarlo en 1.307 euros brutos al mes",
+          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/los-sindicatos-plantean-subir-smi-un-7-hasta-situarlos-1-307-euros-brutos-mes_7048076_0.html",
           "position": 50,
-          "focus": "Se centra exclusivamente en el look de la Reina Letizia, con detalle en el broche, omitiendo a las infantas"
+          "focus": "Detalla la cifra exacta (1.307€ brutos) sin contexto político"
+        }
+      ],
+      "rango": 15,
+      "discrepancia": "baja",
+      "silenciosos": []
+    },
+    {
+      "neutral_headline": "El FMI prevé que España lidere el crecimiento económico en 2026 entre las economías avanzadas",
+      "section": "Economia",
+      "facts": [
+        "El FMI sitúa a España como la economía avanzada que más crecerá en 2026",
+        "Según eldiario.es, España sería líder por tercer año consecutivo",
+        "La Vanguardia y 20minutos indican que el FMI elevó la previsión de crecimiento al 2,5% para 2026",
+        "20minutos señala que ese crecimiento es más del doble que el previsto para la eurozona",
+        "El Español indica que el FMI sitúa a España a la cabeza de las grandes economías del euro",
+        "El Español señala que la inflación prevista se sitúa en el 3,7%"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "enfasis en liderazgo y crecimiento positivo",
+        "polo_b": "enfasis en riesgos o contrapartidas (inflación)",
+        "resumen": "La mayoría de medios resalta el liderazgo en crecimiento de España, mientras El Español matiza ese dato positivo introduciendo el repunte de la inflación como contrapeso."
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "El FMI vuelve a situar a España como la gran economía que más crece en 2026",
+          "link": "https://elpais.com/economia/2026-10-13/el-fmi-vuelve-a-situar-a-espana-como-la-gran-economia-que-mas-crece-en-2026.html",
+          "position": 15,
+          "focus": "Destaca el liderazgo en crecimiento de España sin mencionar otros indicadores como la inflación"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "El FMI confirma a España como la líder de las economías avanzadas por tercer año consecutivo",
+          "link": "https://www.eldiario.es/economia/fmi-confirma-espana-lider-economias-avanzadas-tercer-ano-consecutivo_1_13579631.html",
+          "position": 15,
+          "focus": "Resalta la continuidad del liderazgo español (tercer año consecutivo), reforzando el marco positivo"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "El FMI eleva al 2,5% la previsión de crecimiento para España en 2026",
+          "link": "https://www.lavanguardia.com/economia/20261013/11657470/fmi-eleva-2-5-prevision-crecimiento-espana-2026.html",
+          "position": 40,
+          "focus": "Se centra en el dato numérico de la previsión (2,5%) sin enmarcarlo como liderazgo ni mencionar riesgos"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "El FMI sitúa a España a la cabeza de las grandes economías del euro, pero con una inflación disparada al 3,7%",
+          "link": "https://www.elespanol.com/invertia/economia/macroeconomia/20261013/fmi-situa-espana-cabeza-grandes-economias-euro-inflacion-disparada/1003744417728_0.html",
+          "position": 80,
+          "focus": "Combina el liderazgo económico con un dato negativo (inflación al 3,7%), introduciendo un matiz crítico ausente en los demás"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "El FMI sube al 2,5% el crecimiento previsto para España en 2026, más del doble que la eurozona",
+          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/fmi-sube-2-5-crecimiento-previsto-para-espana-2026-mas-doble-que-eurozona_7047923_0.html",
+          "position": 35,
+          "focus": "Resalta el dato de crecimiento comparado con la eurozona, reforzando el marco de éxito relativo sin mencionar inflación"
+        }
+      ],
+      "rango": 65,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "ABC",
+        "El Mundo"
+      ]
+    },
+    {
+      "neutral_headline": "Un incendio en un tren provoca retrasos y cancelaciones en la línea de alta velocidad Madrid-Barcelona",
+      "section": "Sociedad",
+      "facts": [
+        "Un tren se incendió el día anterior",
+        "La línea de alta velocidad Madrid-Barcelona sufre demoras y cambios horarios (El País)",
+        "Renfe maniobra para reducir las demoras y cancela trayectos con Navarra (El Mundo)",
+        "Se registra una situación de caos en la estación de Sants (La Vanguardia)",
+        "Un pasajero afectado declara estar atrapado cuando debía estar en Zaragoza trabajando (La Vanguardia)"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "foco en la gestión institucional del incidente",
+        "polo_b": "foco en la experiencia humana de los afectados",
+        "resumen": "Los medios se dividen entre narrar la respuesta operativa de Renfe o el impacto vivido por los pasajeros atrapados"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "La alta velocidad entre Madrid y Barcelona sufre demoras y cambios horarios por el tren incendiado ayer",
+          "link": "https://elpais.com/economia/2026-10-13/la-alta-velocidad-entre-madrid-y-barcelona-inicia-la-jornada-con-demoras-y-suspensiones-por-el-tren-incendiado-ayer.html",
+          "position": 30,
+          "focus": "Describe el efecto general (demoras, cambios horarios) sin detallar causas ni testimonios; tono informativo neutro"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "La alta velocidad Madrid-Barcelona sigue afectada tras el incendio: Renfe maniobra para reducir las demoras y cancela trayectos con Navarra",
+          "link": "https://www.elmundo.es/economia/empresas/2026/10/13/6acdd5c9e9cf4a4a5c8b4575.html",
+          "position": 20,
+          "focus": "Centra el relato en la respuesta de Renfe y las medidas concretas (maniobras, cancelaciones a Navarra), enfoque institucional"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Caos en Sants por el AVE: “Tendría que estar en Zaragoza trabajando, y estoy aquí atrapado”",
+          "link": "https://www.lavanguardia.com/vida/20261013/11657646/caos-sants-ave-tendria-zaragoza-trabajando-atrapado.html",
+          "position": 85,
+          "focus": "Destaca el caos vivido en la estación y da voz a un pasajero afectado, enfoque humano y emocional, omite detalles técnicos de la gestión"
+        }
+      ],
+      "rango": 65,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Espanol",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Ignacio González niega las acusaciones en la primera jornada del juicio por el caso Lezo",
+      "section": "Politica",
+      "facts": [
+        "Ignacio González es expresidente de la Comunidad de Madrid",
+        "Se celebró la primera sesión de su juicio en el marco del caso Lezo",
+        "González negó/se declaró inocente de las acusaciones en su contra",
+        "eldiario.es señala que el caso se refiere al presunto amaño de un campo de golf en el centro de Madrid"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "El expresidente madrileño Ignacio González se declara inocente en el arranque de su primer juicio de Lezo",
+          "link": "https://elpais.com/espana/2026-10-13/arranca-el-primer-juicio-de-lezo-al-expresidente-madrileno-ignacio-gonzalez-reconoce-los-delitos.html",
+          "position": 50,
+          "focus": "Centra en la declaración de inocencia y el inicio del juicio, sin detallar los hechos imputados"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "El ex presidente madrileño Ignacio González niega las acusaciones en la primera jornada de su juicio por el 'caso Lezo'",
+          "link": "https://www.elmundo.es/madrid/2026/10/13/6acdfdec21efa045098b459e.html",
+          "position": 50,
+          "focus": "Destaca la negación de las acusaciones en la jornada inicial, sin precisar el contenido del presunto delito"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Ignacio González niega los hechos en la primera sesión del juicio por el amaño de un campo de golf en el centro de Madrid",
+          "link": "https://www.eldiario.es/politica/ignacio-gonzalez-niega-hechos-primera-sesion-juicio-amano-campo-golf-centro-madrid_1_13580989.html",
+          "position": 50,
+          "focus": "Añade el detalle concreto del objeto de la acusación: el amaño de un campo de golf en Madrid"
         }
       ],
       "rango": 0,
       "discrepancia": "baja",
       "silenciosos": [
         "20minutos",
-        "El Pais",
+        "ABC",
+        "El Espanol",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "El Papa León XIV ingresa en el hospital Gemelli de Roma para ser operado de un nódulo pulmonar",
+      "section": "Internacional",
+      "facts": [
+        "El Papa León XIV llegó/ingresó al Hospital Gemelli de Roma",
+        "Será operado de un nódulo en el pulmón",
+        "Según ABC y El Español, la operación está prevista para hoy/esta tarde"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "El Papa llega al hospital Gemelli de Roma para que le extirpen un nódulo del pulmón",
+          "link": "https://elpais.com/internacional/2026-10-13/el-papa-llega-al-hospital-gemelli-de-roma-para-que-le-extirpen-un-nodulo-del-pulmon.html",
+          "position": 50,
+          "focus": "Llegada al hospital y motivo de la operación, sin precisar hora"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "El Papa ingresa en el Hospital Gemelli para ser operado de un nódulo en el pulmón",
+          "link": "https://www.elmundo.es/internacional/2026/10/13/6acdee53e9cf4abd688b4578.html",
+          "position": 50,
+          "focus": "Ingreso hospitalario y motivo de la futura operación"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "El Papa ingresa en el hospital y será operado hoy del nódulo de pulmón",
+          "link": "https://www.abc.es/sociedad/papa-ingresa-clinica-gemelli-extirparle-nodulo-pulmon-20261013122457-nt.html",
+          "position": 50,
+          "focus": "Ingreso y precisión de que la operación es hoy mismo"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "León XIV ingresa en el hospital Gemelli para ser operado de un nódulo pulmonar",
+          "link": "https://www.lavanguardia.com/internacional/20261013/11657611/leon-xiv-ingresa-hospital-gemelli-operado-nodulo-pulmonar.html",
+          "position": 50,
+          "focus": "Usa el nombre papal 'León XIV' en vez de 'el Papa', mismo hecho"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "El Papa León XIV llega al Hospital Gemelli de Roma en el que será operado de un nódulo pulmonar esta tarde",
+          "link": "https://www.elespanol.com/mundo/europa/20261013/papa-leon-xiv-trasladado-hospital-gemelli-roma-operado-nodulo-pulmonar-tarde/1003744418296_0.html",
+          "position": 50,
+          "focus": "Detalla que la operación será esta tarde, mayor precisión horaria"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "El papa ingresa en el hospital Gemelli de Roma para ser operado de un nódulo pulmonar",
+          "link": "https://www.20minutos.es/internacional/papa-leon-xiv-ingresa-hospital-gemelli-roma-para-ser-operado-un-nodulo-pulmonar_7048152_0.html",
+          "position": 50,
+          "focus": "Ingreso en el hospital y motivo de la operación, sin hora concreta"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Selma Blair detenida tras incidente en un avión en pleno vuelo",
+      "section": "Sociedad",
+      "facts": [
+        "Selma Blair fue detenida/arrestada",
+        "El incidente ocurrió en un avión en pleno vuelo",
+        "Según El Pais y El Espanol, intentó abrir la puerta del avión y golpeó y mordió a dos tripulantes",
+        "Según 20minutos, presuntamente intentó abrir la puerta del avión en pleno vuelo"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "hechos afirmados como confirmados",
+        "polo_b": "hechos presentados como presunción/alegación",
+        "resumen": "El Pais y El Espanol narran la agresión física y el intento de abrir la puerta como hechos probados, mientras 20minutos matiza con 'presuntamente' y omite la agresión a los tripulantes"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Selma Blair, detenida por intentar abrir la puerta de un avión y pegar y morder a dos tripulantes",
+          "link": "https://elpais.com/us/entretenimiento/2026-10-12/selma-blair-detenida-por-intentar-abrir-la-puerta-de-un-avion-y-pegar-y-morder-a-dos-tripulantes.html",
+          "position": 10,
+          "focus": "Afirma como hecho el intento de abrir la puerta y la agresión física (golpes y mordiscos) a dos tripulantes"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "La actriz Selma Blair, detenida tras intentar abrir la puerta de un avión en pleno vuelo y pegar y morder a dos tripulantes",
+          "link": "https://www.elespanol.com/corazon/celebrities/20261013/actriz-selma-blair-detenida-intentar-abrir-puerta-avion-pleno-vuelo-pegar-morder-tripulantes/1003744417729_0.html",
+          "position": 10,
+          "focus": "Igual que El Pais, detalla la agresión física como hecho consumado, sin matizar con presunción"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Selma Blair, arrestada tras presuntamente intentar abrir la puerta de un avión en pleno vuelo",
+          "link": "https://www.20minutos.es/gente/actriz-selma-blair-arrestada-tras-protagonizar-un-presunto-incidente-un-vuelo_7047937_0.html",
+          "position": 70,
+          "focus": "Usa 'presuntamente' para el intento de abrir la puerta y omite cualquier mención a agresión física, suavizando la certeza del relato"
+        }
+      ],
+      "rango": 60,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "ABC",
+        "El Mundo",
         "La Vanguardia",
         "eldiario.es"
       ]
     },
     {
-      "neutral_headline": "La UE y China acuerdan un cupo anual de coches híbridos mientras Francia y Alemania pactan medidas para proteger su industria automovilística",
-      "section": "Economia",
+      "neutral_headline": "La jueza del caso David Sánchez pide imputar al exjuez Sáenz de Tejada y que declare la líder de un clan señalado en la trama Leire Díez",
+      "section": "Politica",
       "facts": [
-        "Existe un pacto comercial entre la UE y China sobre coches híbridos",
-        "Según eldiario.es, el pacto establece un cupo de 350.000 vehículos híbridos chinos al año",
-        "Según eldiario.es, ese cupo no afecta a los vehículos fabricados en la UE",
-        "Según 20minutos, Macron anunció un acuerdo con Alemania para proteger la industria del automóvil"
+        "La jueza Beatriz Biedma, instructora del 'caso David Sánchez', pide la imputación del exjuez Sáenz de Tejada",
+        "La jueza pide que declare la líder de un clan identificado como 'Los Rocho' (El Español)",
+        "Según El Español, la 'trama Leire' planteó 'eliminar' a esa líder del clan",
+        "Según 20minutos, el exjuez contactó con una persona señalada como 'narco' para atacarla",
+        "20minutos vincula al exjuez con una trama denominada 'cloacas del PSOE'",
+        "El País informa de la aparición de una tercera víctima del internado San Juan de Dios en Canarias, un hecho distinto no relacionado con el caso anterior"
       ],
       "tipo_divergencia": "editorial",
       "eje": {
-        "polo_a": "Protagonismo del pacto UE-China",
-        "polo_b": "Protagonismo del eje Francia-Alemania",
-        "resumen": "Los medios difieren en si el foco de la noticia es el acuerdo comercial UE-China o la respuesta bilateral franco-alemana para proteger su industria"
+        "polo_a": "foco en el exjuez y la trama política (cloacas del PSOE)",
+        "polo_b": "foco en la líder del clan narco y la amenaza contra ella",
+        "resumen": "Los medios difieren en si colocan como protagonista al exjuez imputado o a la líder del clan señalada como objetivo de la trama"
       },
       "frames": [
         {
-          "outlet": "El Mundo",
-          "headline": "Europa pone un dique a la avalancha de coches híbridos chinos: las claves del pacto comercial con Pekín",
-          "link": "https://www.elmundo.es/economia/macroeconomia/2026/10/12/6accc5eb21efa0354d8b4575.html",
-          "position": 15,
-          "focus": "Destaca el pacto UE-China como una barrera protectora ('dique') frente a la avalancha de híbridos chinos, sin detallar cifras exactas del cupo"
+          "outlet": "El Pais",
+          "headline": "Aparece una tercera víctima del internado San Juan de Dios de Canarias: “Fue un infierno, no pensé que a estas alturas saliera todo”",
+          "link": "https://elpais.com/sociedad/2026-10-13/aparece-una-tercera-victima-del-internado-san-juan-de-dios-de-canarias-fue-un-infierno-no-pense-que-a-estas-alturas-saliera-todo.html",
+          "position": 50,
+          "focus": "Pieza sobre un hecho distinto (abusos en un internado de Canarias), sin relación con el caso Leire Díez/David Sánchez; no aplica al eje editorial de las otras tres piezas"
         },
         {
           "outlet": "eldiario.es",
-          "headline": "Claves del pacto sobre coches híbridos chinos: cupo de 350.000 vehículos al año sin afectar a los fabricados en la UE",
-          "link": "https://www.eldiario.es/economia/claves-pacto-coches-hibridos-chinos-cupo-350-000-vehiculos-ano-afectar-fabricados-ue_1_13579340.html",
-          "position": 30,
-          "focus": "Explica el pacto UE-China con datos concretos (cupo de 350.000 vehículos) y aclara que no afecta a la producción europea, en tono informativo"
+          "headline": "La jueza Beatriz Biedma pide la imputación del exjuez Sáenz de Tejada en el caso Leire Díez",
+          "link": "https://www.eldiario.es/politica/jueza-beatriz-biedma-pide-imputacion-exjuez-saenz-tejada-caso-leire-diez_1_13581790.html",
+          "position": 15,
+          "focus": "Centra el titular exclusivamente en la petición de imputación del exjuez, sin mencionar a la líder del clan ni la trama narco"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "La juez del 'caso David Sánchez' pide que declare la líder del clan de 'Los Rocho', al que la 'trama Leire' planteó \"eliminarla\"",
+          "link": "https://www.elespanol.com/espana/tribunales/20261013/juez-caso-david-sanchez-pide-declare-lider-clan-trama-leire-planteo-eliminarla/1003744418230_0.html",
+          "position": 85,
+          "focus": "Pone el foco en la líder del clan 'Los Rocho' y en el plan para 'eliminarla', dejando en segundo plano al exjuez"
         },
         {
           "outlet": "20minutos",
-          "headline": "Macron anuncia un acuerdo con Alemania para proteger la industria del automóvil",
-          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/macron-anuncia-un-acuerdo-con-alemania-para-proteger-industria-europea-automovil_7047739_0.html",
-          "position": 85,
-          "focus": "Pone el foco en Francia y Alemania como protagonistas de un acuerdo bilateral para proteger su propia industria automovilística, omitiendo el acuerdo UE-China"
+          "headline": "La instructora del caso David Sánchez pide imputar al exjuez ligado a las cloacas del PSOE que contactó con una 'narco' para atacarla",
+          "link": "https://www.20minutos.es/nacional/instructora-caso-david-sanchez-pide-imputar-exjuez-ligado-las-cloacas-psoe-que-contacto-con-una-narco-para-atacarla_7048156_0.html",
+          "position": 55,
+          "focus": "Combina ambos elementos: la imputación del exjuez ligado a 'cloacas del PSOE' y su contacto con una narco para atacar a la líder, con ligero énfasis en el episodio del ataque"
         }
       ],
       "rango": 70,
       "discrepancia": "alta",
       "silenciosos": [
         "ABC",
-        "El Espanol",
-        "El Pais",
+        "El Mundo",
         "La Vanguardia"
-      ]
-    },
-    {
-      "neutral_headline": "El Papa será hospitalizado para ser operado de un nódulo en el pulmón",
-      "section": "Internacional",
-      "facts": [
-        "El Papa será hospitalizado para una operación relacionada con un nódulo en el pulmón",
-        "El Mundo y 20minutos sitúan la hospitalización 'mañana'",
-        "El Espanol sitúa la operación 'este martes'",
-        "El Espanol añade que el Papa mantiene su gira por América Latina y cita que 'tiene una excelente forma'"
-      ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "foco en la intervención médica",
-        "polo_b": "foco en la normalidad y continuidad de su actividad",
-        "resumen": "El Mundo y 20minutos se limitan a anunciar la hospitalización y operación, mientras El Espanol enmarca la noticia subrayando que el Papa sigue con su agenda y goza de buena salud"
-      },
-      "frames": [
-        {
-          "outlet": "El Mundo",
-          "headline": "El Papa será hospitalizado mañana a mediodía para ser operado del nódulo en el pulmón",
-          "link": "https://www.elmundo.es/internacional/2026/10/12/6accb125e9cf4a18268b456f.html",
-          "position": 20,
-          "focus": "Informa escuetamente de la hospitalización y la operación, sin mencionar el estado general del Papa ni su actividad"
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "El Papa afronta la operación de pulmón este martes y mantiene su gira por América Latina: \"Tiene una excelente forma\"",
-          "link": "https://www.elespanol.com/mundo/20261012/papa-leon-xiv-afronta-operacion-nodulo-pulmon-escasas-semanas-gira-america-latina-excelente-forma-fisica/1003744416841_0.html",
-          "position": 75,
-          "focus": "Encuadra la operación como un trámite menor, destacando que mantiene la gira y citando una valoración positiva de su salud"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "El Papa será hospitalizado mañana para ser operado del nódulo en el pulmón",
-          "link": "https://www.20minutos.es/internacional/papa-leon-xiv-sera-hospitalizado-martes-mediodia-para-ser-operado-nodulo-pulmon_7047787_0.html",
-          "position": 20,
-          "focus": "Igual que El Mundo, se centra solo en el hecho médico sin añadir contexto sobre su estado o agenda"
-        }
-      ],
-      "rango": 55,
-      "discrepancia": "media",
-      "silenciosos": [
-        "ABC",
-        "El Pais",
-        "La Vanguardia",
-        "eldiario.es"
       ]
     }
   ]
