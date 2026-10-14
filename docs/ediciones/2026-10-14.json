@@ -1,0 +1,503 @@
+{
+  "fecha": "2026-10-14T09:42:16.125334+00:00",
+  "esquema": 2,
+  "historias": [
+    {
+      "neutral_headline": "Colau ofrece renunciar a ser candidata y cambiar el nombre de Frente Amplio para alcanzar un acuerdo con Podemos",
+      "section": "Politica",
+      "facts": [
+        "Ada Colau se ofrece a renunciar a su candidatura al frente de Frente Amplio",
+        "Colau plantea la posibilidad de cambiar el nombre de la marca Frente Amplio",
+        "El objetivo declarado es lograr la unidad o un pacto con Podemos",
+        "ABC menciona tambien a ERC como parte de la suma buscada"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "gesto de concesion generosa",
+        "polo_b": "movimiento estrategico de presion",
+        "resumen": "Los medios varian entre presentar la oferta de Colau como una cesion sincera para facilitar el acuerdo o como una jugada de presion (incluso 'ordago') hacia Podemos."
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Colau ofrece renunciar a su candidatura y cambiar el nombre de Frente Amplio para lograr la unidad con Podemos",
+          "link": "https://elpais.com/espana/catalunya/2026-10-14/colau-ofrece-renunciar-a-su-candidatura-y-cambiar-el-nombre-de-frente-amplio-para-lograr-la-unidad-con-podemos.html",
+          "position": 40,
+          "focus": "Describe la oferta como un gesto conciliador sin anadir matices de presion"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Colau admite que el problema con Podemos es la pelea de nombres y se ofrece a \"ceder\" como líder si alguien reúne \"más consenso\"",
+          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/14/6acf3077e4d4d890358b45ae.html",
+          "position": 35,
+          "focus": "Enfatiza que Colau 'admite' el problema de nombres, suavizando su posicion como autocritica"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Ada Colau, dispuesta a dar un paso a un lado y a desechar la marca Frente Amplio para sumar a Podemos y ERC",
+          "link": "https://www.abc.es/espana/colau-dispuesta-dar-paso-lado-desechar-marca-20261014093406-nt.html",
+          "position": 45,
+          "focus": "Neutral, incluye a ERC como parte del objetivo de suma, sin interpretar la intencion"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Colau se abre a no ser candidata para que Frente Amplio y Podemos pacten",
+          "link": "https://www.eldiario.es/catalunya/colau-abre-no-candidata-frente-amplio-pacten-si-hay-persona-consenso-adelante_1_13583444.html",
+          "position": 45,
+          "focus": "Centra el hecho en que el pacto dependa de que ella no sea candidata, tono descriptivo"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Colau, dispuesta a renunciar al liderazgo del Frente Amplio para pactar con Podemos",
+          "link": "https://www.lavanguardia.com/politica/20261014/11658507/colau-ofrece-negociar-lineas-rojas-propia-candidatura-marca-electoral.html",
+          "position": 45,
+          "focus": "Describe la renuncia al liderazgo como condicion para el pacto, sin valorar motivacion"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Órdago de Colau a Podemos: ofrece renunciar a ser candidata y cambiar el nombre de Frente Amplio para lograr la alianza",
+          "link": "https://www.elespanol.com/espana/politica/20261014/ordago-colau-podemos-ofrece-renunciar-candidata-cambiar-nombre-frente-amplio-lograr-alianza/1003744419304_0.html",
+          "position": 75,
+          "focus": "Usa 'ordago', enmarcando la oferta como una maniobra de presion o desafio hacia Podemos"
+        }
+      ],
+      "rango": 40,
+      "discrepancia": "media",
+      "silenciosos": [
+        "20minutos"
+      ]
+    },
+    {
+      "neutral_headline": "El Tribunal de Cuentas aplica la ley de amnistía a Puigdemont y otros ex cargos del Govern por los gastos del procés",
+      "section": "Politica",
+      "facts": [
+        "El Tribunal de Cuentas amnistía a Puigdemont y a otros 34 encausados por gastos del procés (El País)",
+        "El Tribunal de Cuentas perdona más de 4 millones de euros a los independentistas por el procés (El Mundo)",
+        "El Tribunal de Cuentas amnistía a Puigdemont y a una treintena de ex altos cargos del Govern (ABC)",
+        "El Tribunal de Cuentas amnistía a Puigdemont, Junqueras y otros 30 excargos del Govern (eldiario.es)",
+        "El Tribunal de Cuentas amnistía a todos los responsables del procés (La Vanguardia)"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "decision institucional propia",
+        "polo_b": "imposicion legal forzada",
+        "resumen": "El Mundo enmarca la amnistia como una obligacion legal impuesta al tribunal, mientras el resto de medios presentan la medida como una accion directa sin ese matiz de coercion."
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Última hora de la actualidad política, en directo | El Tribunal de Cuentas amnistía a Puigdemont y a otros 34 encausados por gastos del ‘procés’",
+          "link": "https://elpais.com/espana/2026-10-14/ultima-hora-de-la-actualidad-politica-en-directo.html",
+          "position": 50,
+          "focus": "Reporta la amnistia y da una cifra concreta de encausados (34) sin valorar la motivacion del tribunal"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "El Tribunal de Cuentas se ve obligado a aplicar la ley de amnistía y perdona más de 4 millones a los independentistas por el procés",
+          "link": "https://www.elmundo.es/espana/2026/10/14/6acf3bd4fdddffec208b45bd.html",
+          "position": 85,
+          "focus": "Destaca que el tribunal actua forzado por la ley ('se ve obligado') y cuantifica el perdon economico en mas de 4 millones, sugiriendo reticencia institucional"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "El Tribunal de Cuentas amnistía a Puigdemont y una treintena de ex altos cargos del Govern por los gastos del 'procés'",
+          "link": "https://www.abc.es/espana/cataluna/tribunal-cuentas-amnistia-puigdemont-treintena-altos-cargos-20261014111538-nt.html",
+          "position": 50,
+          "focus": "Informa de la amnistia a Puigdemont y una treintena de ex cargos sin matizar la voluntariedad del tribunal"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "El Tribunal de Cuentas amnistía a Puigdemont, Junqueras y otros 30 excargos del Govern por los gastos del procés",
+          "link": "https://www.eldiario.es/catalunya/tribunal-cuentas-amnistia-puigdemont-junqueras-30-excargos-govern-gastos-proces_1_13499322.html",
+          "position": 50,
+          "focus": "Nombra a Puigdemont y Junqueras junto a otros 30 excargos, centrado en los protagonistas sin juicio sobre el tribunal"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "El Tribunal de Cuentas amnistía a todos los responsables del procés",
+          "link": "https://www.lavanguardia.com/politica/20261014/11658572/tribunal-cuentas-amnistia-todos-responsables-proces.html",
+          "position": 50,
+          "focus": "Generaliza la amnistia a 'todos los responsables' sin detallar cifras ni la motivacion del tribunal"
+        }
+      ],
+      "rango": 35,
+      "discrepancia": "media",
+      "silenciosos": [
+        "20minutos",
+        "El Espanol"
+      ]
+    },
+    {
+      "neutral_headline": "Los Reyes visitan Ceuta (o Melilla, según El País) y Felipe VI afirma que la soberanía española es innegociable",
+      "section": "Politica",
+      "facts": [
+        "El Pais reporta una visita real de los Reyes a Melilla",
+        "eldiario.es, La Vanguardia y El Espanol reportan una visita del Rey a Ceuta",
+        "Segun eldiario.es, La Vanguardia y El Espanol, Felipe VI declaro que la soberania y la integridad territorial espanola no son negociables",
+        "Segun El Espanol, Felipe VI vinculo la buena relacion con Marruecos a que Ceuta sea reconocida como Espana",
+        "Segun El Espanol, Felipe VI pidio al Gobierno y a la UE que defiendan la ciudad",
+        "El Pais describe que cientos de personas esperaban para recibir a los Reyes"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "La visita de los Reyes a Melilla, en directo | Cientos de personas esperan para recibir a Felipe VI y Letizia en Melilla",
+          "link": "https://elpais.com/espana/2026-10-14/la-visita-de-los-reyes-a-melilla-en-directo.html",
+          "position": 50,
+          "focus": "Cobertura en directo centrada en la expectacion popular por la visita a Melilla, sin detallar el contenido del discurso"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "El rey reitera en su visita que “Ceuta es España”: “La soberanía y la integridad territorial no son negociables”",
+          "link": "https://www.eldiario.es/politica/reyes-visitan-ceuta-soberania-integridad-territorial-pais-no-son-negociables_1_13583216.html",
+          "position": 50,
+          "focus": "Destaca la cita textual del Rey sobre soberania no negociable como mensaje central dirigido implicitamente a Marruecos"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "El Rey advierte a Marruecos desde Ceuta que la soberanía española “no es negociable”",
+          "link": "https://www.lavanguardia.com/politica/20261013/11658141/rey-exige-buena-fe-marruecos-advierte-soberania-espanola-negociable.html",
+          "position": 50,
+          "focus": "Enfatiza que la declaracion constituye una advertencia directa a Marruecos, enmarcando el hecho como tension diplomatica"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Felipe VI supedita \"la buena relación con Marruecos\" a que \"Ceuta es España\" y emplaza al Gobierno y la UE a defenderla",
+          "link": "https://www.elespanol.com/espana/20261014/felipe-vi-supedita-buena-relacion-marruecos-ceuta-espana-emplaza-gobierno-ue-defenderla/1003744419199_0.html",
+          "position": 50,
+          "focus": "Anade que el Rey condiciona la relacion con Marruecos a este reconocimiento y reclama un papel activo del Gobierno y la UE, ampliando el foco a la respuesta institucional"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Mundo"
+      ]
+    },
+    {
+      "neutral_headline": "Comienza una huelga indefinida del profesorado en Madrid con cortes de tráfico y movilizaciones",
+      "section": "Politica",
+      "facts": [
+        "La huelga indefinida del profesorado en Madrid ha comenzado",
+        "Se ha producido un corte de la Castellana",
+        "El corte se sitúa a la altura de Nuevos Ministerios en hora punta (ABC)",
+        "Ha habido piquetes en la puerta de los centros educativos (El País)",
+        "El Mundo informa de cargas policiales y detenciones en la Complutense",
+        "El Mundo recoge una cita calificando las exigencias del profesorado de 'inalcanzables'",
+        "eldiario.es califica la huelga de 'histórica' y señala un aumento de la presión sobre Ayuso",
+        "La Vanguardia describe la huelga como reivindicación a favor de la educación pública y mejoras laborales"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "conflicto político contra Ayuso",
+        "polo_b": "reivindicación laboral/educativa neutral",
+        "resumen": "Los medios se dividen entre enmarcar la huelga como un enfrentamiento contra la consejería/Ayuso con episodios de tensión, o como una movilización legítima en defensa de la educación pública."
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "La huelga indefinida del profesorado en Madrid comienza con el corte de la Castellana y piquetes en la puerta de los centros",
+          "link": "https://elpais.com/educacion/2026-10-14/la-huelga-indefinida-del-profesorado-en-madrid-comienza-con-el-corte-de-la-castellana-y-piquetes-en-la-puerta-de-los-centros.html",
+          "position": 45,
+          "focus": "Describe el inicio de la huelga, el corte vial y los piquetes en los centros, sin atribuir responsabilidad política explícita."
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "La Educación arranca una huelga indefinida contra Ayuso con cortes en la Castellana y cargas y detenciones en la Complutense: \"Sus exigencias son inalcanzables\"",
+          "link": "https://www.elmundo.es/madrid/2026/10/14/6ace50c6e4d4d8ed498b4591.html",
+          "position": 15,
+          "focus": "Enmarca la huelga como un enfrentamiento directo contra Ayuso, destaca incidentes violentos (cargas, detenciones) y cita una descalificación de las demandas docentes."
+        },
+        {
+          "outlet": "ABC",
+          "headline": "La huelga educativa corta la Castellana a la altura de Nuevos Ministerios en plena hora punta",
+          "link": "https://www.abc.es/espana/madrid/huelga-educativa-corta-castellana-altura-nuevos-ministerios-20261014084811-nt.html",
+          "position": 50,
+          "focus": "Se centra casi exclusivamente en el impacto logístico (corte de tráfico en hora punta), sin mencionar causas políticas ni protagonistas."
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Arranca una huelga histórica en la educación madrileña que aumenta la presión sobre Ayuso",
+          "link": "https://www.eldiario.es/sociedad/arranca-huelga-historica-educacion-madrilena-aumenta-presion-ayuso_1_13581221.html",
+          "position": 25,
+          "focus": "Resalta el carácter 'histórico' de la huelga y la presión política que ejerce sobre Ayuso, enmarcando el hecho como desgaste del Gobierno regional."
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Arranca la huelga a favor de la educación pública en Madrid para exigir mejoras laborales",
+          "link": "https://www.lavanguardia.com/local/madrid/20261014/11658470/arranca-huelga-favor-educacion-publica-madrid-exigir-mejoras-laborales.html",
+          "position": 80,
+          "focus": "Presenta la huelga como una causa positiva en defensa de la educación pública y las condiciones laborales, sin mencionar enfrentamientos ni atribuir responsabilidad a Ayuso."
+        }
+      ],
+      "rango": 65,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "El Espanol"
+      ]
+    },
+    {
+      "neutral_headline": "El Vaticano confirma que el Papa fue operado de un cáncer de pulmón y evoluciona favorablemente",
+      "section": "Sociedad",
+      "facts": [
+        "El Papa fue sometido a una operación quirúrgica",
+        "Se le extirpó un nódulo/tumor",
+        "Los médicos confirmaron que el tumor era maligno, un cáncer de pulmón",
+        "El Vaticano informó que pasó una primera noche tras la operación",
+        "La operación se describe como exitosa"
+      ],
+      "tipo_divergencia": "cronologica",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "El Vaticano informa de que el Papa ha pasado “una noche tranquila” tras la extirpación de un tumor maligno",
+          "link": "https://elpais.com/internacional/2026-10-14/el-vaticano-informa-de-que-el-papa-ha-pasado-una-noche-tranquila-tras-la-extirpacion-de-un-tumor-maligno.html",
+          "position": 50,
+          "focus": "Centra en el estado post-operatorio inmediato ('noche tranquila') y confirma malignidad sin especificar aún el tipo exacto de cáncer"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Los médicos confirman que el Papa tiene un cáncer de pulmón",
+          "link": "https://www.abc.es/sociedad/papa-operado-exito-segun-primer-parte-medico-20261013195802-nt.html",
+          "position": 50,
+          "focus": "Confirma el diagnóstico específico: cáncer de pulmón, en una fase posterior de información médica"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "El papa León XIV, operado con éxito de un cáncer de pulmón",
+          "link": "https://www.lavanguardia.com/internacional/20261013/11657611/papa-leon-xiv-cancer-pulmon-operacion.html",
+          "position": 50,
+          "focus": "Resalta el éxito de la operación y ya incluye el diagnóstico de cáncer de pulmón"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "El Vaticano anuncia que al Papa se le ha detectado un cáncer de pulmón tras la operación para extirparle un nódulo",
+          "link": "https://www.elespanol.com/mundo/europa/20261013/operacion-extirpar-nodulo-pulmonar-papa-leon-salio-bien-anuncia-vaticano/1003744419069_0.html",
+          "position": 50,
+          "focus": "Detalla la secuencia: primero se operó un nódulo, después se detectó que era cáncer de pulmón"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "El papa pasa su primera noche en el hospital tras ser operado de un cáncer de pulmón: el Vaticano actualiza su estado de salud",
+          "link": "https://www.20minutos.es/internacional/papa-pasa-su-primera-noche-hospital-tras-ser-operado-un-tumor-pulmon_7048461_0.html",
+          "position": 50,
+          "focus": "Se centra en la primera noche hospitalaria y las actualizaciones del Vaticano sobre el estado de salud, incluyendo el diagnóstico de cáncer de pulmón"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "El Mundo",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "El INE confirma que la inflación subió al 4,9% en septiembre, impulsada por el precio de los carburantes",
+      "section": "Economia",
+      "facts": [
+        "La inflación interanual de septiembre se situó en el 4,9%, según el INE",
+        "La subida se atribuye al encarecimiento de los carburantes/gasolinas",
+        "El Pais señala que el dato confirma las rebajas fiscales a los carburantes",
+        "La Vanguardia indica que la rebaja fiscal de 20 céntimos se extiende a noviembre",
+        "El Espanol señala que es el nivel más alto desde principios de 2023"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "impacto negativo en los hogares/consumidores",
+        "polo_b": "justificacion de la politica fiscal del gobierno",
+        "resumen": "Unos medios enmarcan el dato como una mala noticia para los hogares por el alza de precios, mientras otros lo presentan como una validacion de las medidas fiscales (rebajas en carburantes) adoptadas por el gobierno"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "El dato de inflación del 4,9% en septiembre confirma las rebajas fiscales a los carburantes",
+          "link": "https://elpais.com/economia/2026-10-14/el-dato-de-inflacion-del-49-en-septiembre-confirma-las-rebajas-fiscales-a-los-carburantes.html",
+          "position": 90,
+          "focus": "Destaca que el dato valida las rebajas fiscales del gobierno; omite el impacto directo en el bolsillo de los consumidores"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "La inflación escala al 4,9% en septiembre por el golpe de los carburantes",
+          "link": "https://www.elmundo.es/economia/2026/10/14/6acf27b9fc6c83af588b4570.html",
+          "position": 30,
+          "focus": "Describe la subida como un 'golpe' de los carburantes, con tono moderadamente negativo sin mencionar medidas fiscales"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "La subida de las gasolinas extiende la rebaja fiscal de 20 céntimos a noviembre",
+          "link": "https://www.lavanguardia.com/economia/20261014/11658482/ine-confirma-escalada-inflacion-4-9-septiembre.html",
+          "position": 80,
+          "focus": "Centra el foco en la extension de la rebaja fiscal a noviembre como respuesta de politica, minimizando el impacto en consumidores"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "El INE confirma que la inflación subió al 4,9% en septiembre, su nivel más alto desde principios de 2023, por los combustibles",
+          "link": "https://www.elespanol.com/invertia/economia/macroeconomia/20261014/ine-confirma-inflacion-subio-septiembre-nivel-alto-principios-combustibles/1003744419261_0.html",
+          "position": 50,
+          "focus": "Reporta el dato de forma factual, situandolo en contexto historico sin inclinarse hacia impacto o politica"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "La inflación no da tregua a los hogares y se dispara casi al 5% tras otra escalada de las gasolinas",
+          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/las-gasolinas-se-dispararon-un-31-septiembre-empujaron-inflacion-hasta-4-9_7048462_0.html",
+          "position": 10,
+          "focus": "Enfatiza el sufrimiento de los hogares y la escalada de precios, sin mencionar respuesta fiscal del gobierno"
+        }
+      ],
+      "rango": 80,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "ABC",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Ataques cruzados en la guerra: Rusia golpea energía ucraniana mientras Ucrania ataca infraestructura digital rusa",
+      "section": "Internacional",
+      "facts": [],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "Rusia como agresor/protagonista del ataque",
+        "polo_b": "Ucrania como atacante/protagonista de la ofensiva",
+        "resumen": "Los medios eligen distinto protagonista bélico del día: El País centra el relato en el ataque ruso a la energía ucraniana, mientras El Mundo y 20minutos centran el relato en el ataque ucraniano a infraestructura digital rusa."
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Rusia golpea el sector energético de Ucrania en medio de restricciones a la información de inteligencia que recibe Kiev",
+          "link": "https://elpais.com/internacional/2026-10-14/rusia-golpea-el-sector-energetico-de-ucrania-en-medio-de-restricciones-a-la-informacion-de-inteligencia-que-recibe-kiev.html",
+          "position": 10,
+          "focus": "Destaca la ofensiva rusa contra el sector energético ucraniano y el contexto de restricciones de inteligencia a Kiev; omite cualquier acción ucraniana ofensiva."
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "El 'Google ruso', botín de guerra para Ucrania",
+          "link": "https://www.elmundo.es/internacional/2026/10/13/6ace7268e4d4d84f4e8b4592.html",
+          "position": 85,
+          "focus": "Destaca la conquista ucraniana del 'Google ruso' como trofeo de guerra; omite los ataques rusos a Ucrania."
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Por qué Ucrania se ceba con los centros de datos de Putin y cómo afecta a los rusos la desconexión del 'Google de Moscú'",
+          "link": "https://www.20minutos.es/internacional/por-que-ucrania-se-ceba-con-los-centros-datos-putin-como-afecta-los-rusos-pie-calle-desconexion-google-moscu_7048071_0.html",
+          "position": 85,
+          "focus": "Destaca la ofensiva ucraniana contra centros de datos rusos y su impacto en la población rusa; omite los ataques rusos a Ucrania."
+        }
+      ],
+      "rango": 75,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "ABC",
+        "El Espanol",
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Jódar accede a cuartos de final en Shanghái tras remontar y recibe una sanción por un incidente verbal con un recogepelotas",
+      "section": "Deportes",
+      "facts": [
+        "Rafa Jódar se clasificó para cuartos de final del Masters 1.000 de Shanghái",
+        "Jódar remontó para vencer a Van de Zandschulp (según El Español)",
+        "Jódar recibió un warning/sanción por gritarle a un recogepelotas '¡dame la puta toalla, coño!' (según El Mundo, ABC y 20minutos)"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "foco en el incidente y la sanción",
+        "polo_b": "foco en el logro deportivo",
+        "resumen": "Los medios difieren en si priorizan el altercado con el recogepelotas o la remontada y clasificación deportiva de Jódar"
+      },
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "Jódar se mete en cuartos en Shanghái y se lleva un warning por gritar a un recogepelotas \"¡dame la puta toalla, coño!\"",
+          "link": "https://www.elmundo.es/deportes/tenis/2026/10/14/6acf393ffdddffc5578b457f.html",
+          "position": 30,
+          "focus": "Menciona tanto el pase a cuartos como el warning por el grito, combinando ambos elementos aunque con énfasis en la cita vulgar"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Furia y remontada de Rafa Jódar en Shanghái: «¡Dame la puta toalla!»",
+          "link": "https://www.abc.es/deportes/tenis/rafa-jodar-abona-remontadas-20261014094352-nt.html",
+          "position": 25,
+          "focus": "Destaca la 'furia' y la remontada junto con la cita textual, dando peso dramático al incidente pero sin omitir el resultado deportivo"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Jódar se abona a las remontadas y vence a Van de Zandschulp para acceder a cuartos del Masters 1.000 de Shanghái",
+          "link": "https://www.elespanol.com/deportes/tenis/20261014/jodar-abona-remontadas-resurge-van-zandschulp-acceder-cuartos-masters-shanghai/1003744419259_0.html",
+          "position": 90,
+          "focus": "Se centra exclusivamente en el resultado deportivo y la remontada, sin mencionar el incidente con el recogepelotas ni la sanción"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Jódar, sancionado por tratar mal a un recogepelotas: \"¡Dame la puta toalla!\"",
+          "link": "https://www.20minutos.es/deportes/tenis/rafa-jodar-sancionado-por-tratar-mal-un-recogepelotas-dame-puta-toalla_7048498_0.html",
+          "position": 10,
+          "focus": "Enfoca el titular completamente en la sanción y el trato al recogepelotas, omitiendo cualquier referencia al resultado o avance deportivo"
+        }
+      ],
+      "rango": 80,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "El Pais",
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "El alcalde de Algeciras, acusado de acoso sexual, se resiste a dimitir mientras el PP negocia con Vox una moción de censura",
+      "section": "Politica",
+      "facts": [
+        "El PP negocia con Vox una moción de censura para apartar a Landaluce de la Alcaldía de Algeciras",
+        "Landaluce es alcalde del PP y ha sido acusado de acoso sexual",
+        "Landaluce lleva 42 años militando en el PP, segun declaraciones propias",
+        "Landaluce se mantiene en el cargo con el respaldo de 3 concejales",
+        "La situacion pone en riesgo la mayoria del PP en la Diputacion de Cadiz, segun El Espanol"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "alcalde como victima de presion interna",
+        "polo_b": "alcalde como obstaculo que dana al partido",
+        "resumen": "Los medios difieren en si presentan a Landaluce como alguien injustamente presionado para irse o como un problema que el pone en riesgo al PP al negarse a dimitir"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "El PP ya negocia con Vox una moción de censura para apartar a Landaluce de la Alcaldía de Algeciras",
+          "link": "https://elpais.com/espana/2026-10-14/el-pp-ya-negocia-con-vox-una-mocion-de-censura-para-apartar-a-landaluce-de-la-alcaldia-de-algeciras.html",
+          "position": 45,
+          "focus": "Centra el foco en la maniobra politica del PP y Vox para destituirlo, sin profundizar en la version del alcalde ni en el dano institucional"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Landaluce, el alcalde “referente” del PP acusado de acoso sexual: “Llevo 42 años militando y me exigen que me vaya”",
+          "link": "https://www.eldiario.es/andalucia/cadiz/landaluce-alcalde-referente-pp-acusado-acoso-sexual-llevo-42-anos-militando-exigen_1_13583067.html",
+          "position": 25,
+          "focus": "Da voz directa a Landaluce, enfatiza su trayectoria y presenta la acusacion en tension con la presion interna que sufre, generando simpatia hacia su situacion"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "El alcalde de Algeciras se enroca con 3 concejales para no dimitir y pone en riesgo la mayoría del PP en la Diputación de Cádiz",
+          "link": "https://www.elespanol.com/espana/andalucia/20261014/alcalde-algeciras-enroca-concejales-no-dimitir-pone-riesgo-mayoria-pp-diputacion-cadiz/1003744418073_0.html",
+          "position": 75,
+          "focus": "Enfatiza su negativa a dimitir como un acto de obstinacion ('se enroca') y subraya el dano politico que provoca al PP, sin mencionar la acusacion que origina la crisis"
+        }
+      ],
+      "rango": 50,
+      "discrepancia": "media",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Mundo",
+        "La Vanguardia"
+      ]
+    }
+  ]
+}
