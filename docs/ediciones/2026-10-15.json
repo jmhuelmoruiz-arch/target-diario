@@ -1,0 +1,349 @@
+{
+  "fecha": "2026-10-15T09:20:14.662274+00:00",
+  "esquema": 2,
+  "historias": [
+    {
+      "neutral_headline": "Hallan en el mar de Sitges el cuerpo del niño de 12 años desaparecido en Granollers durante el temporal",
+      "section": "Sociedad",
+      "facts": [
+        "El cuerpo de un niño fue encontrado en el mar de Sitges",
+        "El menor se llamaba Rami y tenía 12 años",
+        "Había desaparecido en Granollers durante un temporal"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Encuentran el cuerpo del niño desaparecido en Granollers flotando en el mar de Sitges",
+          "link": "https://elpais.com/espana/catalunya/2026-10-15/encuentran-el-cuerpo-del-nino-desaparecido-en-granollers-flotando-en-el-mar-de-sitges.html",
+          "position": 50,
+          "focus": "Centra el titular en el hallazgo del cuerpo y la localización (Sitges/mar), menciona Granollers como lugar de desaparición; omite la edad y el nombre."
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Encuentran en el mar el cuerpo de Rami, el niño de 12 años que desapareció en Granollers durante el temporal",
+          "link": "https://www.elmundo.es/cataluna/2026/10/15/6ad07b6a21efa050038b4581.html",
+          "position": 50,
+          "focus": "Incluye nombre, edad y lugar de desaparición junto con la circunstancia del temporal; detalla el hallazgo en el mar."
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Localizado en Sitges el cadáver de Rami, el menor desaparecido en Granollers durante el temporal",
+          "link": "https://www.abc.es/espana/cataluna/localizado-sitges-cadaver-rami-menor-desaparecido-granollers-20261015092604-nt.html",
+          "position": 50,
+          "focus": "Destaca la localización en Sitges del cadáver, incluye nombre y circunstancia del temporal en Granollers."
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Hallado el cuerpo sin vida de Rami, el niño de 12 años desaparecido durante el temporal en Granollers",
+          "link": "https://www.lavanguardia.com/local/barcelona/20261015/11659401/hallado-cuerpo-flotando-mar-sitges-castelldefels-nino-12-anos-granollers.html",
+          "position": 50,
+          "focus": "Enfatiza que el cuerpo fue hallado sin vida, incluye nombre, edad y contexto del temporal en Granollers; omite mención explícita de Sitges en el titular aunque implícita."
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Hallan en Sitges el cadáver de Rami, el niño de 12 años desaparecido en Granollers",
+          "link": "https://www.20minutos.es/cataluna/barcelona/los-mossos-hallan-un-cadaver-flotando-sitges-que-podria-ser-rami-menor-12-anos-desaparecido-granollers_7048978_0.html",
+          "position": 50,
+          "focus": "Resume el hallazgo en Sitges del cadáver, incluye nombre, edad y lugar de desaparición en Granollers."
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "El Espanol",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "El Gobierno anuncia una subida de las pensiones y el salario mínimo mientras se debate el estado del sistema público",
+      "section": "Economia",
+      "facts": [
+        "El ministro Cuerpo apunta a una subida de las pensiones tras las elecciones, según El País",
+        "El Gobierno avanza que subirá pensiones y salario mínimo aunque esté en funciones, según 20minutos",
+        "PP y Vox afirman que el sistema público de pensiones 'está quebrado' y 'va a petar', según eldiario.es",
+        "eldiario.es sostiene que esas afirmaciones de PP y Vox no se corresponden con la realidad del sistema"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "sistema de pensiones en riesgo/cuestionado",
+        "polo_b": "sistema de pensiones sólido y defendido",
+        "resumen": "Mientras El País y 20minutos se limitan a informar del anuncio de subida, eldiario.es toma partido explícitamente defendiendo la solidez del sistema público frente al discurso de PP y Vox"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Cuerpo apunta a una subida de las pensiones después de las elecciones",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-10-15/cuerpo-asegura-que-el-gobierno-quiere-subir-las-pensiones-despues-de-las-elecciones.html",
+          "position": 50,
+          "focus": "Informa sobre el anuncio del ministro Cuerpo sin entrar a valorar el estado del sistema de pensiones"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Por qué el sistema público de pensiones ni \"está quebrado\" ni \"va a petar\" como dicen PP y Vox",
+          "link": "https://www.eldiario.es/economia/sistema-pensiones-quebrado-vox-petar-pp-alarmas-no-avalan-bruselas-airef_1_13584406.html",
+          "position": 85,
+          "focus": "Adopta explícitamente la defensa del sistema público de pensiones, rebatiendo directamente las afirmaciones de PP y Vox sobre su quiebra"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "El Gobierno avanza que subirá pensiones y salario mínimo aunque esté en funciones",
+          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/cuerpo-avanza-que-gobierno-subira-pensiones-salario-minimo-aunque-este-funciones_7049003_0.html",
+          "position": 50,
+          "focus": "Informa sobre el anuncio de subida de pensiones y salario mínimo pese al Gobierno en funciones, sin posicionarse sobre el debate del sistema"
+        }
+      ],
+      "rango": 35,
+      "discrepancia": "media",
+      "silenciosos": [
+        "ABC",
+        "El Espanol",
+        "El Mundo",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "Podemos y los partidos del Frente Amplio negocian pactos territoriales fuera de Madrid y Barcelona para el 29-N",
+      "section": "Politica",
+      "facts": [
+        "Podemos y partidos del Frente Amplio negocian acuerdos territoriales para las elecciones del 29-N",
+        "Los acuerdos excluyen a Madrid y Barcelona",
+        "eldiario.es precisa que la oferta de Podemos a IU abarca diez comunidades autonomas",
+        "Maillo (IU), segun eldiario.es, rechaza negociar 'saliendose del Frente Amplio'",
+        "La Vanguardia senala que el acuerdo estatal esta atascado mientras avanzan los pactos territoriales"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "colaboracion conjunta Podemos-Frente Amplio",
+        "polo_b": "Podemos actua en solitario frente a un Frente Amplio fracturado",
+        "resumen": "Los medios difieren en si retratan el proceso como una negociacion conjunta que avanza o como una oferta unilateral de Podemos que genera tension y rechazo dentro del Frente Amplio"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Podemos y los partidos del Frente Amplio ultiman acuerdos territoriales para el 29-N fuera de Madrid y Barcelona",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-10-15/podemos-y-los-partidos-del-frente-amplio-avanzan-en-los-acuerdos-territoriales-para-el-29-n.html",
+          "position": 15,
+          "focus": "Presenta a Podemos y Frente Amplio como sujeto conjunto que 'ultima' acuerdos, omitiendo tensiones internas"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Podemos solo ofrece a IU pactos en territorios que no sean Madrid y Barcelona",
+          "link": "https://www.abc.es/espana/podemos-ofrece-iu-acuerdos-unidad-mayoria-comunidades-20261015093925-nt.html",
+          "position": 55,
+          "focus": "Destaca que es Podemos quien ofrece, y solo a IU, en territorios limitados, sugiriendo exclusion mas que colaboracion"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Podemos ofrece pactos solo a IU en diez comunidades pero Maíllo rechaza negociar \"saliéndose del Frente Amplio\"",
+          "link": "https://www.eldiario.es/politica/limita-acuerdos-iu-fuera-madrid-catalunya-negociacion-unidad-izquierda_1_13586819.html",
+          "position": 75,
+          "focus": "Anade el rechazo explicito de Maillo a negociar fuera del Frente Amplio, mostrando conflicto interno abierto"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Podemos y Frente Amplio avanzan en los pactos territoriales mientras se atasca el acuerdo estatal",
+          "link": "https://www.lavanguardia.com/politica/20261015/11659414/podemos-frente-intenta-salvar-unidad-territorial-bloqueo-madrid-catalunya-elecciones-29n.html",
+          "position": 35,
+          "focus": "Combina avance territorial con bloqueo del acuerdo estatal, matizando el progreso sin ocultar el problema de fondo"
+        }
+      ],
+      "rango": 60,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "El Espanol",
+        "El Mundo"
+      ]
+    },
+    {
+      "neutral_headline": "El diagnóstico de cáncer del Papa León XIV abre debate sobre el futuro del pontificado",
+      "section": "Internacional",
+      "facts": [
+        "El Papa León XIV ha sido diagnosticado de cáncer",
+        "El Mundo especifica que se trata de cáncer de pulmón",
+        "El País recoge declaraciones de fuentes de la Curia que hablan de un cambio de escenario ('Creíamos que teníamos Papa para 20 años')",
+        "ABC menciona el temor en el Vaticano a una 'mentalidad precónclave'"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "cobertura centrada en el hecho médico",
+        "polo_b": "cobertura centrada en las implicaciones de poder y sucesión",
+        "resumen": "Los medios difieren en si enmarcan la noticia como un hecho de salud o como un detonante de maniobras de poder en el Vaticano"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "La repentina fragilidad de León XIV da un vuelco al pontificado: “Creíamos que teníamos Papa para 20 años, esto cambia todo en la Curia”",
+          "link": "https://elpais.com/internacional/2026-10-15/la-repentina-fragilidad-de-leon-xiv-da-un-vuelco-al-pontificado-creiamos-que-teniamos-papa-para-20-anos-esto-cambia-todo-en-la-curia.html",
+          "position": 75,
+          "focus": "Destaca el impacto del diagnóstico en la Curia y las expectativas sobre la duración del pontificado, citando fuentes internas que hablan de un 'vuelco'"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "El cáncer de pulmón del Papa",
+          "link": "https://www.elmundo.es/salud/2026/10/15/6acfb6dee9cf4ab1238b45a5.html",
+          "position": 10,
+          "focus": "Se limita a informar del hecho médico concreto (cáncer de pulmón) sin especular sobre consecuencias políticas o eclesiásticas"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Temor en el Vaticano a que el cáncer del Papa dé paso a una «mentalidad precónclave»",
+          "link": "https://www.abc.es/sociedad/incertidumbre-vaticano-cancer-cambia-percepcion-papa-20261015011721-nt.html",
+          "position": 85,
+          "focus": "Pone el foco en el temor dentro del Vaticano a que se active una 'mentalidad precónclave', enfatizando las maniobras de poder ante una posible sucesión"
+        }
+      ],
+      "rango": 75,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "El Espanol",
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Rusia y Ucrania intercambian ataques militares en medio de tensiones con la tregua impulsada por Trump",
+      "section": "Internacional",
+      "facts": [
+        "Ucrania ha realizado ataques contra refinerías en territorio ruso",
+        "Rusia reivindica una ofensiva sobre dos cargueros ucranianos en el mar Negro",
+        "Rusia ha atacado centrales de energía en Ucrania",
+        "Zelenski acusa a EEUU de no proteger a Ucrania",
+        "Existe un clima de crispación en torno a una tregua propuesta por Trump"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "Ucrania como actor que reanuda la ofensiva",
+        "polo_b": "Rusia como agresor que rompe la tregua",
+        "resumen": "Los medios difieren en qué actor presentan como responsable de intensificar el conflicto en el contexto de la tregua de Trump"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Ucrania reanuda los ataques a las refinerías de Rusia en pleno clima de crispación con Trump",
+          "link": "https://elpais.com/internacional/2026-10-15/ucrania-reanuda-los-ataques-a-las-refinerias-de-rusia-en-pleno-clima-de-crispacion-con-trump.html",
+          "position": 25,
+          "focus": "Centra el foco en la acción ucraniana ('reanuda los ataques'), vinculándola al deterioro de relaciones con Trump, sin mencionar acciones rusas simultáneas"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Rusia reivindica una ofensiva sobre dos cargueros ucranianos en el mar Negro",
+          "link": "https://www.abc.es/internacional/rusia-reivindica-ofensiva-sobre-dos-cargueros-ucranianos-20261015095726-nt.html",
+          "position": 50,
+          "focus": "Reporta de forma neutra la reivindicación rusa de una ofensiva sobre cargueros ucranianos, sin atribuir responsabilidad sobre quién inició la escalada ni mencionar el contexto de tregua"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Putin ignora la tregua de Trump y castiga las centrales de energía de Ucrania mientras Zelenski acusa a EEUU de desprotegerles",
+          "link": "https://www.elespanol.com/mundo/europa/20261014/putin-ignora-tregua-trump-castiga-centrales-energia-ucrania-zelenski-acusa-eeuu-desprotegerles/1003744420260_0.html",
+          "position": 85,
+          "focus": "Presenta explícitamente a Putin como quien ignora la tregua y castiga infraestructura ucraniana, amplificando la crítica de Zelenski hacia EEUU por falta de protección"
+        }
+      ],
+      "rango": 60,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "El Mundo",
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Incendio de un tren en Zaragoza afecta a la línea Madrid-Barcelona y genera repercusiones en seguridad, viajeros y servicio",
+      "section": "Sociedad",
+      "facts": [
+        "Un tren modelo similar al que ardio el lunes en Zaragoza habia tenido incidencias reportadas por maquinistas en junio",
+        "El corredor Madrid-Barcelona ha perdido 1,6 millones de viajeros en menos de un año segun El Espanol",
+        "El incendio del AVE agrava la crisis de ese corredor segun El Espanol",
+        "Adif no espera normalizar la linea Barcelona-Madrid hasta el dia 22",
+        "Adif ha pedido a Renfe, Ouigo e Iryo que adopten medidas"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "enfasis en responsabilidad/negligencia institucional",
+        "polo_b": "enfasis en gestion operativa e impacto economico sin atribuir culpa",
+        "resumen": "Los medios difieren en si el foco se pone en una alerta de seguridad ignorada (responsabilidad) o en las consecuencias practicas y economicas del incidente (gestion)"
+      },
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "Los maquinistas alertaron en junio de las incidencias del mismo modelo de tren que ardió el lunes en Zaragoza",
+          "link": "https://www.elmundo.es/economia/empresas/2026/10/14/6acfcc27e4d4d80d1a8b45a2.html",
+          "position": 15,
+          "focus": "Destaca que los maquinistas ya habian avisado del problema en junio, sugiriendo que el incendio pudo preveerse; omite datos economicos o de gestion posterior"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "El corredor Madrid-Barcelona pierde 1,6 M de viajeros en menos de un año y el incendio de un AVE agrava su crisis",
+          "link": "https://www.elespanol.com/invertia/observatorios/movilidad/20261015/corredor-madrid-barcelona-pierde-viajeros-ano-incendio-ave-agrava-crisis/1003744419409_0.html",
+          "position": 60,
+          "focus": "Centra el relato en la perdida de viajeros y el impacto economico del corredor, usando el incendio como agravante de una crisis previa; no menciona la alerta de seguridad ni las medidas de Adif"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Adif no espera normalizar la línea Barcelona- Madrid hasta el día 22 y pide a Renfe, Ouigo e Iryo medidas",
+          "link": "https://www.20minutos.es/nacional/adif-no-espera-normalizar-linea-barcelona-madrid-hasta-22-octubre-pide-medidas-hasta-esa-fecha-renfe-ouigo-iryo_7049010_0.html",
+          "position": 55,
+          "focus": "Informa sobre el plan de normalizacion del servicio y las medidas solicitadas a los operadores, con tono neutro y centrado en la gestion operativa, sin entrar en causas ni en impacto economico"
+        }
+      ],
+      "rango": 45,
+      "discrepancia": "media",
+      "silenciosos": [
+        "ABC",
+        "El Pais",
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "La Fiscalía de Sevilla acusa a dos de las tres menores investigadas por el presunto acoso a Sandra Peña, que acabó en su suicidio",
+      "section": "Sociedad",
+      "facts": [
+        "La Fiscalía de Sevilla ha formulado acusación contra dos menores investigadas por el caso de acoso a Sandra Peña",
+        "Sandra Peña se suicidó presuntamente tras sufrir acoso",
+        "Las menores acusadas forman parte de un grupo de tres investigadas inicialmente",
+        "El Mundo señala que se imputan dos delitos a las menores",
+        "ABC especifica que los delitos atribuidos son contra la integridad moral y por lesiones psíquicas",
+        "20minutos precisa que de las tres menores investigadas, solo dos han sido acusadas"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "La Fiscalía de Sevilla acusa de dos delitos a dos menores investigadas por acoso en el caso del suicidio de Sandra Peña",
+          "link": "https://www.elmundo.es/andalucia/2026/10/15/6ad085d8e85ece3c5d8b456f.html",
+          "position": 50,
+          "focus": "Destaca el número de delitos imputados sin detallar su naturaleza"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "La Fiscalía atribuye delitos contra la integridad moral y lesiones psíquicas a las menores que acosaron a Sandra Peña",
+          "link": "https://www.abc.es/sevilla/ciudad/fiscalia-atribuye-delitos-integridad-moral-lesiones-psiquicas-20261015084229-nts.html",
+          "position": 50,
+          "focus": "Detalla la tipificación jurídica exacta de los delitos atribuidos"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "La Fiscalía acusa a dos de las tres menores investigadas por el supuesto acoso a Sandra Peña",
+          "link": "https://www.20minutos.es/andalucia/sevilla/fiscalia-acusa-dos-las-tres-menores-investigadas-por-supuesto-acoso-sandra-pena_7049014_0.html",
+          "position": 50,
+          "focus": "Resalta que solo dos de las tres menores investigadas han sido acusadas"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "El Espanol",
+        "El Pais",
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    }
+  ]
+}
