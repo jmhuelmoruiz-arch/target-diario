@@ -1,272 +1,401 @@
 {
-  "fecha": "2026-10-16T09:14:48.211785+00:00",
+  "fecha": "2026-10-17T08:46:36.576801+00:00",
   "esquema": 2,
   "historias": [
     {
-      "neutral_headline": "Ayuso anuncia el cierre de la estación de Metro de Sol citando condiciones de insalubridad vinculadas a la acampada",
+      "neutral_headline": "El PSOE y Frente Amplio pactan listas conjuntas al Senado para las elecciones del 29-N",
       "section": "Politica",
       "facts": [
-        "Ayuso cierra la estación de metro de Sol",
-        "El cierre se justifica por condiciones de insalubridad",
-        "La insalubridad se asocia a la acampada instalada en la zona",
-        "La acampada llevaba, segun 20minutos, casi tres semanas",
-        "El Espanol atribuye la insalubridad a orines de los acampados",
-        "El Mundo califica la acampada como 'ilegal'"
+        "El PSOE y el Frente Amplio alcanzaron un acuerdo para presentar listas conjuntas al Senado",
+        "El pacto se enmarca en las elecciones del 29-N",
+        "El Espanol indica que la coalicion se llamara 'Senado de Progreso'",
+        "El Mundo y 20minutos senalan que el objetivo del acuerdo es disputar la mayoria al PP en el Senado"
       ],
       "tipo_divergencia": "ninguna",
       "eje": null,
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "Ayuso cierra la estación de metro Sol para realizar tareas de limpieza: “Hay condiciones de insalubridad dentro”",
-          "link": "https://elpais.com/espana/madrid/2026-10-16/ayuso-cierra-la-estacion-de-metro-sol-para-realizar-tareas-de-limpieza-hay-condiciones-de-insalubridad-dentro.html",
+          "headline": "El PSOE y el Frente Amplio alcanzan un pacto nacional de listas conjuntas al Senado",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-10-16/el-psoe-y-la-izquierda-alcanzan-un-pacto-nacional-de-listas-conjuntas-al-senado.html",
           "position": 50,
-          "focus": "Cita textual de Ayuso sobre insalubridad, sin anadir calificativos sobre la acampada"
+          "focus": "Informa el pacto de forma neutra, centrado en los dos partidos implicados"
         },
         {
           "outlet": "El Mundo",
-          "headline": "Ayuso anuncia el cierre de la estación de Metro de Sol por las \"condiciones de insalubridad\" de la \"acampada ilegal\"",
-          "link": "https://www.elmundo.es/madrid/2026/10/16/6ad1e1a5e9cf4a691e8b457b.html",
+          "headline": "Histórico acuerdo de la izquierda para el Senado: PSOE y Frente Amplio pactan una lista única para desafiar la mayoría del PP",
+          "link": "https://www.elmundo.es/espana/2026/10/16/6ad23f39e85eced3738b45a2.html",
           "position": 50,
-          "focus": "Incluye el calificativo 'ilegal' para la acampada junto a la cita de insalubridad"
+          "focus": "Añade el calificativo 'historico' y menciona el objetivo de desafiar al PP"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "El PSOE y Frente Amplio llegan a un acuerdo para presentar listas conjuntas al Senado",
+          "link": "https://www.eldiario.es/politica/psoe-frente-amplio-llegan-acuerdo-presentar-listas-conjuntas-senado_1_13583230.html",
+          "position": 50,
+          "focus": "Describe el acuerdo de forma factual y escueta"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "El PSOE y el Frente Amplio pactan una candidatura única para el Senado",
+          "link": "https://www.lavanguardia.com/politica/20261017/11661132/psoe-frente-amplio-pactan-acuerdo-listas-conjuntas-senado.html",
+          "position": 50,
+          "focus": "Usa el termino 'candidatura unica', enfoque descriptivo"
         },
         {
           "outlet": "El Espanol",
-          "headline": "Ayuso cierra la estación de Sol \"por las condiciones de insalubridad\" debido a los orines de los acampados",
-          "link": "https://www.elespanol.com/madrid/comunidad/20261016/ayuso-anuncia-cierra-estacion-sol-orines-acampados-necesitan-limpiarlo-urgentemente/1003744422376_0.html",
+          "headline": "El PSOE y Frente Amplio acuerdan ir juntos al Senado el 29-N: la coalición se llamará Senado de Progreso",
+          "link": "https://www.elespanol.com/espana/politica/20261017/psoe-frente-amplio-acuerdan-ir-juntos-senado-coalicion-llamara-progreso/1003744423896_0.html",
           "position": 50,
-          "focus": "Anade el detalle especifico de los orines como causa de la insalubridad"
+          "focus": "Añade el nombre de la coalicion y la fecha electoral"
         },
         {
           "outlet": "20minutos",
-          "headline": "Ayuso anuncia el cierre de la estación de Sol por las \"insalubridad\" tras casi tres semanas de acampada",
-          "link": "https://www.20minutos.es/madrid/ayuso-anuncia-cierre-estacion-sol-por-las-condiciones-insalubridad-tras-casi-tres-semanas-acampada_7049539_0.html",
+          "headline": "El PSOE y Frente Amplio presentan listas conjuntas al Senado el 29-N para disputar la mayoría al PP",
+          "link": "https://www.20minutos.es/nacional/psoe-frente-amplio-presentan-listas-conjuntas-senado-29-n-todas-las-provincias-salvo-cataluna-canarias_7049910_0.html",
           "position": 50,
-          "focus": "Enfatiza la duracion de la acampada, casi tres semanas, como contexto temporal"
+          "focus": "Incluye la fecha y el objetivo de disputar la mayoria al PP"
         }
       ],
       "rango": 0,
       "discrepancia": "baja",
       "silenciosos": [
-        "ABC",
+        "ABC"
+      ]
+    },
+    {
+      "neutral_headline": "Frente Amplio y Podemos no logran pacto de unidad para el 29-N y solo concurrirán juntos en Canarias y la Comunitat Valenciana",
+      "section": "Politica",
+      "facts": [
+        "Frente Amplio y Podemos intentaron pactar una candidatura unica para las elecciones del 29-N",
+        "La negociacion fracaso en la mayoria de circunscripciones",
+        "Ambas formaciones iran juntas en Canarias y la Comunitat Valenciana",
+        "El Mundo precisa que el acuerdo se limita a 5 de las 52 circunscripciones"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Frente Amplio y Podemos fracasan en su intento de pactar una papeleta única para el 29-N",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-10-16/frente-amplio-y-podemos-fracasan-en-su-intento-de-pactar-una-papeleta-unica-para-el-29-n.html",
+          "position": 50,
+          "focus": "Centra en el fracaso del intento de papeleta unica, sin detallar numero de circunscripciones"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Fracasa la unidad en la izquierda en casi toda España: Frente Amplio y Podemos sólo pactan en cinco de las 52 circunscripciones",
+          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/16/6ad2421721efa0481e8b4591.html",
+          "position": 50,
+          "focus": "Anade el dato cuantitativo preciso: 5 de 52 circunscripciones con acuerdo"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Frente Amplio y Podemos fracasan en las negociaciones y solo irán juntos en Canarias y la Comunitat Valenciana",
+          "link": "https://www.eldiario.es/politica/frente-amplio-fracasan-negociaciones-iran-canarias-comunitat-valenciana_1_13592471.html",
+          "position": 50,
+          "focus": "Senala las dos circunscripciones concretas donde si hay pacto, Canarias y Comunitat Valenciana"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "La izquierda alternativa fracasa en su intento de ir unida el próximo 29-N",
+          "link": "https://www.lavanguardia.com/politica/20261017/11661133/izquierda-alternativa-fracasa-intento-unida-proximo-29-n.html",
+          "position": 50,
+          "focus": "Formula generica sobre el fracaso de la unidad, sin detalles especificos"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Fracasa la operación para unir a la izquierda: Podemos y Frente Amplio sólo irán juntos el 29-N en C. Valenciana y Canarias",
+          "link": "https://www.elespanol.com/espana/politica/20261017/fracasa-operacion-unir-izquierda-podemos-frente-amplio-solo-iran-juntos-valenciana-canarias/1003744423887_0.html",
+          "position": 50,
+          "focus": "Describe la negociacion como 'operacion' y detalla las dos circunscripciones con acuerdo"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "La izquierda fracasa en su búsqueda de la unidad: Frente Amplio y Podemos solo irán juntos en Canarias y Comunidad Valenciana",
+          "link": "https://www.20minutos.es/nacional/izquierda-fracasa-su-busqueda-unidad-frente-amplio-podemos-solo-iran-juntos-canarias-comunidad-valenciana_7049889_0.html",
+          "position": 50,
+          "focus": "Atribuye el fracaso a 'la izquierda' en general y detalla las dos circunscripciones con acuerdo"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "ABC"
+      ]
+    },
+    {
+      "neutral_headline": "El PSOE designa a Rebeca Torró portavoz tras la dimisión de Montse Mínguez",
+      "section": "Politica",
+      "facts": [
+        "Rebeca Torró fue designada nueva portavoz del PSOE",
+        "Montse Mínguez renunció/dimitió como portavoz del PSOE",
+        "Según El Mundo, la dimisión está vinculada a la polémica de los \"30 pisos\"",
+        "Según El Mundo, Page se ausentó de un Comité Federal \"sin posibilidad de intervención\"",
+        "Según eldiario.es, Sánchez declaró sobre Mínguez: \"Le dije que no dimitiera\"",
+        "Según La Vanguardia, Sánchez criticó la \"agresividad y odio\" en política tras la dimisión"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "cambio institucional rutinario",
+        "polo_b": "crisis interna y tensión política",
+        "resumen": "Algunos medios presentan el relevo como un simple nombramiento, mientras otros lo enmarcan como síntoma de tensión y conflicto interno en el PSOE"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Última hora de la actualidad política, en directo | Rebeca Torró será la nueva portavoz del PSOE tras la renuncia de Montse Mínguez",
+          "link": "https://elpais.com/espana/2026-10-17/ultima-hora-de-la-actualidad-politica-en-directo.html",
+          "position": 45,
+          "focus": "Anuncia el nombramiento y la renuncia como hecho informativo sin contexto de conflicto"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "El PSOE designa a Rebeca Torró portavoz tras la dimisión de Montse Mínguez por la polémica de los \"30 pisos\" y Page se ausenta de un Comité Federal \"sin posibilidad de intervención\"",
+          "link": "https://www.elmundo.es/espana/2026/10/17/6ad32408fdddffb0328b4578.html",
+          "position": 85,
+          "focus": "Vincula la dimisión a un escándalo concreto (\"30 pisos\") y añade el gesto de protesta de Page, sugiriendo tensión interna"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Sánchez designa a Rebeca Torró como portavoz tras la dimisión de Montse Mínguez",
+          "link": "https://www.abc.es/espana/sanchez-designa-rebeca-torro-portavoz-tras-dimision-20261017100356-nt.html",
+          "position": 45,
+          "focus": "Se centra en la decisión de Sánchez de nombrar a Torró, sin mencionar controversia"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Pedro Sánchez, sobre la renuncia de la portavoz del PSOE: \"Le dije que no dimitiera\"",
+          "link": "https://www.eldiario.es/politica/pedro-sanchez-cese-portavoz-psoe-le-dije-no-dimitiera_1_13592585.html",
+          "position": 65,
+          "focus": "Destaca la declaración de Sánchez que insinúa que intentó evitar la dimisión, sugiriendo desacuerdo previo"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Sánchez critica la “agresividad y odio” en política tras la dimisión de Mínguez",
+          "link": "https://www.lavanguardia.com/politica/20261017/11661131/sanchez-critica-agresividad-odio-politica-dimision-minguez.html",
+          "position": 60,
+          "focus": "Resalta las palabras de Sánchez sobre \"agresividad y odio\" en política, enmarcando la dimisión en un clima de tensión más amplio"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Sánchez coloca a Rebeca Torró como portavoz del PSOE tras la dimisión de Montse Mínguez",
+          "link": "https://www.20minutos.es/nacional/elecciones-generales-ultima-hora-los-actos-electorales-directo-sanchez-convierte-mitin-comite-psoe-mientras-frente-amplio-podemos-consuman-su-fractura-con-dos-actos-por-separado_7049917_6.html",
+          "position": 45,
+          "focus": "Informa del nombramiento como hecho neutral, sin profundizar en causas o conflictos"
+        }
+      ],
+      "rango": 40,
+      "discrepancia": "media",
+      "silenciosos": [
+        "El Espanol"
+      ]
+    },
+    {
+      "neutral_headline": "Montse Mínguez dimite como portavoz del PSOE tras conocerse información sobre propiedades inmobiliarias",
+      "section": "Politica",
+      "facts": [
+        "Montse Mínguez deja su cargo como portavoz del PSOE",
+        "La dimisión se vincula a información sobre inmuebles",
+        "El PSOE celebra un Comité Federal el 29-N",
+        "El Mundo vincula la caída a '30 pisos'",
+        "20minutos vincula la caída a negocios inmobiliarios de la pareja de Mínguez",
+        "El Español vincula la caída a una campaña sobre 'fondos buitre' y afirma que Sánchez intentó que continuara en el cargo"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "causa política/de campaña",
+        "polo_b": "causa personal/inmobiliaria",
+        "resumen": "Los medios difieren en si atribuyen la caída de Mínguez a una dinámica política (campaña contra fondos buitre que se revierte) o a un asunto personal/inmobiliario (sus pisos o los de su pareja)."
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Montse Minguez, ascenso y caída de la portavoz del PSOE",
+          "link": "https://elpais.com/espana/catalunya/2026-10-17/montse-minguez-ascenso-y-caida-de-la-portavoz-del-psoe.html",
+          "position": 50,
+          "focus": "Narra un arco biográfico de ascenso y caída sin precisar la causa concreta del final"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "La caída de Montse Mínguez por los \"30 pisos\" obliga al PSOE a redefinirse en el Comité Federal del 29-N",
+          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/16/6ad27173e9cf4adb688b4581.html",
+          "position": 60,
+          "focus": "Señala los '30 pisos' como detonante y pone el foco en el impacto político para el PSOE en el Comité Federal"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Mínguez, la 'inquilina' de Ferraz a la que 'desahució' el ladrillo",
+          "link": "https://www.abc.es/espana/cataluna/montse-minguez-ambiciosa-inteligente-20261016201018-nt.html",
+          "position": 65,
+          "focus": "Usa metáfora del 'ladrillo' como agente que la 'desahucia', enfatizando que fue víctima de circunstancias inmobiliarias"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "La campaña de los \"fondos buitre\" se vuelve contra el PSOE y tumba a Montse Mínguez: Sánchez intentó que siguiera",
+          "link": "https://www.elespanol.com/espana/politica/20261017/campana-fondos-buitre-vuelve-psoe-tumba-montse-minguez-sanchez-intento-siguiera/1003744423598_0.html",
+          "position": 25,
+          "focus": "Enmarca la caída como un boomerang político de la propia campaña del PSOE contra 'fondos buitre', y añade que Sánchez quiso retenerla"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "La marcha de Montse Mínguez sacude al PSOE: de los negocios inmobiliarios de su pareja a su dimisión",
+          "link": "https://www.20minutos.es/nacional/marcha-montse-minguez-sacude-psoe-polemica-por-los-negocios-inmobiliarios-su-pareja-su-dimision_7049853_0.html",
+          "position": 70,
+          "focus": "Atribuye la crisis a los negocios inmobiliarios de la pareja de Mínguez, distanciando la responsabilidad directa de ella"
+        }
+      ],
+      "rango": 45,
+      "discrepancia": "media",
+      "silenciosos": [
         "La Vanguardia",
         "eldiario.es"
       ]
     },
     {
-      "neutral_headline": "España e Italia acuerdan poner fin a los controles fronterizos de Schengen activados por la crisis de Ceuta",
-      "section": "Politica",
+      "neutral_headline": "Trump suspende sanciones del Congreso contra Rusia citando 'interés nacional'",
+      "section": "Internacional",
       "facts": [
-        "España e Italia han alcanzado un acuerdo para eliminar los controles fronterizos de Schengen",
-        "Los controles fueron establecidos a raíz de la crisis migratoria de Ceuta",
-        "Italia aplicó una prórroga de siete días a los controles antes del acuerdo final",
-        "La tensión entre ambos países por este asunto se prolongó durante dos meses"
+        "Trump suspendió sanciones contra Rusia que habían sido aprobadas por el Congreso de EE.UU.",
+        "La decisión fue justificada oficialmente por 'interés nacional' (El Mundo, La Vanguardia, El Español, 20minutos)",
+        "El Kremlin calificó la medida como un 'momento histórico' (El Mundo)",
+        "El Pais vincula la suspensión con un intento de bajar el precio de la energía antes de las elecciones",
+        "eldiario.es vincula la medida a las elecciones legislativas en tres semanas y a un 'pacto del diésel' con Putin",
+        "ABC describe la ley suspendida como diseñada para 'asfixiar' a Rusia"
       ],
-      "tipo_divergencia": "cronologica",
-      "eje": null,
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "decisión por interés nacional legítimo",
+        "polo_b": "favor personal/colusión con Putin",
+        "resumen": "Los medios difieren en si presentan la suspensión como una decisión de política exterior justificada o como un gesto de complicidad personal de Trump hacia Putin con fines electorales"
+      },
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "España e Italia acuerdan poner fin a los controles Schengen por Ceuta",
-          "link": "https://elpais.com/espana/2026-10-16/espana-e-italia-coordinaran-el-fin-de-los-controles-schengen-por-ceuta.html",
-          "position": 50,
-          "focus": "Anuncia el acuerdo final de fin de controles, versión más avanzada cronológicamente"
+          "headline": "Trump suspende sanciones contra Rusia en pleno giro para que Putin le ayude a bajar el precio de la energía antes de las elecciones",
+          "link": "https://elpais.com/us/2026-10-17/trump-suspende-temporalmente-sanciones-contra-rusia-por-interes-nacional.html",
+          "position": 85,
+          "focus": "Destaca el cálculo electoral y energético de Trump para beneficiar a Putin; omite la justificación oficial de 'interés nacional'"
         },
         {
           "outlet": "El Mundo",
-          "headline": "España e Italia estudiarán eliminar los controles fronterizos provocados por la crisis de Ceuta tras una última prórroga",
-          "link": "https://www.elmundo.es/espana/2026/10/16/6ad1daa7e85ece1b378b4573.html",
+          "headline": "Trump suspende temporalmente las sanciones del Congreso contra Rusia por \"interés nacional\" y el Kremlin lo califica de \"momento histórico\"",
+          "link": "https://www.elmundo.es/internacional/2026/10/17/6ad3068ffdddffb8258b45b6.html",
           "position": 50,
-          "focus": "Habla de un estudio futuro tras una última prórroga, momento previo al acuerdo definitivo"
+          "focus": "Cita la justificación oficial y añade la reacción del Kremlin, sin emitir juicio propio sobre motivaciones"
         },
         {
           "outlet": "ABC",
-          "headline": "Italia prorroga siete días los controles Schengen a la espera de coordinar con España el fin de la medida",
-          "link": "https://www.abc.es/espana/italia-prorroga-solo-siete-dias-controles-schengen-20261016101012-nt.html",
-          "position": 50,
-          "focus": "Se centra en la prórroga de siete días, el paso previo antes del pacto final"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Italia y España pactan una salida al bloqueo de Schengen tras dos meses de tensiones",
-          "link": "https://www.lavanguardia.com/politica/20261016/11660437/italia-espana-pactan-salida-bloqueo-schengen-dos-meses-tensiones.html",
-          "position": 50,
-          "focus": "Confirma el pacto final y añade contexto temporal de dos meses de tensiones"
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "20minutos",
-        "El Espanol",
-        "eldiario.es"
-      ]
-    },
-    {
-      "neutral_headline": "Isabel Allende gana el Premio Planeta con la secuela de 'La casa de los espíritus'",
-      "section": "Cultura",
-      "facts": [
-        "Isabel Allende gana el Premio Planeta",
-        "La obra ganadora es la secuela o segunda parte de 'La casa de los espíritus'",
-        "ABC señala que se trata de la 75 edición del Premio Planeta",
-        "El Pais y eldiario.es señalan que es la edicion 2026 del premio",
-        "El Mundo recoge una declaracion de Allende sobre que las democracias estan amenazadas y que siente el mismo temor que la obligo a salir de Chile en 1973",
-        "eldiario.es recoge una declaracion de Allende comparando el premio con ganar el Nobel",
-        "20minutos recoge una declaracion de Allende sobre que la gente tiene mala memoria y se tiende a idealizar a los caudillos",
-        "El Espanol identifica a Allende como escritora chilena"
-      ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "Terremoto editorial: Isabel Allende gana el Premio Planeta 2026 con la secuela de ‘La casa de los espíritus’",
-          "link": "https://elpais.com/cultura/2026-10-15/terremoto-editorial-isabel-allende-gana-el-premio-planeta-2026-con-la-secuela-de-la-casa-de-los-espiritus.html",
-          "position": 50,
-          "focus": "Enfatiza el impacto editorial del premio con el termino 'terremoto editorial', sin incluir declaraciones de la autora"
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "Isabel Allende gana el Premio Planeta con  la segunda parte de 'La casa de los espíritus': \"Las democracias están amenazadas, vuelvo a sentir el mismo temor que me obligó a salir de Chile en 1973\"",
-          "link": "https://www.elmundo.es/cultura/literatura/2026/10/15/6ad0c084e4d4d8eb218b456f.html",
-          "position": 50,
-          "focus": "Destaca una declaracion politica de Allende sobre amenazas a la democracia y su exilio en 1973"
-        },
-        {
-          "outlet": "ABC",
-          "headline": "Isabel Allende gana el 75 Premio Planeta con la continuación de 'La casa de los espíritus'",
-          "link": "https://www.abc.es/cultura/isabel-allende-gana-premio-planeta-segunda-parte-20261015175309-nt.html",
-          "position": 50,
-          "focus": "Resalta el numero de edicion del premio (75) sin incluir declaraciones"
+          "headline": "Otro favor de Trump a Putin: suspende una ley de sanciones diseñada por el Congreso de EE.UU. para asfixiar a Rusia",
+          "link": "https://www.abc.es/internacional/favor-trump-putin-suspende-ley-sanciones-disenada-20261017080758-nt.html",
+          "position": 95,
+          "focus": "Enmarca la decisión explícitamente como 'otro favor' a Putin, subrayando que la ley buscaba asfixiar a Rusia"
         },
         {
           "outlet": "eldiario.es",
-          "headline": "Isabel Allende gana el Premio Planeta 2026 por la secuela de 'La casa de los espíritus': \"Es como ganar el Nobel\"",
-          "link": "https://www.eldiario.es/catalunya/cat/isabel-allende-gana-premio-planeta-2026-hora-alba_1_13589698.html",
-          "position": 50,
-          "focus": "Destaca una declaracion de Allende comparando el premio con el Nobel"
+          "headline": "Trump suspende las sanciones a Rusia recién aprobadas a tres semanas de las legislativas y tras el pacto del diésel con Putin",
+          "link": "https://www.eldiario.es/internacional/trump-suspende-sanciones-rusia-recien-aprobadas-tres-semanas-legislativas-pacto-diesel-putin_1_13593288.html",
+          "position": 85,
+          "focus": "Conecta la suspensión con las elecciones inminentes y un pacto comercial con Putin, sugiriendo intercambio de favores"
         },
         {
           "outlet": "La Vanguardia",
-          "headline": "Isabel Allende gana el premio Planeta con la segunda parte de 'La casa de los espíritus'",
-          "link": "https://www.lavanguardia.com/cultura/20261015/11660064/isabel-allende-gana-premio-planeta-casa-de-los-espiritus-segunda-parte.html",
-          "position": 50,
-          "focus": "Informa el hecho de forma escueta sin declaraciones ni valoraciones adicionales"
+          "headline": "Trump suspende temporalmente sanciones del Congreso contra Rusia por “interés nacional”",
+          "link": "https://www.lavanguardia.com/internacional/20261017/11661313/trump-suspende-temporalmente-sanciones-congreso-rusia-interes-nacional.html",
+          "position": 45,
+          "focus": "Reporta la suspensión y la justificación oficial de forma neutra, sin atribuir motivaciones ocultas"
         },
         {
           "outlet": "El Espanol",
-          "headline": "La escritora chilena Isabel Allende, ganadora del Premio Planeta con la secuela de 'La casa de los espíritus'",
-          "link": "https://www.elespanol.com/el-cultural/letras/20261015/escritora-chilena-isabel-allende-ganadora-millon-euros-premio-planeta/1003744421788_0.html",
-          "position": 50,
-          "focus": "Identifica la nacionalidad chilena de la autora como dato principal junto al premio"
+          "headline": "Trump levanta varias sanciones a Rusia por la guerra en Ucrania en nombre del \"interés nacional\" estadounidense",
+          "link": "https://www.elespanol.com/mundo/america/eeuu/20261017/trump-levanta-varias-sanciones-rusia-guerra-ucrania-nombre-interes-nacional-estadounidense/1003744423930_0.html",
+          "position": 40,
+          "focus": "Describe el levantamiento de sanciones centrado en la guerra de Ucrania y el 'interés nacional', sin cuestionar motivos"
         },
         {
           "outlet": "20minutos",
-          "headline": "Isabel Allende, tras ganar el Planeta: \"La gente tiene mala memoria y hoy se tiende a idealizar a los caudillos\"",
-          "link": "https://www.20minutos.es/gente/isabel-allende-tras-ganar-premio-planeta-gente-tiene-mala-memoria-hoy-se-tiende-idealizar-los-caudillos_7049450_0.html",
-          "position": 50,
-          "focus": "Destaca una declaracion de Allende sobre la memoria colectiva y los caudillos"
+          "headline": "Trump levanta las sanciones contra Rusia por la guerra en pleno giro hacia Putin por motivos de \"interés nacional\"",
+          "link": "https://www.20minutos.es/internacional/trump-levanta-las-sanciones-contra-rusia-por-guerra-pleno-giro-hacia-putin-por-motivos-interes-nacional_7049933_0.html",
+          "position": 65,
+          "focus": "Menciona el 'giro hacia Putin' pero mantiene la cita oficial de 'interés nacional', mostrando ambivalencia"
         }
       ],
-      "rango": 0,
-      "discrepancia": "baja",
+      "rango": 55,
+      "discrepancia": "media",
       "silenciosos": []
     },
     {
-      "neutral_headline": "Un tiroteo en una escuela primaria de Oregón deja varios muertos, entre ellos niños y un profesor",
-      "section": "Sociedad",
+      "neutral_headline": "El Defensor del Pueblo recurre ante el Constitucional la suspensión del voto a los nacionalizados por la 'ley de nietos'",
+      "section": "Politica",
       "facts": [
-        "El Pais: tres niños y un profesor muertos",
-        "ABC: al menos cuatro muertos en el tiroteo",
-        "eldiario.es: un adolescente mata a tres niños y un profesor antes de ser abatido",
-        "La Vanguardia: un adolescente mata a tres niños y una maestra",
-        "El Espanol: un joven de 16 años mata a tres niños y una profesora antes de ser abatido",
-        "20minutos: un joven de 16 años mata a tres niños y una maestra antes de ser abatido por un vecino"
+        "El Defensor del Pueblo interpuso un recurso de amparo ante el Tribunal Constitucional",
+        "El recurso se dirige contra la suspensión del voto de los nacionalizados por la 'ley de nietos'"
       ],
-      "tipo_divergencia": "cronologica",
+      "tipo_divergencia": "ninguna",
       "eje": null,
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "Un tiroteo en una escuela primaria de Oregón deja tres niños y un profesor muertos",
-          "link": "https://elpais.com/us/2026-10-16/un-tiroteo-en-una-escuela-primaria-de-oregon-deja-tres-ninos-y-un-profesor-muertos.html",
+          "headline": "El Defensor del Pueblo interpone un recurso de amparo ante el Constitucional por la suspensión del voto de los nacionalizados por la ‘ley de nietos’",
+          "link": "https://elpais.com/espana/2026-10-16/el-defensor-del-pueblo-interpone-un-recurso-de-amparo-ante-el-constitucional-por-la-suspension-del-derecho-al-voto-a-nacionalizados-por-la-ley-de-nietos.html",
           "position": 50,
-          "focus": "Cifra inicial de víctimas sin detalles del atacante"
+          "focus": "Describe la acción del Defensor del Pueblo y el motivo del recurso sin valoraciones adicionales"
         },
         {
-          "outlet": "ABC",
-          "headline": "Al menos cuatro muertos en un tiroteo en una escuela de Oregón (EE.UU.)",
-          "link": "https://www.abc.es/internacional/cuatro-muertos-tiroteo-escuela-oregon-eeuu-20261016005748-nt.html",
+          "outlet": "El Mundo",
+          "headline": "El Defensor del Pueblo presenta un recurso de amparo en el Constitucional para levantar la suspensión del voto a los beneficiados por la \"ley de nietos\"",
+          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/16/6ad2835be9cf4a691e8b4598.html",
           "position": 50,
-          "focus": "Cifra actualizada de muertos, sin identificar al atacante"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "Un adolescente mata a tres niños y un profesor en una escuela primaria de Oregón antes de ser abatido",
-          "link": "https://www.eldiario.es/internacional/adolescente-mata-tres-ninos-profesor-escuela-primaria-oregon-abatido_1_13589865.html",
-          "position": 50,
-          "focus": "Incluye identidad genérica del atacante (adolescente) y su abatimiento"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Un adolescente mata a tiros a tres niños y una maestra en una escuela de primaria en Oregón",
-          "link": "https://www.lavanguardia.com/internacional/20261016/11660337/cuatro-muertos-tres-ninos-tiroteo-escuela-primaria-oregon.html",
-          "position": 50,
-          "focus": "Similar a eldiario, especifica maestra en vez de profesor"
+          "focus": "Igual que los demás, añade el objetivo de 'levantar la suspensión' pero sin cambiar el encuadre"
         },
         {
           "outlet": "El Espanol",
-          "headline": "Un joven de 16 años mata a tres niños y una profesora en un tiroteo en una escuela primaria en Oregón antes de ser abatido",
-          "link": "https://www.elespanol.com/mundo/america/eeuu/20261016/joven-anos-mata-ninos-profesora-tiroteo-escuela-primaria-oregon-abatido/1003744422259_0.html",
+          "headline": "El Defensor recurre ante el Constitucional la suspensión del voto a los nacionalizados por la 'ley de nietos'",
+          "link": "https://www.elespanol.com/espana/tribunales/20261016/defensor-recurre-constitucional-suspension-voto-nacionalizados-ley-nietos/1003744423881_0.html",
           "position": 50,
-          "focus": "Añade edad exacta del atacante (16 años)"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "Un joven de 16 años mata a tiros en un colegio a tres niños y una maestra antes de ser abatido por un vecino",
-          "link": "https://www.20minutos.es/internacional/un-tiroteo-una-escuela-primaria-oregon-deja-cuatro-muertos-entre-ellos-tres-menores_7049422_0.html",
-          "position": 50,
-          "focus": "Añade edad del atacante y detalle de quién lo abatió (un vecino)"
+          "focus": "Versión más breve, mismo hecho y protagonista, sin matices distintos"
         }
       ],
       "rango": 0,
       "discrepancia": "baja",
       "silenciosos": [
-        "El Mundo"
+        "20minutos",
+        "ABC",
+        "La Vanguardia",
+        "eldiario.es"
       ]
     },
     {
-      "neutral_headline": "Podemos y Frente Amplio negocian la integracion de Irene Montero en las listas electorales",
-      "section": "Politica",
+      "neutral_headline": "La dana 'Adam' deja lluvias intensas en el este peninsular, Baleares y Cataluña",
+      "section": "Sociedad",
       "facts": [
-        "Existe una negociacion entre Podemos y Frente Amplio sobre las listas electorales",
-        "Irene Montero es un punto central de esa negociacion",
-        "La Vanguardia reporta que Frente Amplio ofrece a Montero un puesto de salida en Madrid",
-        "eldiario.es senala que hay 24 horas decisivas para alcanzar la unidad"
+        "La dana 'Adam' afecta al este peninsular y Baleares con lluvias intensas y persistentes hasta el lunes (El País)",
+        "La dana ha dejado hasta 250 litros y una caída térmica de ocho grados en España (eldiario.es)",
+        "Las lluvias intensas y torrenciales vuelven a Cataluña de forma más localizada (La Vanguardia)"
       ],
-      "tipo_divergencia": "cronologica",
+      "tipo_divergencia": "ninguna",
       "eje": null,
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "El encaje de Irene Montero tensa el pulso en las listas de la izquierda",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-10-16/la-izquierda-alternativa-lleva-al-limite-el-pulso-para-las-listas-del-29-n-con-el-escollo-principal-de-madrid.html",
+          "headline": "La dana ‘Adam’ dejará lluvias intensas y persistentes en el este peninsular y Baleares hasta el lunes",
+          "link": "https://elpais.com/el-tiempo/2026-10-17/la-dana-adam-dejara-lluvias-intensas-y-persistentes-en-el-este-peninsular-y-baleares-hasta-el-lunes.html",
           "position": 50,
-          "focus": "Describe la tension general en las listas de la izquierda centrada en Montero, sin precisar detalles concretos de la oferta"
+          "focus": "Centra el alcance geográfico y temporal del fenómeno (este peninsular y Baleares, hasta el lunes), sin dar cifras concretas"
         },
         {
           "outlet": "eldiario.es",
-          "headline": "Podemos y el Frente Amplio mantienen su pulso en las 24 horas decisivas para la unidad",
-          "link": "https://www.eldiario.es/politica/frente-amplio-mantienen-pulso-24-horas-decisivas-unidad_1_13589325.html",
+          "headline": "La primera dana de gran impacto de la temporada irrumpe con hasta 250 litros y una caída térmica de ocho grados en España",
+          "link": "https://www.eldiario.es/sociedad/el-tiempo/primera-dana-gran-impacto-temporada-irrumpe-250-litros-caida-termica-ocho-grados-espana-pm_1_13592373.html",
           "position": 50,
-          "focus": "Enfatiza el momento critico de la negociacion entre ambas formaciones, con plazo de 24 horas, sin detallar la oferta concreta"
+          "focus": "Aporta datos cuantitativos de impacto a nivel nacional (litros de lluvia, caída de temperatura) y lo sitúa como la primera dana relevante de la temporada"
         },
         {
           "outlet": "La Vanguardia",
-          "headline": "Frente Amplio ofrece a Irene Montero un puesto de salida en Madrid para las elecciones",
-          "link": "https://www.lavanguardia.com/politica/20261016/11660458/frente-amplio-ofrece-irene-montero-puesto-salida-madrid-elecciones.html",
+          "headline": "Las lluvias “intensas y torrenciales” vuelven a Catalunya pero de manera más localizada",
+          "link": "https://www.lavanguardia.com/local/barcelona/20261016/11660773/lluvias-intensas-torrenciales-vuelven-catalunya-manera-mas-localizada.html",
           "position": 50,
-          "focus": "Aporta el dato mas avanzado y concreto: la oferta especifica de un puesto de salida en Madrid para Montero"
+          "focus": "Se enfoca específicamente en Cataluña, señalando que el fenómeno es ahora más localizado que en episodios anteriores"
         }
       ],
       "rango": 0,
@@ -279,349 +408,91 @@
       ]
     },
     {
-      "neutral_headline": "Rufián se pronuncia sobre el fracaso de la candidatura unitaria de las izquierdas",
-      "section": "Politica",
+      "neutral_headline": "Isabel Allende obtiene el Premio Planeta y hace declaraciones públicas",
+      "section": "Cultura",
       "facts": [
-        "Rufián hizo declaraciones sobre la dificultad de lograr una candidatura unitaria de las izquierdas",
-        "Rufián usó la palabra 'fracasado' en referencia al proceso de unidad electoral",
-        "Rufián pidió disculpas por el resultado del proceso",
-        "Rufián hizo una declaración comparando a un cajero de Mercadona con Juan Roig sobre el voto"
+        "Isabel Allende inicia una nueva etapa editorial con Planeta",
+        "Isabel Allende advirtió sobre la tendencia a idealizar gobiernos totalitarios, calificándola de 'aterradora'",
+        "Isabel Allende recibió el Premio Planeta"
       ],
       "tipo_divergencia": "editorial",
       "eje": {
-        "polo_a": "fracaso personal explicito de Rufian en la unidad de izquierdas",
-        "polo_b": "discurso sobre desigualdad y conciencia de clase",
-        "resumen": "los medios difieren entre centrar la noticia en la autocritica/fracaso de Rufian por la falta de unidad electoral o en su discurso sobre la lucha de clases"
+        "polo_a": "calculo editorial/mercantil",
+        "polo_b": "reconocimiento literario legitimo",
+        "resumen": "Los medios difieren en si enmarcan el premio como una maniobra del negocio editorial o como un merecido reconocimiento a su trayectoria, mientras ABC se centra en otro aspecto (sus declaraciones politicas) sin posicionarse en ese eje."
       },
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "Última hora de la actualidad política, en directo | Rufián: “He hecho todo lo posible para simplificar la oferta electoral”",
-          "link": "https://elpais.com/espana/2026-10-16/ultima-hora-de-la-actualidad-politica-en-directo.html",
-          "position": 45,
-          "focus": "cita que suaviza el fracaso, presenta el esfuerzo de Rufian ('he hecho todo lo posible') sin usar la palabra fracaso explicitamente"
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "Rufián se disculpa por no lograr una candidatura unitaria de la izquierda: \"He fracasado\"",
-          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/16/6ad1dfede85ece77368b4573.html",
-          "position": 10,
-          "focus": "destaca la disculpa personal y el reconocimiento explicito de fracaso individual ('He fracasado')"
+          "headline": "El baile editorial de los premios literarios: Isabel Allende abre nuevo capítulo con Planeta",
+          "link": "https://elpais.com/cultura/2026-10-16/el-baile-editorial-de-los-premios-literarios-isabel-allende-abre-nuevo-capitulo-con-planeta.html",
+          "position": 15,
+          "focus": "Destaca el trasfondo de intereses editoriales y el 'baile' entre premios y sellos, insinuando una logica comercial detras del galardon; omite detalles sobre el merito literario."
         },
         {
           "outlet": "ABC",
-          "headline": "Gabriel Rufián: «Hay que preguntarse por qué un cajero del Mercadona vota lo mismo que Juan Roig»",
-          "link": "https://www.abc.es/espana/gabriel-rufian-preguntarse-cajero-mercadona-vota-juan-20261016130107-nt.html",
-          "position": 95,
-          "focus": "ignora el tema del fracaso electoral y centra la pieza en una declaracion sobre desigualdad social y voto de clase"
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "Rufián lamenta el \"culebrón nefasto\" de las izquierdas y finiquita la candidatura única: \"Pido disculpas, he fracasado\"",
-          "link": "https://www.elespanol.com/espana/politica/20261016/rufian-lamenta-culebron-nefasto-izquierdas-finiquita-candidatura-unica-pido-disculpas-fracasado/1003744422416_0.html",
-          "position": 10,
-          "focus": "enfatiza el fracaso personal con disculpa explicita y califica el proceso como 'culebron nefasto'"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "Rufián ve prácticamente imposible el acuerdo entre las izquierdas: \"Hemos fracasado\"",
-          "link": "https://www.20minutos.es/cataluna/barcelona/rufian-ve-muy-dificil-que-las-izquierdas-puedan-unirse-una-misma-candidatura-para-29n-he-fracasado_7049529_0.html",
-          "position": 35,
-          "focus": "usa la forma colectiva 'hemos fracasado', atenuando la responsabilidad individual de Rufian"
-        }
-      ],
-      "rango": 85,
-      "discrepancia": "alta",
-      "silenciosos": [
-        "La Vanguardia",
-        "eldiario.es"
-      ]
-    },
-    {
-      "neutral_headline": "Tesla presenta un Roadster capaz de volar y acelerar de 0 a 100 km/h en alrededor de un segundo",
-      "section": "Economia",
-      "facts": [
-        "Tesla presento un nuevo modelo Roadster",
-        "El vehiculo es presentado como capaz de volar",
-        "El Mundo, ABC y El Espanol indican que acelera de 0 a 100 km/h en menos de un segundo",
-        "20minutos indica que acelera de 0 a 100 km/h en un segundo",
-        "20minutos anade que el vehiculo puede circular boca abajo",
-        "ABC atribuye la presentacion a Musk"
-      ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "El Mundo",
-          "headline": "Tesla presenta un Roadster capaz de volar y acelerar de 0 a 100 en menos de un segundo",
-          "link": "https://www.elmundo.es/motor/2026/10/16/6ad1c30efc6c838c1f8b4570.html",
+          "headline": "Isabel Allende advierte de la tendencia a idealizar gobiernos totalitarios: «Me parece aterrador»",
+          "link": "https://www.abc.es/cultura/libros/isabel-allende-advierte-tendencia-idealizar-gobiernos-totalitarios-20261016130529-nt.html",
           "position": 50,
-          "focus": "Destaca la capacidad de volar y la aceleracion extrema; no menciona la conduccion boca abajo"
-        },
-        {
-          "outlet": "ABC",
-          "headline": "Musk presenta su nuevo Roadster que vuela y alcanza los 100 km/h en menos de un segundo",
-          "link": "https://www.abc.es/motor/musk-presenta-nuevo-tesla-roadster-coche-puede-20261016091043-nt.html",
-          "position": 50,
-          "focus": "Centra la noticia en Musk como presentador y en las mismas caracteristicas tecnicas"
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "Tesla presenta Roadster: un coche deportivo capaz de volar y acelerar casi los 100 km/h en menos de un segundo",
-          "link": "https://www.elespanol.com/omicrono/tecnologia/20261016/tesla-presenta-roadster-coche-deportivo-capaz-volar-acelerar-kmh-segundo/1003744422279_0.html",
-          "position": 50,
-          "focus": "Describe el Roadster como deportivo volador con aceleracion casi de un segundo"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "Tesla presenta un coche que vuela, circula boca abajo y acelera de 0 a 100 km/h en un segundo",
-          "link": "https://www.20minutos.es/tecnologia/actualidad/tesla-presenta-roadster-vuela-circula-boca-abajo-acelera-0-100-un-segundo_7049457_0.html",
-          "position": 50,
-          "focus": "Anade el detalle de que el coche puede circular boca abajo, ademas de volar y acelerar"
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "El Pais",
-        "La Vanguardia",
-        "eldiario.es"
-      ]
-    },
-    {
-      "neutral_headline": "Rafa Jódar remonta a Casper Ruud en Shanghái",
-      "section": "Deportes",
-      "facts": [
-        "Rafa Jódar jugó contra Casper Ruud en el Masters de Shanghái",
-        "Jódar remontó el partido tras ir perdiendo",
-        "El partido llegó al tercer set",
-        "Jódar accedió a semifinales",
-        "El resultado iguala su mejor marca en un Masters 1.000"
-      ],
-      "tipo_divergencia": "cronologica",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "Jódar vence a Ruud y accede a las semifinales del Masters de Shanghái",
-          "link": "https://elpais.com/deportes/tenis/2026-10-16/jodar-vence-a-ruud-y-accede-a-las-semifinales-del-masters-de-shanghai.html",
-          "position": 50,
-          "focus": "Informa del resultado final: victoria y clasificación a semifinales"
-        },
-        {
-          "outlet": "ABC",
-          "headline": "Rafa Jódar remonta a Ruud y lleva el partido al tercer set",
-          "link": "https://www.abc.es/deportes/tenis/jodar-ruud-directo-resultado-ganador-partido-cuartos-20261016080350-di.html",
-          "position": 50,
-          "focus": "Cubre el partido en curso, cuando se ha forzado el tercer set"
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "Rafa Jódar jugará las semis de Shanghái tras remontar a Ruud e iguala su mejor resultado en un Masters 1.000",
-          "link": "https://www.elespanol.com/deportes/tenis/20261016/rafa-jodar-jugara-semis-shanghai-remontar-ruud-iguala-mejor-resultado-masters/1003744422519_0.html",
-          "position": 50,
-          "focus": "Resultado final con dato adicional sobre su mejor marca histórica en Masters 1.000"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "Rafa Jódar se juega el pase a semis de Shanghái en el tercer set ante Casper Ruud tras igualar el partido",
-          "link": "https://www.20minutos.es/deportes/tenis/rafa-jodar-casper-ruud-directo-partido-cuartos-final-masters-1-000-shanghai_7049458_6.html",
-          "position": 50,
-          "focus": "Momento previo a la decisión, con el partido igualado antes del tercer set"
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "El Mundo",
-        "La Vanguardia",
-        "eldiario.es"
-      ]
-    },
-    {
-      "neutral_headline": "Puigdemont descarta ejercer como jefe de la oposición en el Parlament a su regreso",
-      "section": "Politica",
-      "facts": [
-        "Puigdemont ha descartado ejercer como jefe de la oposición en el Parlament",
-        "La decisión se vincula a su previsto regreso a España/Catalunya",
-        "Illa aparece mencionado como referencia en el contexto (ABC)",
-        "20minutos recoge una declaración adicional de Puigdemont: 'Deberán firmar la rendición'"
-      ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "Puigdemont descarta ejercer como jefe de la oposición en el Parlament",
-          "link": "https://elpais.com/espana/catalunya/2026-10-15/puigdemont-descarta-ejercer-como-jefe-de-la-oposicion-en-el-parlament.html",
-          "position": 50,
-          "focus": "Informa la decisión de Puigdemont sin añadir contexto adicional sobre Illa o declaraciones extra"
-        },
-        {
-          "outlet": "ABC",
-          "headline": "Puigdemont renunciará a liderar la oposición a Illa cuando vuelva a España",
-          "link": "https://www.abc.es/espana/cataluna/puigdemont-renunciara-liderar-oposicion-illa-vuelva-espana-20261016094811-nt.html",
-          "position": 50,
-          "focus": "Añade la referencia a Illa como contexto de la renuncia, sin alterar el hecho central"
+          "focus": "Se centra en declaraciones politicas de Allende sobre gobiernos totalitarios, sin abordar la legitimidad o el contexto comercial del premio."
         },
         {
           "outlet": "La Vanguardia",
-          "headline": "Puigdemont confirma que no será jefe de la oposición en el Parlament cuando regrese a Catalunya",
-          "link": "https://www.lavanguardia.com/politica/20261015/11660068/puigdemont-confirma-sera-jefe-oposicion-parlament-regrese-catalunya.html",
-          "position": 50,
-          "focus": "Confirma el hecho con énfasis en el regreso a Catalunya, sin elementos adicionales"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "Puigdemont descarta ejercer de jefe de la oposición en el Parlament y prepara su regreso: \"Deberán firmar la rendición\"",
-          "link": "https://www.20minutos.es/cataluna/puigdemont-descarta-ejercer-jefe-oposicion-parlament-prepara-su-regreso-deberan-firmar-rendicion_7049490_0.html",
-          "position": 50,
-          "focus": "Incluye la misma información pero añade una declaración textual sobre el regreso, sin cambiar el encuadre del hecho principal"
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "El Espanol",
-        "El Mundo",
-        "eldiario.es"
-      ]
-    },
-    {
-      "neutral_headline": "Dos sucesos distintos: alerta de salmonela en huevos y homicidio de dos hermanastros en Cantabria",
-      "section": "Sociedad",
-      "facts": [
-        "Una alerta por salmonela en huevos se originó en un bar de Vitoria",
-        "El foco de la contaminación se sitúa en una macrogranja de Aragón",
-        "Dos hermanastros fueron asesinados en Mataporquera, Cantabria",
-        "Se ha detenido a un presunto autor del doble homicidio",
-        "El detenido ha ingresado en una Unidad de Psiquiatría, según 20minutos"
-      ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "La alerta por los huevos con salmonela saltó en un bar de Vitoria y tiene su origen en una macrogranja de Aragón",
-          "link": "https://elpais.com/sociedad/2026-10-16/la-alerta-por-los-huevos-con-salmonela-salto-en-un-bar-de-vitoria-y-tiene-su-origen-en-una-macrogranja-de-aragon.html",
-          "position": 50,
-          "focus": "Centra la atención en el origen sanitario de la alerta alimentaria, sin relación con el otro suceso."
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "Matan a dos hermanastros en Mataporquera (Cantabria) y detienen al presunto autor",
-          "link": "https://www.elmundo.es/espana/2026/10/16/6ad1d536fdddff28478b4571.html",
-          "position": 50,
-          "focus": "Informa del doble homicidio y la detención del presunto autor, sin detalles adicionales sobre su estado."
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "Detenido por presuntamente matar a dos hermanastros en Cantabria: ha ingresado en una Unidad de Psiquiatría",
-          "link": "https://www.20minutos.es/cantabria/dos-jovenes-mueren-una-pelea-entre-familias-valdeolea-cantabria-guardia-civil-busca-presunto-responsable_7049510_0.html",
-          "position": 50,
-          "focus": "Añade el dato de que el detenido ha sido ingresado en psiquiatría, ampliando la información sin cambiar el enfoque del hecho."
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "ABC",
-        "El Espanol",
-        "La Vanguardia",
-        "eldiario.es"
-      ]
-    },
-    {
-      "neutral_headline": "Ucrania enfrenta tensiones con Estados Unidos sobre el apoyo militar y político en medio de la guerra con Rusia",
-      "section": "Internacional",
-      "facts": [
-        "Sin apoyo de Estados Unidos, la defensa aérea de Kiev detecta los drones rusos solo cuando están encima",
-        "Según eldiario.es, Trump pactó con Putin sobre el diésel ruso",
-        "Según eldiario.es, ha habido interrupciones en el servicio de SpaceX (Starlink) usado por Ucrania",
-        "Según La Vanguardia, Zelenski se siente traicionado por Trump y rechaza exigencias de la Casa Blanca"
-      ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "foco en consecuencias para Ucrania",
-        "polo_b": "foco en responsabilidad de Trump",
-        "resumen": "Los medios se dividen entre centrar la noticia en el impacto directo sobre la defensa de Ucrania o en la responsabilidad política de Trump y sus motivaciones electorales"
-      },
-      "frames": [
-        {
-          "outlet": "El Mundo",
-          "headline": "En la defensa aérea de Kiev: \"Sin Estados Unidos sólo vemos los drones rusos cuando están encima\"",
-          "link": "https://www.elmundo.es/internacional/2026/10/15/6ad0fe9de9cf4adb5c8b4578.html",
-          "position": 20,
-          "focus": "Destaca el testimonio desde el terreno sobre la vulnerabilidad de Kiev sin ayuda estadounidense; omite explicaciones sobre por qué EEUU redujo su apoyo"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "Del pacto con Putin por el diésel ruso a las interrupciones de SpaceX: Trump sacrifica Ucrania para intentar salvar sus elecciones",
-          "link": "https://www.eldiario.es/internacional/pacto-putin-diesel-ruso-interrupciones-spacex-trump-sacrifica-ucrania-salvar-elecciones_1_13589213.html",
-          "position": 90,
-          "focus": "Atribuye explícitamente a Trump una estrategia calculada de sacrificar a Ucrania por intereses electorales internos; omite la perspectiva ucraniana directa"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "“Traicionado” por Trump, Zelenski se revuelve contra las exigencias de la Casa Blanca",
-          "link": "https://www.lavanguardia.com/internacional/20261016/11659766/zelenski-agranda-brecha-trump-desafia-exigencias-sobre-guerra.html",
-          "position": 60,
-          "focus": "Centra la narrativa en la reacción emocional y política de Zelenski frente a Trump, usando el término 'traicionado'; menciona a Trump pero desde el prisma de la víctima"
+          "headline": "Isabel Allende, premio Planeta: claves de una reina de la literatura en español",
+          "link": "https://www.lavanguardia.com/cultura/culturas/20261017/11661030/isabel-allende-premio-planeta-claves-reina-literatura-espanol.html",
+          "position": 85,
+          "focus": "Presenta el premio como la culminacion de una carrera literaria consagrada, usando el titulo de 'reina de la literatura' para enfatizar el merito y prestigio, sin mencionar intereses editoriales."
         }
       ],
       "rango": 70,
       "discrepancia": "alta",
       "silenciosos": [
         "20minutos",
-        "ABC",
         "El Espanol",
-        "El Pais"
+        "El Mundo",
+        "eldiario.es"
       ]
     },
     {
-      "neutral_headline": "Militares graban audios presumiendo de palizas a migrantes en Ceuta; Defensa los remite a la justicia",
-      "section": "Politica",
+      "neutral_headline": "Informaciones distintas: restricción de cuentas de Lula en Meta y refuerzo del apoyo occidental a Ucrania",
+      "section": "Internacional",
       "facts": [
-        "Existen audios de militares presumiendo de dar palizas a inmigrantes en Ceuta",
-        "Amnistía Internacional calificó los hechos narrados en los audios como posible tortura",
-        "El Ministerio de Defensa remitió los audios al juzgado",
-        "Existe indignación en el Ejército con la ministra Robles según El Español"
+        "Empleados de Meta admitieron en mensajes internos que el alcance de las cuentas de Lula fue restringido",
+        "Reino Unido aumentó su ayuda militar a Ucrania",
+        "La UE reforzó su apoyo a Ucrania",
+        "La UE lamentó el acuerdo alcanzado entre Trump y Putin sobre el diésel"
       ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "foco en la gravedad del hecho (palizas/tortura a migrantes)",
-        "polo_b": "foco en la crítica política a Robles y el Gobierno",
-        "resumen": "Mientras eldiario.es y 20minutos centran la noticia en el hecho denunciado y su tratamiento judicial, El Español desplaza el foco hacia el malestar interno del Ejército con la ministra Robles, enmarcando el caso como un episodio más de supuesta connivencia del Gobierno con la corrupción y la amnistía."
-      },
+      "tipo_divergencia": "ninguna",
+      "eje": null,
       "frames": [
         {
+          "outlet": "El Pais",
+          "headline": "Empleados de Meta admiten en mensajes internos que el alcance de las cuentas de Lula fue restringido",
+          "link": "https://elpais.com/america/2026-10-17/empleados-de-meta-admiten-en-mensajes-internos-que-el-alcance-de-las-cuentas-de-lula-fue-restringido.html",
+          "position": 50,
+          "focus": "Centra la atención en la moderación de contenido de Meta y la restricción interna de cuentas políticas, sin relación con el tema de Ucrania tratado en las otras piezas."
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Reino Unido aumenta su ayuda militar a Ucrania ante la creciente hostilidad de EEUU a Kiev",
+          "link": "https://www.elmundo.es/internacional/2026/10/17/6ad255fbfdddff8a0d8b4590.html",
+          "position": 50,
+          "focus": "Destaca la respuesta británica ante la supuesta hostilidad de EEUU hacia Ucrania, centrada en el aumento de ayuda militar."
+        },
+        {
           "outlet": "eldiario.es",
-          "headline": "Amnistía Internacional, sobre los audios de militares presumiendo de palizas a migrantes: \"Puede ser claramente tortura\"",
-          "link": "https://www.eldiario.es/desalambre/amnistia-internacional-audios-militares-presumiendo-palizas-migrantes-claramente-tortura_1_13588907.html",
-          "position": 10,
-          "focus": "Destaca la valoración de Amnistía Internacional sobre tortura; omite cualquier ángulo político sobre el Ejército o el Gobierno."
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "Indignación en el Ejército con Robles por su aval como 'dos' de Sánchez a la amnistía, la cloaca, la corrupción y el asalto a Ceuta",
-          "link": "https://www.elespanol.com/espana/20261016/indignacion-ejercito-robles-aval-sanchez-amnistia-cloaca-corrupcion-asalto-ceuta/1003744422075_0.html",
-          "position": 90,
-          "focus": "Centra el relato en la indignación del Ejército con Robles y la vincula a otros temas políticos (amnistía, corrupción, cloaca); el 'asalto a Ceuta' aparece de forma tangencial, sin detallar los audios ni las víctimas."
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "Defensa remite al juzgado los audios de militares que presumen de dar palizas a inmigrantes en Ceuta",
-          "link": "https://www.20minutos.es/nacional/defensa-remite-juzgado-fiscalia-los-audios-militares-que-presumen-dar-palizas-migrantes-ceuta_7049509_0.html",
-          "position": 15,
-          "focus": "Reporta la acción institucional (Defensa remite a juzgado) centrada en el hecho denunciado, sin entrar en el ángulo político sobre el Ejército o Robles."
+          "headline": "La UE se vuelca en el apoyo a Ucrania mientras lamenta el acuerdo de Trump con Putin por el diésel",
+          "link": "https://www.eldiario.es/internacional/ue-vuelca-apoyo-ucrania-lamenta-acuerdo-trump-putin-diesel_1_13592788.html",
+          "position": 50,
+          "focus": "Pone el foco en el refuerzo del apoyo de la UE a Ucrania y su crítica al acuerdo entre Trump y Putin sobre el diésel."
         }
       ],
-      "rango": 80,
-      "discrepancia": "alta",
+      "rango": 0,
+      "discrepancia": "baja",
       "silenciosos": [
+        "20minutos",
         "ABC",
-        "El Mundo",
-        "El Pais",
+        "El Espanol",
         "La Vanguardia"
       ]
     }

@@ -1,0 +1,500 @@
+{
+  "fecha": "2026-10-17T08:46:36.576801+00:00",
+  "esquema": 2,
+  "historias": [
+    {
+      "neutral_headline": "El PSOE y Frente Amplio pactan listas conjuntas al Senado para las elecciones del 29-N",
+      "section": "Politica",
+      "facts": [
+        "El PSOE y el Frente Amplio alcanzaron un acuerdo para presentar listas conjuntas al Senado",
+        "El pacto se enmarca en las elecciones del 29-N",
+        "El Espanol indica que la coalicion se llamara 'Senado de Progreso'",
+        "El Mundo y 20minutos senalan que el objetivo del acuerdo es disputar la mayoria al PP en el Senado"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "El PSOE y el Frente Amplio alcanzan un pacto nacional de listas conjuntas al Senado",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-10-16/el-psoe-y-la-izquierda-alcanzan-un-pacto-nacional-de-listas-conjuntas-al-senado.html",
+          "position": 50,
+          "focus": "Informa el pacto de forma neutra, centrado en los dos partidos implicados"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Histórico acuerdo de la izquierda para el Senado: PSOE y Frente Amplio pactan una lista única para desafiar la mayoría del PP",
+          "link": "https://www.elmundo.es/espana/2026/10/16/6ad23f39e85eced3738b45a2.html",
+          "position": 50,
+          "focus": "Añade el calificativo 'historico' y menciona el objetivo de desafiar al PP"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "El PSOE y Frente Amplio llegan a un acuerdo para presentar listas conjuntas al Senado",
+          "link": "https://www.eldiario.es/politica/psoe-frente-amplio-llegan-acuerdo-presentar-listas-conjuntas-senado_1_13583230.html",
+          "position": 50,
+          "focus": "Describe el acuerdo de forma factual y escueta"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "El PSOE y el Frente Amplio pactan una candidatura única para el Senado",
+          "link": "https://www.lavanguardia.com/politica/20261017/11661132/psoe-frente-amplio-pactan-acuerdo-listas-conjuntas-senado.html",
+          "position": 50,
+          "focus": "Usa el termino 'candidatura unica', enfoque descriptivo"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "El PSOE y Frente Amplio acuerdan ir juntos al Senado el 29-N: la coalición se llamará Senado de Progreso",
+          "link": "https://www.elespanol.com/espana/politica/20261017/psoe-frente-amplio-acuerdan-ir-juntos-senado-coalicion-llamara-progreso/1003744423896_0.html",
+          "position": 50,
+          "focus": "Añade el nombre de la coalicion y la fecha electoral"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "El PSOE y Frente Amplio presentan listas conjuntas al Senado el 29-N para disputar la mayoría al PP",
+          "link": "https://www.20minutos.es/nacional/psoe-frente-amplio-presentan-listas-conjuntas-senado-29-n-todas-las-provincias-salvo-cataluna-canarias_7049910_0.html",
+          "position": 50,
+          "focus": "Incluye la fecha y el objetivo de disputar la mayoria al PP"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "ABC"
+      ]
+    },
+    {
+      "neutral_headline": "Frente Amplio y Podemos no logran pacto de unidad para el 29-N y solo concurrirán juntos en Canarias y la Comunitat Valenciana",
+      "section": "Politica",
+      "facts": [
+        "Frente Amplio y Podemos intentaron pactar una candidatura unica para las elecciones del 29-N",
+        "La negociacion fracaso en la mayoria de circunscripciones",
+        "Ambas formaciones iran juntas en Canarias y la Comunitat Valenciana",
+        "El Mundo precisa que el acuerdo se limita a 5 de las 52 circunscripciones"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Frente Amplio y Podemos fracasan en su intento de pactar una papeleta única para el 29-N",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-10-16/frente-amplio-y-podemos-fracasan-en-su-intento-de-pactar-una-papeleta-unica-para-el-29-n.html",
+          "position": 50,
+          "focus": "Centra en el fracaso del intento de papeleta unica, sin detallar numero de circunscripciones"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Fracasa la unidad en la izquierda en casi toda España: Frente Amplio y Podemos sólo pactan en cinco de las 52 circunscripciones",
+          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/16/6ad2421721efa0481e8b4591.html",
+          "position": 50,
+          "focus": "Anade el dato cuantitativo preciso: 5 de 52 circunscripciones con acuerdo"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Frente Amplio y Podemos fracasan en las negociaciones y solo irán juntos en Canarias y la Comunitat Valenciana",
+          "link": "https://www.eldiario.es/politica/frente-amplio-fracasan-negociaciones-iran-canarias-comunitat-valenciana_1_13592471.html",
+          "position": 50,
+          "focus": "Senala las dos circunscripciones concretas donde si hay pacto, Canarias y Comunitat Valenciana"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "La izquierda alternativa fracasa en su intento de ir unida el próximo 29-N",
+          "link": "https://www.lavanguardia.com/politica/20261017/11661133/izquierda-alternativa-fracasa-intento-unida-proximo-29-n.html",
+          "position": 50,
+          "focus": "Formula generica sobre el fracaso de la unidad, sin detalles especificos"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Fracasa la operación para unir a la izquierda: Podemos y Frente Amplio sólo irán juntos el 29-N en C. Valenciana y Canarias",
+          "link": "https://www.elespanol.com/espana/politica/20261017/fracasa-operacion-unir-izquierda-podemos-frente-amplio-solo-iran-juntos-valenciana-canarias/1003744423887_0.html",
+          "position": 50,
+          "focus": "Describe la negociacion como 'operacion' y detalla las dos circunscripciones con acuerdo"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "La izquierda fracasa en su búsqueda de la unidad: Frente Amplio y Podemos solo irán juntos en Canarias y Comunidad Valenciana",
+          "link": "https://www.20minutos.es/nacional/izquierda-fracasa-su-busqueda-unidad-frente-amplio-podemos-solo-iran-juntos-canarias-comunidad-valenciana_7049889_0.html",
+          "position": 50,
+          "focus": "Atribuye el fracaso a 'la izquierda' en general y detalla las dos circunscripciones con acuerdo"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "ABC"
+      ]
+    },
+    {
+      "neutral_headline": "El PSOE designa a Rebeca Torró portavoz tras la dimisión de Montse Mínguez",
+      "section": "Politica",
+      "facts": [
+        "Rebeca Torró fue designada nueva portavoz del PSOE",
+        "Montse Mínguez renunció/dimitió como portavoz del PSOE",
+        "Según El Mundo, la dimisión está vinculada a la polémica de los \"30 pisos\"",
+        "Según El Mundo, Page se ausentó de un Comité Federal \"sin posibilidad de intervención\"",
+        "Según eldiario.es, Sánchez declaró sobre Mínguez: \"Le dije que no dimitiera\"",
+        "Según La Vanguardia, Sánchez criticó la \"agresividad y odio\" en política tras la dimisión"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "cambio institucional rutinario",
+        "polo_b": "crisis interna y tensión política",
+        "resumen": "Algunos medios presentan el relevo como un simple nombramiento, mientras otros lo enmarcan como síntoma de tensión y conflicto interno en el PSOE"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Última hora de la actualidad política, en directo | Rebeca Torró será la nueva portavoz del PSOE tras la renuncia de Montse Mínguez",
+          "link": "https://elpais.com/espana/2026-10-17/ultima-hora-de-la-actualidad-politica-en-directo.html",
+          "position": 45,
+          "focus": "Anuncia el nombramiento y la renuncia como hecho informativo sin contexto de conflicto"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "El PSOE designa a Rebeca Torró portavoz tras la dimisión de Montse Mínguez por la polémica de los \"30 pisos\" y Page se ausenta de un Comité Federal \"sin posibilidad de intervención\"",
+          "link": "https://www.elmundo.es/espana/2026/10/17/6ad32408fdddffb0328b4578.html",
+          "position": 85,
+          "focus": "Vincula la dimisión a un escándalo concreto (\"30 pisos\") y añade el gesto de protesta de Page, sugiriendo tensión interna"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Sánchez designa a Rebeca Torró como portavoz tras la dimisión de Montse Mínguez",
+          "link": "https://www.abc.es/espana/sanchez-designa-rebeca-torro-portavoz-tras-dimision-20261017100356-nt.html",
+          "position": 45,
+          "focus": "Se centra en la decisión de Sánchez de nombrar a Torró, sin mencionar controversia"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Pedro Sánchez, sobre la renuncia de la portavoz del PSOE: \"Le dije que no dimitiera\"",
+          "link": "https://www.eldiario.es/politica/pedro-sanchez-cese-portavoz-psoe-le-dije-no-dimitiera_1_13592585.html",
+          "position": 65,
+          "focus": "Destaca la declaración de Sánchez que insinúa que intentó evitar la dimisión, sugiriendo desacuerdo previo"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Sánchez critica la “agresividad y odio” en política tras la dimisión de Mínguez",
+          "link": "https://www.lavanguardia.com/politica/20261017/11661131/sanchez-critica-agresividad-odio-politica-dimision-minguez.html",
+          "position": 60,
+          "focus": "Resalta las palabras de Sánchez sobre \"agresividad y odio\" en política, enmarcando la dimisión en un clima de tensión más amplio"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Sánchez coloca a Rebeca Torró como portavoz del PSOE tras la dimisión de Montse Mínguez",
+          "link": "https://www.20minutos.es/nacional/elecciones-generales-ultima-hora-los-actos-electorales-directo-sanchez-convierte-mitin-comite-psoe-mientras-frente-amplio-podemos-consuman-su-fractura-con-dos-actos-por-separado_7049917_6.html",
+          "position": 45,
+          "focus": "Informa del nombramiento como hecho neutral, sin profundizar en causas o conflictos"
+        }
+      ],
+      "rango": 40,
+      "discrepancia": "media",
+      "silenciosos": [
+        "El Espanol"
+      ]
+    },
+    {
+      "neutral_headline": "Montse Mínguez dimite como portavoz del PSOE tras conocerse información sobre propiedades inmobiliarias",
+      "section": "Politica",
+      "facts": [
+        "Montse Mínguez deja su cargo como portavoz del PSOE",
+        "La dimisión se vincula a información sobre inmuebles",
+        "El PSOE celebra un Comité Federal el 29-N",
+        "El Mundo vincula la caída a '30 pisos'",
+        "20minutos vincula la caída a negocios inmobiliarios de la pareja de Mínguez",
+        "El Español vincula la caída a una campaña sobre 'fondos buitre' y afirma que Sánchez intentó que continuara en el cargo"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "causa política/de campaña",
+        "polo_b": "causa personal/inmobiliaria",
+        "resumen": "Los medios difieren en si atribuyen la caída de Mínguez a una dinámica política (campaña contra fondos buitre que se revierte) o a un asunto personal/inmobiliario (sus pisos o los de su pareja)."
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Montse Minguez, ascenso y caída de la portavoz del PSOE",
+          "link": "https://elpais.com/espana/catalunya/2026-10-17/montse-minguez-ascenso-y-caida-de-la-portavoz-del-psoe.html",
+          "position": 50,
+          "focus": "Narra un arco biográfico de ascenso y caída sin precisar la causa concreta del final"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "La caída de Montse Mínguez por los \"30 pisos\" obliga al PSOE a redefinirse en el Comité Federal del 29-N",
+          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/16/6ad27173e9cf4adb688b4581.html",
+          "position": 60,
+          "focus": "Señala los '30 pisos' como detonante y pone el foco en el impacto político para el PSOE en el Comité Federal"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Mínguez, la 'inquilina' de Ferraz a la que 'desahució' el ladrillo",
+          "link": "https://www.abc.es/espana/cataluna/montse-minguez-ambiciosa-inteligente-20261016201018-nt.html",
+          "position": 65,
+          "focus": "Usa metáfora del 'ladrillo' como agente que la 'desahucia', enfatizando que fue víctima de circunstancias inmobiliarias"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "La campaña de los \"fondos buitre\" se vuelve contra el PSOE y tumba a Montse Mínguez: Sánchez intentó que siguiera",
+          "link": "https://www.elespanol.com/espana/politica/20261017/campana-fondos-buitre-vuelve-psoe-tumba-montse-minguez-sanchez-intento-siguiera/1003744423598_0.html",
+          "position": 25,
+          "focus": "Enmarca la caída como un boomerang político de la propia campaña del PSOE contra 'fondos buitre', y añade que Sánchez quiso retenerla"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "La marcha de Montse Mínguez sacude al PSOE: de los negocios inmobiliarios de su pareja a su dimisión",
+          "link": "https://www.20minutos.es/nacional/marcha-montse-minguez-sacude-psoe-polemica-por-los-negocios-inmobiliarios-su-pareja-su-dimision_7049853_0.html",
+          "position": 70,
+          "focus": "Atribuye la crisis a los negocios inmobiliarios de la pareja de Mínguez, distanciando la responsabilidad directa de ella"
+        }
+      ],
+      "rango": 45,
+      "discrepancia": "media",
+      "silenciosos": [
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Trump suspende sanciones del Congreso contra Rusia citando 'interés nacional'",
+      "section": "Internacional",
+      "facts": [
+        "Trump suspendió sanciones contra Rusia que habían sido aprobadas por el Congreso de EE.UU.",
+        "La decisión fue justificada oficialmente por 'interés nacional' (El Mundo, La Vanguardia, El Español, 20minutos)",
+        "El Kremlin calificó la medida como un 'momento histórico' (El Mundo)",
+        "El Pais vincula la suspensión con un intento de bajar el precio de la energía antes de las elecciones",
+        "eldiario.es vincula la medida a las elecciones legislativas en tres semanas y a un 'pacto del diésel' con Putin",
+        "ABC describe la ley suspendida como diseñada para 'asfixiar' a Rusia"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "decisión por interés nacional legítimo",
+        "polo_b": "favor personal/colusión con Putin",
+        "resumen": "Los medios difieren en si presentan la suspensión como una decisión de política exterior justificada o como un gesto de complicidad personal de Trump hacia Putin con fines electorales"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Trump suspende sanciones contra Rusia en pleno giro para que Putin le ayude a bajar el precio de la energía antes de las elecciones",
+          "link": "https://elpais.com/us/2026-10-17/trump-suspende-temporalmente-sanciones-contra-rusia-por-interes-nacional.html",
+          "position": 85,
+          "focus": "Destaca el cálculo electoral y energético de Trump para beneficiar a Putin; omite la justificación oficial de 'interés nacional'"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Trump suspende temporalmente las sanciones del Congreso contra Rusia por \"interés nacional\" y el Kremlin lo califica de \"momento histórico\"",
+          "link": "https://www.elmundo.es/internacional/2026/10/17/6ad3068ffdddffb8258b45b6.html",
+          "position": 50,
+          "focus": "Cita la justificación oficial y añade la reacción del Kremlin, sin emitir juicio propio sobre motivaciones"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Otro favor de Trump a Putin: suspende una ley de sanciones diseñada por el Congreso de EE.UU. para asfixiar a Rusia",
+          "link": "https://www.abc.es/internacional/favor-trump-putin-suspende-ley-sanciones-disenada-20261017080758-nt.html",
+          "position": 95,
+          "focus": "Enmarca la decisión explícitamente como 'otro favor' a Putin, subrayando que la ley buscaba asfixiar a Rusia"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Trump suspende las sanciones a Rusia recién aprobadas a tres semanas de las legislativas y tras el pacto del diésel con Putin",
+          "link": "https://www.eldiario.es/internacional/trump-suspende-sanciones-rusia-recien-aprobadas-tres-semanas-legislativas-pacto-diesel-putin_1_13593288.html",
+          "position": 85,
+          "focus": "Conecta la suspensión con las elecciones inminentes y un pacto comercial con Putin, sugiriendo intercambio de favores"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Trump suspende temporalmente sanciones del Congreso contra Rusia por “interés nacional”",
+          "link": "https://www.lavanguardia.com/internacional/20261017/11661313/trump-suspende-temporalmente-sanciones-congreso-rusia-interes-nacional.html",
+          "position": 45,
+          "focus": "Reporta la suspensión y la justificación oficial de forma neutra, sin atribuir motivaciones ocultas"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Trump levanta varias sanciones a Rusia por la guerra en Ucrania en nombre del \"interés nacional\" estadounidense",
+          "link": "https://www.elespanol.com/mundo/america/eeuu/20261017/trump-levanta-varias-sanciones-rusia-guerra-ucrania-nombre-interes-nacional-estadounidense/1003744423930_0.html",
+          "position": 40,
+          "focus": "Describe el levantamiento de sanciones centrado en la guerra de Ucrania y el 'interés nacional', sin cuestionar motivos"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Trump levanta las sanciones contra Rusia por la guerra en pleno giro hacia Putin por motivos de \"interés nacional\"",
+          "link": "https://www.20minutos.es/internacional/trump-levanta-las-sanciones-contra-rusia-por-guerra-pleno-giro-hacia-putin-por-motivos-interes-nacional_7049933_0.html",
+          "position": 65,
+          "focus": "Menciona el 'giro hacia Putin' pero mantiene la cita oficial de 'interés nacional', mostrando ambivalencia"
+        }
+      ],
+      "rango": 55,
+      "discrepancia": "media",
+      "silenciosos": []
+    },
+    {
+      "neutral_headline": "El Defensor del Pueblo recurre ante el Constitucional la suspensión del voto a los nacionalizados por la 'ley de nietos'",
+      "section": "Politica",
+      "facts": [
+        "El Defensor del Pueblo interpuso un recurso de amparo ante el Tribunal Constitucional",
+        "El recurso se dirige contra la suspensión del voto de los nacionalizados por la 'ley de nietos'"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "El Defensor del Pueblo interpone un recurso de amparo ante el Constitucional por la suspensión del voto de los nacionalizados por la ‘ley de nietos’",
+          "link": "https://elpais.com/espana/2026-10-16/el-defensor-del-pueblo-interpone-un-recurso-de-amparo-ante-el-constitucional-por-la-suspension-del-derecho-al-voto-a-nacionalizados-por-la-ley-de-nietos.html",
+          "position": 50,
+          "focus": "Describe la acción del Defensor del Pueblo y el motivo del recurso sin valoraciones adicionales"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "El Defensor del Pueblo presenta un recurso de amparo en el Constitucional para levantar la suspensión del voto a los beneficiados por la \"ley de nietos\"",
+          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/16/6ad2835be9cf4a691e8b4598.html",
+          "position": 50,
+          "focus": "Igual que los demás, añade el objetivo de 'levantar la suspensión' pero sin cambiar el encuadre"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "El Defensor recurre ante el Constitucional la suspensión del voto a los nacionalizados por la 'ley de nietos'",
+          "link": "https://www.elespanol.com/espana/tribunales/20261016/defensor-recurre-constitucional-suspension-voto-nacionalizados-ley-nietos/1003744423881_0.html",
+          "position": 50,
+          "focus": "Versión más breve, mismo hecho y protagonista, sin matices distintos"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "La dana 'Adam' deja lluvias intensas en el este peninsular, Baleares y Cataluña",
+      "section": "Sociedad",
+      "facts": [
+        "La dana 'Adam' afecta al este peninsular y Baleares con lluvias intensas y persistentes hasta el lunes (El País)",
+        "La dana ha dejado hasta 250 litros y una caída térmica de ocho grados en España (eldiario.es)",
+        "Las lluvias intensas y torrenciales vuelven a Cataluña de forma más localizada (La Vanguardia)"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "La dana ‘Adam’ dejará lluvias intensas y persistentes en el este peninsular y Baleares hasta el lunes",
+          "link": "https://elpais.com/el-tiempo/2026-10-17/la-dana-adam-dejara-lluvias-intensas-y-persistentes-en-el-este-peninsular-y-baleares-hasta-el-lunes.html",
+          "position": 50,
+          "focus": "Centra el alcance geográfico y temporal del fenómeno (este peninsular y Baleares, hasta el lunes), sin dar cifras concretas"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "La primera dana de gran impacto de la temporada irrumpe con hasta 250 litros y una caída térmica de ocho grados en España",
+          "link": "https://www.eldiario.es/sociedad/el-tiempo/primera-dana-gran-impacto-temporada-irrumpe-250-litros-caida-termica-ocho-grados-espana-pm_1_13592373.html",
+          "position": 50,
+          "focus": "Aporta datos cuantitativos de impacto a nivel nacional (litros de lluvia, caída de temperatura) y lo sitúa como la primera dana relevante de la temporada"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Las lluvias “intensas y torrenciales” vuelven a Catalunya pero de manera más localizada",
+          "link": "https://www.lavanguardia.com/local/barcelona/20261016/11660773/lluvias-intensas-torrenciales-vuelven-catalunya-manera-mas-localizada.html",
+          "position": 50,
+          "focus": "Se enfoca específicamente en Cataluña, señalando que el fenómeno es ahora más localizado que en episodios anteriores"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Espanol",
+        "El Mundo"
+      ]
+    },
+    {
+      "neutral_headline": "Isabel Allende obtiene el Premio Planeta y hace declaraciones públicas",
+      "section": "Cultura",
+      "facts": [
+        "Isabel Allende inicia una nueva etapa editorial con Planeta",
+        "Isabel Allende advirtió sobre la tendencia a idealizar gobiernos totalitarios, calificándola de 'aterradora'",
+        "Isabel Allende recibió el Premio Planeta"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "calculo editorial/mercantil",
+        "polo_b": "reconocimiento literario legitimo",
+        "resumen": "Los medios difieren en si enmarcan el premio como una maniobra del negocio editorial o como un merecido reconocimiento a su trayectoria, mientras ABC se centra en otro aspecto (sus declaraciones politicas) sin posicionarse en ese eje."
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "El baile editorial de los premios literarios: Isabel Allende abre nuevo capítulo con Planeta",
+          "link": "https://elpais.com/cultura/2026-10-16/el-baile-editorial-de-los-premios-literarios-isabel-allende-abre-nuevo-capitulo-con-planeta.html",
+          "position": 15,
+          "focus": "Destaca el trasfondo de intereses editoriales y el 'baile' entre premios y sellos, insinuando una logica comercial detras del galardon; omite detalles sobre el merito literario."
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Isabel Allende advierte de la tendencia a idealizar gobiernos totalitarios: «Me parece aterrador»",
+          "link": "https://www.abc.es/cultura/libros/isabel-allende-advierte-tendencia-idealizar-gobiernos-totalitarios-20261016130529-nt.html",
+          "position": 50,
+          "focus": "Se centra en declaraciones politicas de Allende sobre gobiernos totalitarios, sin abordar la legitimidad o el contexto comercial del premio."
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Isabel Allende, premio Planeta: claves de una reina de la literatura en español",
+          "link": "https://www.lavanguardia.com/cultura/culturas/20261017/11661030/isabel-allende-premio-planeta-claves-reina-literatura-espanol.html",
+          "position": 85,
+          "focus": "Presenta el premio como la culminacion de una carrera literaria consagrada, usando el titulo de 'reina de la literatura' para enfatizar el merito y prestigio, sin mencionar intereses editoriales."
+        }
+      ],
+      "rango": 70,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "El Espanol",
+        "El Mundo",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Informaciones distintas: restricción de cuentas de Lula en Meta y refuerzo del apoyo occidental a Ucrania",
+      "section": "Internacional",
+      "facts": [
+        "Empleados de Meta admitieron en mensajes internos que el alcance de las cuentas de Lula fue restringido",
+        "Reino Unido aumentó su ayuda militar a Ucrania",
+        "La UE reforzó su apoyo a Ucrania",
+        "La UE lamentó el acuerdo alcanzado entre Trump y Putin sobre el diésel"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Empleados de Meta admiten en mensajes internos que el alcance de las cuentas de Lula fue restringido",
+          "link": "https://elpais.com/america/2026-10-17/empleados-de-meta-admiten-en-mensajes-internos-que-el-alcance-de-las-cuentas-de-lula-fue-restringido.html",
+          "position": 50,
+          "focus": "Centra la atención en la moderación de contenido de Meta y la restricción interna de cuentas políticas, sin relación con el tema de Ucrania tratado en las otras piezas."
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Reino Unido aumenta su ayuda militar a Ucrania ante la creciente hostilidad de EEUU a Kiev",
+          "link": "https://www.elmundo.es/internacional/2026/10/17/6ad255fbfdddff8a0d8b4590.html",
+          "position": 50,
+          "focus": "Destaca la respuesta británica ante la supuesta hostilidad de EEUU hacia Ucrania, centrada en el aumento de ayuda militar."
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "La UE se vuelca en el apoyo a Ucrania mientras lamenta el acuerdo de Trump con Putin por el diésel",
+          "link": "https://www.eldiario.es/internacional/ue-vuelca-apoyo-ucrania-lamenta-acuerdo-trump-putin-diesel_1_13592788.html",
+          "position": 50,
+          "focus": "Pone el foco en el refuerzo del apoyo de la UE a Ucrania y su crítica al acuerdo entre Trump y Putin sobre el diésel."
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Espanol",
+        "La Vanguardia"
+      ]
+    }
+  ]
+}
