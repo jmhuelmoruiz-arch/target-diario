@@ -1,0 +1,405 @@
+{
+  "fecha": "2026-10-18T09:01:26.763988+00:00",
+  "esquema": 2,
+  "historias": [
+    {
+      "neutral_headline": "Protestas en Francia derivan en disturbios con detenidos, heridos y daños materiales",
+      "section": "Internacional",
+      "facts": [
+        "Hubo protestas en Francia relacionadas con el coste de la vida (ABC)",
+        "Más de 1.200 detenidos según El Mundo, eldiario.es y 20minutos",
+        "20minutos reporta un muerto y 150 policías heridos",
+        "El Mundo señala que parte de los detenidos tenían 'perfiles peligrosos'",
+        "Hubo incendios y saqueos durante las protestas, mencionados por varios medios",
+        "El Español reporta daños graves por incendio en el histórico Ayuntamiento de Limoges",
+        "La Vanguardia vincula la situación francesa con tensión en Italia y un contexto electoral en España"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "causa política (rechazo al macronismo)",
+        "polo_b": "causa económica (coste de vida)",
+        "resumen": "Algunos medios atribuyen las protestas a un rechazo político a Macron, otros a una crisis económica por el coste de vida, mientras la mayoría evita señalar una causa y se centra en describir la violencia."
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Francia prende fuego al macronismo",
+          "link": "https://elpais.com/internacional/2026-10-18/francia-prende-fuego-al-macronismo.html",
+          "position": 10,
+          "focus": "Enmarca las protestas como una revuelta contra el macronismo, con carga política explícita; omite detalles de víctimas o cifras de detenidos."
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Francia despierta con la resaca de la extrema violencia en las protestas: caos, pillaje, incendios y más de 1.200 detenidos con \"perfiles peligrosos\"",
+          "link": "https://www.elmundo.es/internacional/2026/10/18/6ad46f11e85ece497e8b457f.html",
+          "position": 50,
+          "focus": "Se centra en la violencia extrema, el caos y los detenidos con 'perfiles peligrosos', sin atribuir una causa concreta a las protestas."
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Arde Francia en graves disturbios y saqueos en las protestas por el coste de la vida",
+          "link": "https://www.abc.es/internacional/166-detenidos-protestas-estudiantes-francia-coste-vida-20261017150236-nt.html",
+          "position": 85,
+          "focus": "Atribuye explícitamente las protestas al coste de la vida, enfatizando el componente económico y social del malestar."
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Francia arde en una jornada de protestas con 1.200 detenidos",
+          "link": "https://www.eldiario.es/internacional/francia-arde-jornada-protestas-1-200-detenidos_1_13594798.html",
+          "position": 50,
+          "focus": "Describe la jornada de protestas con la cifra de detenidos, sin señalar causas ni responsables políticos."
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Francia en llamas, Italia en tensión, España abre la válvula electoral",
+          "link": "https://www.lavanguardia.com/politica/20261018/11661657/francia-llamas-italia-tension-espana-abre-valvula-electoral.html",
+          "position": 50,
+          "focus": "Amplía el foco a un contexto europeo (Francia, Italia, España) sin centrarse en la causa específica de las protestas francesas."
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "El histórico Ayuntamiento de Limoges sufre graves daños en un incendio provocado durante las manifestaciones en Francia",
+          "link": "https://www.elespanol.com/mundo/europa/20261017/francia-no-deja-intimidar-sigue-protestando-coste-vida-detenidos-joven-pierde-mano/1003744424397_0.html",
+          "position": 50,
+          "focus": "Se concentra en un hecho puntual —el incendio del Ayuntamiento de Limoges— sin entrar en la causa general de las protestas."
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Caos en las protestas en toda Francia: un muerto, más de 1.200 detenidos, 150 policías heridos, saqueos e incendios...",
+          "link": "https://www.20minutos.es/internacional/caos-protestas-contra-coeste-vida-toda-francia-detenidos-policias-heridos-saqueos-incendios_7050092_0.html",
+          "position": 50,
+          "focus": "Prioriza las cifras del saldo de la jornada (muertos, detenidos, heridos) sin atribuir causa política o económica."
+        }
+      ],
+      "rango": 75,
+      "discrepancia": "alta",
+      "silenciosos": []
+    },
+    {
+      "neutral_headline": "Davidovich y Jódar disputan la final del Masters 1.000 de Shanghái",
+      "section": "Deportes",
+      "facts": [
+        "Alejandro Davidovich y Rafa Jódar juegan la final del Masters 1.000 de Shanghái",
+        "Jódar rompió el servicio de Davidovich al inicio del primer set",
+        "Es una final histórica según ABC"
+      ],
+      "tipo_divergencia": "cronologica",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Alejandro Davidovich - Rafa Jódar | Comienza el primer set de la final",
+          "link": "https://elpais.com/deportes/tenis/2026-10-18/alejandro-davidovich-rafa-jodar-la-final-del-masters-de-shanghai-en-directo.html",
+          "position": 50,
+          "focus": "Anuncia el inicio del primer set sin más detalle, cobertura previa al desarrollo del juego"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Davidovich y Jódar, frente a frente en la histórica final de Shanghái",
+          "link": "https://www.abc.es/deportes/tenis/davidovich-jodar-directo-resultado-ganador-final-shanghai-20261018102254-di.html",
+          "position": 50,
+          "focus": "Presenta la final como evento histórico antes de su desarrollo, foco en el contexto del partido"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Alejandro Davidovich - Rafa Jódar, tenis hoy en directo: marcador, estadísticas y narración en vivo del Masters 1.000 de Shanghái",
+          "link": "https://www.elespanol.com/deportes/20261018/alejandro-davidovich-rafa-jodar-tenis-hoy-directo-marcador-estadisticas-narracion-vivo-masters-shanghai/1003744424784_22.html",
+          "position": 50,
+          "focus": "Formato de seguimiento en directo con marcador y estadísticas, sin precisar el momento del juego"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Jódar da el primer golpe en la final de Shanghái y rompe el servicio de Davidovich",
+          "link": "https://www.20minutos.es/deportes/tenis/rafa-jodar-alejandro-davidovich-directo-ultima-hora-resultado-final-masters-1000-shanghai_7050079_6.html",
+          "position": 50,
+          "focus": "Recoge un momento posterior del partido: la rotura de servicio de Jódar al inicio"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "El Mundo",
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Incendio en base militar de Canadá en Alberta deja muertos y heridos",
+      "section": "Internacional",
+      "facts": [
+        "Hubo un incendio en una base militar de Canadá ubicada en Alberta",
+        "El incendio causó muertos",
+        "El incendio causó heridos"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Un incendio en una base militar de Canadá en Alberta causa varios muertos y heridos",
+          "link": "https://elpais.com/america/2026-10-18/un-incendio-en-una-base-militar-de-canada-en-alberta-causa-varios-muertos-y-heridos.html",
+          "position": 50,
+          "focus": "Menciona la ubicación en Alberta y el saldo de muertos y heridos sin cuantificar"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Un incendio en una base militar de Canadá deja varios muertos y numerosos heridos",
+          "link": "https://www.abc.es/internacional/incendio-base-militar-canada-deja-varios-muertos-20261018091540-nt.html",
+          "position": 50,
+          "focus": "No especifica la provincia, habla de 'numerosos heridos' sin ubicación exacta"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Un grave incendio en una base militar canadiense de Alberta causa muertos y heridos",
+          "link": "https://www.eldiario.es/internacional/grave-incendio-base-militar-canadiense-alberta-causa-muertos-heridos_1_13594811.html",
+          "position": 50,
+          "focus": "Califica el incendio como 'grave' y menciona Alberta, muertos y heridos"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "El Espanol",
+        "El Mundo",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "El temporal provoca lluvias intensas, una desaparecida en Cataluña y avisos meteorológicos en varias comunidades",
+      "section": "Sociedad",
+      "facts": [
+        "El Pais registra hasta 87 litros por metro cuadrado en Cataluña",
+        "El Pais informa de rescates de personas atrapadas por el agua",
+        "eldiario.es señala que la Aemet mantiene avisos activos por la dana",
+        "eldiario.es indica riesgo de lluvias torrenciales en el litoral mediterráneo",
+        "La Vanguardia informa de la búsqueda de una mujer arrastrada por la riera de Cabrera de Mar",
+        "20minutos confirma una persona desaparecida en Cataluña",
+        "20minutos reporta alertas activas en Comunidad Valenciana, Andalucía, Murcia, Extremadura y Baleares"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "El temporal deja hasta 87 litros por metro cuadrado en Cataluña y obliga al rescate de personas atrapadas por el agua",
+          "link": "https://elpais.com/espana/catalunya/2026-10-18/el-temporal-deja-hasta-87-litros-por-metro-cuadrado-en-cataluna-y-obliga-al-rescate-de-personas-atrapadas-por-el-agua.html",
+          "position": 50,
+          "focus": "Centra en datos de precipitación y labores de rescate, sin detallar la situación de la desaparecida"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "La Aemet mantiene los avisos por la dana y alerta de lluvias torrenciales en el litoral mediterráneo",
+          "link": "https://www.eldiario.es/sociedad/el-tiempo/aemet-mantiene-avisos-dana-alerta-lluvias-torrenciales-litoral-mediterraneo_1_13594848.html",
+          "position": 50,
+          "focus": "Pone el foco en la alerta meteorológica oficial de la Aemet y su extensión geográfica"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Buscan a una mujer arrastrada por la riera de Cabrera de Mar en pleno temporal",
+          "link": "https://www.lavanguardia.com/local/barcelona/20261018/11661662/lluvia-deja-mujer-desaparecida-cabrera-puertas-temporal.html",
+          "position": 50,
+          "focus": "Se concentra en el caso concreto de la mujer desaparecida en Cabrera de Mar"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Temporal en España: una desaparecida en Cataluña, en alerta con C. Valenciana, Andalucía, Murcia, Extremadura y Baleares",
+          "link": "https://www.20minutos.es/nacional/temporal-lluvia-espana-hoy-directo-comunidad-valenciana-cataluna-murcia-almeria-alerta-las-proximas-horas_7050013_6.html",
+          "position": 50,
+          "focus": "Ofrece una visión de conjunto nacional, listando las comunidades en alerta junto al caso de la desaparecida"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "ABC",
+        "El Espanol",
+        "El Mundo"
+      ]
+    },
+    {
+      "neutral_headline": "Ucrania lanza un gran ataque con drones contra San Petersburgo, uno de los mayores de la guerra",
+      "section": "Internacional",
+      "facts": [
+        "Ucrania lanzó un ataque con drones contra San Petersburgo",
+        "Se describe como uno de los mayores ataques con drones desde el inicio de la guerra"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "Ucrania lanza contra San Petersburgo uno de los mayores ataques con drones de la guerra",
+          "link": "https://www.elmundo.es/internacional/2026/10/18/6ad47819fdddffbd688b457a.html",
+          "position": 50,
+          "focus": "Describe el ataque como uno de los mayores con drones de la guerra, sin añadir valoraciones adicionales."
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Ucrania lanza uno de los mayores ataques con drones de la guerra contra San Petersburgo",
+          "link": "https://www.eldiario.es/internacional/ucrania-lanza-mayores-ataques-drones-guerra-san-petersburgo_1_13594846.html",
+          "position": 50,
+          "focus": "Misma formulación que El Mundo y 20minutos, centrada en la magnitud del ataque."
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Ucrania siembra el caos en San Petersburgo en uno de los mayores ataques con drones desde el inicio de la guerra",
+          "link": "https://www.elespanol.com/mundo/20261018/ucrania-siembra-caos-san-petersburgo-mayores-ataques-drones-inicio-guerra/1003744424861_0.html",
+          "position": 50,
+          "focus": "Añade la expresión 'siembra el caos', un matiz más descriptivo del impacto, pero mantiene el mismo hecho central."
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Ucrania lanza contra San Petersburgo uno de los mayores ataques con drones de la guerra",
+          "link": "https://www.20minutos.es/internacional/ucrania-lanza-contra-san-petersburgo-uno-los-mayores-ataques-con-drones-guerra_7050104_0.html",
+          "position": 50,
+          "focus": "Reproduce la misma formulación factual que El Mundo y eldiario.es."
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "ABC",
+        "El Pais",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "Partidos de izquierda debaten su estrategia de cara al 29-N entre división de siglas y mensajes electorales",
+      "section": "Politica",
+      "facts": [
+        "Hay elecciones previstas para el 29-N",
+        "Existe un debate sobre si la izquierda concurre dividida o unida",
+        "El Frente Amplio y Podemos discuten sobre el uso de las siglas",
+        "Se ha producido la caída de Mínguez en relación al debate de las pensiones",
+        "El Gobierno utiliza el debate de las pensiones en su estrategia electoral"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "la izquierda fragmentada y en fracaso",
+        "polo_b": "la izquierda buscando unidad frente a una amenaza común",
+        "resumen": "Los medios difieren en si enmarcan la situación de la izquierda como una división perjudicial o como un proceso de reagrupación estratégica"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "La oportunidad perdida de la izquierda: razones y consecuencias de ir dividida al 29-N",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-10-18/la-oportunidad-perdida-de-la-izquierda-razones-y-consecuencias-de-ir-dividida-al-29-n.html",
+          "position": 15,
+          "focus": "Destaca la división de la izquierda como un error estratégico con consecuencias negativas para el 29-N; omite los intentos de acuerdo entre formaciones"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "El Gobierno exprime el debate sobre las pensiones tras la caída de Mínguez: a por 9 millones de votos donde se resiente Vox",
+          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/18/6ad3b836fdddff74548b45bf.html",
+          "position": 50,
+          "focus": "Centra el foco en la táctica electoral del Gobierno sobre pensiones y su impacto en el voto, sin entrar directamente en el eje de división/unidad de la izquierda"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "El Frente Amplio y Podemos intentan zanjar el debate de las siglas y llaman a “frenar al fascismo”",
+          "link": "https://www.eldiario.es/politica/frente-amplio-zanjar-debate-siglas-llaman-frenar-fascismo_1_13594075.html",
+          "position": 85,
+          "focus": "Resalta el intento de resolver el conflicto de siglas y el llamado a la unidad frente al fascismo, presentando una lectura de cohesión más que de ruptura"
+        }
+      ],
+      "rango": 70,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Espanol",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "Dos chicos de 16 y 17 años, detenidos por la muerte de una anciana en Burgos durante un robo en su vivienda",
+      "section": "Sociedad",
+      "facts": [
+        "Un hombre de 105 años debe responder judicialmente por crímenes del nazismo cometidos hace ocho décadas",
+        "Una anciana murió en Burgos tras un robo en su domicilio",
+        "La mujer fue inmovilizada y amordazada durante el asalto",
+        "Han sido detenidos dos adolescentes de 17 y 16 años por el crimen",
+        "La Policía investiga si hay más implicados en el robo"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Ocho décadas después, un anciano de 105 años debe responder por los crímenes del nazismo",
+          "link": "https://elpais.com/internacional/2026-10-18/ocho-decadas-despues-un-anciano-de-105-anos-debe-responder-por-los-crimenes-del-nazismo.html",
+          "position": 50,
+          "focus": "Centra el hecho en la edad del acusado y el paso del tiempo desde los crímenes nazis; no guarda relación temática con el caso de Burgos."
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Las incógnitas del crimen de una anciana en Burgos a manos de dos adolescentes: la Policía busca a más implicados en el robo que acabó en muerte",
+          "link": "https://www.elmundo.es/espana/2026/10/18/6ad3be9b21efa0481e8b45ac.html",
+          "position": 50,
+          "focus": "Destaca las incógnitas del caso y la búsqueda policial de más implicados en el robo."
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Detenidos dos chicos de 17 y 16 años por la muerte de una mujer inmovilizada y amordazada durante un robo en su casa",
+          "link": "https://www.20minutos.es/castilla-y-leon/burgos/detenidos-dos-chicos-17-16-anos-por-muerte-una-mujer-inmovilizada-amordazada-durante-un-robo-su-casa_7049996_0.html",
+          "position": 50,
+          "focus": "Detalla las circunstancias del crimen (inmovilización, mordaza) y confirma las edades de los detenidos."
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "ABC",
+        "El Espanol",
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Varios países europeos (España, Francia, Italia, Polonia) celebran elecciones en 2024",
+      "section": "Internacional",
+      "facts": [
+        "España, Francia, Italia y Polonia tienen procesos electorales en el mismo año",
+        "El año electoral afecta a varios países de la Unión Europea"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "proceso electoral con tendencia política",
+        "polo_b": "amenaza/crisis para la UE"
+      },
+      "resumen": "Los medios difieren en si el 'súper año electoral' se presenta como una tendencia ideológica (giro a la derecha) o como una fuente de inestabilidad y riesgo para la propia Unión Europea.",
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "España, Francia, Italia, Polonia... Europa afronta un año de urnas con un rumbo marcado hacia la derecha",
+          "link": "https://www.elmundo.es/internacional/2026/10/17/6ad2291ae85ece6f5f8b4599.html",
+          "position": 30,
+          "focus": "Enfatiza el rumbo ideológico (giro a la derecha) como hilo conductor del año electoral, con tono descriptivo-analítico, sin enmarcarlo como amenaza."
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Francia en llamas, Italia en tensión, España abre la válvula electoral",
+          "link": "https://www.lavanguardia.com/politica/20261018/11661657/francia-llamas-italia-tension-espana-abre-valvula-electoral.html",
+          "position": 60,
+          "focus": "Usa imágenes de conflicto y tensión ('Francia en llamas', 'Italia en tensión') que sugieren inestabilidad social y política en los procesos electorales."
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "De España a Italia pasando por Francia: el 'súper año' electoral que amenaza con sacudir los cimientos de la Unión Europea",
+          "link": "https://www.elespanol.com/mundo/europa/20261018/espana-italia-pasando-francia-super-ano-electoral-amenaza-sacudir-cimientos-union-europea/1003744423457_0.html",
+          "position": 75,
+          "focus": "Enmarca el conjunto de elecciones como una amenaza directa a los 'cimientos' institucionales de la Unión Europea, con tono más alarmista sobre las consecuencias."
+        }
+      ],
+      "rango": 45,
+      "discrepancia": "media",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Pais",
+        "eldiario.es"
+      ]
+    }
+  ]
+}
