@@ -1,404 +1,335 @@
 {
-  "fecha": "2026-10-18T09:01:26.763988+00:00",
+  "fecha": "2026-10-19T10:11:41.881340+00:00",
   "esquema": 2,
   "historias": [
     {
-      "neutral_headline": "Protestas en Francia derivan en disturbios con detenidos, heridos y daños materiales",
-      "section": "Internacional",
+      "neutral_headline": "La dana Adam provoca lluvias intensas, confinamientos y rescates en el este de España",
+      "section": "Sociedad",
       "facts": [
-        "Hubo protestas en Francia relacionadas con el coste de la vida (ABC)",
-        "Más de 1.200 detenidos según El Mundo, eldiario.es y 20minutos",
-        "20minutos reporta un muerto y 150 policías heridos",
-        "El Mundo señala que parte de los detenidos tenían 'perfiles peligrosos'",
-        "Hubo incendios y saqueos durante las protestas, mencionados por varios medios",
-        "El Español reporta daños graves por incendio en el histórico Ayuntamiento de Limoges",
-        "La Vanguardia vincula la situación francesa con tensión en Italia y un contexto electoral en España"
-      ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "causa política (rechazo al macronismo)",
-        "polo_b": "causa económica (coste de vida)",
-        "resumen": "Algunos medios atribuyen las protestas a un rechazo político a Macron, otros a una crisis económica por el coste de vida, mientras la mayoría evita señalar una causa y se centra en describir la violencia."
-      },
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "Francia prende fuego al macronismo",
-          "link": "https://elpais.com/internacional/2026-10-18/francia-prende-fuego-al-macronismo.html",
-          "position": 10,
-          "focus": "Enmarca las protestas como una revuelta contra el macronismo, con carga política explícita; omite detalles de víctimas o cifras de detenidos."
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "Francia despierta con la resaca de la extrema violencia en las protestas: caos, pillaje, incendios y más de 1.200 detenidos con \"perfiles peligrosos\"",
-          "link": "https://www.elmundo.es/internacional/2026/10/18/6ad46f11e85ece497e8b457f.html",
-          "position": 50,
-          "focus": "Se centra en la violencia extrema, el caos y los detenidos con 'perfiles peligrosos', sin atribuir una causa concreta a las protestas."
-        },
-        {
-          "outlet": "ABC",
-          "headline": "Arde Francia en graves disturbios y saqueos en las protestas por el coste de la vida",
-          "link": "https://www.abc.es/internacional/166-detenidos-protestas-estudiantes-francia-coste-vida-20261017150236-nt.html",
-          "position": 85,
-          "focus": "Atribuye explícitamente las protestas al coste de la vida, enfatizando el componente económico y social del malestar."
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "Francia arde en una jornada de protestas con 1.200 detenidos",
-          "link": "https://www.eldiario.es/internacional/francia-arde-jornada-protestas-1-200-detenidos_1_13594798.html",
-          "position": 50,
-          "focus": "Describe la jornada de protestas con la cifra de detenidos, sin señalar causas ni responsables políticos."
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Francia en llamas, Italia en tensión, España abre la válvula electoral",
-          "link": "https://www.lavanguardia.com/politica/20261018/11661657/francia-llamas-italia-tension-espana-abre-valvula-electoral.html",
-          "position": 50,
-          "focus": "Amplía el foco a un contexto europeo (Francia, Italia, España) sin centrarse en la causa específica de las protestas francesas."
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "El histórico Ayuntamiento de Limoges sufre graves daños en un incendio provocado durante las manifestaciones en Francia",
-          "link": "https://www.elespanol.com/mundo/europa/20261017/francia-no-deja-intimidar-sigue-protestando-coste-vida-detenidos-joven-pierde-mano/1003744424397_0.html",
-          "position": 50,
-          "focus": "Se concentra en un hecho puntual —el incendio del Ayuntamiento de Limoges— sin entrar en la causa general de las protestas."
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "Caos en las protestas en toda Francia: un muerto, más de 1.200 detenidos, 150 policías heridos, saqueos e incendios...",
-          "link": "https://www.20minutos.es/internacional/caos-protestas-contra-coeste-vida-toda-francia-detenidos-policias-heridos-saqueos-incendios_7050092_0.html",
-          "position": 50,
-          "focus": "Prioriza las cifras del saldo de la jornada (muertos, detenidos, heridos) sin atribuir causa política o económica."
-        }
-      ],
-      "rango": 75,
-      "discrepancia": "alta",
-      "silenciosos": []
-    },
-    {
-      "neutral_headline": "Davidovich y Jódar disputan la final del Masters 1.000 de Shanghái",
-      "section": "Deportes",
-      "facts": [
-        "Alejandro Davidovich y Rafa Jódar juegan la final del Masters 1.000 de Shanghái",
-        "Jódar rompió el servicio de Davidovich al inicio del primer set",
-        "Es una final histórica según ABC"
+        "La dana ha sido denominada 'Adam'",
+        "Se han producido rescates en lancha y helicóptero en zonas de la Comunidad Valenciana",
+        "Hay clases suspendidas en Valencia y Baleares",
+        "Seis comunidades autónomas están en alerta por lluvias",
+        "La Vanguardia cifra en más de 400.000 las personas afectadas por el confinamiento preparado en Valencia y Alicante",
+        "El Español cifra en 145 los pueblos confinados en el sur de Valencia y norte de Alicante",
+        "20minutos recoge que hay personas atrapadas en zonas de Alicante y Valencia"
       ],
       "tipo_divergencia": "cronologica",
       "eje": null,
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "Alejandro Davidovich - Rafa Jódar | Comienza el primer set de la final",
-          "link": "https://elpais.com/deportes/tenis/2026-10-18/alejandro-davidovich-rafa-jodar-la-final-del-masters-de-shanghai-en-directo.html",
+          "headline": "Última hora del temporal en España, en directo | Rescates en lancha y helicóptero en las zonas de la Comunidad Valenciana más castigadas por la dana ‘Adam’",
+          "link": "https://elpais.com/el-tiempo/2026-10-19/ultima-hora-del-temporal-en-espana-en-directo.html",
           "position": 50,
-          "focus": "Anuncia el inicio del primer set sin más detalle, cobertura previa al desarrollo del juego"
+          "focus": "Centra en rescates activos y cobertura en directo del temporal, sin cifras concretas de confinamiento"
         },
         {
           "outlet": "ABC",
-          "headline": "Davidovich y Jódar, frente a frente en la histórica final de Shanghái",
-          "link": "https://www.abc.es/deportes/tenis/davidovich-jodar-directo-resultado-ganador-final-shanghai-20261018102254-di.html",
+          "headline": "La lluvia no da tregua en Valencia y Baleares: clases suspendidas y recomendaciones para confinarse",
+          "link": "https://www.abc.es/sociedad/temporal-lluvias-tormentas-comunidad-valenciana-cataluna-baleares-20261019091904-di.html",
           "position": 50,
-          "focus": "Presenta la final como evento histórico antes de su desarrollo, foco en el contexto del partido"
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "Alejandro Davidovich - Rafa Jódar, tenis hoy en directo: marcador, estadísticas y narración en vivo del Masters 1.000 de Shanghái",
-          "link": "https://www.elespanol.com/deportes/20261018/alejandro-davidovich-rafa-jodar-tenis-hoy-directo-marcador-estadisticas-narracion-vivo-masters-shanghai/1003744424784_22.html",
-          "position": 50,
-          "focus": "Formato de seguimiento en directo con marcador y estadísticas, sin precisar el momento del juego"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "Jódar da el primer golpe en la final de Shanghái y rompe el servicio de Davidovich",
-          "link": "https://www.20minutos.es/deportes/tenis/rafa-jodar-alejandro-davidovich-directo-ultima-hora-resultado-final-masters-1000-shanghai_7050079_6.html",
-          "position": 50,
-          "focus": "Recoge un momento posterior del partido: la rotura de servicio de Jódar al inicio"
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "El Mundo",
-        "La Vanguardia",
-        "eldiario.es"
-      ]
-    },
-    {
-      "neutral_headline": "Incendio en base militar de Canadá en Alberta deja muertos y heridos",
-      "section": "Internacional",
-      "facts": [
-        "Hubo un incendio en una base militar de Canadá ubicada en Alberta",
-        "El incendio causó muertos",
-        "El incendio causó heridos"
-      ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "Un incendio en una base militar de Canadá en Alberta causa varios muertos y heridos",
-          "link": "https://elpais.com/america/2026-10-18/un-incendio-en-una-base-militar-de-canada-en-alberta-causa-varios-muertos-y-heridos.html",
-          "position": 50,
-          "focus": "Menciona la ubicación en Alberta y el saldo de muertos y heridos sin cuantificar"
-        },
-        {
-          "outlet": "ABC",
-          "headline": "Un incendio en una base militar de Canadá deja varios muertos y numerosos heridos",
-          "link": "https://www.abc.es/internacional/incendio-base-militar-canada-deja-varios-muertos-20261018091540-nt.html",
-          "position": 50,
-          "focus": "No especifica la provincia, habla de 'numerosos heridos' sin ubicación exacta"
+          "focus": "Destaca suspensión de clases y recomendaciones preventivas, aún sin confinamiento efectivo"
         },
         {
           "outlet": "eldiario.es",
-          "headline": "Un grave incendio en una base militar canadiense de Alberta causa muertos y heridos",
-          "link": "https://www.eldiario.es/internacional/grave-incendio-base-militar-canadiense-alberta-causa-muertos-heridos_1_13594811.html",
+          "headline": "La dana Adam deja más lluvias este lunes y pone en alerta a seis comunidades",
+          "link": "https://www.eldiario.es/sociedad/el-tiempo/dana-adam-deja-lluvias-lunes-pone-alerta-seis-comunidades-pm_1_13595895.html",
           "position": 50,
-          "focus": "Califica el incendio como 'grave' y menciona Alberta, muertos y heridos"
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "20minutos",
-        "El Espanol",
-        "El Mundo",
-        "La Vanguardia"
-      ]
-    },
-    {
-      "neutral_headline": "El temporal provoca lluvias intensas, una desaparecida en Cataluña y avisos meteorológicos en varias comunidades",
-      "section": "Sociedad",
-      "facts": [
-        "El Pais registra hasta 87 litros por metro cuadrado en Cataluña",
-        "El Pais informa de rescates de personas atrapadas por el agua",
-        "eldiario.es señala que la Aemet mantiene avisos activos por la dana",
-        "eldiario.es indica riesgo de lluvias torrenciales en el litoral mediterráneo",
-        "La Vanguardia informa de la búsqueda de una mujer arrastrada por la riera de Cabrera de Mar",
-        "20minutos confirma una persona desaparecida en Cataluña",
-        "20minutos reporta alertas activas en Comunidad Valenciana, Andalucía, Murcia, Extremadura y Baleares"
-      ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "El temporal deja hasta 87 litros por metro cuadrado en Cataluña y obliga al rescate de personas atrapadas por el agua",
-          "link": "https://elpais.com/espana/catalunya/2026-10-18/el-temporal-deja-hasta-87-litros-por-metro-cuadrado-en-cataluna-y-obliga-al-rescate-de-personas-atrapadas-por-el-agua.html",
-          "position": 50,
-          "focus": "Centra en datos de precipitación y labores de rescate, sin detallar la situación de la desaparecida"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "La Aemet mantiene los avisos por la dana y alerta de lluvias torrenciales en el litoral mediterráneo",
-          "link": "https://www.eldiario.es/sociedad/el-tiempo/aemet-mantiene-avisos-dana-alerta-lluvias-torrenciales-litoral-mediterraneo_1_13594848.html",
-          "position": 50,
-          "focus": "Pone el foco en la alerta meteorológica oficial de la Aemet y su extensión geográfica"
+          "focus": "Amplía el foco geográfico a seis comunidades en alerta, visión más extensa del temporal"
         },
         {
           "outlet": "La Vanguardia",
-          "headline": "Buscan a una mujer arrastrada por la riera de Cabrera de Mar en pleno temporal",
-          "link": "https://www.lavanguardia.com/local/barcelona/20261018/11661662/lluvia-deja-mujer-desaparecida-cabrera-puertas-temporal.html",
+          "headline": "Preparan el confinamiento de más de 400.000 personas por el temporal en Valencia y Alicante",
+          "link": "https://www.lavanguardia.com/local/valencia/20261019/11662337/maxima-preocupacion-gandia-registra-pocas-horas-mas-500-l-m2.html",
           "position": 50,
-          "focus": "Se concentra en el caso concreto de la mujer desaparecida en Cabrera de Mar"
+          "focus": "Anticipa el confinamiento con cifra de personas afectadas (400.000), en fase de preparación"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Última hora de la dana Adam en España, en directo | La Generalitat confina 145 pueblos del sur de Valencia y el norte de Alicante",
+          "link": "https://www.elespanol.com/espana/20261019/ultima-hora-temporal-espana-directo-llegada-dana-adam-mantiene-avisos-rojos-sur-valencia-norte-alicante-lluvias-inundaciones/1003744425552_10.html",
+          "position": 50,
+          "focus": "Confirma el confinamiento ya decretado con cifra de pueblos afectados (145), medida ya ejecutada"
         },
         {
           "outlet": "20minutos",
-          "headline": "Temporal en España: una desaparecida en Cataluña, en alerta con C. Valenciana, Andalucía, Murcia, Extremadura y Baleares",
-          "link": "https://www.20minutos.es/nacional/temporal-lluvia-espana-hoy-directo-comunidad-valenciana-cataluna-murcia-almeria-alerta-las-proximas-horas_7050013_6.html",
+          "headline": "Ordenan el confinamiento en zonas de Alicante y Valencia por la DANA: \"Hay muchas personas atrapadas\"",
+          "link": "https://www.20minutos.es/nacional/ultimas-noticias-dana-adam-valencia-alicante-cataluna-almeria-lluvia-alertas-tiempo-inundaciones-rescates-directo_7050269_6.html",
           "position": 50,
-          "focus": "Ofrece una visión de conjunto nacional, listando las comunidades en alerta junto al caso de la desaparecida"
+          "focus": "Reporta confinamiento ya ordenado y testimonios de personas atrapadas, fase más avanzada"
         }
       ],
       "rango": 0,
       "discrepancia": "baja",
       "silenciosos": [
-        "ABC",
-        "El Espanol",
         "El Mundo"
       ]
     },
     {
-      "neutral_headline": "Ucrania lanza un gran ataque con drones contra San Petersburgo, uno de los mayores de la guerra",
-      "section": "Internacional",
-      "facts": [
-        "Ucrania lanzó un ataque con drones contra San Petersburgo",
-        "Se describe como uno de los mayores ataques con drones desde el inicio de la guerra"
-      ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "El Mundo",
-          "headline": "Ucrania lanza contra San Petersburgo uno de los mayores ataques con drones de la guerra",
-          "link": "https://www.elmundo.es/internacional/2026/10/18/6ad47819fdddffbd688b457a.html",
-          "position": 50,
-          "focus": "Describe el ataque como uno de los mayores con drones de la guerra, sin añadir valoraciones adicionales."
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "Ucrania lanza uno de los mayores ataques con drones de la guerra contra San Petersburgo",
-          "link": "https://www.eldiario.es/internacional/ucrania-lanza-mayores-ataques-drones-guerra-san-petersburgo_1_13594846.html",
-          "position": 50,
-          "focus": "Misma formulación que El Mundo y 20minutos, centrada en la magnitud del ataque."
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "Ucrania siembra el caos en San Petersburgo en uno de los mayores ataques con drones desde el inicio de la guerra",
-          "link": "https://www.elespanol.com/mundo/20261018/ucrania-siembra-caos-san-petersburgo-mayores-ataques-drones-inicio-guerra/1003744424861_0.html",
-          "position": 50,
-          "focus": "Añade la expresión 'siembra el caos', un matiz más descriptivo del impacto, pero mantiene el mismo hecho central."
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "Ucrania lanza contra San Petersburgo uno de los mayores ataques con drones de la guerra",
-          "link": "https://www.20minutos.es/internacional/ucrania-lanza-contra-san-petersburgo-uno-los-mayores-ataques-con-drones-guerra_7050104_0.html",
-          "position": 50,
-          "focus": "Reproduce la misma formulación factual que El Mundo y eldiario.es."
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "ABC",
-        "El Pais",
-        "La Vanguardia"
-      ]
-    },
-    {
-      "neutral_headline": "Partidos de izquierda debaten su estrategia de cara al 29-N entre división de siglas y mensajes electorales",
+      "neutral_headline": "Tres piezas informan de hechos judiciales distintos: la orden de detención de Puigdemont y el recurso del Defensor del Pueblo sobre la 'ley de nietos'",
       "section": "Politica",
       "facts": [
-        "Hay elecciones previstas para el 29-N",
-        "Existe un debate sobre si la izquierda concurre dividida o unida",
-        "El Frente Amplio y Podemos discuten sobre el uso de las siglas",
-        "Se ha producido la caída de Mínguez en relación al debate de las pensiones",
-        "El Gobierno utiliza el debate de las pensiones en su estrategia electoral"
-      ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "la izquierda fragmentada y en fracaso",
-        "polo_b": "la izquierda buscando unidad frente a una amenaza común",
-        "resumen": "Los medios difieren en si enmarcan la situación de la izquierda como una división perjudicial o como un proceso de reagrupación estratégica"
-      },
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "La oportunidad perdida de la izquierda: razones y consecuencias de ir dividida al 29-N",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-10-18/la-oportunidad-perdida-de-la-izquierda-razones-y-consecuencias-de-ir-dividida-al-29-n.html",
-          "position": 15,
-          "focus": "Destaca la división de la izquierda como un error estratégico con consecuencias negativas para el 29-N; omite los intentos de acuerdo entre formaciones"
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "El Gobierno exprime el debate sobre las pensiones tras la caída de Mínguez: a por 9 millones de votos donde se resiente Vox",
-          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/18/6ad3b836fdddff74548b45bf.html",
-          "position": 50,
-          "focus": "Centra el foco en la táctica electoral del Gobierno sobre pensiones y su impacto en el voto, sin entrar directamente en el eje de división/unidad de la izquierda"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "El Frente Amplio y Podemos intentan zanjar el debate de las siglas y llaman a “frenar al fascismo”",
-          "link": "https://www.eldiario.es/politica/frente-amplio-zanjar-debate-siglas-llaman-frenar-fascismo_1_13594075.html",
-          "position": 85,
-          "focus": "Resalta el intento de resolver el conflicto de siglas y el llamado a la unidad frente al fascismo, presentando una lectura de cohesión más que de ruptura"
-        }
-      ],
-      "rango": 70,
-      "discrepancia": "alta",
-      "silenciosos": [
-        "20minutos",
-        "ABC",
-        "El Espanol",
-        "La Vanguardia"
-      ]
-    },
-    {
-      "neutral_headline": "Dos chicos de 16 y 17 años, detenidos por la muerte de una anciana en Burgos durante un robo en su vivienda",
-      "section": "Sociedad",
-      "facts": [
-        "Un hombre de 105 años debe responder judicialmente por crímenes del nazismo cometidos hace ocho décadas",
-        "Una anciana murió en Burgos tras un robo en su domicilio",
-        "La mujer fue inmovilizada y amordazada durante el asalto",
-        "Han sido detenidos dos adolescentes de 17 y 16 años por el crimen",
-        "La Policía investiga si hay más implicados en el robo"
+        "El Pais: Llarena confirmó su decisión de levantar la orden de detención de Puigdemont",
+        "El Pais: la decisión de Llarena incluye críticas al Tribunal Constitucional",
+        "El Mundo: el Tribunal Constitucional remitió al Pleno la decisión sobre el recurso de amparo del Defensor del Pueblo relativo a la 'ley de nietos'",
+        "ABC: Manos Limpias presentó una denuncia contra el Defensor del Pueblo por su recurso ante el TC sobre la 'ley de nietos'",
+        "ABC: Manos Limpias calificó ese recurso de 'escándalo'"
       ],
       "tipo_divergencia": "ninguna",
       "eje": null,
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "Ocho décadas después, un anciano de 105 años debe responder por los crímenes del nazismo",
-          "link": "https://elpais.com/internacional/2026-10-18/ocho-decadas-despues-un-anciano-de-105-anos-debe-responder-por-los-crimenes-del-nazismo.html",
+          "headline": "Llarena confirma su decisión de levantar la orden de detención de Puigdemont con críticas al Constitucional",
+          "link": "https://elpais.com/espana/2026-10-19/llarena-confirma-su-decision-de-levantar-la-orden-de-detencion-de-puigdemont-con-criticas-al-constitucional.html",
           "position": 50,
-          "focus": "Centra el hecho en la edad del acusado y el paso del tiempo desde los crímenes nazis; no guarda relación temática con el caso de Burgos."
+          "focus": "Se centra en la confirmación judicial de Llarena sobre Puigdemont y sus críticas al TC; no aborda el asunto de la 'ley de nietos'"
         },
         {
           "outlet": "El Mundo",
-          "headline": "Las incógnitas del crimen de una anciana en Burgos a manos de dos adolescentes: la Policía busca a más implicados en el robo que acabó en muerte",
-          "link": "https://www.elmundo.es/espana/2026/10/18/6ad3be9b21efa0481e8b45ac.html",
+          "headline": "El Constitucional deja en manos del Pleno la decisión sobre el amparo del Defensor del Pueblo en la 'ley de nietos'",
+          "link": "https://www.elmundo.es/espana/2026/10/19/6ad5d6bafc6c83be138b4576.html",
           "position": 50,
-          "focus": "Destaca las incógnitas del caso y la búsqueda policial de más implicados en el robo."
+          "focus": "Describe el trámite procesal del TC al derivar al Pleno la decisión sobre el amparo del Defensor del Pueblo en la 'ley de nietos'; no menciona a Manos Limpias ni a Puigdemont"
         },
         {
-          "outlet": "20minutos",
-          "headline": "Detenidos dos chicos de 17 y 16 años por la muerte de una mujer inmovilizada y amordazada durante un robo en su casa",
-          "link": "https://www.20minutos.es/castilla-y-leon/burgos/detenidos-dos-chicos-17-16-anos-por-muerte-una-mujer-inmovilizada-amordazada-durante-un-robo-su-casa_7049996_0.html",
+          "outlet": "ABC",
+          "headline": "Manos Limpias denuncia al Defensor del Pueblo por su recurso ante el TC sobre la 'ley de nietos': «Es un escándalo»",
+          "link": "https://www.abc.es/espana/manos-limpias-denuncia-defensor-pueblo-recurso-ante-20261019112424-nt.html",
           "position": 50,
-          "focus": "Detalla las circunstancias del crimen (inmovilización, mordaza) y confirma las edades de los detenidos."
+          "focus": "Informa de la denuncia de Manos Limpias contra el Defensor del Pueblo por el mismo recurso de la 'ley de nietos', resaltando la calificación de 'escándalo'; no trata la decisión del TC ni el caso Puigdemont"
         }
       ],
       "rango": 0,
       "discrepancia": "baja",
       "silenciosos": [
-        "ABC",
+        "20minutos",
         "El Espanol",
         "La Vanguardia",
         "eldiario.es"
       ]
     },
     {
-      "neutral_headline": "Varios países europeos (España, Francia, Italia, Polonia) celebran elecciones en 2024",
-      "section": "Internacional",
+      "neutral_headline": "Macron rechaza la dimisión del ministro del Interior tras los disturbios en Francia",
+      "section": "Politica",
       "facts": [
-        "España, Francia, Italia y Polonia tienen procesos electorales en el mismo año",
-        "El año electoral afecta a varios países de la Unión Europea"
+        "Macron rechazo la dimision del ministro del Interior",
+        "Hubo disturbios/violencia en Francia durante el fin de semana",
+        "El ministro del Interior es Laurent Nuñez (segun El Mundo)",
+        "Macron pidio mas contundencia contra los violentos (segun 20minutos)"
       ],
       "tipo_divergencia": "editorial",
       "eje": {
-        "polo_a": "proceso electoral con tendencia política",
-        "polo_b": "amenaza/crisis para la UE"
+        "polo_a": "respaldo sin matices a la gestion",
+        "polo_b": "cuestionamiento implicito de la gestion",
+        "resumen": "Algunos medios narran el rechazo de la dimision de forma neutra, mientras otros introducen un juicio sobre si la gestion de los disturbios fue deficiente"
       },
-      "resumen": "Los medios difieren en si el 'súper año electoral' se presenta como una tendencia ideológica (giro a la derecha) o como una fuente de inestabilidad y riesgo para la propia Unión Europea.",
       "frames": [
         {
+          "outlet": "El Pais",
+          "headline": "Macron rechaza la dimisión del ministro del Interior tras los disturbios del fin de semana",
+          "link": "https://elpais.com/internacional/2026-10-19/macron-rechaza-la-dimision-del-ministro-del-interior-tras-los-disturbios-del-fin-de-semana.html",
+          "position": 10,
+          "focus": "Describe el hecho de forma neutra: rechazo de la dimision tras los disturbios, sin calificar la gestion"
+        },
+        {
           "outlet": "El Mundo",
-          "headline": "España, Francia, Italia, Polonia... Europa afronta un año de urnas con un rumbo marcado hacia la derecha",
-          "link": "https://www.elmundo.es/internacional/2026/10/17/6ad2291ae85ece6f5f8b4599.html",
-          "position": 30,
-          "focus": "Enfatiza el rumbo ideológico (giro a la derecha) como hilo conductor del año electoral, con tono descriptivo-analítico, sin enmarcarlo como amenaza."
+          "headline": "Emmanuel Macron rechaza la dimisión del ministro de Interior Laurent Nuñez por la explosión de violencia en Francia",
+          "link": "https://www.elmundo.es/internacional/2026/10/19/6ad5cb13fc6c837b518b4590.html",
+          "position": 15,
+          "focus": "Anade el nombre del ministro y describe la violencia como 'explosion', pero mantiene tono descriptivo sin juicio sobre la gestion"
         },
         {
           "outlet": "La Vanguardia",
-          "headline": "Francia en llamas, Italia en tensión, España abre la válvula electoral",
-          "link": "https://www.lavanguardia.com/politica/20261018/11661657/francia-llamas-italia-tension-espana-abre-valvula-electoral.html",
+          "headline": "Macron rechaza la dimisión del ministro del Interior por el fiasco de los disturbios",
+          "link": "https://www.lavanguardia.com/internacional/20261019/11662471/macron-rechaza-dimision-ministro-interior-fiasco-disturbios.html",
+          "position": 85,
+          "focus": "Califica los disturbios como 'fiasco', introduciendo un juicio critico explicito sobre la gestion gubernamental"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Macron rechaza la dimisión del ministro del Interior y le pide más contundencia contra los violentos",
+          "link": "https://www.20minutos.es/internacional/macron-rechaza-dimision-ministro-interior-le-pide-mas-contundencia-contra-los-violentos-que-estan-incendiando-pais_7050370_0.html",
           "position": 60,
-          "focus": "Usa imágenes de conflicto y tensión ('Francia en llamas', 'Italia en tensión') que sugieren inestabilidad social y política en los procesos electorales."
+          "focus": "Destaca que Macron exige mas contundencia, lo que sugiere implicitamente que la respuesta previa fue insuficiente"
+        }
+      ],
+      "rango": 75,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "ABC",
+        "El Espanol",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Profesores cortan la A-3 en Madrid durante la cuarta jornada de huelga educativa",
+      "section": "Sociedad",
+      "facts": [
+        "Profesores cortaron la autovía A-3 en Madrid",
+        "El corte se produjo en el inicio/entrada de Madrid",
+        "Es la cuarta jornada de huelga educativa",
+        "El Pais y El Espanol cifran el grupo en 200 profesores",
+        "ABC senala que los profesores usaron pupitres en el corte"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Un grupo de 200 profesores corta la autovía A-3 en el inicio del cuarto día de huelga educativa de Madrid",
+          "link": "https://elpais.com/espana/madrid/2026-10-19/un-grupo-de-200-profesores-corta-la-autovia-a-3-en-el-inicio-del-cuarto-dia-de-huelga-educativa-de-madrid.html",
+          "position": 50,
+          "focus": "Destaca la cifra de participantes (200) y la ubicacion exacta del corte; no menciona el metodo usado"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Los profesores en huelga cortan la A-3 en la entrada a Madrid",
+          "link": "https://www.elmundo.es/madrid/2026/10/19/6ad5bddde85ecec7428b4579.html",
+          "position": 50,
+          "focus": "Se centra en la ubicacion (entrada a Madrid) sin dar cifra de participantes ni detalles del metodo"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Profesores cortan la A-3 con pupitres en la cuarta jornada de huelga educativa en Madrid",
+          "link": "https://www.abc.es/espana/madrid/profesores-cortan-acceso-m30-pupitres-cuarta-jornada-20261019092916-nt.html",
+          "position": 50,
+          "focus": "Anade el detalle visual de los pupitres usados para el corte, omite la cifra de participantes"
         },
         {
           "outlet": "El Espanol",
-          "headline": "De España a Italia pasando por Francia: el 'súper año' electoral que amenaza con sacudir los cimientos de la Unión Europea",
-          "link": "https://www.elespanol.com/mundo/europa/20261018/espana-italia-pasando-francia-super-ano-electoral-amenaza-sacudir-cimientos-union-europea/1003744423457_0.html",
-          "position": 75,
-          "focus": "Enmarca el conjunto de elecciones como una amenaza directa a los 'cimientos' institucionales de la Unión Europea, con tono más alarmista sobre las consecuencias."
+          "headline": "Un grupo de 200 profesores corta la A3 en el inicio del cuarto día de la huelga de educación en Madrid",
+          "link": "https://www.elespanol.com/observatorio-educacion/20261019/grupo-profesores-corta-a3-inicio-cuarto-dia-huelga-educacion-madrid/1003744425617_0.html",
+          "position": 50,
+          "focus": "Igual que El Pais, destaca la cifra de 200 profesores y el momento del corte, sin detalles del metodo"
         }
       ],
-      "rango": 45,
-      "discrepancia": "media",
+      "rango": 0,
+      "discrepancia": "baja",
       "silenciosos": [
         "20minutos",
-        "ABC",
-        "El Pais",
+        "La Vanguardia",
         "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Llarena levanta la orden de detención de Puigdemont tras aplicar la amnistía y cuestiona la actuación del Tribunal Constitucional",
+      "section": "Politica",
+      "facts": [
+        "El juez Llarena retira la orden de detención contra Carles Puigdemont",
+        "Llarena aplica la amnistía al expresident",
+        "Llarena critica al Tribunal Constitucional por la falta de 'mesura' o por sus descalificaciones",
+        "Puigdemont puede regresar a España sin ser detenido"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "foco en la crítica al TC / conflicto institucional",
+        "polo_b": "foco en la consecuencia práctica (regreso de Puigdemont)",
+        "resumen": "Los medios se dividen entre resaltar el choque de Llarena con el Constitucional o subrayar que Puigdemont ya puede volver a España"
+      },
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "Llarena ratifica la retirada de la orden de detención de Puigdemont pero critica la falta de \"mesura\" del TC: \"Los adjetivos no convierten en indiscutible lo que ha fracturado al Tribunal\"",
+          "link": "https://www.elmundo.es/espana/2026/10/19/6ad5d223e85ece27348b4599.html",
+          "position": 15,
+          "focus": "Centra el titular en la crítica de Llarena al TC y su falta de 'mesura', relegando el dato práctico del regreso"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "El juez Llarena aplica la amnistía a Puigdemont sin necesidad de que el TC vea su amparo: ya puede volver a España",
+          "link": "https://www.abc.es/espana/llarena-aplica-amnistia-puigdemont-necesidad-tc-vea-20261019102132-nt.html",
+          "position": 90,
+          "focus": "Omite la crítica al TC y se centra exclusivamente en que Puigdemont ya puede volver a España"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "El juez Llarena critica al Constitucional pero confirma que Puigdemont puede volver a España sin ser detenido",
+          "link": "https://www.eldiario.es/catalunya/juez-llarena-critica-constitucional-confirma-puigdemont-volver-espana-detenido_1_13596182.html",
+          "position": 45,
+          "focus": "Equilibra ambos elementos: menciona la crítica al TC y confirma el regreso sin detención"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "El juez Llarena considera aplicable la amnistía a Puigdemont",
+          "link": "https://www.lavanguardia.com/politica/20261019/11662448/llarena-confirma-decision-retirar-provisionalmente-orden-detencion-puigdemont.html",
+          "position": 65,
+          "focus": "Se limita a constatar que la amnistía es aplicable, sin detallar la crítica ni el regreso concreto"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "El juez Llarena retira la orden de detener a Puigdemont: acata el fallo del TC \"que no comparto\" y afea sus descalificaciones al TS",
+          "link": "https://www.elespanol.com/espana/tribunales/20261019/juez-llarena-retira-orden-detener-puigddemont-acata-fallo-tc-no-comparto-afea-descalificaciones-ts/1003744425386_0.html",
+          "position": 35,
+          "focus": "Resalta tanto el acatamiento del fallo como las descalificaciones de Llarena hacia el TC, con ligero énfasis en la crítica"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Llarena confirma el levantamiento de la orden de detención de Puigdemont pero critica al Constitucional",
+          "link": "https://www.20minutos.es/nacional/llarena-critica-decision-tc-sobre-amnistia-pero-rechaza-reactivar-orden-detencion-puigdemont_7050347_0.html",
+          "position": 40,
+          "focus": "Combina la confirmación del levantamiento de la orden con la crítica al Constitucional, en equilibrio similar a eldiario.es"
+        }
+      ],
+      "rango": 75,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "El Pais"
+      ]
+    },
+    {
+      "neutral_headline": "Disturbios en Francia dejan heridos y generan disputas sobre responsabilidades políticas",
+      "section": "Politica",
+      "facts": [
+        "Hubo disturbios y protestas en París durante el fin de semana (eldiario.es)",
+        "Una adolescente perdió un ojo durante las protestas en Francia (La Vanguardia)",
+        "20minutos precisa que la joven tiene 17 años y perdió la visión de un ojo por el impacto de un gas lacrimógeno",
+        "El Español informa que Macron atribuye la ola de violencia a la extrema izquierda, acusándola de buscar la caída de la República",
+        "eldiario.es recoge una declaración que vincula los disturbios a la falta de escucha y la represión del Gobierno"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "Responsabilidad del Gobierno/represión policial",
+        "polo_b": "Responsabilidad de la extrema izquierda (versión Macron)",
+        "resumen": "Los medios difieren en a quién señalan como causante de la violencia: la represión gubernamental o la extrema izquierda."
+      },
+      "frames": [
+        {
+          "outlet": "eldiario.es",
+          "headline": "Fin de semana caótico de disturbios y reivindicaciones en París: “Esto es lo que pasa cuando el Gobierno no escucha y reprime”",
+          "link": "https://www.eldiario.es/internacional/jornada-caotica-disturbios-reivindicaciones-paris-pasa-gobierno-no-escucha-reprime_1_13595669.html",
+          "position": 15,
+          "focus": "Destaca el malestar social y una voz que culpa al Gobierno de reprimir, omitiendo la versión oficial de Macron."
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Una adolescente pierde un ojo durante las protestas en Francia",
+          "link": "https://www.lavanguardia.com/internacional/20261019/11662382/adolescente-pierde-ojo-protestas-francia.html",
+          "position": 50,
+          "focus": "Se centra en la víctima (adolescente que pierde un ojo) sin atribuir responsabilidad política explícita."
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Francia en llamas: Macron culpa a la extrema izquierda de buscar la caída de la República con una ola de violencia",
+          "link": "https://www.elespanol.com/mundo/europa/20261019/francia-llamas-macron-culpa-extrema-izquierda-buscar-caida-republica-ola-violencia/1003744425483_0.html",
+          "position": 90,
+          "focus": "Reproduce la versión de Macron que culpa a la extrema izquierda, dejando en segundo plano las críticas a la actuación policial."
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Una joven de 17 años pierde la visión de un ojo por el impacto de gas lacrimógeno en las protestas en Francia",
+          "link": "https://www.20minutos.es/internacional/una-joven-17-anos-pierde-vision-un-ojo-por-impacto-gas-lacrimogeno-lanzado-por-policia-francesa_7050366_0.html",
+          "position": 50,
+          "focus": "Detalla el hecho físico (edad de la víctima, causa del gas lacrimógeno) sin señalar culpables políticos."
+        }
+      ],
+      "rango": 75,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "ABC",
+        "El Mundo",
+        "El Pais"
       ]
     }
   ]
