@@ -1,0 +1,459 @@
+{
+  "fecha": "2026-10-20T09:36:11.330817+00:00",
+  "esquema": 2,
+  "historias": [
+    {
+      "neutral_headline": "Feijóo confirma negociaciones con Vox para la configuración del Senado tras el 29N",
+      "section": "Politica",
+      "facts": [
+        "Feijóo confirma negociaciones con Vox de cara a la configuración del Senado tras las elecciones del 29N",
+        "El Pais indica que Feijóo plantea ceder senadores autonómicos a Vox para que no se presente en algunas circunscripciones",
+        "El Mundo señala que PP y Vox quedan a 6 escaños del control total del Senado tras el frente de izquierdas",
+        "eldiario.es vincula la negociación con el objetivo de lograr una mayoría que permita controlar el Tribunal Constitucional",
+        "El Espanol recoge una declaración de Feijóo advirtiendo del riesgo de facilitar al 'sanchismo' el control directo o indirecto del Senado",
+        "20minutos recoge que Feijóo busca una fórmula para que el 'sanchismo' no controle el Senado tras el 29N"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "maniobra de poder (control institucional)",
+        "polo_b": "defensa legítima frente al sanchismo",
+        "resumen": "Los medios difieren en si presentan la negociación como una estrategia para copar instituciones (como el Constitucional) o como una respuesta defensiva de Feijóo frente a un supuesto avance del 'sanchismo'."
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Feijóo plantea ceder senadores autonómicos a Vox para que no se presente en algunas circunscripciones",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-10-20/feijoo-confirma-negociaciones-con-vox-para-las-listas-del-senado-si-estan-a-la-altura-el-pp-tambien.html",
+          "position": 35,
+          "focus": "Detalla el mecanismo concreto de la negociación (ceder senadores) sin atribuir motivación explícita, aunque la mención específica del reparto territorial sugiere un enfoque en la mecánica del pacto más que en su justificación."
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "PP y Vox se quedan a 6 escaños del control total del Senado tras el frente de izquierdas",
+          "link": "https://www.elmundo.es/espana/encuestas/2026/10/19/6ad65700fc6c837b168b4590.html",
+          "position": 50,
+          "focus": "Se centra en el resultado electoral y la aritmética parlamentaria, sin entrar en las motivaciones o el relato de la negociación; omite el ángulo de las razones políticas."
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Feijóo confirma negociaciones con Vox para buscar una mayoría en el Senado que les permita controlar el Constitucional",
+          "link": "https://www.eldiario.es/politica/feijoo-confirma-negociaciones-vox-buscar-mayoria-senado-les-permita-controlar-constitucional_1_13598996.html",
+          "position": 15,
+          "focus": "Enfatiza que el objetivo final de la negociación sería controlar el Tribunal Constitucional, lo que enmarca la maniobra como una estrategia de poder institucional."
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Feijóo confirma negociaciones con Vox: \"Sería un error facilitar al sanchismo el control directo o indirecto del Senado\"",
+          "link": "https://www.elespanol.com/espana/politica/20261020/feijoo-confirma-negociaciones-vox-error-facilitar-sanchismo-control-directo-indirecto-senado/1003744427126_0.html",
+          "position": 75,
+          "focus": "Reproduce la justificación de Feijóo en primera persona, centrada en evitar que el 'sanchismo' controle el Senado, legitimando su discurso defensivo."
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Feijoo confirma que negocia con Vox una fórmula para que el \"sanchismo\" no logre controlar el Senado con el 29N",
+          "link": "https://www.20minutos.es/nacional/pp-vox-buscan-una-formula-para-no-facilitar-sanchismo-control-senado-pero-mantienen-discrecion_7050850_0.html",
+          "position": 75,
+          "focus": "Similar al anterior, adopta el marco lingüístico de Feijóo ('sanchismo') y presenta la negociación como una respuesta necesaria tras el 29N."
+        }
+      ],
+      "rango": 60,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "ABC",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "Ayuso estudia trasladar temporalmente su despacho de Sol por la acampada, alegando motivos de seguridad",
+      "section": "Politica",
+      "facts": [
+        "Isabel Diaz Ayuso valora trasladar su despacho de forma temporal",
+        "El motivo alegado es la seguridad",
+        "La causa es la acampada instalada en la Puerta del Sol",
+        "Aun no se ha decidido el lugar al que se trasladaria (segun El Pais)",
+        "Ayuso declaro que el lugar actual no reune las condiciones de seguridad (segun 20minutos)"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Ayuso trasladará su despacho “por seguridad” debido a la acampada en Sol, pero todavía no sabe dónde",
+          "link": "https://elpais.com/espana/madrid/2026-10-20/ayuso-trasladara-su-despacho-por-seguridad-debido-a-la-acampada-en-sol-pero-todavia-no-sabe-donde.html",
+          "position": 50,
+          "focus": "Destaca que aun no hay destino decidido para el traslado; describe el hecho con cautela informativa"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Ayuso valora trasladar \"temporalmente\" su despacho por \"seguridad\" a otras instalaciones de la Comunidad",
+          "link": "https://www.elmundo.es/madrid/2026/10/20/6ad7294fe4d4d868708b45a5.html",
+          "position": 50,
+          "focus": "Enfatiza el caracter temporal y pone entre comillas los terminos 'seguridad' y 'temporalmente' atribuidos a Ayuso"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Ayuso pretende mover su despacho de Sol temporalmente por la acampada",
+          "link": "https://www.eldiario.es/madrid/ayuso-pretende-mover-despacho-sol-temporalmente-acampada_1_13598983.html",
+          "position": 50,
+          "focus": "Resume de forma directa la intencion de Ayuso sin anadir matices adicionales"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Ayuso estudia el traslado temporal de su despacho por la acampada: \"No reúne las condiciones de seguridad\"",
+          "link": "https://www.20minutos.es/madrid/ayuso-estudia-traslado-temporal-su-despacho-por-acampada-sol-no-reune-las-condiciones-seguridad_7050903_0.html",
+          "position": 50,
+          "focus": "Incluye cita textual de Ayuso justificando la falta de condiciones de seguridad"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "ABC",
+        "El Espanol",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "Mónica García renuncia a la lista del Frente Amplio para el 29-N",
+      "section": "Politica",
+      "facts": [
+        "Mónica García renuncia a ir en la lista del Frente Amplio",
+        "El Mundo y La Vanguardia señalan que se centrará en la candidatura autonómica de Madrid frente a Ayuso",
+        "eldiario.es afirma que Tesh Sidi ocupará el número dos de la lista",
+        "El Pais cita una declaración de García: 'Siempre he antepuesto el bien común al personal'"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "estrategia personal centrada en Madrid/Ayuso",
+        "polo_b": "debilitamiento o crisis del Frente Amplio",
+        "resumen": "Algunos medios interpretan la renuncia como una apuesta estratégica de García por la Comunidad de Madrid, mientras otros la leen como síntoma de fragilidad o reducción del Frente Amplio"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Mónica García renuncia a la lista del Frente Amplio: “Siempre he antepuesto el bien común al personal”",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-10-20/monica-garcia-renuncia-a-la-lista-del-frente-amplio-siempre-he-antepuesto-el-bien-comun-al-personal.html",
+          "position": 45,
+          "focus": "Destaca la cita literal de García justificando su decisión, sin valorar el impacto en el Frente Amplio"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Mónica García renuncia a las listas del Frente Amplio y retoma su papel de candidata contra Ayuso en Madrid",
+          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/20/6ad719defdddff597d8b458e.html",
+          "position": 35,
+          "focus": "Enfatiza que retoma su papel de candidata contra Ayuso en Madrid, mostrando continuidad estratégica"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Mónica García renuncia a ir en las listas del Frente Amplio para centrarse en las autonómicas y Tesh Sidi será la número dos",
+          "link": "https://www.eldiario.es/politica/monica-garcia-renuncia-listas-frente-amplio-centrarse-elecciones-autonomicas_1_13598869.html",
+          "position": 50,
+          "focus": "Informa de la renuncia y añade el dato del reemplazo (Tesh Sidi) sin juicio adicional"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Mónica García renuncia al 29-N y prioriza la batalla contra Ayuso en Madrid",
+          "link": "https://www.lavanguardia.com/politica/20261020/11663318/monica-garcia-renuncia-29-n-batalla-autonomica-ayuso.html",
+          "position": 35,
+          "focus": "Subraya que prioriza la batalla contra Ayuso en Madrid, enmarcando la decisión como táctica electoral"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "El Frente Amplio, cada vez más estrecho: Mónica García renuncia a ser candidata en la lista de Madrid",
+          "link": "https://www.elespanol.com/espana/politica/20261020/frente-amplio-vez-estrecho-monica-garcia-renuncia-candidata-lista-madrid/1003744427064_0.html",
+          "position": 85,
+          "focus": "Interpreta la renuncia como señal de que el Frente Amplio se reduce o debilita, usando la metáfora 'cada vez más estrecho'"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Mónica García renuncia a incorporarse a la lista de Frente Amplio",
+          "link": "https://www.20minutos.es/nacional/monica-garcia-renuncia-incorporarse-lista-frente-amplio-para-centrarse-las-elecciones-autonomicas_7050793_0.html",
+          "position": 50,
+          "focus": "Describe el hecho de forma escueta y neutral, sin añadir interpretación sobre causas o consecuencias"
+        }
+      ],
+      "rango": 50,
+      "discrepancia": "media",
+      "silenciosos": [
+        "ABC"
+      ]
+    },
+    {
+      "neutral_headline": "Hallado muerto un agricultor en la marjal de Pego-Oliva tras las inundaciones de la dana",
+      "section": "Sociedad",
+      "facts": [
+        "Se ha hallado muerto a un agricultor en la marjal de Pego-Oliva",
+        "La muerte se produjo tras las inundaciones causadas por la dana",
+        "eldiario.es y El Espanol identifican la dana como 'Adam'",
+        "eldiario.es cifra en cinco las muertes causadas por la dana hasta el momento",
+        "20minutos eleva a seis el número de víctimas mortales con este hallazgo"
+      ],
+      "tipo_divergencia": "cronologica",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Hallado muerto un agricultor en la marjal de Pego-Oliva tras las inundaciones de la dana",
+          "link": "https://elpais.com/espana/comunidad-valenciana/2026-10-20/hallado-muerto-un-agricultor-en-la-marjal-de-pego-oliva-tras-las-inundaciones-de-la-dana.html",
+          "position": 50,
+          "focus": "Describe el hallazgo del cuerpo sin ofrecer balance de víctimas"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Hallado el cadáver de un agricultor en la marjal de Pego-Oliva tras el paso de la dana Adam que ha causado cinco muertes",
+          "link": "https://www.eldiario.es/comunitat-valenciana/hallado-cadaver-agricultor-marjal-pego-oliva-paso-dana-adam-causado-cinco-muertes_1_13599159.html",
+          "position": 50,
+          "focus": "Nombra la dana (Adam) y da un balance de cinco muertes"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Hallan muerto a un agricultor en Oliva (Valencia) tras las inundaciones provocadas por la dana Adam",
+          "link": "https://www.elespanol.com/valencia/sucesos/20261020/hallan-muerto-agricultor-marjal-pego-oliva-inundaciones-dana-adam/1003744427166_0.html",
+          "position": 50,
+          "focus": "Nombra la dana (Adam) y localiza el hecho en Oliva sin dar balance total"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Hallan muerto a un agricultor tras las inundaciones de la dana: ya son seis las víctimas mortales",
+          "link": "https://www.20minutos.es/nacional/ultimas-noticias-dana-adam-valencia-alicante-cataluna-almeria-lluvia-alertas-tiempo-inundaciones-rescates-directo_7050269_6.html",
+          "position": 50,
+          "focus": "Actualiza el balance a seis víctimas mortales, dato más reciente"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "ABC",
+        "El Mundo",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "La dana Adam remite pero se mantienen avisos y precauciones en varias zonas de España",
+      "section": "Sociedad",
+      "facts": [
+        "La dana Adam está remitiendo",
+        "El Pais señala avisos en Baleares y Cataluña",
+        "eldiario.es indica que la inestabilidad y las lluvias continuarán hoy en algunas zonas",
+        "La Vanguardia indica que Valencia deja atrás las lluvias intensas pero mantiene la guardia"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "‘Adam’ se despide con avisos en Baleares y Cataluña",
+          "link": "https://elpais.com/el-tiempo/2026-10-20/adam-se-despide-hoy-con-la-comunidad-valenciana-aun-en-naranja-y-avisos-en-otras-cuatro-comunidades.html",
+          "position": 50,
+          "focus": "Destaca las zonas (Baleares y Cataluña) donde persisten avisos por la dana que se despide"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "La dana Adam remite pero la inestabilidad y las lluvias seguirán hoy en estas zonas",
+          "link": "https://www.eldiario.es/sociedad/el-tiempo/dana-adam-remite-inestabilidad-lluvias-seguiran-hoy-zonas-pm_1_13597464.html",
+          "position": 50,
+          "focus": "Señala que aunque la dana remite, la inestabilidad y lluvias continuarán en ciertas zonas hoy"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Valencia deja hoy atrás las lluvias intensas, pero sin bajar la guardia",
+          "link": "https://www.lavanguardia.com/vida/20261020/11662998/valencia-deja-hoy-lluvias-intensas-bajar-guardia.html",
+          "position": 50,
+          "focus": "Se centra en Valencia, indicando que deja atrás las lluvias intensas pero sin relajar la prevención"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Espanol",
+        "El Mundo"
+      ]
+    },
+    {
+      "neutral_headline": "Italia despliega al Ejército en Milán tras protestas y saqueos",
+      "section": "Internacional",
+      "facts": [
+        "El Gobierno de Meloni envía 500 soldados a Milán (El País, El Español)",
+        "Se despliega el Ejército italiano en Milán (ABC, El Español)",
+        "El despliegue se produce tras dos noches de incidentes y saqueos (El País)",
+        "El despliegue se produce tras disturbios y saqueos de los últimos días (El Español)",
+        "El despliegue se presenta como respuesta a protestas en la ciudad (ABC)"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "protesta social",
+        "polo_b": "disturbios/saqueos violentos",
+        "resumen": "ABC enmarca el hecho como respuesta a 'protestas', mientras El País y El Español subrayan 'incidentes y saqueos' como causa del despliegue militar."
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Meloni envía 500 soldados a Milán tras dos noches de incidentes y saqueos",
+          "link": "https://elpais.com/internacional/2026-10-19/meloni-envia-500-soldados-a-milan-tras-dos-noches-de-incidentes-y-saqueos.html",
+          "position": 70,
+          "focus": "Destaca la cifra de soldados y el origen del despliegue en 'incidentes y saqueos', enfatizando el desorden violento."
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Meloni despliega el Ejército para defender Milán de las protestas",
+          "link": "https://www.abc.es/internacional/meloni-despliega-ejercito-defender-milan-protestas-20261019200131-nt.html",
+          "position": 30,
+          "focus": "Centra el relato en 'protestas' y en la idea de 'defender' Milán, sin mencionar saqueos ni violencia explícita."
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Italia despliega al Ejército: envía 500 militares \"para defender\" Milán tras los disturbios y saqueos de los últimos días",
+          "link": "https://www.elespanol.com/mundo/europa/20261019/italia-despliega-ejercito-envia-militares-defender-milan-disturbios-ultimos-dias/1003744426870_0.html",
+          "position": 70,
+          "focus": "Combina la cifra de militares con el entrecomillado 'para defender', pero mantiene el término 'disturbios y saqueos' como causa."
+        }
+      ],
+      "rango": 40,
+      "discrepancia": "media",
+      "silenciosos": [
+        "20minutos",
+        "El Mundo",
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Muere el jugador de pádel Gustavo Oliva tras despedirse con una carta en redes sociales",
+      "section": "Deportes",
+      "facts": [
+        "Gustavo Oliva, jugador de pádel, ha muerto",
+        "Oliva se despidió públicamente mediante una carta en redes sociales antes de fallecer",
+        "El Mundo atribuye la muerte a un cáncer terminal de colon",
+        "ABC indica que Oliva tenía 58 años",
+        "Es descrito como un referente del pádel español"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "Muere Gustavo Oliva, el referente del pádel español con un cáncer terminal de colon, que se despedía hace unos días en una emotiva carta",
+          "link": "https://www.elmundo.es/deportes/2026/10/20/6ad715f4fdddff9a688b4582.html",
+          "position": 50,
+          "focus": "Destaca su papel como referente del pádel y la causa médica (cáncer de colon); omite la edad exacta"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Muere a los 58 años el jugador de pádel Gustavo Oliva tras despedirse con una dramática carta en redes sociales",
+          "link": "https://www.abc.es/gente/muere-anos-jugador-padel-gustavo-oliva-tras-20261020105401-nt.html",
+          "position": 50,
+          "focus": "Aporta la edad concreta (58 años) y califica la carta de 'dramática'; no menciona la causa médica"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Muere Gustavo Oliva, el referente del pádel que dijo adiós con una desgarradora carta: \"Mi vida llega a su fin\"",
+          "link": "https://www.20minutos.es/deportes/muere-gustavo-oliva-referente-padel-58-anos-que-se-despidio-con-una-desgarradora-carta-mi-vida-tierra-llega-su-fin_7050802_0.html",
+          "position": 50,
+          "focus": "Cita textualmente la carta de despedida y lo llama referente del pádel; no menciona edad ni causa médica"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "El Espanol",
+        "El Pais",
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "La dana Adam deja varios muertos y cientos de rescates en la Comunidad Valenciana",
+      "section": "Sociedad",
+      "facts": [
+        "La dana Adam ha afectado a la Comunidad Valenciana",
+        "eldiario.es reporta cinco muertos y un millar de rescates",
+        "La Vanguardia informa de la localización de una sexta víctima",
+        "El Español cifra en tres los muertos, 145 pueblos confinados y 500 rescates",
+        "Se establecen comparaciones con la dana de 2024"
+      ],
+      "tipo_divergencia": "cronologica",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "eldiario.es",
+          "headline": "Cinco muertos, un millar de rescates y registros históricos por la dana Adam: \"Mucha gente lo ha perdido todo como en 2024\"",
+          "link": "https://www.eldiario.es/comunitat-valenciana/cuatro-fallecidos-millar-rescates-registros-historicos-dana-adam-gente-perdido-2024_1_13598067.html",
+          "position": 50,
+          "focus": "Destaca el balance de cinco muertos y el millar de rescates, con referencia explícita al trauma de 2024; no menciona pueblos confinados"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Localizan a la sexta víctima tras el paso de la dana 'Adam' en la Comunidad Valenciana",
+          "link": "https://www.lavanguardia.com/local/valencia/20261020/11663429/localizan-cuarta-victima-dana-adam-marjal-pego-oliva.html",
+          "position": 50,
+          "focus": "Se centra en la actualización del número de víctimas mortales, confirmando una sexta; no detalla rescates ni pueblos afectados"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Valencia revive el horror dos años después con la dana Adam: 3 muertos, 145 pueblos confinados y 500 rescates",
+          "link": "https://www.elespanol.com/valencia/comunitat/20261020/valencia-revive-horror-anos-despues-dana-adam-muertos-pueblos-confinados-rescates-dl/1003744426386_0.html",
+          "position": 50,
+          "focus": "Ofrece un balance más temprano con tres muertos, pero añade el dato de 145 pueblos confinados y 500 rescates"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Mundo",
+        "El Pais"
+      ]
+    },
+    {
+      "neutral_headline": "El Gobierno aprueba un decreto que amplía el derecho a la pensión de viudedad a parejas de hecho con hijos que acrediten dos años de convivencia",
+      "section": "Politica",
+      "facts": [
+        "El Gobierno aprueba un decreto sobre pensión de viudedad",
+        "Las parejas de hecho con hijos podrán acceder a la pensión de viudedad si acreditan dos años de convivencia",
+        "Según ABC, el decreto también extiende mejoras a víctimas de violencia de género"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Las parejas con hijos tendrán derecho a la pensión de viudedad si acreditan dos años de convivencia",
+          "link": "https://elpais.com/economia/2026-10-19/las-parejas-con-hijos-tendran-derecho-a-la-pension-de-viudedad-si-acreditan-dos-anos-de-convivencia.html",
+          "position": 50,
+          "focus": "Centra el titular en el requisito de los dos años de convivencia para parejas con hijos, sin mencionar otros colectivos beneficiados por el decreto"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "El Gobierno aprueba un decreto para extender las mejoras a viudas y víctimas de violencia de género",
+          "link": "https://www.abc.es/economia/gobierno-aprueba-decreto-extender-mejoras-sociales-viudas-20261020093504-nt.html",
+          "position": 50,
+          "focus": "Amplía el foco a dos colectivos beneficiados (viudas y víctimas de violencia de género), sin detallar el requisito específico de convivencia para parejas con hijos"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Las parejas con hijos que acrediten dos años de convivencia podrán recibir la pensión de viudedad",
+          "link": "https://www.eldiario.es/economia/parejas-hijos-acrediten-anos-convivencia-tendran-derecho-pension-viudedad_1_13599009.html",
+          "position": 50,
+          "focus": "Reitera el requisito de dos años de convivencia para parejas con hijos, igual que El País, sin mencionar otros colectivos"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Las parejas de hecho con hijos tendrán derecho a viudedad si acreditan dos años de convivencia",
+          "link": "https://www.lavanguardia.com/vida/20261020/11663375/parejas-hecho-hijos-pension-viudedad-dos-anos-convivencia.html",
+          "position": 50,
+          "focus": "Igual que El País y eldiario.es, centra el titular en parejas de hecho con hijos y el requisito de convivencia, sin mencionar otros beneficiarios"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "El Espanol",
+        "El Mundo"
+      ]
+    }
+  ]
+}

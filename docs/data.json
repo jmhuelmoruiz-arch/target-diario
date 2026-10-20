@@ -1,335 +1,458 @@
 {
-  "fecha": "2026-10-19T10:11:41.881340+00:00",
+  "fecha": "2026-10-20T09:36:11.330817+00:00",
   "esquema": 2,
   "historias": [
     {
-      "neutral_headline": "La dana Adam provoca lluvias intensas, confinamientos y rescates en el este de España",
+      "neutral_headline": "Feijóo confirma negociaciones con Vox para la configuración del Senado tras el 29N",
+      "section": "Politica",
+      "facts": [
+        "Feijóo confirma negociaciones con Vox de cara a la configuración del Senado tras las elecciones del 29N",
+        "El Pais indica que Feijóo plantea ceder senadores autonómicos a Vox para que no se presente en algunas circunscripciones",
+        "El Mundo señala que PP y Vox quedan a 6 escaños del control total del Senado tras el frente de izquierdas",
+        "eldiario.es vincula la negociación con el objetivo de lograr una mayoría que permita controlar el Tribunal Constitucional",
+        "El Espanol recoge una declaración de Feijóo advirtiendo del riesgo de facilitar al 'sanchismo' el control directo o indirecto del Senado",
+        "20minutos recoge que Feijóo busca una fórmula para que el 'sanchismo' no controle el Senado tras el 29N"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "maniobra de poder (control institucional)",
+        "polo_b": "defensa legítima frente al sanchismo",
+        "resumen": "Los medios difieren en si presentan la negociación como una estrategia para copar instituciones (como el Constitucional) o como una respuesta defensiva de Feijóo frente a un supuesto avance del 'sanchismo'."
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Feijóo plantea ceder senadores autonómicos a Vox para que no se presente en algunas circunscripciones",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-10-20/feijoo-confirma-negociaciones-con-vox-para-las-listas-del-senado-si-estan-a-la-altura-el-pp-tambien.html",
+          "position": 35,
+          "focus": "Detalla el mecanismo concreto de la negociación (ceder senadores) sin atribuir motivación explícita, aunque la mención específica del reparto territorial sugiere un enfoque en la mecánica del pacto más que en su justificación."
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "PP y Vox se quedan a 6 escaños del control total del Senado tras el frente de izquierdas",
+          "link": "https://www.elmundo.es/espana/encuestas/2026/10/19/6ad65700fc6c837b168b4590.html",
+          "position": 50,
+          "focus": "Se centra en el resultado electoral y la aritmética parlamentaria, sin entrar en las motivaciones o el relato de la negociación; omite el ángulo de las razones políticas."
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Feijóo confirma negociaciones con Vox para buscar una mayoría en el Senado que les permita controlar el Constitucional",
+          "link": "https://www.eldiario.es/politica/feijoo-confirma-negociaciones-vox-buscar-mayoria-senado-les-permita-controlar-constitucional_1_13598996.html",
+          "position": 15,
+          "focus": "Enfatiza que el objetivo final de la negociación sería controlar el Tribunal Constitucional, lo que enmarca la maniobra como una estrategia de poder institucional."
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Feijóo confirma negociaciones con Vox: \"Sería un error facilitar al sanchismo el control directo o indirecto del Senado\"",
+          "link": "https://www.elespanol.com/espana/politica/20261020/feijoo-confirma-negociaciones-vox-error-facilitar-sanchismo-control-directo-indirecto-senado/1003744427126_0.html",
+          "position": 75,
+          "focus": "Reproduce la justificación de Feijóo en primera persona, centrada en evitar que el 'sanchismo' controle el Senado, legitimando su discurso defensivo."
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Feijoo confirma que negocia con Vox una fórmula para que el \"sanchismo\" no logre controlar el Senado con el 29N",
+          "link": "https://www.20minutos.es/nacional/pp-vox-buscan-una-formula-para-no-facilitar-sanchismo-control-senado-pero-mantienen-discrecion_7050850_0.html",
+          "position": 75,
+          "focus": "Similar al anterior, adopta el marco lingüístico de Feijóo ('sanchismo') y presenta la negociación como una respuesta necesaria tras el 29N."
+        }
+      ],
+      "rango": 60,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "ABC",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "Ayuso estudia trasladar temporalmente su despacho de Sol por la acampada, alegando motivos de seguridad",
+      "section": "Politica",
+      "facts": [
+        "Isabel Diaz Ayuso valora trasladar su despacho de forma temporal",
+        "El motivo alegado es la seguridad",
+        "La causa es la acampada instalada en la Puerta del Sol",
+        "Aun no se ha decidido el lugar al que se trasladaria (segun El Pais)",
+        "Ayuso declaro que el lugar actual no reune las condiciones de seguridad (segun 20minutos)"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Ayuso trasladará su despacho “por seguridad” debido a la acampada en Sol, pero todavía no sabe dónde",
+          "link": "https://elpais.com/espana/madrid/2026-10-20/ayuso-trasladara-su-despacho-por-seguridad-debido-a-la-acampada-en-sol-pero-todavia-no-sabe-donde.html",
+          "position": 50,
+          "focus": "Destaca que aun no hay destino decidido para el traslado; describe el hecho con cautela informativa"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Ayuso valora trasladar \"temporalmente\" su despacho por \"seguridad\" a otras instalaciones de la Comunidad",
+          "link": "https://www.elmundo.es/madrid/2026/10/20/6ad7294fe4d4d868708b45a5.html",
+          "position": 50,
+          "focus": "Enfatiza el caracter temporal y pone entre comillas los terminos 'seguridad' y 'temporalmente' atribuidos a Ayuso"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Ayuso pretende mover su despacho de Sol temporalmente por la acampada",
+          "link": "https://www.eldiario.es/madrid/ayuso-pretende-mover-despacho-sol-temporalmente-acampada_1_13598983.html",
+          "position": 50,
+          "focus": "Resume de forma directa la intencion de Ayuso sin anadir matices adicionales"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Ayuso estudia el traslado temporal de su despacho por la acampada: \"No reúne las condiciones de seguridad\"",
+          "link": "https://www.20minutos.es/madrid/ayuso-estudia-traslado-temporal-su-despacho-por-acampada-sol-no-reune-las-condiciones-seguridad_7050903_0.html",
+          "position": 50,
+          "focus": "Incluye cita textual de Ayuso justificando la falta de condiciones de seguridad"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "ABC",
+        "El Espanol",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "Mónica García renuncia a la lista del Frente Amplio para el 29-N",
+      "section": "Politica",
+      "facts": [
+        "Mónica García renuncia a ir en la lista del Frente Amplio",
+        "El Mundo y La Vanguardia señalan que se centrará en la candidatura autonómica de Madrid frente a Ayuso",
+        "eldiario.es afirma que Tesh Sidi ocupará el número dos de la lista",
+        "El Pais cita una declaración de García: 'Siempre he antepuesto el bien común al personal'"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "estrategia personal centrada en Madrid/Ayuso",
+        "polo_b": "debilitamiento o crisis del Frente Amplio",
+        "resumen": "Algunos medios interpretan la renuncia como una apuesta estratégica de García por la Comunidad de Madrid, mientras otros la leen como síntoma de fragilidad o reducción del Frente Amplio"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Mónica García renuncia a la lista del Frente Amplio: “Siempre he antepuesto el bien común al personal”",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-10-20/monica-garcia-renuncia-a-la-lista-del-frente-amplio-siempre-he-antepuesto-el-bien-comun-al-personal.html",
+          "position": 45,
+          "focus": "Destaca la cita literal de García justificando su decisión, sin valorar el impacto en el Frente Amplio"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Mónica García renuncia a las listas del Frente Amplio y retoma su papel de candidata contra Ayuso en Madrid",
+          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/20/6ad719defdddff597d8b458e.html",
+          "position": 35,
+          "focus": "Enfatiza que retoma su papel de candidata contra Ayuso en Madrid, mostrando continuidad estratégica"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Mónica García renuncia a ir en las listas del Frente Amplio para centrarse en las autonómicas y Tesh Sidi será la número dos",
+          "link": "https://www.eldiario.es/politica/monica-garcia-renuncia-listas-frente-amplio-centrarse-elecciones-autonomicas_1_13598869.html",
+          "position": 50,
+          "focus": "Informa de la renuncia y añade el dato del reemplazo (Tesh Sidi) sin juicio adicional"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Mónica García renuncia al 29-N y prioriza la batalla contra Ayuso en Madrid",
+          "link": "https://www.lavanguardia.com/politica/20261020/11663318/monica-garcia-renuncia-29-n-batalla-autonomica-ayuso.html",
+          "position": 35,
+          "focus": "Subraya que prioriza la batalla contra Ayuso en Madrid, enmarcando la decisión como táctica electoral"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "El Frente Amplio, cada vez más estrecho: Mónica García renuncia a ser candidata en la lista de Madrid",
+          "link": "https://www.elespanol.com/espana/politica/20261020/frente-amplio-vez-estrecho-monica-garcia-renuncia-candidata-lista-madrid/1003744427064_0.html",
+          "position": 85,
+          "focus": "Interpreta la renuncia como señal de que el Frente Amplio se reduce o debilita, usando la metáfora 'cada vez más estrecho'"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Mónica García renuncia a incorporarse a la lista de Frente Amplio",
+          "link": "https://www.20minutos.es/nacional/monica-garcia-renuncia-incorporarse-lista-frente-amplio-para-centrarse-las-elecciones-autonomicas_7050793_0.html",
+          "position": 50,
+          "focus": "Describe el hecho de forma escueta y neutral, sin añadir interpretación sobre causas o consecuencias"
+        }
+      ],
+      "rango": 50,
+      "discrepancia": "media",
+      "silenciosos": [
+        "ABC"
+      ]
+    },
+    {
+      "neutral_headline": "Hallado muerto un agricultor en la marjal de Pego-Oliva tras las inundaciones de la dana",
       "section": "Sociedad",
       "facts": [
-        "La dana ha sido denominada 'Adam'",
-        "Se han producido rescates en lancha y helicóptero en zonas de la Comunidad Valenciana",
-        "Hay clases suspendidas en Valencia y Baleares",
-        "Seis comunidades autónomas están en alerta por lluvias",
-        "La Vanguardia cifra en más de 400.000 las personas afectadas por el confinamiento preparado en Valencia y Alicante",
-        "El Español cifra en 145 los pueblos confinados en el sur de Valencia y norte de Alicante",
-        "20minutos recoge que hay personas atrapadas en zonas de Alicante y Valencia"
+        "Se ha hallado muerto a un agricultor en la marjal de Pego-Oliva",
+        "La muerte se produjo tras las inundaciones causadas por la dana",
+        "eldiario.es y El Espanol identifican la dana como 'Adam'",
+        "eldiario.es cifra en cinco las muertes causadas por la dana hasta el momento",
+        "20minutos eleva a seis el número de víctimas mortales con este hallazgo"
       ],
       "tipo_divergencia": "cronologica",
       "eje": null,
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "Última hora del temporal en España, en directo | Rescates en lancha y helicóptero en las zonas de la Comunidad Valenciana más castigadas por la dana ‘Adam’",
-          "link": "https://elpais.com/el-tiempo/2026-10-19/ultima-hora-del-temporal-en-espana-en-directo.html",
+          "headline": "Hallado muerto un agricultor en la marjal de Pego-Oliva tras las inundaciones de la dana",
+          "link": "https://elpais.com/espana/comunidad-valenciana/2026-10-20/hallado-muerto-un-agricultor-en-la-marjal-de-pego-oliva-tras-las-inundaciones-de-la-dana.html",
           "position": 50,
-          "focus": "Centra en rescates activos y cobertura en directo del temporal, sin cifras concretas de confinamiento"
-        },
-        {
-          "outlet": "ABC",
-          "headline": "La lluvia no da tregua en Valencia y Baleares: clases suspendidas y recomendaciones para confinarse",
-          "link": "https://www.abc.es/sociedad/temporal-lluvias-tormentas-comunidad-valenciana-cataluna-baleares-20261019091904-di.html",
-          "position": 50,
-          "focus": "Destaca suspensión de clases y recomendaciones preventivas, aún sin confinamiento efectivo"
+          "focus": "Describe el hallazgo del cuerpo sin ofrecer balance de víctimas"
         },
         {
           "outlet": "eldiario.es",
-          "headline": "La dana Adam deja más lluvias este lunes y pone en alerta a seis comunidades",
-          "link": "https://www.eldiario.es/sociedad/el-tiempo/dana-adam-deja-lluvias-lunes-pone-alerta-seis-comunidades-pm_1_13595895.html",
+          "headline": "Hallado el cadáver de un agricultor en la marjal de Pego-Oliva tras el paso de la dana Adam que ha causado cinco muertes",
+          "link": "https://www.eldiario.es/comunitat-valenciana/hallado-cadaver-agricultor-marjal-pego-oliva-paso-dana-adam-causado-cinco-muertes_1_13599159.html",
           "position": 50,
-          "focus": "Amplía el foco geográfico a seis comunidades en alerta, visión más extensa del temporal"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Preparan el confinamiento de más de 400.000 personas por el temporal en Valencia y Alicante",
-          "link": "https://www.lavanguardia.com/local/valencia/20261019/11662337/maxima-preocupacion-gandia-registra-pocas-horas-mas-500-l-m2.html",
-          "position": 50,
-          "focus": "Anticipa el confinamiento con cifra de personas afectadas (400.000), en fase de preparación"
+          "focus": "Nombra la dana (Adam) y da un balance de cinco muertes"
         },
         {
           "outlet": "El Espanol",
-          "headline": "Última hora de la dana Adam en España, en directo | La Generalitat confina 145 pueblos del sur de Valencia y el norte de Alicante",
-          "link": "https://www.elespanol.com/espana/20261019/ultima-hora-temporal-espana-directo-llegada-dana-adam-mantiene-avisos-rojos-sur-valencia-norte-alicante-lluvias-inundaciones/1003744425552_10.html",
+          "headline": "Hallan muerto a un agricultor en Oliva (Valencia) tras las inundaciones provocadas por la dana Adam",
+          "link": "https://www.elespanol.com/valencia/sucesos/20261020/hallan-muerto-agricultor-marjal-pego-oliva-inundaciones-dana-adam/1003744427166_0.html",
           "position": 50,
-          "focus": "Confirma el confinamiento ya decretado con cifra de pueblos afectados (145), medida ya ejecutada"
+          "focus": "Nombra la dana (Adam) y localiza el hecho en Oliva sin dar balance total"
         },
         {
           "outlet": "20minutos",
-          "headline": "Ordenan el confinamiento en zonas de Alicante y Valencia por la DANA: \"Hay muchas personas atrapadas\"",
+          "headline": "Hallan muerto a un agricultor tras las inundaciones de la dana: ya son seis las víctimas mortales",
           "link": "https://www.20minutos.es/nacional/ultimas-noticias-dana-adam-valencia-alicante-cataluna-almeria-lluvia-alertas-tiempo-inundaciones-rescates-directo_7050269_6.html",
           "position": 50,
-          "focus": "Reporta confinamiento ya ordenado y testimonios de personas atrapadas, fase más avanzada"
+          "focus": "Actualiza el balance a seis víctimas mortales, dato más reciente"
         }
       ],
       "rango": 0,
       "discrepancia": "baja",
       "silenciosos": [
+        "ABC",
+        "El Mundo",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "La dana Adam remite pero se mantienen avisos y precauciones en varias zonas de España",
+      "section": "Sociedad",
+      "facts": [
+        "La dana Adam está remitiendo",
+        "El Pais señala avisos en Baleares y Cataluña",
+        "eldiario.es indica que la inestabilidad y las lluvias continuarán hoy en algunas zonas",
+        "La Vanguardia indica que Valencia deja atrás las lluvias intensas pero mantiene la guardia"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "‘Adam’ se despide con avisos en Baleares y Cataluña",
+          "link": "https://elpais.com/el-tiempo/2026-10-20/adam-se-despide-hoy-con-la-comunidad-valenciana-aun-en-naranja-y-avisos-en-otras-cuatro-comunidades.html",
+          "position": 50,
+          "focus": "Destaca las zonas (Baleares y Cataluña) donde persisten avisos por la dana que se despide"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "La dana Adam remite pero la inestabilidad y las lluvias seguirán hoy en estas zonas",
+          "link": "https://www.eldiario.es/sociedad/el-tiempo/dana-adam-remite-inestabilidad-lluvias-seguiran-hoy-zonas-pm_1_13597464.html",
+          "position": 50,
+          "focus": "Señala que aunque la dana remite, la inestabilidad y lluvias continuarán en ciertas zonas hoy"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Valencia deja hoy atrás las lluvias intensas, pero sin bajar la guardia",
+          "link": "https://www.lavanguardia.com/vida/20261020/11662998/valencia-deja-hoy-lluvias-intensas-bajar-guardia.html",
+          "position": 50,
+          "focus": "Se centra en Valencia, indicando que deja atrás las lluvias intensas pero sin relajar la prevención"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Espanol",
         "El Mundo"
       ]
     },
     {
-      "neutral_headline": "Tres piezas informan de hechos judiciales distintos: la orden de detención de Puigdemont y el recurso del Defensor del Pueblo sobre la 'ley de nietos'",
-      "section": "Politica",
+      "neutral_headline": "Italia despliega al Ejército en Milán tras protestas y saqueos",
+      "section": "Internacional",
       "facts": [
-        "El Pais: Llarena confirmó su decisión de levantar la orden de detención de Puigdemont",
-        "El Pais: la decisión de Llarena incluye críticas al Tribunal Constitucional",
-        "El Mundo: el Tribunal Constitucional remitió al Pleno la decisión sobre el recurso de amparo del Defensor del Pueblo relativo a la 'ley de nietos'",
-        "ABC: Manos Limpias presentó una denuncia contra el Defensor del Pueblo por su recurso ante el TC sobre la 'ley de nietos'",
-        "ABC: Manos Limpias calificó ese recurso de 'escándalo'"
+        "El Gobierno de Meloni envía 500 soldados a Milán (El País, El Español)",
+        "Se despliega el Ejército italiano en Milán (ABC, El Español)",
+        "El despliegue se produce tras dos noches de incidentes y saqueos (El País)",
+        "El despliegue se produce tras disturbios y saqueos de los últimos días (El Español)",
+        "El despliegue se presenta como respuesta a protestas en la ciudad (ABC)"
       ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "protesta social",
+        "polo_b": "disturbios/saqueos violentos",
+        "resumen": "ABC enmarca el hecho como respuesta a 'protestas', mientras El País y El Español subrayan 'incidentes y saqueos' como causa del despliegue militar."
+      },
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "Llarena confirma su decisión de levantar la orden de detención de Puigdemont con críticas al Constitucional",
-          "link": "https://elpais.com/espana/2026-10-19/llarena-confirma-su-decision-de-levantar-la-orden-de-detencion-de-puigdemont-con-criticas-al-constitucional.html",
-          "position": 50,
-          "focus": "Se centra en la confirmación judicial de Llarena sobre Puigdemont y sus críticas al TC; no aborda el asunto de la 'ley de nietos'"
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "El Constitucional deja en manos del Pleno la decisión sobre el amparo del Defensor del Pueblo en la 'ley de nietos'",
-          "link": "https://www.elmundo.es/espana/2026/10/19/6ad5d6bafc6c83be138b4576.html",
-          "position": 50,
-          "focus": "Describe el trámite procesal del TC al derivar al Pleno la decisión sobre el amparo del Defensor del Pueblo en la 'ley de nietos'; no menciona a Manos Limpias ni a Puigdemont"
+          "headline": "Meloni envía 500 soldados a Milán tras dos noches de incidentes y saqueos",
+          "link": "https://elpais.com/internacional/2026-10-19/meloni-envia-500-soldados-a-milan-tras-dos-noches-de-incidentes-y-saqueos.html",
+          "position": 70,
+          "focus": "Destaca la cifra de soldados y el origen del despliegue en 'incidentes y saqueos', enfatizando el desorden violento."
         },
         {
           "outlet": "ABC",
-          "headline": "Manos Limpias denuncia al Defensor del Pueblo por su recurso ante el TC sobre la 'ley de nietos': «Es un escándalo»",
-          "link": "https://www.abc.es/espana/manos-limpias-denuncia-defensor-pueblo-recurso-ante-20261019112424-nt.html",
-          "position": 50,
-          "focus": "Informa de la denuncia de Manos Limpias contra el Defensor del Pueblo por el mismo recurso de la 'ley de nietos', resaltando la calificación de 'escándalo'; no trata la decisión del TC ni el caso Puigdemont"
+          "headline": "Meloni despliega el Ejército para defender Milán de las protestas",
+          "link": "https://www.abc.es/internacional/meloni-despliega-ejercito-defender-milan-protestas-20261019200131-nt.html",
+          "position": 30,
+          "focus": "Centra el relato en 'protestas' y en la idea de 'defender' Milán, sin mencionar saqueos ni violencia explícita."
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Italia despliega al Ejército: envía 500 militares \"para defender\" Milán tras los disturbios y saqueos de los últimos días",
+          "link": "https://www.elespanol.com/mundo/europa/20261019/italia-despliega-ejercito-envia-militares-defender-milan-disturbios-ultimos-dias/1003744426870_0.html",
+          "position": 70,
+          "focus": "Combina la cifra de militares con el entrecomillado 'para defender', pero mantiene el término 'disturbios y saqueos' como causa."
         }
       ],
-      "rango": 0,
-      "discrepancia": "baja",
+      "rango": 40,
+      "discrepancia": "media",
       "silenciosos": [
         "20minutos",
-        "El Espanol",
+        "El Mundo",
         "La Vanguardia",
         "eldiario.es"
       ]
     },
     {
-      "neutral_headline": "Macron rechaza la dimisión del ministro del Interior tras los disturbios en Francia",
-      "section": "Politica",
+      "neutral_headline": "Muere el jugador de pádel Gustavo Oliva tras despedirse con una carta en redes sociales",
+      "section": "Deportes",
       "facts": [
-        "Macron rechazo la dimision del ministro del Interior",
-        "Hubo disturbios/violencia en Francia durante el fin de semana",
-        "El ministro del Interior es Laurent Nuñez (segun El Mundo)",
-        "Macron pidio mas contundencia contra los violentos (segun 20minutos)"
+        "Gustavo Oliva, jugador de pádel, ha muerto",
+        "Oliva se despidió públicamente mediante una carta en redes sociales antes de fallecer",
+        "El Mundo atribuye la muerte a un cáncer terminal de colon",
+        "ABC indica que Oliva tenía 58 años",
+        "Es descrito como un referente del pádel español"
       ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "respaldo sin matices a la gestion",
-        "polo_b": "cuestionamiento implicito de la gestion",
-        "resumen": "Algunos medios narran el rechazo de la dimision de forma neutra, mientras otros introducen un juicio sobre si la gestion de los disturbios fue deficiente"
-      },
+      "tipo_divergencia": "ninguna",
+      "eje": null,
       "frames": [
         {
-          "outlet": "El Pais",
-          "headline": "Macron rechaza la dimisión del ministro del Interior tras los disturbios del fin de semana",
-          "link": "https://elpais.com/internacional/2026-10-19/macron-rechaza-la-dimision-del-ministro-del-interior-tras-los-disturbios-del-fin-de-semana.html",
-          "position": 10,
-          "focus": "Describe el hecho de forma neutra: rechazo de la dimision tras los disturbios, sin calificar la gestion"
-        },
-        {
           "outlet": "El Mundo",
-          "headline": "Emmanuel Macron rechaza la dimisión del ministro de Interior Laurent Nuñez por la explosión de violencia en Francia",
-          "link": "https://www.elmundo.es/internacional/2026/10/19/6ad5cb13fc6c837b518b4590.html",
-          "position": 15,
-          "focus": "Anade el nombre del ministro y describe la violencia como 'explosion', pero mantiene tono descriptivo sin juicio sobre la gestion"
+          "headline": "Muere Gustavo Oliva, el referente del pádel español con un cáncer terminal de colon, que se despedía hace unos días en una emotiva carta",
+          "link": "https://www.elmundo.es/deportes/2026/10/20/6ad715f4fdddff9a688b4582.html",
+          "position": 50,
+          "focus": "Destaca su papel como referente del pádel y la causa médica (cáncer de colon); omite la edad exacta"
         },
         {
-          "outlet": "La Vanguardia",
-          "headline": "Macron rechaza la dimisión del ministro del Interior por el fiasco de los disturbios",
-          "link": "https://www.lavanguardia.com/internacional/20261019/11662471/macron-rechaza-dimision-ministro-interior-fiasco-disturbios.html",
-          "position": 85,
-          "focus": "Califica los disturbios como 'fiasco', introduciendo un juicio critico explicito sobre la gestion gubernamental"
+          "outlet": "ABC",
+          "headline": "Muere a los 58 años el jugador de pádel Gustavo Oliva tras despedirse con una dramática carta en redes sociales",
+          "link": "https://www.abc.es/gente/muere-anos-jugador-padel-gustavo-oliva-tras-20261020105401-nt.html",
+          "position": 50,
+          "focus": "Aporta la edad concreta (58 años) y califica la carta de 'dramática'; no menciona la causa médica"
         },
         {
           "outlet": "20minutos",
-          "headline": "Macron rechaza la dimisión del ministro del Interior y le pide más contundencia contra los violentos",
-          "link": "https://www.20minutos.es/internacional/macron-rechaza-dimision-ministro-interior-le-pide-mas-contundencia-contra-los-violentos-que-estan-incendiando-pais_7050370_0.html",
-          "position": 60,
-          "focus": "Destaca que Macron exige mas contundencia, lo que sugiere implicitamente que la respuesta previa fue insuficiente"
+          "headline": "Muere Gustavo Oliva, el referente del pádel que dijo adiós con una desgarradora carta: \"Mi vida llega a su fin\"",
+          "link": "https://www.20minutos.es/deportes/muere-gustavo-oliva-referente-padel-58-anos-que-se-despidio-con-una-desgarradora-carta-mi-vida-tierra-llega-su-fin_7050802_0.html",
+          "position": 50,
+          "focus": "Cita textualmente la carta de despedida y lo llama referente del pádel; no menciona edad ni causa médica"
         }
       ],
-      "rango": 75,
-      "discrepancia": "alta",
+      "rango": 0,
+      "discrepancia": "baja",
       "silenciosos": [
-        "ABC",
         "El Espanol",
+        "El Pais",
+        "La Vanguardia",
         "eldiario.es"
       ]
     },
     {
-      "neutral_headline": "Profesores cortan la A-3 en Madrid durante la cuarta jornada de huelga educativa",
+      "neutral_headline": "La dana Adam deja varios muertos y cientos de rescates en la Comunidad Valenciana",
       "section": "Sociedad",
       "facts": [
-        "Profesores cortaron la autovía A-3 en Madrid",
-        "El corte se produjo en el inicio/entrada de Madrid",
-        "Es la cuarta jornada de huelga educativa",
-        "El Pais y El Espanol cifran el grupo en 200 profesores",
-        "ABC senala que los profesores usaron pupitres en el corte"
+        "La dana Adam ha afectado a la Comunidad Valenciana",
+        "eldiario.es reporta cinco muertos y un millar de rescates",
+        "La Vanguardia informa de la localización de una sexta víctima",
+        "El Español cifra en tres los muertos, 145 pueblos confinados y 500 rescates",
+        "Se establecen comparaciones con la dana de 2024"
       ],
-      "tipo_divergencia": "ninguna",
+      "tipo_divergencia": "cronologica",
       "eje": null,
       "frames": [
         {
-          "outlet": "El Pais",
-          "headline": "Un grupo de 200 profesores corta la autovía A-3 en el inicio del cuarto día de huelga educativa de Madrid",
-          "link": "https://elpais.com/espana/madrid/2026-10-19/un-grupo-de-200-profesores-corta-la-autovia-a-3-en-el-inicio-del-cuarto-dia-de-huelga-educativa-de-madrid.html",
+          "outlet": "eldiario.es",
+          "headline": "Cinco muertos, un millar de rescates y registros históricos por la dana Adam: \"Mucha gente lo ha perdido todo como en 2024\"",
+          "link": "https://www.eldiario.es/comunitat-valenciana/cuatro-fallecidos-millar-rescates-registros-historicos-dana-adam-gente-perdido-2024_1_13598067.html",
           "position": 50,
-          "focus": "Destaca la cifra de participantes (200) y la ubicacion exacta del corte; no menciona el metodo usado"
+          "focus": "Destaca el balance de cinco muertos y el millar de rescates, con referencia explícita al trauma de 2024; no menciona pueblos confinados"
         },
         {
-          "outlet": "El Mundo",
-          "headline": "Los profesores en huelga cortan la A-3 en la entrada a Madrid",
-          "link": "https://www.elmundo.es/madrid/2026/10/19/6ad5bddde85ecec7428b4579.html",
+          "outlet": "La Vanguardia",
+          "headline": "Localizan a la sexta víctima tras el paso de la dana 'Adam' en la Comunidad Valenciana",
+          "link": "https://www.lavanguardia.com/local/valencia/20261020/11663429/localizan-cuarta-victima-dana-adam-marjal-pego-oliva.html",
           "position": 50,
-          "focus": "Se centra en la ubicacion (entrada a Madrid) sin dar cifra de participantes ni detalles del metodo"
-        },
-        {
-          "outlet": "ABC",
-          "headline": "Profesores cortan la A-3 con pupitres en la cuarta jornada de huelga educativa en Madrid",
-          "link": "https://www.abc.es/espana/madrid/profesores-cortan-acceso-m30-pupitres-cuarta-jornada-20261019092916-nt.html",
-          "position": 50,
-          "focus": "Anade el detalle visual de los pupitres usados para el corte, omite la cifra de participantes"
+          "focus": "Se centra en la actualización del número de víctimas mortales, confirmando una sexta; no detalla rescates ni pueblos afectados"
         },
         {
           "outlet": "El Espanol",
-          "headline": "Un grupo de 200 profesores corta la A3 en el inicio del cuarto día de la huelga de educación en Madrid",
-          "link": "https://www.elespanol.com/observatorio-educacion/20261019/grupo-profesores-corta-a3-inicio-cuarto-dia-huelga-educacion-madrid/1003744425617_0.html",
+          "headline": "Valencia revive el horror dos años después con la dana Adam: 3 muertos, 145 pueblos confinados y 500 rescates",
+          "link": "https://www.elespanol.com/valencia/comunitat/20261020/valencia-revive-horror-anos-despues-dana-adam-muertos-pueblos-confinados-rescates-dl/1003744426386_0.html",
           "position": 50,
-          "focus": "Igual que El Pais, destaca la cifra de 200 profesores y el momento del corte, sin detalles del metodo"
+          "focus": "Ofrece un balance más temprano con tres muertos, pero añade el dato de 145 pueblos confinados y 500 rescates"
         }
       ],
       "rango": 0,
       "discrepancia": "baja",
       "silenciosos": [
         "20minutos",
-        "La Vanguardia",
-        "eldiario.es"
-      ]
-    },
-    {
-      "neutral_headline": "Llarena levanta la orden de detención de Puigdemont tras aplicar la amnistía y cuestiona la actuación del Tribunal Constitucional",
-      "section": "Politica",
-      "facts": [
-        "El juez Llarena retira la orden de detención contra Carles Puigdemont",
-        "Llarena aplica la amnistía al expresident",
-        "Llarena critica al Tribunal Constitucional por la falta de 'mesura' o por sus descalificaciones",
-        "Puigdemont puede regresar a España sin ser detenido"
-      ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "foco en la crítica al TC / conflicto institucional",
-        "polo_b": "foco en la consecuencia práctica (regreso de Puigdemont)",
-        "resumen": "Los medios se dividen entre resaltar el choque de Llarena con el Constitucional o subrayar que Puigdemont ya puede volver a España"
-      },
-      "frames": [
-        {
-          "outlet": "El Mundo",
-          "headline": "Llarena ratifica la retirada de la orden de detención de Puigdemont pero critica la falta de \"mesura\" del TC: \"Los adjetivos no convierten en indiscutible lo que ha fracturado al Tribunal\"",
-          "link": "https://www.elmundo.es/espana/2026/10/19/6ad5d223e85ece27348b4599.html",
-          "position": 15,
-          "focus": "Centra el titular en la crítica de Llarena al TC y su falta de 'mesura', relegando el dato práctico del regreso"
-        },
-        {
-          "outlet": "ABC",
-          "headline": "El juez Llarena aplica la amnistía a Puigdemont sin necesidad de que el TC vea su amparo: ya puede volver a España",
-          "link": "https://www.abc.es/espana/llarena-aplica-amnistia-puigdemont-necesidad-tc-vea-20261019102132-nt.html",
-          "position": 90,
-          "focus": "Omite la crítica al TC y se centra exclusivamente en que Puigdemont ya puede volver a España"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "El juez Llarena critica al Constitucional pero confirma que Puigdemont puede volver a España sin ser detenido",
-          "link": "https://www.eldiario.es/catalunya/juez-llarena-critica-constitucional-confirma-puigdemont-volver-espana-detenido_1_13596182.html",
-          "position": 45,
-          "focus": "Equilibra ambos elementos: menciona la crítica al TC y confirma el regreso sin detención"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "El juez Llarena considera aplicable la amnistía a Puigdemont",
-          "link": "https://www.lavanguardia.com/politica/20261019/11662448/llarena-confirma-decision-retirar-provisionalmente-orden-detencion-puigdemont.html",
-          "position": 65,
-          "focus": "Se limita a constatar que la amnistía es aplicable, sin detallar la crítica ni el regreso concreto"
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "El juez Llarena retira la orden de detener a Puigdemont: acata el fallo del TC \"que no comparto\" y afea sus descalificaciones al TS",
-          "link": "https://www.elespanol.com/espana/tribunales/20261019/juez-llarena-retira-orden-detener-puigddemont-acata-fallo-tc-no-comparto-afea-descalificaciones-ts/1003744425386_0.html",
-          "position": 35,
-          "focus": "Resalta tanto el acatamiento del fallo como las descalificaciones de Llarena hacia el TC, con ligero énfasis en la crítica"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "Llarena confirma el levantamiento de la orden de detención de Puigdemont pero critica al Constitucional",
-          "link": "https://www.20minutos.es/nacional/llarena-critica-decision-tc-sobre-amnistia-pero-rechaza-reactivar-orden-detencion-puigdemont_7050347_0.html",
-          "position": 40,
-          "focus": "Combina la confirmación del levantamiento de la orden con la crítica al Constitucional, en equilibrio similar a eldiario.es"
-        }
-      ],
-      "rango": 75,
-      "discrepancia": "alta",
-      "silenciosos": [
-        "El Pais"
-      ]
-    },
-    {
-      "neutral_headline": "Disturbios en Francia dejan heridos y generan disputas sobre responsabilidades políticas",
-      "section": "Politica",
-      "facts": [
-        "Hubo disturbios y protestas en París durante el fin de semana (eldiario.es)",
-        "Una adolescente perdió un ojo durante las protestas en Francia (La Vanguardia)",
-        "20minutos precisa que la joven tiene 17 años y perdió la visión de un ojo por el impacto de un gas lacrimógeno",
-        "El Español informa que Macron atribuye la ola de violencia a la extrema izquierda, acusándola de buscar la caída de la República",
-        "eldiario.es recoge una declaración que vincula los disturbios a la falta de escucha y la represión del Gobierno"
-      ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "Responsabilidad del Gobierno/represión policial",
-        "polo_b": "Responsabilidad de la extrema izquierda (versión Macron)",
-        "resumen": "Los medios difieren en a quién señalan como causante de la violencia: la represión gubernamental o la extrema izquierda."
-      },
-      "frames": [
-        {
-          "outlet": "eldiario.es",
-          "headline": "Fin de semana caótico de disturbios y reivindicaciones en París: “Esto es lo que pasa cuando el Gobierno no escucha y reprime”",
-          "link": "https://www.eldiario.es/internacional/jornada-caotica-disturbios-reivindicaciones-paris-pasa-gobierno-no-escucha-reprime_1_13595669.html",
-          "position": 15,
-          "focus": "Destaca el malestar social y una voz que culpa al Gobierno de reprimir, omitiendo la versión oficial de Macron."
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Una adolescente pierde un ojo durante las protestas en Francia",
-          "link": "https://www.lavanguardia.com/internacional/20261019/11662382/adolescente-pierde-ojo-protestas-francia.html",
-          "position": 50,
-          "focus": "Se centra en la víctima (adolescente que pierde un ojo) sin atribuir responsabilidad política explícita."
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "Francia en llamas: Macron culpa a la extrema izquierda de buscar la caída de la República con una ola de violencia",
-          "link": "https://www.elespanol.com/mundo/europa/20261019/francia-llamas-macron-culpa-extrema-izquierda-buscar-caida-republica-ola-violencia/1003744425483_0.html",
-          "position": 90,
-          "focus": "Reproduce la versión de Macron que culpa a la extrema izquierda, dejando en segundo plano las críticas a la actuación policial."
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "Una joven de 17 años pierde la visión de un ojo por el impacto de gas lacrimógeno en las protestas en Francia",
-          "link": "https://www.20minutos.es/internacional/una-joven-17-anos-pierde-vision-un-ojo-por-impacto-gas-lacrimogeno-lanzado-por-policia-francesa_7050366_0.html",
-          "position": 50,
-          "focus": "Detalla el hecho físico (edad de la víctima, causa del gas lacrimógeno) sin señalar culpables políticos."
-        }
-      ],
-      "rango": 75,
-      "discrepancia": "alta",
-      "silenciosos": [
         "ABC",
         "El Mundo",
         "El Pais"
+      ]
+    },
+    {
+      "neutral_headline": "El Gobierno aprueba un decreto que amplía el derecho a la pensión de viudedad a parejas de hecho con hijos que acrediten dos años de convivencia",
+      "section": "Politica",
+      "facts": [
+        "El Gobierno aprueba un decreto sobre pensión de viudedad",
+        "Las parejas de hecho con hijos podrán acceder a la pensión de viudedad si acreditan dos años de convivencia",
+        "Según ABC, el decreto también extiende mejoras a víctimas de violencia de género"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Las parejas con hijos tendrán derecho a la pensión de viudedad si acreditan dos años de convivencia",
+          "link": "https://elpais.com/economia/2026-10-19/las-parejas-con-hijos-tendran-derecho-a-la-pension-de-viudedad-si-acreditan-dos-anos-de-convivencia.html",
+          "position": 50,
+          "focus": "Centra el titular en el requisito de los dos años de convivencia para parejas con hijos, sin mencionar otros colectivos beneficiados por el decreto"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "El Gobierno aprueba un decreto para extender las mejoras a viudas y víctimas de violencia de género",
+          "link": "https://www.abc.es/economia/gobierno-aprueba-decreto-extender-mejoras-sociales-viudas-20261020093504-nt.html",
+          "position": 50,
+          "focus": "Amplía el foco a dos colectivos beneficiados (viudas y víctimas de violencia de género), sin detallar el requisito específico de convivencia para parejas con hijos"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Las parejas con hijos que acrediten dos años de convivencia podrán recibir la pensión de viudedad",
+          "link": "https://www.eldiario.es/economia/parejas-hijos-acrediten-anos-convivencia-tendran-derecho-pension-viudedad_1_13599009.html",
+          "position": 50,
+          "focus": "Reitera el requisito de dos años de convivencia para parejas con hijos, igual que El País, sin mencionar otros colectivos"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Las parejas de hecho con hijos tendrán derecho a viudedad si acreditan dos años de convivencia",
+          "link": "https://www.lavanguardia.com/vida/20261020/11663375/parejas-hecho-hijos-pension-viudedad-dos-anos-convivencia.html",
+          "position": 50,
+          "focus": "Igual que El País y eldiario.es, centra el titular en parejas de hecho con hijos y el requisito de convivencia, sin mencionar otros beneficiarios"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "El Espanol",
+        "El Mundo"
       ]
     }
   ]
