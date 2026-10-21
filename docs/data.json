@@ -1,401 +1,211 @@
 {
-  "fecha": "2026-10-20T09:36:11.330817+00:00",
+  "fecha": "2026-10-21T09:33:13.632130+00:00",
   "esquema": 2,
   "historias": [
     {
-      "neutral_headline": "Feijóo confirma negociaciones con Vox para la configuración del Senado tras el 29N",
+      "neutral_headline": "Milei llama \"impresentable dictador\" a Sánchez y pide sacar a los socialistas a patadas durante su visita a Madrid",
       "section": "Politica",
       "facts": [
-        "Feijóo confirma negociaciones con Vox de cara a la configuración del Senado tras las elecciones del 29N",
-        "El Pais indica que Feijóo plantea ceder senadores autonómicos a Vox para que no se presente en algunas circunscripciones",
-        "El Mundo señala que PP y Vox quedan a 6 escaños del control total del Senado tras el frente de izquierdas",
-        "eldiario.es vincula la negociación con el objetivo de lograr una mayoría que permita controlar el Tribunal Constitucional",
-        "El Espanol recoge una declaración de Feijóo advirtiendo del riesgo de facilitar al 'sanchismo' el control directo o indirecto del Senado",
-        "20minutos recoge que Feijóo busca una fórmula para que el 'sanchismo' no controle el Senado tras el 29N"
+        "Milei calificó a Pedro Sánchez de \"impresentable dictador\"",
+        "Milei pidió \"sacar a los socialistas a patadas\"",
+        "Las declaraciones se produjeron en un acto en Madrid, España",
+        "El Mundo recoge además los calificativos \"delincuente, ladrón\" atribuidos a Milei",
+        "eldiario.es señala que fue su primer acto en España"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Milei llama en Madrid “impresentable dictador” a Sánchez y pide “sacar a patadas a los socialistas”",
+          "link": "https://elpais.com/espana/2026-10-21/milei-participa-en-un-desayuno-informativo-en-madrid-durante-su-visita-a-espana.html",
+          "position": 50,
+          "focus": "Recoge la cita central y el llamado a sacar a los socialistas, sin añadir calificativos extra"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Milei vuelve al choque con el Gobierno del \"impresentable dictador, delincuente, ladrón\" Pedro Sánchez: \"Hay que sacar a los socialistas a patadas\"",
+          "link": "https://www.elmundo.es/espana/2026/10/21/6ad87b4621efa0ed378b4574.html",
+          "position": 50,
+          "focus": "Amplía la cita con \"delincuente, ladrón\" y enmarca el hecho como continuidad de choques previos con el Gobierno"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Milei llama «dictador» a Sánchez e insta a los españoles a «sacar a patadas a los socialistas»",
+          "link": "https://www.abc.es/espana/javier-milei-llama-impresentable-dictador-pedro-sanchez-20261021103446-nt.html",
+          "position": 50,
+          "focus": "Resume la cita principal y el llamado a la acción política, estilo directo y breve"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Milei llama \"impresentable dictador\" a Pedro Sánchez en su primer acto en España",
+          "link": "https://www.eldiario.es/politica/milei-llama-impresentable-dictador-pedro-sanchez-primer-acto-espana_1_13602219.html",
+          "position": 50,
+          "focus": "Destaca que es su primer acto en España, situando el hecho en el contexto de la visita"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Milei tilda a Pedro Sánchez de \"impresentable dictador\" en su visita a Madrid",
+          "link": "https://www.20minutos.es/internacional/milei-madrid-ustedes-padecen-impresentable-dictador-pedro-sanchez_7051400_0.html",
+          "position": 50,
+          "focus": "Centra el titular en la visita a Madrid y la cita del \"impresentable dictador\""
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "El Espanol",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "PP y Vox negocian un pacto en el Senado con implicaciones sobre la composición del Tribunal Constitucional",
+      "section": "Politica",
+      "facts": [
+        "El Pais plantea si la derecha ganara el Senado y vincula el resultado a una posible retirada de Vox, segun encuestas",
+        "El Mundo informa que el Tribunal Constitucional busca una mayoria consistente sobre la 'ley de nietos' que desafia la dinamica de bloques",
+        "eldiario.es afirma que Feijoo confirma negociaciones con Vox para lograr una mayoria en el Senado que les permita controlar el Constitucional",
+        "El Espanol informa que PP y Vox negocian cuatro formulas para su pacto en el Senado, citando la importancia de alcanzar los 3/5"
       ],
       "tipo_divergencia": "editorial",
       "eje": {
-        "polo_a": "maniobra de poder (control institucional)",
-        "polo_b": "defensa legítima frente al sanchismo",
-        "resumen": "Los medios difieren en si presentan la negociación como una estrategia para copar instituciones (como el Constitucional) o como una respuesta defensiva de Feijóo frente a un supuesto avance del 'sanchismo'."
+        "polo_a": "maniobra partidista para controlar el Constitucional",
+        "polo_b": "proceso institucional o parlamentario neutral",
+        "resumen": "Los medios difieren en si enmarcan el pacto PP-Vox en el Senado como una estrategia para tomar el control del Tribunal Constitucional o como una negociacion politica ordinaria"
       },
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "Feijóo plantea ceder senadores autonómicos a Vox para que no se presente en algunas circunscripciones",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-10-20/feijoo-confirma-negociaciones-con-vox-para-las-listas-del-senado-si-estan-a-la-altura-el-pp-tambien.html",
-          "position": 35,
-          "focus": "Detalla el mecanismo concreto de la negociación (ceder senadores) sin atribuir motivación explícita, aunque la mención específica del reparto territorial sugiere un enfoque en la mecánica del pacto más que en su justificación."
+          "headline": "¿La derecha ganará el Senado? Las encuestas dicen que es clave la retirada de Vox",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-10-21/la-derecha-ganara-el-senado-las-encuestas-dicen-que-es-clave-la-retirada-de-vox.html",
+          "position": 55,
+          "focus": "Destaca el resultado electoral y el papel de Vox en las encuestas; omite cualquier mencion explicita al objetivo sobre el Constitucional"
         },
         {
           "outlet": "El Mundo",
-          "headline": "PP y Vox se quedan a 6 escaños del control total del Senado tras el frente de izquierdas",
-          "link": "https://www.elmundo.es/espana/encuestas/2026/10/19/6ad65700fc6c837b168b4590.html",
-          "position": 50,
-          "focus": "Se centra en el resultado electoral y la aritmética parlamentaria, sin entrar en las motivaciones o el relato de la negociación; omite el ángulo de las razones políticas."
+          "headline": "El Constitucional busca una \"mayoría consistente\" sobre la 'ley de nietos' que desafía la dinámica de bloques",
+          "link": "https://www.elmundo.es/espana/2026/10/20/6ad7a5b921efa0423b8b45bf.html",
+          "position": 75,
+          "focus": "Centra el relato en el propio Tribunal Constitucional buscando consenso institucional, alejandose del marco de disputa partidista entre PP y Vox"
         },
         {
           "outlet": "eldiario.es",
           "headline": "Feijóo confirma negociaciones con Vox para buscar una mayoría en el Senado que les permita controlar el Constitucional",
           "link": "https://www.eldiario.es/politica/feijoo-confirma-negociaciones-vox-buscar-mayoria-senado-les-permita-controlar-constitucional_1_13598996.html",
           "position": 15,
-          "focus": "Enfatiza que el objetivo final de la negociación sería controlar el Tribunal Constitucional, lo que enmarca la maniobra como una estrategia de poder institucional."
+          "focus": "Expone explicitamente que el fin de la negociacion PP-Vox es controlar el Constitucional, enmarcando el pacto como maniobra de poder"
         },
         {
           "outlet": "El Espanol",
-          "headline": "Feijóo confirma negociaciones con Vox: \"Sería un error facilitar al sanchismo el control directo o indirecto del Senado\"",
-          "link": "https://www.elespanol.com/espana/politica/20261020/feijoo-confirma-negociaciones-vox-error-facilitar-sanchismo-control-directo-indirecto-senado/1003744427126_0.html",
-          "position": 75,
-          "focus": "Reproduce la justificación de Feijóo en primera persona, centrada en evitar que el 'sanchismo' controle el Senado, legitimando su discurso defensivo."
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "Feijoo confirma que negocia con Vox una fórmula para que el \"sanchismo\" no logre controlar el Senado con el 29N",
-          "link": "https://www.20minutos.es/nacional/pp-vox-buscan-una-formula-para-no-facilitar-sanchismo-control-senado-pero-mantienen-discrecion_7050850_0.html",
-          "position": 75,
-          "focus": "Similar al anterior, adopta el marco lingüístico de Feijóo ('sanchismo') y presenta la negociación como una respuesta necesaria tras el 29N."
+          "headline": "\"Lo importante son los 3/5\": PP y Vox negocian cuatro fórmulas para su pacto en el Senado",
+          "link": "https://www.elespanol.com/espana/politica/20261021/importante-pp-vox-negocian-formulas-pacto-senado/1003744428617_0.html",
+          "position": 50,
+          "focus": "Describe los aspectos tecnicos de la negociacion (formulas, mayoria de 3/5) sin atribuir un objetivo politico explicito"
         }
       ],
       "rango": 60,
       "discrepancia": "alta",
       "silenciosos": [
-        "ABC",
-        "La Vanguardia"
-      ]
-    },
-    {
-      "neutral_headline": "Ayuso estudia trasladar temporalmente su despacho de Sol por la acampada, alegando motivos de seguridad",
-      "section": "Politica",
-      "facts": [
-        "Isabel Diaz Ayuso valora trasladar su despacho de forma temporal",
-        "El motivo alegado es la seguridad",
-        "La causa es la acampada instalada en la Puerta del Sol",
-        "Aun no se ha decidido el lugar al que se trasladaria (segun El Pais)",
-        "Ayuso declaro que el lugar actual no reune las condiciones de seguridad (segun 20minutos)"
-      ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "Ayuso trasladará su despacho “por seguridad” debido a la acampada en Sol, pero todavía no sabe dónde",
-          "link": "https://elpais.com/espana/madrid/2026-10-20/ayuso-trasladara-su-despacho-por-seguridad-debido-a-la-acampada-en-sol-pero-todavia-no-sabe-donde.html",
-          "position": 50,
-          "focus": "Destaca que aun no hay destino decidido para el traslado; describe el hecho con cautela informativa"
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "Ayuso valora trasladar \"temporalmente\" su despacho por \"seguridad\" a otras instalaciones de la Comunidad",
-          "link": "https://www.elmundo.es/madrid/2026/10/20/6ad7294fe4d4d868708b45a5.html",
-          "position": 50,
-          "focus": "Enfatiza el caracter temporal y pone entre comillas los terminos 'seguridad' y 'temporalmente' atribuidos a Ayuso"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "Ayuso pretende mover su despacho de Sol temporalmente por la acampada",
-          "link": "https://www.eldiario.es/madrid/ayuso-pretende-mover-despacho-sol-temporalmente-acampada_1_13598983.html",
-          "position": 50,
-          "focus": "Resume de forma directa la intencion de Ayuso sin anadir matices adicionales"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "Ayuso estudia el traslado temporal de su despacho por la acampada: \"No reúne las condiciones de seguridad\"",
-          "link": "https://www.20minutos.es/madrid/ayuso-estudia-traslado-temporal-su-despacho-por-acampada-sol-no-reune-las-condiciones-seguridad_7050903_0.html",
-          "position": 50,
-          "focus": "Incluye cita textual de Ayuso justificando la falta de condiciones de seguridad"
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "ABC",
-        "El Espanol",
-        "La Vanguardia"
-      ]
-    },
-    {
-      "neutral_headline": "Mónica García renuncia a la lista del Frente Amplio para el 29-N",
-      "section": "Politica",
-      "facts": [
-        "Mónica García renuncia a ir en la lista del Frente Amplio",
-        "El Mundo y La Vanguardia señalan que se centrará en la candidatura autonómica de Madrid frente a Ayuso",
-        "eldiario.es afirma que Tesh Sidi ocupará el número dos de la lista",
-        "El Pais cita una declaración de García: 'Siempre he antepuesto el bien común al personal'"
-      ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "estrategia personal centrada en Madrid/Ayuso",
-        "polo_b": "debilitamiento o crisis del Frente Amplio",
-        "resumen": "Algunos medios interpretan la renuncia como una apuesta estratégica de García por la Comunidad de Madrid, mientras otros la leen como síntoma de fragilidad o reducción del Frente Amplio"
-      },
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "Mónica García renuncia a la lista del Frente Amplio: “Siempre he antepuesto el bien común al personal”",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-10-20/monica-garcia-renuncia-a-la-lista-del-frente-amplio-siempre-he-antepuesto-el-bien-comun-al-personal.html",
-          "position": 45,
-          "focus": "Destaca la cita literal de García justificando su decisión, sin valorar el impacto en el Frente Amplio"
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "Mónica García renuncia a las listas del Frente Amplio y retoma su papel de candidata contra Ayuso en Madrid",
-          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/20/6ad719defdddff597d8b458e.html",
-          "position": 35,
-          "focus": "Enfatiza que retoma su papel de candidata contra Ayuso en Madrid, mostrando continuidad estratégica"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "Mónica García renuncia a ir en las listas del Frente Amplio para centrarse en las autonómicas y Tesh Sidi será la número dos",
-          "link": "https://www.eldiario.es/politica/monica-garcia-renuncia-listas-frente-amplio-centrarse-elecciones-autonomicas_1_13598869.html",
-          "position": 50,
-          "focus": "Informa de la renuncia y añade el dato del reemplazo (Tesh Sidi) sin juicio adicional"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Mónica García renuncia al 29-N y prioriza la batalla contra Ayuso en Madrid",
-          "link": "https://www.lavanguardia.com/politica/20261020/11663318/monica-garcia-renuncia-29-n-batalla-autonomica-ayuso.html",
-          "position": 35,
-          "focus": "Subraya que prioriza la batalla contra Ayuso en Madrid, enmarcando la decisión como táctica electoral"
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "El Frente Amplio, cada vez más estrecho: Mónica García renuncia a ser candidata en la lista de Madrid",
-          "link": "https://www.elespanol.com/espana/politica/20261020/frente-amplio-vez-estrecho-monica-garcia-renuncia-candidata-lista-madrid/1003744427064_0.html",
-          "position": 85,
-          "focus": "Interpreta la renuncia como señal de que el Frente Amplio se reduce o debilita, usando la metáfora 'cada vez más estrecho'"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "Mónica García renuncia a incorporarse a la lista de Frente Amplio",
-          "link": "https://www.20minutos.es/nacional/monica-garcia-renuncia-incorporarse-lista-frente-amplio-para-centrarse-las-elecciones-autonomicas_7050793_0.html",
-          "position": 50,
-          "focus": "Describe el hecho de forma escueta y neutral, sin añadir interpretación sobre causas o consecuencias"
-        }
-      ],
-      "rango": 50,
-      "discrepancia": "media",
-      "silenciosos": [
-        "ABC"
-      ]
-    },
-    {
-      "neutral_headline": "Hallado muerto un agricultor en la marjal de Pego-Oliva tras las inundaciones de la dana",
-      "section": "Sociedad",
-      "facts": [
-        "Se ha hallado muerto a un agricultor en la marjal de Pego-Oliva",
-        "La muerte se produjo tras las inundaciones causadas por la dana",
-        "eldiario.es y El Espanol identifican la dana como 'Adam'",
-        "eldiario.es cifra en cinco las muertes causadas por la dana hasta el momento",
-        "20minutos eleva a seis el número de víctimas mortales con este hallazgo"
-      ],
-      "tipo_divergencia": "cronologica",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "Hallado muerto un agricultor en la marjal de Pego-Oliva tras las inundaciones de la dana",
-          "link": "https://elpais.com/espana/comunidad-valenciana/2026-10-20/hallado-muerto-un-agricultor-en-la-marjal-de-pego-oliva-tras-las-inundaciones-de-la-dana.html",
-          "position": 50,
-          "focus": "Describe el hallazgo del cuerpo sin ofrecer balance de víctimas"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "Hallado el cadáver de un agricultor en la marjal de Pego-Oliva tras el paso de la dana Adam que ha causado cinco muertes",
-          "link": "https://www.eldiario.es/comunitat-valenciana/hallado-cadaver-agricultor-marjal-pego-oliva-paso-dana-adam-causado-cinco-muertes_1_13599159.html",
-          "position": 50,
-          "focus": "Nombra la dana (Adam) y da un balance de cinco muertes"
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "Hallan muerto a un agricultor en Oliva (Valencia) tras las inundaciones provocadas por la dana Adam",
-          "link": "https://www.elespanol.com/valencia/sucesos/20261020/hallan-muerto-agricultor-marjal-pego-oliva-inundaciones-dana-adam/1003744427166_0.html",
-          "position": 50,
-          "focus": "Nombra la dana (Adam) y localiza el hecho en Oliva sin dar balance total"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "Hallan muerto a un agricultor tras las inundaciones de la dana: ya son seis las víctimas mortales",
-          "link": "https://www.20minutos.es/nacional/ultimas-noticias-dana-adam-valencia-alicante-cataluna-almeria-lluvia-alertas-tiempo-inundaciones-rescates-directo_7050269_6.html",
-          "position": 50,
-          "focus": "Actualiza el balance a seis víctimas mortales, dato más reciente"
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "ABC",
-        "El Mundo",
-        "La Vanguardia"
-      ]
-    },
-    {
-      "neutral_headline": "La dana Adam remite pero se mantienen avisos y precauciones en varias zonas de España",
-      "section": "Sociedad",
-      "facts": [
-        "La dana Adam está remitiendo",
-        "El Pais señala avisos en Baleares y Cataluña",
-        "eldiario.es indica que la inestabilidad y las lluvias continuarán hoy en algunas zonas",
-        "La Vanguardia indica que Valencia deja atrás las lluvias intensas pero mantiene la guardia"
-      ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "‘Adam’ se despide con avisos en Baleares y Cataluña",
-          "link": "https://elpais.com/el-tiempo/2026-10-20/adam-se-despide-hoy-con-la-comunidad-valenciana-aun-en-naranja-y-avisos-en-otras-cuatro-comunidades.html",
-          "position": 50,
-          "focus": "Destaca las zonas (Baleares y Cataluña) donde persisten avisos por la dana que se despide"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "La dana Adam remite pero la inestabilidad y las lluvias seguirán hoy en estas zonas",
-          "link": "https://www.eldiario.es/sociedad/el-tiempo/dana-adam-remite-inestabilidad-lluvias-seguiran-hoy-zonas-pm_1_13597464.html",
-          "position": 50,
-          "focus": "Señala que aunque la dana remite, la inestabilidad y lluvias continuarán en ciertas zonas hoy"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Valencia deja hoy atrás las lluvias intensas, pero sin bajar la guardia",
-          "link": "https://www.lavanguardia.com/vida/20261020/11662998/valencia-deja-hoy-lluvias-intensas-bajar-guardia.html",
-          "position": 50,
-          "focus": "Se centra en Valencia, indicando que deja atrás las lluvias intensas pero sin relajar la prevención"
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
         "20minutos",
         "ABC",
-        "El Espanol",
-        "El Mundo"
+        "La Vanguardia"
       ]
     },
     {
-      "neutral_headline": "Italia despliega al Ejército en Milán tras protestas y saqueos",
-      "section": "Internacional",
+      "neutral_headline": "Detenido un hombre por la muerte a puñaladas de su pareja en Carabanchel",
+      "section": "Sociedad",
       "facts": [
-        "El Gobierno de Meloni envía 500 soldados a Milán (El País, El Español)",
-        "Se despliega el Ejército italiano en Milán (ABC, El Español)",
-        "El despliegue se produce tras dos noches de incidentes y saqueos (El País)",
-        "El despliegue se produce tras disturbios y saqueos de los últimos días (El Español)",
-        "El despliegue se presenta como respuesta a protestas en la ciudad (ABC)"
+        "Se ha detenido a un hombre como presunto autor del homicidio",
+        "La víctrima es una mujer que fue apuñalada",
+        "El hecho ocurrió en Carabanchel (Madrid)",
+        "El Mundo precisa que el detenido tiene 59 años y que el hecho ocurrió en un portal",
+        "20minutos indica que la víctima tenía 52 años",
+        "eldiario.es señala que el caso se investiga como violencia de género",
+        "20minutos lo describe como un posible caso de violencia de género",
+        "El Mundo y ABC identifican a la víctima como pareja del detenido"
       ],
       "tipo_divergencia": "editorial",
       "eje": {
-        "polo_a": "protesta social",
-        "polo_b": "disturbios/saqueos violentos",
-        "resumen": "ABC enmarca el hecho como respuesta a 'protestas', mientras El País y El Español subrayan 'incidentes y saqueos' como causa del despliegue militar."
+        "polo_a": "marco de pareja/crimen sin etiqueta de género",
+        "polo_b": "marco explícito de violencia de género",
+        "resumen": "Los medios difieren en si explicitan en el titular que el caso se investiga como violencia de género o lo presentan como un homicidio entre pareja sin esa etiqueta"
       },
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "Meloni envía 500 soldados a Milán tras dos noches de incidentes y saqueos",
-          "link": "https://elpais.com/internacional/2026-10-19/meloni-envia-500-soldados-a-milan-tras-dos-noches-de-incidentes-y-saqueos.html",
-          "position": 70,
-          "focus": "Destaca la cifra de soldados y el origen del despliegue en 'incidentes y saqueos', enfatizando el desorden violento."
+          "headline": "Detenido el presunto autor del crimen de la mujer apuñalada en una urbanización de Carabanchel",
+          "link": "https://elpais.com/espana/madrid/2026-10-21/detenido-el-presunto-asesino-de-una-mujer-en-una-urbanizacion-de-carabanchel.html",
+          "position": 30,
+          "focus": "Centra en la detención del presunto autor y la víctima apuñalada, sin mencionar relación de pareja ni violencia de género"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Detenido un hombre de 59 años por matar a puñaladas a su pareja en un portal de Carabanchel",
+          "link": "https://www.elmundo.es/madrid/2026/10/20/6ad79599e85ece4c208b45a7.html",
+          "position": 40,
+          "focus": "Detalla edad del detenido y que la víctima era su pareja, en un portal, sin mencionar explícitamente violencia de género"
         },
         {
           "outlet": "ABC",
-          "headline": "Meloni despliega el Ejército para defender Milán de las protestas",
-          "link": "https://www.abc.es/internacional/meloni-despliega-ejercito-defender-milan-protestas-20261019200131-nt.html",
-          "position": 30,
-          "focus": "Centra el relato en 'protestas' y en la idea de 'defender' Milán, sin mencionar saqueos ni violencia explícita."
+          "headline": "Detenido el hombre acusado de matar a puñaladas a su pareja en Carabanchel",
+          "link": "https://www.abc.es/espana/madrid/detenido-presunto-asesino-mujer-apunalada-carabanchel-20261021084909-nt.html",
+          "position": 40,
+          "focus": "Señala que el detenido es acusado de matar a su pareja, sin etiqueta explícita de violencia de género"
         },
         {
-          "outlet": "El Espanol",
-          "headline": "Italia despliega al Ejército: envía 500 militares \"para defender\" Milán tras los disturbios y saqueos de los últimos días",
-          "link": "https://www.elespanol.com/mundo/europa/20261019/italia-despliega-ejercito-envia-militares-defender-milan-disturbios-ultimos-dias/1003744426870_0.html",
+          "outlet": "eldiario.es",
+          "headline": "Detenido un hombre por el asesinato a puñaladas de una mujer en Carabanchel que se investiga como violencia de género",
+          "link": "https://www.eldiario.es/madrid/detenido-hombre-asesinato-punaladas-mujer-carabanchel-investiga-violencia-genero_1_13602056.html",
           "position": 70,
-          "focus": "Combina la cifra de militares con el entrecomillado 'para defender', pero mantiene el término 'disturbios y saqueos' como causa."
+          "focus": "Explicita que el caso se investiga como violencia de género, enmarcando el crimen en esa categoría"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Detenido por la muerte a puñaladas de una mujer de 52 años en un posible caso de violencia de género",
+          "link": "https://www.20minutos.es/madrid/detenido-un-hombre-por-muerte-punaladas-mujer-52-anos-carabanchel_7051345_0.html",
+          "position": 65,
+          "focus": "Menciona la edad de la víctima y plantea la violencia de género como hipótesis aún no confirmada"
         }
       ],
       "rango": 40,
       "discrepancia": "media",
       "silenciosos": [
-        "20minutos",
-        "El Mundo",
-        "La Vanguardia",
-        "eldiario.es"
+        "El Espanol",
+        "La Vanguardia"
       ]
     },
     {
-      "neutral_headline": "Muere el jugador de pádel Gustavo Oliva tras despedirse con una carta en redes sociales",
-      "section": "Deportes",
+      "neutral_headline": "Corte eléctrico generalizado en Ceuta por una avería",
+      "section": "Sociedad",
       "facts": [
-        "Gustavo Oliva, jugador de pádel, ha muerto",
-        "Oliva se despidió públicamente mediante una carta en redes sociales antes de fallecer",
-        "El Mundo atribuye la muerte a un cáncer terminal de colon",
-        "ABC indica que Oliva tenía 58 años",
-        "Es descrito como un referente del pádel español"
+        "Estados Unidos deniega a Ada Colau el visado para un encuentro de ciudades en Puerto Rico",
+        "Ceuta sufre un corte total de electricidad en toda la ciudad",
+        "La causa del corte es una averia",
+        "El Espanol situa el origen de la averia en la zona centro de la ciudad"
       ],
       "tipo_divergencia": "ninguna",
       "eje": null,
       "frames": [
         {
+          "outlet": "El Pais",
+          "headline": "Estados Unidos deniega a Ada Colau el visado para participar en un encuentro de ciudades en Puerto Rico",
+          "link": "https://elpais.com/espana/catalunya/2026-10-21/estados-unidos-deniega-a-ada-colau-el-visado-para-participar-en-un-encuentro-de-ciudades-en-puerto-rico.html",
+          "position": 50,
+          "focus": "Informa sobre la denegacion de visado a Ada Colau para un encuentro de ciudades en Puerto Rico, sin relacion con el apagon de Ceuta."
+        },
+        {
           "outlet": "El Mundo",
-          "headline": "Muere Gustavo Oliva, el referente del pádel español con un cáncer terminal de colon, que se despedía hace unos días en una emotiva carta",
-          "link": "https://www.elmundo.es/deportes/2026/10/20/6ad715f4fdddff9a688b4582.html",
+          "headline": "Ceuta sufre un \"cero energético\" al irse la luz en toda la ciudad por una avería",
+          "link": "https://www.elmundo.es/economia/2026/10/21/6ad87ca5e4d4d8f70e8b4599.html",
           "position": 50,
-          "focus": "Destaca su papel como referente del pádel y la causa médica (cáncer de colon); omite la edad exacta"
-        },
-        {
-          "outlet": "ABC",
-          "headline": "Muere a los 58 años el jugador de pádel Gustavo Oliva tras despedirse con una dramática carta en redes sociales",
-          "link": "https://www.abc.es/gente/muere-anos-jugador-padel-gustavo-oliva-tras-20261020105401-nt.html",
-          "position": 50,
-          "focus": "Aporta la edad concreta (58 años) y califica la carta de 'dramática'; no menciona la causa médica"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "Muere Gustavo Oliva, el referente del pádel que dijo adiós con una desgarradora carta: \"Mi vida llega a su fin\"",
-          "link": "https://www.20minutos.es/deportes/muere-gustavo-oliva-referente-padel-58-anos-que-se-despidio-con-una-desgarradora-carta-mi-vida-tierra-llega-su-fin_7050802_0.html",
-          "position": 50,
-          "focus": "Cita textualmente la carta de despedida y lo llama referente del pádel; no menciona edad ni causa médica"
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "El Espanol",
-        "El Pais",
-        "La Vanguardia",
-        "eldiario.es"
-      ]
-    },
-    {
-      "neutral_headline": "La dana Adam deja varios muertos y cientos de rescates en la Comunidad Valenciana",
-      "section": "Sociedad",
-      "facts": [
-        "La dana Adam ha afectado a la Comunidad Valenciana",
-        "eldiario.es reporta cinco muertos y un millar de rescates",
-        "La Vanguardia informa de la localización de una sexta víctima",
-        "El Español cifra en tres los muertos, 145 pueblos confinados y 500 rescates",
-        "Se establecen comparaciones con la dana de 2024"
-      ],
-      "tipo_divergencia": "cronologica",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "eldiario.es",
-          "headline": "Cinco muertos, un millar de rescates y registros históricos por la dana Adam: \"Mucha gente lo ha perdido todo como en 2024\"",
-          "link": "https://www.eldiario.es/comunitat-valenciana/cuatro-fallecidos-millar-rescates-registros-historicos-dana-adam-gente-perdido-2024_1_13598067.html",
-          "position": 50,
-          "focus": "Destaca el balance de cinco muertos y el millar de rescates, con referencia explícita al trauma de 2024; no menciona pueblos confinados"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Localizan a la sexta víctima tras el paso de la dana 'Adam' en la Comunidad Valenciana",
-          "link": "https://www.lavanguardia.com/local/valencia/20261020/11663429/localizan-cuarta-victima-dana-adam-marjal-pego-oliva.html",
-          "position": 50,
-          "focus": "Se centra en la actualización del número de víctimas mortales, confirmando una sexta; no detalla rescates ni pueblos afectados"
+          "focus": "Describe el apagon total en Ceuta y lo atribuye a una averia, sin precisar su ubicacion."
         },
         {
           "outlet": "El Espanol",
-          "headline": "Valencia revive el horror dos años después con la dana Adam: 3 muertos, 145 pueblos confinados y 500 rescates",
-          "link": "https://www.elespanol.com/valencia/comunitat/20261020/valencia-revive-horror-anos-despues-dana-adam-muertos-pueblos-confinados-rescates-dl/1003744426386_0.html",
+          "headline": "Ceuta sufre un \"cero energético\" al irse la luz en toda la ciudad por una avería que ha tenido su origen en la zona centro",
+          "link": "https://www.elespanol.com/espana/20261021/ceuta-sufre-cero-energetico-irse-luz-toda-ciudad-averia-origen-zona-centro/1003744428966_0.html",
           "position": 50,
-          "focus": "Ofrece un balance más temprano con tres muertos, pero añade el dato de 145 pueblos confinados y 500 rescates"
+          "focus": "Describe el mismo apagon en Ceuta y anade el dato de que la averia se origino en la zona centro."
         }
       ],
       "rango": 0,
@@ -403,48 +213,173 @@
       "silenciosos": [
         "20minutos",
         "ABC",
-        "El Mundo",
-        "El Pais"
+        "La Vanguardia",
+        "eldiario.es"
       ]
     },
     {
-      "neutral_headline": "El Gobierno aprueba un decreto que amplía el derecho a la pensión de viudedad a parejas de hecho con hijos que acrediten dos años de convivencia",
-      "section": "Politica",
+      "neutral_headline": "Ceuta sufre un apagón total en toda la ciudad por una avería eléctrica",
+      "section": "Sociedad",
       "facts": [
-        "El Gobierno aprueba un decreto sobre pensión de viudedad",
-        "Las parejas de hecho con hijos podrán acceder a la pensión de viudedad si acreditan dos años de convivencia",
-        "Según ABC, el decreto también extiende mejoras a víctimas de violencia de género"
+        "Se produjo un corte total de electricidad (\"cero energético\") en toda la ciudad de Ceuta",
+        "La causa fue una avería",
+        "El Español señala que la avería tuvo su origen en la zona centro"
       ],
       "tipo_divergencia": "ninguna",
       "eje": null,
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "Las parejas con hijos tendrán derecho a la pensión de viudedad si acreditan dos años de convivencia",
-          "link": "https://elpais.com/economia/2026-10-19/las-parejas-con-hijos-tendran-derecho-a-la-pension-de-viudedad-si-acreditan-dos-anos-de-convivencia.html",
+          "headline": "Ceuta sufre un “cero energético” al irse la luz en toda la ciudad por una avería",
+          "link": "https://elpais.com/economia/2026-10-21/ceuta-sufre-un-cero-energetico-al-irse-la-luz-en-toda-la-ciudad-por-una-averia.html",
           "position": 50,
-          "focus": "Centra el titular en el requisito de los dos años de convivencia para parejas con hijos, sin mencionar otros colectivos beneficiados por el decreto"
+          "focus": "Informa del apagón total y la avería como causa, sin precisar origen geográfico"
         },
         {
-          "outlet": "ABC",
-          "headline": "El Gobierno aprueba un decreto para extender las mejoras a viudas y víctimas de violencia de género",
-          "link": "https://www.abc.es/economia/gobierno-aprueba-decreto-extender-mejoras-sociales-viudas-20261020093504-nt.html",
+          "outlet": "El Mundo",
+          "headline": "Ceuta sufre un \"cero energético\" al irse la luz en toda la ciudad por una avería",
+          "link": "https://www.elmundo.es/economia/2026/10/21/6ad87ca5e4d4d8f70e8b4599.html",
           "position": 50,
-          "focus": "Amplía el foco a dos colectivos beneficiados (viudas y víctimas de violencia de género), sin detallar el requisito específico de convivencia para parejas con hijos"
+          "focus": "Informa del apagón total y la avería como causa, sin precisar origen geográfico"
         },
+        {
+          "outlet": "El Espanol",
+          "headline": "Ceuta sufre un \"cero energético\" al irse la luz en toda la ciudad por una avería que ha tenido su origen en la zona centro",
+          "link": "https://www.elespanol.com/espana/20261021/ceuta-sufre-cero-energetico-irse-luz-toda-ciudad-averia-origen-zona-centro/1003744428966_0.html",
+          "position": 50,
+          "focus": "Añade el dato de que la avería se originó en la zona centro, complementando sin contradecir"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "El Gobierno de Trump deniega a Ada Colau la entrada a Puerto Rico para un acto",
+      "section": "Politica",
+      "facts": [
+        "El Gobierno de Trump deniega la entrada de Ada Colau a Puerto Rico para un acto",
+        "Ada Colau participó en la Flotilla de ayuda a Gaza, según El Español",
+        "El Gobierno de Trump atribuye la denegación a 'motivos políticos', según eldiario.es",
+        "Ada Colau denuncia que la denegación fue por 'motivos ideológicos', según 20minutos"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "causa vaga/genérica (política o ideológica)",
+        "polo_b": "causa concreta (activismo en la Flotilla de Gaza)",
+        "resumen": "los medios difieren en si explicitan el motivo concreto del veto (la Flotilla a Gaza) o lo dejan en una atribución genérica a motivos políticos/ideológicos"
+      },
+      "frames": [
         {
           "outlet": "eldiario.es",
-          "headline": "Las parejas con hijos que acrediten dos años de convivencia podrán recibir la pensión de viudedad",
-          "link": "https://www.eldiario.es/economia/parejas-hijos-acrediten-anos-convivencia-tendran-derecho-pension-viudedad_1_13599009.html",
+          "headline": "El Gobierno de Trump deniega a Ada Colau la entrada a Puerto Rico para un acto: \"Ha sido por motivos políticos\"",
+          "link": "https://www.eldiario.es/politica/gobierno-trump-deniega-ada-colau-entrada-puerto-rico-acto-sido-motivos-politicos_1_13597972.html",
+          "position": 40,
+          "focus": "cita al Gobierno de Trump explicando el veto como 'motivos políticos', sin especificar la causa concreta"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "El Gobierno de Trump niega la entrada de Ada Colau en Puerto Rico por participar en la Flotilla de ayuda a Gaza",
+          "link": "https://www.elespanol.com/espana/20261021/gobierno-trump-niega-entrada-ada-colau-puerto-rico-participar-flotilla-ayuda-gaza/1003744428886_0.html",
+          "position": 75,
+          "focus": "explicita la causa concreta: la participación de Colau en la Flotilla de ayuda a Gaza, dando contexto específico al veto"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Ada Colau denuncia que Trump le ha vetado la entrada a Puerto Rico \"por motivos ideológicos\"",
+          "link": "https://www.20minutos.es/cataluna/barcelona/ada-colau-denuncia-que-trump-le-ha-vetado-entrada-puerto-rico-por-motivos-ideologicos_7051431_0.html",
+          "position": 40,
+          "focus": "enmarca el hecho como denuncia de Colau, usando el término 'motivos ideológicos' sin precisar la causa concreta"
+        }
+      ],
+      "rango": 35,
+      "discrepancia": "media",
+      "silenciosos": [
+        "ABC",
+        "El Mundo",
+        "El Pais",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "El exconseller Lluís Puig regresa a Catalunya tras nueve años en Bélgica",
+      "section": "Politica",
+      "facts": [
+        "Lluís Puig regresa a Catalunya tras nueve años viviendo en Bélgica",
+        "El regreso se produce tras el aval del Tribunal Constitucional a la amnistía (según 20minutos)",
+        "Puig asistirá el jueves al pleno del Parlament (según La Vanguardia)"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "eldiario.es",
+          "headline": "El exconseller Lluís Puig vuelve a Catalunya tras nueve años en Bélgica",
+          "link": "https://www.eldiario.es/catalunya/exconseller-lluis-puig-vuelve-catalunya-nueve-anos-belgica_1_13601956.html",
           "position": 50,
-          "focus": "Reitera el requisito de dos años de convivencia para parejas con hijos, igual que El País, sin mencionar otros colectivos"
+          "focus": "Se centra en el hecho del regreso y la duración del exilio en Bélgica, sin añadir detalles sobre la causa legal ni la agenda posterior"
         },
         {
           "outlet": "La Vanguardia",
-          "headline": "Las parejas de hecho con hijos tendrán derecho a viudedad si acreditan dos años de convivencia",
-          "link": "https://www.lavanguardia.com/vida/20261020/11663375/parejas-hecho-hijos-pension-viudedad-dos-anos-convivencia.html",
+          "headline": "Lluís Puig regresa a Catalunya y asistirá el jueves al pleno del Parlament",
+          "link": "https://www.lavanguardia.com/politica/20261020/11662810/lluis-puig-vuelve-miercoles-catalunya-asistira-jueves-pleno-parlament.html",
           "position": 50,
-          "focus": "Igual que El País y eldiario.es, centra el titular en parejas de hecho con hijos y el requisito de convivencia, sin mencionar otros beneficiarios"
+          "focus": "Añade el dato de su próxima actividad pública, la asistencia al pleno del Parlament"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "El 'exconseller' Lluís Puig ya está en España tras el aval del Constitucional a la amnistía y después de 9 años viviendo en Bélgica",
+          "link": "https://www.20minutos.es/nacional/exconseller-lluis-puig-regresa-espana-tras-aval-constitucional-amnistia-despues-9-anos-extranjero_7051338_0.html",
+          "position": 50,
+          "focus": "Incluye la causa jurídica del regreso, el aval del Constitucional a la amnistía"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "ABC",
+        "El Espanol",
+        "El Mundo",
+        "El Pais"
+      ]
+    },
+    {
+      "neutral_headline": "La ONU reconoce que el calentamiento global superará los 1,5°C fijados en el Acuerdo de París",
+      "section": "Internacional",
+      "facts": [
+        "La ONU señala que no se cumplirá el objetivo de limitar el calentamiento a 1,5 grados",
+        "El Acuerdo de París establecía ese umbral como meta",
+        "ABC indica que el nuevo tope de referencia sería de 1,8 grados",
+        "El Pais describe la respuesta de la ONU como un 'plan B'"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "La ONU asume la “dura realidad”: el mundo superará los 1,5 grados y activa un plan B",
+          "link": "https://elpais.com/clima-y-medio-ambiente/2026-10-21/la-onu-asume-la-dura-realidad-el-mundo-superara-los-15-grados-y-activa-un-plan-b.html",
+          "position": 50,
+          "focus": "Enfatiza la aceptación de la ONU de la 'dura realidad' y la existencia de un plan alternativo, sin detallar cifras del nuevo objetivo"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "La ONU cambia de objetivo climático: el umbral de 1,5ºC se queda obsoleto y fija de nuevo tope 1,8º",
+          "link": "https://www.abc.es/sociedad/onu-supera-objetivo-climatico-centrarse-grados-20261021083103-nt.html",
+          "position": 50,
+          "focus": "Destaca el cambio de objetivo numerico concreto (1,8°) y describe el umbral anterior como obsoleto"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "La ONU ve imposible que el calentamiento se frene en los 1,5 ºC, meta del Acuerdo de París",
+          "link": "https://www.lavanguardia.com/natural/20261021/11663785/onu-ve-imposible-calentamiento-frene-1-5-c-meta-acuerdo-paris.html",
+          "position": 50,
+          "focus": "Centra el titular en la imposibilidad de cumplir la meta original del Acuerdo de Paris, sin mencionar un nuevo objetivo numerico"
         }
       ],
       "rango": 0,
@@ -452,7 +387,156 @@
       "silenciosos": [
         "20minutos",
         "El Espanol",
-        "El Mundo"
+        "El Mundo",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "El PSG vence al Barcelona en la Champions League",
+      "section": "Deportes",
+      "facts": [
+        "El PSG ganó al Barcelona en un partido de la Champions League",
+        "El partido se jugó en París (según 20minutos)",
+        "Luis Enrique dirige al PSG (según El País)"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "Barça dominado sin mérito",
+        "polo_b": "Barça compitió de igual a igual",
+        "resumen": "Los medios varían en cuánto crédito otorgan al rendimiento del Barça frente a la superioridad del PSG"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "El PSG de Luis Enrique alecciona al Barcelona en la Champions",
+          "link": "https://elpais.com/deportes/futbol/2026-10-20/el-psg-de-luis-enrique-alecciona-al-barcelona-en-la-champions.html",
+          "position": 20,
+          "focus": "Enfatiza la lección impartida por el PSG, minimizando la resistencia del Barça"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "La máquina casi perfecta del PSG atasca a un Barça contestón",
+          "link": "https://www.elmundo.es/deportes/futbol/champions-league/2026/10/20/6ad7bd35e4d4d87c058b45c0.html",
+          "position": 35,
+          "focus": "Destaca la perfección del PSG pero reconoce que el Barça fue 'contestón', dando cierto mérito al rival"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "El PSG doblega a un Barça que planta cara",
+          "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20261020/11663775/inmenso-psg-noquea-barca-final.html",
+          "position": 40,
+          "focus": "Describe al PSG como superior pero resalta que el Barça 'plantó cara', equilibrando algo el relato"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "El campeón de la Champions es demasiado para un buen Barça: el PSG se impone en un partidazo en París",
+          "link": "https://www.20minutos.es/deportes/futbol/psg-barcelona-champions-league-directo-marcador-goles-ultima-hora-jornada-3-fase-liga_7051177_6.html",
+          "position": 55,
+          "focus": "Resalta que el Barça jugó bien y que fue un partidazo, dando más protagonismo al mérito azulgrana"
+        }
+      ],
+      "rango": 35,
+      "discrepancia": "media",
+      "silenciosos": [
+        "ABC",
+        "El Espanol",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "La dana Adam deja seis víctimas mortales y afecta a campistas y poblaciones, con comparaciones a la dana anterior",
+      "section": "Sociedad",
+      "facts": [
+        "La dana Adam ha dejado seis víctimas mortales: dos bañistas, un conductor, un campista, una anciana con movilidad reducida y una espectadora de un partido de baloncesto juvenil (El Mundo)",
+        "eldiario.es compara esta dana con otra anterior que dejó 233 fallecidos",
+        "Según eldiario.es, en esta ocasión hubo confinamientos y el presidente estuvo desde el principio en el Cecopi",
+        "Unos campistas holandeses vieron su caravana inundada por la dana (La Vanguardia)",
+        "Los campistas afectados declaran no saber cómo volver a su país (La Vanguardia)"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "relato humano/testimonial de las víctimas",
+        "polo_b": "evaluación de la gestión institucional de la crisis",
+        "resumen": "El Mundo y La Vanguardia centran su relato en las víctimas y afectados de forma individual, mientras eldiario.es enmarca el suceso como un caso de éxito en la gestión institucional al compararlo con una dana anterior más letal"
+      },
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "Las seis víctimas que deja la dana Adam: dos bañistas, un conductor, un campista, una anciana con movilidad reducida y una espectadora de un partido de baloncesto juvenil",
+          "link": "https://www.elmundo.es/espana/2026/10/20/6ad7b3dffdddff6a428b45b5.html",
+          "position": 10,
+          "focus": "Enumera y detalla el perfil de cada una de las seis víctimas mortales, sin mencionar la respuesta institucional"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "El contraste de Adam con la dana de los 233 fallecidos: confinamientos y un president desde el principio en el Cecopi",
+          "link": "https://www.eldiario.es/comunitat-valenciana/contraste-adam-dana-233-fallecidos-confinamientos-president-principio-cecopi_1_13596800.html",
+          "position": 88,
+          "focus": "Destaca la gestión institucional (confinamientos, presencia del president en el Cecopi) comparándola favorablemente con una dana anterior más mortífera; omite detalle de las víctimas de Adam"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Los campistas holandeses a los que la dana inundó su caravana: “No sabemos cómo volver”",
+          "link": "https://www.lavanguardia.com/local/valencia/20261021/11663852/campistas-holandeses-dana-inundo-autocarvana-como-volver.html",
+          "position": 18,
+          "focus": "Se centra en el testimonio humano de unos campistas extranjeros afectados, sin abordar la gestión institucional ni el balance total de víctimas"
+        }
+      ],
+      "rango": 78,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Espanol",
+        "El Pais"
+      ]
+    },
+    {
+      "neutral_headline": "Disturbios en Francia generan distintas lecturas políticas: inmigración, orden público y liderazgo de Macron",
+      "section": "Internacional",
+      "facts": [
+        "Hay disturbios en curso en Francia",
+        "Trump y partidos de ultraderecha europea están usando los disturbios para hablar de inmigración (El Mundo)",
+        "Resurge el debate sobre la integración en las periferias francesas (El Mundo)",
+        "La violencia facilita un mensaje de 'ley y orden' de la derecha y la ultraderecha (eldiario.es)",
+        "Macron es descrito como políticamente debilitado o impotente ante la crisis (La Vanguardia)"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "causa: inmigración/integración",
+        "polo_b": "causa: fracaso de liderazgo político (Macron)",
+        "resumen": "Los medios difieren en si el foco explicativo de los disturbios es el problema migratorio/de integración o la debilidad del gobierno de Macron"
+      },
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "Trump y la ultraderecha europea usan los disturbios de Francia contra la inmigración mientras vuelve a aflorar el problema de la integración en las periferias",
+          "link": "https://www.elmundo.es/internacional/2026/10/20/6ad79335e9cf4a971a8b45b0.html",
+          "position": 15,
+          "focus": "Destaca el uso político de los disturbios por la ultraderecha y vincula el conflicto al fracaso de integración de inmigrantes; omite la gestión gubernamental de Macron"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "La violencia en Francia allana el camino al mensaje de ley y orden de la derecha y la ultraderecha",
+          "link": "https://www.eldiario.es/politica/violencia-francia-allana-camino-mensaje-ley-orden-derecha-ultraderecha_129_13600648.html",
+          "position": 40,
+          "focus": "Señala cómo la violencia beneficia electoralmente a la derecha y ultraderecha con un discurso de orden público, sin profundizar en causas migratorias ni en la figura de Macron"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "La agonía de un Macron impotente se suma a los disturbios en las calles de Francia",
+          "link": "https://www.lavanguardia.com/internacional/20261021/11663822/agonia-macron-impotente.html",
+          "position": 90,
+          "focus": "Centra el relato en la debilidad política de Macron frente a la crisis, sin mencionar causas sociales o migratorias ni el aprovechamiento político de la derecha"
+        }
+      ],
+      "rango": 75,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Espanol",
+        "El Pais"
       ]
     }
   ]
