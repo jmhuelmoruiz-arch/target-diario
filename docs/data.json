@@ -1,109 +1,120 @@
 {
-  "fecha": "2026-10-21T09:33:13.632130+00:00",
+  "fecha": "2026-10-22T09:35:30.492078+00:00",
   "esquema": 2,
   "historias": [
     {
-      "neutral_headline": "Milei llama \"impresentable dictador\" a Sánchez y pide sacar a los socialistas a patadas durante su visita a Madrid",
+      "neutral_headline": "Feijóo coloca a Álvarez de Toledo como número dos y a Sémper como número tres en la lista del PP por Madrid",
       "section": "Politica",
       "facts": [
-        "Milei calificó a Pedro Sánchez de \"impresentable dictador\"",
-        "Milei pidió \"sacar a los socialistas a patadas\"",
-        "Las declaraciones se produjeron en un acto en Madrid, España",
-        "El Mundo recoge además los calificativos \"delincuente, ladrón\" atribuidos a Milei",
-        "eldiario.es señala que fue su primer acto en España"
+        "Feijóo encabeza la lista del PP por Madrid",
+        "Cayetana Álvarez de Toledo ocupa el puesto número dos",
+        "Borja Sémper ocupa el puesto número tres",
+        "La lista es para las elecciones del 29N"
       ],
       "tipo_divergencia": "ninguna",
       "eje": null,
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "Milei llama en Madrid “impresentable dictador” a Sánchez y pide “sacar a patadas a los socialistas”",
-          "link": "https://elpais.com/espana/2026-10-21/milei-participa-en-un-desayuno-informativo-en-madrid-durante-su-visita-a-espana.html",
+          "headline": "Álvarez de Toledo y Sémper serán los números dos y tres de Feijóo en la lista por Madrid",
+          "link": "https://elpais.com/espana/2026-10-22/alvarez-de-toledo-y-semper-seran-los-numeros-dos-y-tres-de-feijoo-en-la-lista-por-madrid.html",
           "position": 50,
-          "focus": "Recoge la cita central y el llamado a sacar a los socialistas, sin añadir calificativos extra"
+          "focus": "Informa de la composición de la lista sin valoraciones"
         },
         {
           "outlet": "El Mundo",
-          "headline": "Milei vuelve al choque con el Gobierno del \"impresentable dictador, delincuente, ladrón\" Pedro Sánchez: \"Hay que sacar a los socialistas a patadas\"",
-          "link": "https://www.elmundo.es/espana/2026/10/21/6ad87b4621efa0ed378b4574.html",
+          "headline": "Feijóo confirma el ascenso de Cayetana Álvarez de Toledo como número dos y mantiene a Sémper como tres: \"En el PP caben todas las sensibilidades\"",
+          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/22/6ad9b4a3e9cf4ab91c8b4595.html",
           "position": 50,
-          "focus": "Amplía la cita con \"delincuente, ladrón\" y enmarca el hecho como continuidad de choques previos con el Gobierno"
+          "focus": "Incluye cita de Feijóo sobre la pluralidad del PP"
         },
         {
           "outlet": "ABC",
-          "headline": "Milei llama «dictador» a Sánchez e insta a los españoles a «sacar a patadas a los socialistas»",
-          "link": "https://www.abc.es/espana/javier-milei-llama-impresentable-dictador-pedro-sanchez-20261021103446-nt.html",
+          "headline": "Feijóo apuesta por el 'efecto Cayetana' para ser su número dos por Madrid",
+          "link": "https://www.abc.es/espana/feijoo-elige-alvarez-toledo-numero-dos-lista-20261022090434-nt.html",
           "position": 50,
-          "focus": "Resume la cita principal y el llamado a la acción política, estilo directo y breve"
+          "focus": "Usa la expresión 'efecto Cayetana' para describir la apuesta de Feijóo"
         },
         {
           "outlet": "eldiario.es",
-          "headline": "Milei llama \"impresentable dictador\" a Pedro Sánchez en su primer acto en España",
-          "link": "https://www.eldiario.es/politica/milei-llama-impresentable-dictador-pedro-sanchez-primer-acto-espana_1_13602219.html",
+          "headline": "Feijóo elige a Cayetana Álvarez de Toledo como 'número dos' por Madrid y a Borja Sémper como 'número tres'",
+          "link": "https://www.eldiario.es/politica/feijoo-elige-cayetana-alvarez-toledo-numero-madrid-borja-semper-numero-tres_1_13605274.html",
           "position": 50,
-          "focus": "Destaca que es su primer acto en España, situando el hecho en el contexto de la visita"
+          "focus": "Describe la elección de Feijóo de forma directa"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Álvarez de Toledo y Sémper acompañarán a Feijóo en la lista por Madrid para las elecciones",
+          "link": "https://www.lavanguardia.com/politica/20261022/11665185/alvarez-toledo-semper-acompanaran-feijoo-lista-madrid-elecciones-29-n.html",
+          "position": 50,
+          "focus": "Centra el titular en el acompañamiento de ambos a Feijóo"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Álvarez de Toledo y Sémper, dos y tres en la lista de Feijóo: \"Perfiles distintos unidos para hacer un país mejor\", dice el PP",
+          "link": "https://www.elespanol.com/espana/politica/20261022/cayetana-semper-lista-feijoo-perfiles-distintos-unidos-hacer-pais-mejor/1003744428338_0.html",
+          "position": 50,
+          "focus": "Incluye cita del PP sobre unir perfiles distintos"
         },
         {
           "outlet": "20minutos",
-          "headline": "Milei tilda a Pedro Sánchez de \"impresentable dictador\" en su visita a Madrid",
-          "link": "https://www.20minutos.es/internacional/milei-madrid-ustedes-padecen-impresentable-dictador-pedro-sanchez_7051400_0.html",
+          "headline": "El PP revela sus 2 y 3 en la lista de Madrid para las elecciones del 29N",
+          "link": "https://www.20minutos.es/nacional/feijoo-confirma-que-cayetana-alvarez-toledo-sera-su-numero-2-por-madrid-borja-semper-numero-3_7051877_0.html",
           "position": 50,
-          "focus": "Centra el titular en la visita a Madrid y la cita del \"impresentable dictador\""
+          "focus": "Presenta la noticia como revelación de la lista electoral"
         }
       ],
       "rango": 0,
       "discrepancia": "baja",
-      "silenciosos": [
-        "El Espanol",
-        "La Vanguardia"
-      ]
+      "silenciosos": []
     },
     {
-      "neutral_headline": "PP y Vox negocian un pacto en el Senado con implicaciones sobre la composición del Tribunal Constitucional",
+      "neutral_headline": "Visita de Milei a España durante la campaña electoral genera reacciones cruzadas entre partidos",
       "section": "Politica",
       "facts": [
-        "El Pais plantea si la derecha ganara el Senado y vincula el resultado a una posible retirada de Vox, segun encuestas",
-        "El Mundo informa que el Tribunal Constitucional busca una mayoria consistente sobre la 'ley de nietos' que desafia la dinamica de bloques",
-        "eldiario.es afirma que Feijoo confirma negociaciones con Vox para lograr una mayoria en el Senado que les permita controlar el Constitucional",
-        "El Espanol informa que PP y Vox negocian cuatro formulas para su pacto en el Senado, citando la importancia de alcanzar los 3/5"
+        "Milei realizó declaraciones críticas hacia Sánchez durante su visita",
+        "Milei se abrazó con Ayuso en un acto público",
+        "Ayuso defendió públicamente ese abrazo con una declaración sobre las urnas y la 'herriko taberna'",
+        "Sánchez hizo referencia a la visita de Milei para criticar a Feijóo y Abascal",
+        "Sánchez usó la expresión 'motosierra' vinculada a las políticas de Milei en Argentina"
       ],
       "tipo_divergencia": "editorial",
       "eje": {
-        "polo_a": "maniobra partidista para controlar el Constitucional",
-        "polo_b": "proceso institucional o parlamentario neutral",
-        "resumen": "Los medios difieren en si enmarcan el pacto PP-Vox en el Senado como una estrategia para tomar el control del Tribunal Constitucional o como una negociacion politica ordinaria"
+        "polo_a": "la visita beneficia y legitima a la derecha española",
+        "polo_b": "la visita perjudica a la derecha y favorece a Sánchez",
+        "resumen": "Los medios discrepan en si la presencia de Milei fortalece la posición de PP/Vox o si, por el contrario, les coloca en una posición incómoda que Sánchez aprovecha electoralmente."
       },
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "¿La derecha ganará el Senado? Las encuestas dicen que es clave la retirada de Vox",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-10-21/la-derecha-ganara-el-senado-las-encuestas-dicen-que-es-clave-la-retirada-de-vox.html",
-          "position": 55,
-          "focus": "Destaca el resultado electoral y el papel de Vox en las encuestas; omite cualquier mencion explicita al objetivo sobre el Constitucional"
+          "headline": "Milei agita la campaña con insultos a Sánchez y abrazos a Ayuso",
+          "link": "https://elpais.com/espana/2026-10-22/milei-agita-la-campana-con-insultos-a-sanchez-y-abrazos-a-ayuso.html",
+          "position": 50,
+          "focus": "Describe tanto los insultos a Sánchez como los abrazos con Ayuso sin inclinarse claramente hacia ninguna lectura, aunque el verbo 'agita' sugiere cierta disrupción"
         },
         {
           "outlet": "El Mundo",
-          "headline": "El Constitucional busca una \"mayoría consistente\" sobre la 'ley de nietos' que desafía la dinámica de bloques",
-          "link": "https://www.elmundo.es/espana/2026/10/20/6ad7a5b921efa0423b8b45bf.html",
-          "position": 75,
-          "focus": "Centra el relato en el propio Tribunal Constitucional buscando consenso institucional, alejandose del marco de disputa partidista entre PP y Vox"
+          "headline": "Ayuso defiende su abrazo con Milei: \"Ha salido de las urnas, no de una herriko taberna como los socios de Sánchez\"",
+          "link": "https://www.elmundo.es/madrid/2026/10/22/6ad9c9f321efa0fb678b45b1.html",
+          "position": 15,
+          "focus": "Da voz y legitima la defensa de Ayuso del abrazo, incluyendo un ataque directo a los socios de Sánchez; omite la polémica que genera la visita en el propio PP/Vox"
         },
         {
           "outlet": "eldiario.es",
-          "headline": "Feijóo confirma negociaciones con Vox para buscar una mayoría en el Senado que les permita controlar el Constitucional",
-          "link": "https://www.eldiario.es/politica/feijoo-confirma-negociaciones-vox-buscar-mayoria-senado-les-permita-controlar-constitucional_1_13598996.html",
-          "position": 15,
-          "focus": "Expone explicitamente que el fin de la negociacion PP-Vox es controlar el Constitucional, enmarcando el pacto como maniobra de poder"
+          "headline": "La irrupción en campaña de Milei pone en apuros a PP y Vox y regala otra baza electoral a Sánchez",
+          "link": "https://www.eldiario.es/politica/irrupcion-campana-milei-pone-apuros-pp-vox-regala-baza-electoral-sanchez_1_13604480.html",
+          "position": 85,
+          "focus": "Centra el relato en el coste político para PP y Vox y el beneficio electoral para Sánchez; omite cualquier defensa o beneficio que la derecha pueda obtener de la visita"
         },
         {
           "outlet": "El Espanol",
-          "headline": "\"Lo importante son los 3/5\": PP y Vox negocian cuatro fórmulas para su pacto en el Senado",
-          "link": "https://www.elespanol.com/espana/politica/20261021/importante-pp-vox-negocian-formulas-pacto-senado/1003744428617_0.html",
-          "position": 50,
-          "focus": "Describe los aspectos tecnicos de la negociacion (formulas, mayoria de 3/5) sin atribuir un objetivo politico explicito"
+          "headline": "Sánchez usa la visita de Milei contra Feijóo y Abascal: \"Sacarán la motosierra en España como en Argentina\"",
+          "link": "https://www.elespanol.com/espana/politica/20261021/sanchez-usa-visita-milei-feijoo-abascal-sacaran-motosierra-espana-argentina/1003744430242_0.html",
+          "position": 60,
+          "focus": "Reporta la estrategia de Sánchez de usar la visita contra Feijóo y Abascal, enfatizando su ofensiva política más que el efecto sobre la derecha"
         }
       ],
-      "rango": 60,
+      "rango": 70,
       "discrepancia": "alta",
       "silenciosos": [
         "20minutos",
@@ -112,431 +123,269 @@
       ]
     },
     {
-      "neutral_headline": "Detenido un hombre por la muerte a puñaladas de su pareja en Carabanchel",
-      "section": "Sociedad",
+      "neutral_headline": "España e Italia acuerdan poner fin a los controles fronterizos impuestos tras la crisis de Ceuta",
+      "section": "Politica",
       "facts": [
-        "Se ha detenido a un hombre como presunto autor del homicidio",
-        "La víctrima es una mujer que fue apuñalada",
-        "El hecho ocurrió en Carabanchel (Madrid)",
-        "El Mundo precisa que el detenido tiene 59 años y que el hecho ocurrió en un portal",
-        "20minutos indica que la víctima tenía 52 años",
-        "eldiario.es señala que el caso se investiga como violencia de género",
-        "20minutos lo describe como un posible caso de violencia de género",
-        "El Mundo y ABC identifican a la víctima como pareja del detenido"
+        "España e Italia han alcanzado un acuerdo para levantar los controles fronterizos entre ambos países",
+        "Los controles habían sido impuestos tras la crisis migratoria de Ceuta",
+        "El acuerdo afecta a vuelos y conexiones marítimas según El País",
+        "El Ministerio del Interior español participó en la negociación del acuerdo"
       ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "marco de pareja/crimen sin etiqueta de género",
-        "polo_b": "marco explícito de violencia de género",
-        "resumen": "Los medios difieren en si explicitan en el titular que el caso se investiga como violencia de género o lo presentan como un homicidio entre pareja sin esa etiqueta"
-      },
+      "tipo_divergencia": "ninguna",
+      "eje": null,
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "Detenido el presunto autor del crimen de la mujer apuñalada en una urbanización de Carabanchel",
-          "link": "https://elpais.com/espana/madrid/2026-10-21/detenido-el-presunto-asesino-de-una-mujer-en-una-urbanizacion-de-carabanchel.html",
-          "position": 30,
-          "focus": "Centra en la detención del presunto autor y la víctima apuñalada, sin mencionar relación de pareja ni violencia de género"
+          "headline": "España e Italia acuerdan levantar los controles fronterizos a vuelos y las conexiones marítimas",
+          "link": "https://elpais.com/espana/2026-10-22/espanol-e-italia-acuerdan-levantar-los-controles-fronterizos-a-vuelos-y-las-conexiones-maritimas.html",
+          "position": 50,
+          "focus": "Especifica que los controles afectan a vuelos y conexiones marítimas, sin mencionar explícitamente al Ministerio del Interior como negociador"
         },
         {
           "outlet": "El Mundo",
-          "headline": "Detenido un hombre de 59 años por matar a puñaladas a su pareja en un portal de Carabanchel",
-          "link": "https://www.elmundo.es/madrid/2026/10/20/6ad79599e85ece4c208b45a7.html",
-          "position": 40,
-          "focus": "Detalla edad del detenido y que la víctima era su pareja, en un portal, sin mencionar explícitamente violencia de género"
+          "headline": "Interior acuerda con Italia poner fin a los controles fronterizos impuestos tras la crisis de Ceuta",
+          "link": "https://www.elmundo.es/espana/2026/10/22/6ad9c768fdddff962b8b45a2.html",
+          "position": 50,
+          "focus": "Destaca al Ministerio del Interior como actor negociador del acuerdo con Italia"
         },
         {
           "outlet": "ABC",
-          "headline": "Detenido el hombre acusado de matar a puñaladas a su pareja en Carabanchel",
-          "link": "https://www.abc.es/espana/madrid/detenido-presunto-asesino-mujer-apunalada-carabanchel-20261021084909-nt.html",
-          "position": 40,
-          "focus": "Señala que el detenido es acusado de matar a su pareja, sin etiqueta explícita de violencia de género"
+          "headline": "Italia y España levantan los controles de fronteras impuestos tras la crisis de Ceuta",
+          "link": "https://www.abc.es/espana/italia-espana-levantan-controles-fronteras-impuestos-tras-20261022102612-nt.html",
+          "position": 50,
+          "focus": "Prioriza a Italia como primer sujeto de la acción, formato simétrico con España"
         },
         {
           "outlet": "eldiario.es",
-          "headline": "Detenido un hombre por el asesinato a puñaladas de una mujer en Carabanchel que se investiga como violencia de género",
-          "link": "https://www.eldiario.es/madrid/detenido-hombre-asesinato-punaladas-mujer-carabanchel-investiga-violencia-genero_1_13602056.html",
-          "position": 70,
-          "focus": "Explicita que el caso se investiga como violencia de género, enmarcando el crimen en esa categoría"
+          "headline": "España acuerda con Italia poner fin a los controles fronterizos impuestos tras la crisis de Ceuta",
+          "link": "https://www.eldiario.es/internacional/espana-acuerda-italia-poner-controles-fronterizos-impuestos-crisis-ceuta_1_13605485.html",
+          "position": 50,
+          "focus": "Centra a España como sujeto principal del acuerdo con Italia, similar a El Mundo"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Italia y España acuerdan poner fin a los controles fronterizos impuestos tras la crisis migratoria de Ceuta",
+          "link": "https://www.elespanol.com/mundo/europa/20261022/italia-espana-acuerdan-poner-fin-controles-fronterizos-impuestos-crisis-migratoria-ceuta/1003744430626_0.html",
+          "position": 50,
+          "focus": "Menciona explícitamente que la crisis fue 'migratoria', añadiendo precisión sobre la naturaleza del conflicto"
         },
         {
           "outlet": "20minutos",
-          "headline": "Detenido por la muerte a puñaladas de una mujer de 52 años en un posible caso de violencia de género",
-          "link": "https://www.20minutos.es/madrid/detenido-un-hombre-por-muerte-punaladas-mujer-52-anos-carabanchel_7051345_0.html",
-          "position": 65,
-          "focus": "Menciona la edad de la víctima y plantea la violencia de género como hipótesis aún no confirmada"
+          "headline": "España e Italia acuerdan no continuar con los controles recíprocos en las fronteras",
+          "link": "https://www.20minutos.es/internacional/espana-italia-acuerdan-no-continuar-con-los-controles-reciprocos-las-fronteras_7051916_0.html",
+          "position": 50,
+          "focus": "Usa la fórmula 'no continuar con los controles recíprocos' en lugar de 'levantar/poner fin', mismo hecho con matiz lingüístico distinto"
         }
       ],
-      "rango": 40,
-      "discrepancia": "media",
+      "rango": 0,
+      "discrepancia": "baja",
       "silenciosos": [
-        "El Espanol",
         "La Vanguardia"
       ]
     },
     {
-      "neutral_headline": "Corte eléctrico generalizado en Ceuta por una avería",
-      "section": "Sociedad",
-      "facts": [
-        "Estados Unidos deniega a Ada Colau el visado para un encuentro de ciudades en Puerto Rico",
-        "Ceuta sufre un corte total de electricidad en toda la ciudad",
-        "La causa del corte es una averia",
-        "El Espanol situa el origen de la averia en la zona centro de la ciudad"
-      ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "Estados Unidos deniega a Ada Colau el visado para participar en un encuentro de ciudades en Puerto Rico",
-          "link": "https://elpais.com/espana/catalunya/2026-10-21/estados-unidos-deniega-a-ada-colau-el-visado-para-participar-en-un-encuentro-de-ciudades-en-puerto-rico.html",
-          "position": 50,
-          "focus": "Informa sobre la denegacion de visado a Ada Colau para un encuentro de ciudades en Puerto Rico, sin relacion con el apagon de Ceuta."
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "Ceuta sufre un \"cero energético\" al irse la luz en toda la ciudad por una avería",
-          "link": "https://www.elmundo.es/economia/2026/10/21/6ad87ca5e4d4d8f70e8b4599.html",
-          "position": 50,
-          "focus": "Describe el apagon total en Ceuta y lo atribuye a una averia, sin precisar su ubicacion."
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "Ceuta sufre un \"cero energético\" al irse la luz en toda la ciudad por una avería que ha tenido su origen en la zona centro",
-          "link": "https://www.elespanol.com/espana/20261021/ceuta-sufre-cero-energetico-irse-luz-toda-ciudad-averia-origen-zona-centro/1003744428966_0.html",
-          "position": 50,
-          "focus": "Describe el mismo apagon en Ceuta y anade el dato de que la averia se origino en la zona centro."
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "20minutos",
-        "ABC",
-        "La Vanguardia",
-        "eldiario.es"
-      ]
-    },
-    {
-      "neutral_headline": "Ceuta sufre un apagón total en toda la ciudad por una avería eléctrica",
-      "section": "Sociedad",
-      "facts": [
-        "Se produjo un corte total de electricidad (\"cero energético\") en toda la ciudad de Ceuta",
-        "La causa fue una avería",
-        "El Español señala que la avería tuvo su origen en la zona centro"
-      ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "Ceuta sufre un “cero energético” al irse la luz en toda la ciudad por una avería",
-          "link": "https://elpais.com/economia/2026-10-21/ceuta-sufre-un-cero-energetico-al-irse-la-luz-en-toda-la-ciudad-por-una-averia.html",
-          "position": 50,
-          "focus": "Informa del apagón total y la avería como causa, sin precisar origen geográfico"
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "Ceuta sufre un \"cero energético\" al irse la luz en toda la ciudad por una avería",
-          "link": "https://www.elmundo.es/economia/2026/10/21/6ad87ca5e4d4d8f70e8b4599.html",
-          "position": 50,
-          "focus": "Informa del apagón total y la avería como causa, sin precisar origen geográfico"
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "Ceuta sufre un \"cero energético\" al irse la luz en toda la ciudad por una avería que ha tenido su origen en la zona centro",
-          "link": "https://www.elespanol.com/espana/20261021/ceuta-sufre-cero-energetico-irse-luz-toda-ciudad-averia-origen-zona-centro/1003744428966_0.html",
-          "position": 50,
-          "focus": "Añade el dato de que la avería se originó en la zona centro, complementando sin contradecir"
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "20minutos",
-        "ABC",
-        "La Vanguardia",
-        "eldiario.es"
-      ]
-    },
-    {
-      "neutral_headline": "El Gobierno de Trump deniega a Ada Colau la entrada a Puerto Rico para un acto",
+      "neutral_headline": "El Tribunal Constitucional rechaza la petición del Gobierno sobre la 'ley de nietos' citando prudencia judicial",
       "section": "Politica",
       "facts": [
-        "El Gobierno de Trump deniega la entrada de Ada Colau a Puerto Rico para un acto",
-        "Ada Colau participó en la Flotilla de ayuda a Gaza, según El Español",
-        "El Gobierno de Trump atribuye la denegación a 'motivos políticos', según eldiario.es",
-        "Ada Colau denuncia que la denegación fue por 'motivos ideológicos', según 20minutos"
+        "El Tribunal Constitucional, presidido por Conde-Pumpido, emitió un fallo sobre la 'ley de nietos'",
+        "El fallo apela a la 'prudencia' para no intervenir a priori en procesos judiciales en curso",
+        "El abogado de los afectados asume que no podrán votar",
+        "El abogado de los afectados considera que el Constitucional era la única vía posible"
       ],
       "tipo_divergencia": "editorial",
       "eje": {
-        "polo_a": "causa vaga/genérica (política o ideológica)",
-        "polo_b": "causa concreta (activismo en la Flotilla de Gaza)",
-        "resumen": "los medios difieren en si explicitan el motivo concreto del veto (la Flotilla a Gaza) o lo dejan en una atribución genérica a motivos políticos/ideológicos"
-      },
-      "frames": [
-        {
-          "outlet": "eldiario.es",
-          "headline": "El Gobierno de Trump deniega a Ada Colau la entrada a Puerto Rico para un acto: \"Ha sido por motivos políticos\"",
-          "link": "https://www.eldiario.es/politica/gobierno-trump-deniega-ada-colau-entrada-puerto-rico-acto-sido-motivos-politicos_1_13597972.html",
-          "position": 40,
-          "focus": "cita al Gobierno de Trump explicando el veto como 'motivos políticos', sin especificar la causa concreta"
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "El Gobierno de Trump niega la entrada de Ada Colau en Puerto Rico por participar en la Flotilla de ayuda a Gaza",
-          "link": "https://www.elespanol.com/espana/20261021/gobierno-trump-niega-entrada-ada-colau-puerto-rico-participar-flotilla-ayuda-gaza/1003744428886_0.html",
-          "position": 75,
-          "focus": "explicita la causa concreta: la participación de Colau en la Flotilla de ayuda a Gaza, dando contexto específico al veto"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "Ada Colau denuncia que Trump le ha vetado la entrada a Puerto Rico \"por motivos ideológicos\"",
-          "link": "https://www.20minutos.es/cataluna/barcelona/ada-colau-denuncia-que-trump-le-ha-vetado-entrada-puerto-rico-por-motivos-ideologicos_7051431_0.html",
-          "position": 40,
-          "focus": "enmarca el hecho como denuncia de Colau, usando el término 'motivos ideológicos' sin precisar la causa concreta"
-        }
-      ],
-      "rango": 35,
-      "discrepancia": "media",
-      "silenciosos": [
-        "ABC",
-        "El Mundo",
-        "El Pais",
-        "La Vanguardia"
-      ]
-    },
-    {
-      "neutral_headline": "El exconseller Lluís Puig regresa a Catalunya tras nueve años en Bélgica",
-      "section": "Politica",
-      "facts": [
-        "Lluís Puig regresa a Catalunya tras nueve años viviendo en Bélgica",
-        "El regreso se produce tras el aval del Tribunal Constitucional a la amnistía (según 20minutos)",
-        "Puig asistirá el jueves al pleno del Parlament (según La Vanguardia)"
-      ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "eldiario.es",
-          "headline": "El exconseller Lluís Puig vuelve a Catalunya tras nueve años en Bélgica",
-          "link": "https://www.eldiario.es/catalunya/exconseller-lluis-puig-vuelve-catalunya-nueve-anos-belgica_1_13601956.html",
-          "position": 50,
-          "focus": "Se centra en el hecho del regreso y la duración del exilio en Bélgica, sin añadir detalles sobre la causa legal ni la agenda posterior"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Lluís Puig regresa a Catalunya y asistirá el jueves al pleno del Parlament",
-          "link": "https://www.lavanguardia.com/politica/20261020/11662810/lluis-puig-vuelve-miercoles-catalunya-asistira-jueves-pleno-parlament.html",
-          "position": 50,
-          "focus": "Añade el dato de su próxima actividad pública, la asistencia al pleno del Parlament"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "El 'exconseller' Lluís Puig ya está en España tras el aval del Constitucional a la amnistía y después de 9 años viviendo en Bélgica",
-          "link": "https://www.20minutos.es/nacional/exconseller-lluis-puig-regresa-espana-tras-aval-constitucional-amnistia-despues-9-anos-extranjero_7051338_0.html",
-          "position": 50,
-          "focus": "Incluye la causa jurídica del regreso, el aval del Constitucional a la amnistía"
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "ABC",
-        "El Espanol",
-        "El Mundo",
-        "El Pais"
-      ]
-    },
-    {
-      "neutral_headline": "La ONU reconoce que el calentamiento global superará los 1,5°C fijados en el Acuerdo de París",
-      "section": "Internacional",
-      "facts": [
-        "La ONU señala que no se cumplirá el objetivo de limitar el calentamiento a 1,5 grados",
-        "El Acuerdo de París establecía ese umbral como meta",
-        "ABC indica que el nuevo tope de referencia sería de 1,8 grados",
-        "El Pais describe la respuesta de la ONU como un 'plan B'"
-      ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "La ONU asume la “dura realidad”: el mundo superará los 1,5 grados y activa un plan B",
-          "link": "https://elpais.com/clima-y-medio-ambiente/2026-10-21/la-onu-asume-la-dura-realidad-el-mundo-superara-los-15-grados-y-activa-un-plan-b.html",
-          "position": 50,
-          "focus": "Enfatiza la aceptación de la ONU de la 'dura realidad' y la existencia de un plan alternativo, sin detallar cifras del nuevo objetivo"
-        },
-        {
-          "outlet": "ABC",
-          "headline": "La ONU cambia de objetivo climático: el umbral de 1,5ºC se queda obsoleto y fija de nuevo tope 1,8º",
-          "link": "https://www.abc.es/sociedad/onu-supera-objetivo-climatico-centrarse-grados-20261021083103-nt.html",
-          "position": 50,
-          "focus": "Destaca el cambio de objetivo numerico concreto (1,8°) y describe el umbral anterior como obsoleto"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "La ONU ve imposible que el calentamiento se frene en los 1,5 ºC, meta del Acuerdo de París",
-          "link": "https://www.lavanguardia.com/natural/20261021/11663785/onu-ve-imposible-calentamiento-frene-1-5-c-meta-acuerdo-paris.html",
-          "position": 50,
-          "focus": "Centra el titular en la imposibilidad de cumplir la meta original del Acuerdo de Paris, sin mencionar un nuevo objetivo numerico"
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "20minutos",
-        "El Espanol",
-        "El Mundo",
-        "eldiario.es"
-      ]
-    },
-    {
-      "neutral_headline": "El PSG vence al Barcelona en la Champions League",
-      "section": "Deportes",
-      "facts": [
-        "El PSG ganó al Barcelona en un partido de la Champions League",
-        "El partido se jugó en París (según 20minutos)",
-        "Luis Enrique dirige al PSG (según El País)"
-      ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "Barça dominado sin mérito",
-        "polo_b": "Barça compitió de igual a igual",
-        "resumen": "Los medios varían en cuánto crédito otorgan al rendimiento del Barça frente a la superioridad del PSG"
+        "polo_a": "foco en el impacto sobre los afectados",
+        "polo_b": "foco en el conflicto institucional TC-Gobierno",
+        "resumen": "Los medios difieren en si centran la noticia en las consecuencias para los ciudadanos afectados o en el enfrentamiento entre el Constitucional y el Gobierno"
       },
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "El PSG de Luis Enrique alecciona al Barcelona en la Champions",
-          "link": "https://elpais.com/deportes/futbol/2026-10-20/el-psg-de-luis-enrique-alecciona-al-barcelona-en-la-champions.html",
-          "position": 20,
-          "focus": "Enfatiza la lección impartida por el PSG, minimizando la resistencia del Barça"
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "La máquina casi perfecta del PSG atasca a un Barça contestón",
-          "link": "https://www.elmundo.es/deportes/futbol/champions-league/2026/10/20/6ad7bd35e4d4d87c058b45c0.html",
-          "position": 35,
-          "focus": "Destaca la perfección del PSG pero reconoce que el Barça fue 'contestón', dando cierto mérito al rival"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "El PSG doblega a un Barça que planta cara",
-          "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20261020/11663775/inmenso-psg-noquea-barca-final.html",
-          "position": 40,
-          "focus": "Describe al PSG como superior pero resalta que el Barça 'plantó cara', equilibrando algo el relato"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "El campeón de la Champions es demasiado para un buen Barça: el PSG se impone en un partidazo en París",
-          "link": "https://www.20minutos.es/deportes/futbol/psg-barcelona-champions-league-directo-marcador-goles-ultima-hora-jornada-3-fase-liga_7051177_6.html",
-          "position": 55,
-          "focus": "Resalta que el Barça jugó bien y que fue un partidazo, dando más protagonismo al mérito azulgrana"
-        }
-      ],
-      "rango": 35,
-      "discrepancia": "media",
-      "silenciosos": [
-        "ABC",
-        "El Espanol",
-        "eldiario.es"
-      ]
-    },
-    {
-      "neutral_headline": "La dana Adam deja seis víctimas mortales y afecta a campistas y poblaciones, con comparaciones a la dana anterior",
-      "section": "Sociedad",
-      "facts": [
-        "La dana Adam ha dejado seis víctimas mortales: dos bañistas, un conductor, un campista, una anciana con movilidad reducida y una espectadora de un partido de baloncesto juvenil (El Mundo)",
-        "eldiario.es compara esta dana con otra anterior que dejó 233 fallecidos",
-        "Según eldiario.es, en esta ocasión hubo confinamientos y el presidente estuvo desde el principio en el Cecopi",
-        "Unos campistas holandeses vieron su caravana inundada por la dana (La Vanguardia)",
-        "Los campistas afectados declaran no saber cómo volver a su país (La Vanguardia)"
-      ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "relato humano/testimonial de las víctimas",
-        "polo_b": "evaluación de la gestión institucional de la crisis",
-        "resumen": "El Mundo y La Vanguardia centran su relato en las víctimas y afectados de forma individual, mientras eldiario.es enmarca el suceso como un caso de éxito en la gestión institucional al compararlo con una dana anterior más letal"
-      },
-      "frames": [
-        {
-          "outlet": "El Mundo",
-          "headline": "Las seis víctimas que deja la dana Adam: dos bañistas, un conductor, un campista, una anciana con movilidad reducida y una espectadora de un partido de baloncesto juvenil",
-          "link": "https://www.elmundo.es/espana/2026/10/20/6ad7b3dffdddff6a428b45b5.html",
+          "headline": "El abogado de afectados por la ‘ley de nietos’ asume que no podrán votar: “El Constitucional era la única vía posible”",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-10-22/el-abogado-de-afectados-por-la-ley-de-nietos-asume-que-no-podran-votar-el-constitucional-era-la-unica-via-posible.html",
           "position": 10,
-          "focus": "Enumera y detalla el perfil de cada una de las seis víctimas mortales, sin mencionar la respuesta institucional"
+          "focus": "Destaca la perspectiva humana: los afectados no podrán votar, citando directamente a su abogado; omite el trasfondo institucional del choque TC-Gobierno"
         },
         {
-          "outlet": "eldiario.es",
-          "headline": "El contraste de Adam con la dana de los 233 fallecidos: confinamientos y un president desde el principio en el Cecopi",
-          "link": "https://www.eldiario.es/comunitat-valenciana/contraste-adam-dana-233-fallecidos-confinamientos-president-principio-cecopi_1_13596800.html",
-          "position": 88,
-          "focus": "Destaca la gestión institucional (confinamientos, presencia del president en el Cecopi) comparándola favorablemente con una dana anterior más mortífera; omite detalle de las víctimas de Adam"
+          "outlet": "El Mundo",
+          "headline": "El TC de Pumpido da un portazo al Gobierno en la 'ley de nietos' apelando a la \"prudencia\" para \"no intervenir en procesos judiciales en curso\"",
+          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/21/6ad8f83fe85ece1c148b4590.html",
+          "position": 90,
+          "focus": "Enmarca el fallo como un 'portazo' del TC al Gobierno, enfatizando el conflicto institucional y el argumento de prudencia judicial; minimiza el impacto concreto en los afectados"
         },
         {
-          "outlet": "La Vanguardia",
-          "headline": "Los campistas holandeses a los que la dana inundó su caravana: “No sabemos cómo volver”",
-          "link": "https://www.lavanguardia.com/local/valencia/20261021/11663852/campistas-holandeses-dana-inundo-autocarvana-como-volver.html",
-          "position": 18,
-          "focus": "Se centra en el testimonio humano de unos campistas extranjeros afectados, sin abordar la gestión institucional ni el balance total de víctimas"
+          "outlet": "El Espanol",
+          "headline": "El fallo del TC sobre los 'nietos' apela a la \"prudencia necesaria para no intervenir a priori en procesos judiciales en curso\"",
+          "link": "https://www.elespanol.com/espana/tribunales/20261022/fallo-tc-nietos-apela-prudencia-necesaria-no-intervenir-priori-procesos-judiciales-curso/1003744430214_0.html",
+          "position": 65,
+          "focus": "Se centra en citar textualmente el argumento jurídico del fallo (prudencia, no intervención), con un tono más descriptivo y menos confrontacional que El Mundo"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "El giro de Conde-Pumpido: el presidente del Constitucional se desmarca por primera vez del Gobierno con la 'ley de nietos'",
+          "link": "https://www.20minutos.es/nacional/giro-conde-pumpido-presidente-constitucional-se-desmarca-por-primera-vez-gobierno-con-ley-nietos_7051716_0.html",
+          "position": 95,
+          "focus": "Personaliza la noticia en la figura de Conde-Pumpido, narrando un 'giro' y una ruptura con el Gobierno; pone el foco en la dimensión política del presidente del TC más que en los afectados o el contenido técnico del fallo"
         }
       ],
-      "rango": 78,
+      "rango": 85,
       "discrepancia": "alta",
       "silenciosos": [
-        "20minutos",
         "ABC",
-        "El Espanol",
-        "El Pais"
+        "La Vanguardia",
+        "eldiario.es"
       ]
     },
     {
-      "neutral_headline": "Disturbios en Francia generan distintas lecturas políticas: inmigración, orden público y liderazgo de Macron",
-      "section": "Internacional",
+      "neutral_headline": "Informes sobre precios de la vivienda y el alquiler en España según zona geográfica y tipo de propietario",
+      "section": "Economia",
       "facts": [
-        "Hay disturbios en curso en Francia",
-        "Trump y partidos de ultraderecha europea están usando los disturbios para hablar de inmigración (El Mundo)",
-        "Resurge el debate sobre la integración en las periferias francesas (El Mundo)",
-        "La violencia facilita un mensaje de 'ley y orden' de la derecha y la ultraderecha (eldiario.es)",
-        "Macron es descrito como políticamente debilitado o impotente ante la crisis (La Vanguardia)"
+        "Madrid concentra los barrios más caros para comprar o alquilar vivienda entre las grandes ciudades españolas, según El País.",
+        "Los propietarios con más viviendas en alquiler cobran precios más altos que los que alquilan una sola, según eldiario.es.",
+        "La Vanguardia cuantifica en un 7% la diferencia de precio de alquiler entre grandes y pequeños propietarios.",
+        "El Mundo relaciona la densidad de las ciudades españolas con la crisis de vivienda."
       ],
       "tipo_divergencia": "editorial",
       "eje": {
-        "polo_a": "causa: inmigración/integración",
-        "polo_b": "causa: fracaso de liderazgo político (Macron)",
-        "resumen": "Los medios difieren en si el foco explicativo de los disturbios es el problema migratorio/de integración o la debilidad del gobierno de Macron"
+        "polo_a": "la estructura de propiedad (grandes tenedores) explica la crisis",
+        "polo_b": "la distribución geográfica/demanda explica la crisis",
+        "resumen": "Unos medios señalan a los grandes propietarios como causa de los precios altos, mientras otros centran el problema en la concentración geográfica o demográfica de la demanda."
       },
       "frames": [
         {
+          "outlet": "El Pais",
+          "headline": "Buscador | Madrid copa los barrios más caros para comprar o alquilar casa en las grandes ciudades",
+          "link": "https://elpais.com/economia/vivienda/2026-10-22/buscador-madrid-copa-los-barrios-mas-caros-para-comprar-o-alquilar-casa-en-las-grandes-ciudades.html",
+          "position": 65,
+          "focus": "Destaca la geografía de los precios (Madrid como epicentro) sin mencionar la estructura de propiedad como causa."
+        },
+        {
           "outlet": "El Mundo",
-          "headline": "Trump y la ultraderecha europea usan los disturbios de Francia contra la inmigración mientras vuelve a aflorar el problema de la integración en las periferias",
-          "link": "https://www.elmundo.es/internacional/2026/10/20/6ad79335e9cf4a971a8b45b0.html",
-          "position": 15,
-          "focus": "Destaca el uso político de los disturbios por la ultraderecha y vincula el conflicto al fracaso de integración de inmigrantes; omite la gestión gubernamental de Macron"
+          "headline": "Las ciudades de España: demasiado llenas para la convivencia, demasiado vacías para la crisis de la vivienda",
+          "link": "https://www.elmundo.es/cultura/2026/10/21/6ad109e921efa04d5c8b45ba.html",
+          "position": 55,
+          "focus": "Plantea la paradoja de ciudades densas pero con crisis de vivienda, enfocando el problema en la distribución urbana más que en los propietarios."
         },
         {
           "outlet": "eldiario.es",
-          "headline": "La violencia en Francia allana el camino al mensaje de ley y orden de la derecha y la ultraderecha",
-          "link": "https://www.eldiario.es/politica/violencia-francia-allana-camino-mensaje-ley-orden-derecha-ultraderecha_129_13600648.html",
-          "position": 40,
-          "focus": "Señala cómo la violencia beneficia electoralmente a la derecha y ultraderecha con un discurso de orden público, sin profundizar en causas migratorias ni en la figura de Macron"
+          "headline": "Los caseros con más pisos suben más los precios a sus inquilinos que los que alquilan solo uno",
+          "link": "https://www.eldiario.es/economia/caseros-pisos-suben-precios-inquilinos-alquilan_1_13603331.html",
+          "position": 15,
+          "focus": "Atribuye directamente la subida de precios al comportamiento de los grandes caseros frente a los pequeños."
         },
         {
           "outlet": "La Vanguardia",
-          "headline": "La agonía de un Macron impotente se suma a los disturbios en las calles de Francia",
-          "link": "https://www.lavanguardia.com/internacional/20261021/11663822/agonia-macron-impotente.html",
-          "position": 90,
-          "focus": "Centra el relato en la debilidad política de Macron frente a la crisis, sin mencionar causas sociales o migratorias ni el aprovechamiento político de la derecha"
+          "headline": "El gran propietario de pisos cobra un 7% más de alquiler que el pequeño",
+          "link": "https://www.lavanguardia.com/economia/20261022/11664897/gran-propietario-pisos-cobra-7-mas-alquiler-pequeno.html",
+          "position": 15,
+          "focus": "Mismo encuadre que eldiario.es, pero cuantifica la diferencia (7%) entre grandes y pequeños propietarios."
+        }
+      ],
+      "rango": 50,
+      "discrepancia": "media",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Espanol"
+      ]
+    },
+    {
+      "neutral_headline": "Rusia intensifica ataques mientras se negocia un posible acuerdo sobre Ucrania",
+      "section": "Internacional",
+      "facts": [
+        "Rusia lanzó varias oleadas de misiles balísticos contra Kiev",
+        "El ataque se produjo horas después de una propuesta ucraniana de negociación",
+        "Putin afirmó haber conquistado el monasterio de Sviatogirsk",
+        "En la zona del monasterio hay presencia constante de drones",
+        "Una fuente rusa citada por eldiario.es habla de 'devolver Ucrania a la Edad de Piedra'",
+        "Rusia muestra renovada confianza en Trump tras su choque con Zelenski",
+        "Trump calificó el pacto como 'más cerca que nunca'",
+        "Zelenski se mostró abierto a 'congelar' el frente actual"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "escepticismo/violencia pese al diálogo",
+        "polo_b": "optimismo sobre el acuerdo de paz",
+        "resumen": "Los medios se dividen entre subrayar la brutalidad y contradicción de Rusia mientras se negocia, o destacar el avance diplomático hacia un pacto"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Rusia golpea Kiev con varias oleadas de misiles balísticos horas después de la propuesta ucrania de negociación",
+          "link": "https://elpais.com/internacional/2026-10-22/rusia-golpea-kiev-con-varias-oleadas-de-misiles-balisticos-unas-horas-despues-de-la-propuesta-ucrania-de-negociacion.html",
+          "position": 20,
+          "focus": "Destaca la contradicción entre el discurso de paz ucraniano y la respuesta militar rusa; omite detalles del proceso negociador"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Viaje a Sviatogirsk, el monasterio que Putin aseguró haber conquistado: \"Estos drones pasan por aquí todo el día. Dios me protege\"",
+          "link": "https://www.elmundo.es/internacional/2026/10/21/6ad8ac00e85ece8e5d8b45a0.html",
+          "position": 45,
+          "focus": "Centra el relato en el testimonio humano y la violencia cotidiana en el terreno, sin entrar en el proceso diplomático"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Rusia recupera la fe en Trump tras su choque con Zelenski: “Aprovechemos para devolver Ucrania a la Edad de Piedra”",
+          "link": "https://www.eldiario.es/internacional/rusia-recupera-fe-trump-choque-zelenski-aprovechemos-devolver-ucrania-edad-piedra_1_13604397.html",
+          "position": 10,
+          "focus": "Resalta la retórica agresiva rusa y el cinismo hacia Trump, enfatizando el riesgo de escalada pese al acercamiento político"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Se mueven más piezas en la guerra: para Trump el pacto está \"más cerca que nunca\" y Zelenski se abre a 'congelar' el frente actual",
+          "link": "https://www.20minutos.es/internacional/se-mueven-mas-piezas-guerra-para-trump-pacto-esta-mas-cerca-que-nunca-zelenski-se-abre-congelar-frente-actual_7051853_0.html",
+          "position": 85,
+          "focus": "Pone el foco en el progreso diplomático y las declaraciones optimistas de Trump y Zelenski, dejando en segundo plano la violencia en curso"
         }
       ],
       "rango": 75,
       "discrepancia": "alta",
       "silenciosos": [
-        "20minutos",
         "ABC",
         "El Espanol",
-        "El Pais"
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "Declaraciones de dirigentes del PP sobre distintos asuntos de gestion y casos judiciales",
+      "section": "Politica",
+      "facts": [
+        "Esperanza Aguirre declaro sobre el caso Lezo que no podia saber lo que hacia Ignacio Gonzalez",
+        "Esperanza Aguirre califico como buena idea construir un campo de golf en Chamberi y lo comparo con un helipuerto para Bono",
+        "Isabel Diaz Ayuso acuso a la portavoz del PSOE Mar Espinar de vivir en un piso de la universidad a precio amigo sin trabajar alli"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "Esperanza Aguirre, sobre el caso Lezo: \"Cómo iba a saber\" lo que hacía Ignacio González",
+          "link": "https://www.elmundo.es/madrid/2026/10/22/6ad9c404e85ece9b228b4586.html",
+          "position": 50,
+          "focus": "Recoge la defensa de Aguirre en el caso Lezo sobre su desconocimiento de las actuaciones de Ignacio Gonzalez"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Aguirre dice que fue \"una buena idea\" construir un campo de Golf en Chamberí: \"Mejor que un helipuerto para Bono\"",
+          "link": "https://www.eldiario.es/politica/aguirre-defiende-tribunal-buena-idea-construir-campo-golf-chamberi-mejor-helipuerto-bono_1_13605462.html",
+          "position": 50,
+          "focus": "Recoge declaraciones de Aguirre defendiendo la construccion de un campo de golf en Chamberi"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Ayuso acusa a la portavoz del PSOE, Mar Espinar, de vivir en un piso de la universidad \"a precio amigo\" sin trabajar allí",
+          "link": "https://www.elespanol.com/madrid/comunidad/20261022/ayuso-acusa-portavoz-psoe-mar-espinar-vivir-piso-universidad-precio-amigo-sin-trabajar/1003744430606_0.html",
+          "position": 50,
+          "focus": "Recoge una acusacion de Ayuso contra Mar Espinar sobre una vivienda universitaria"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Pais",
+        "La Vanguardia"
       ]
     }
   ]
