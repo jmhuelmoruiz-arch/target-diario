@@ -1,288 +1,241 @@
 {
-  "fecha": "2026-10-22T09:35:30.492078+00:00",
+  "fecha": "2026-10-23T09:31:40.634467+00:00",
   "esquema": 2,
   "historias": [
     {
-      "neutral_headline": "Feijóo coloca a Álvarez de Toledo como número dos y a Sémper como número tres en la lista del PP por Madrid",
+      "neutral_headline": "Feijóo comparece y aborda gobierno, pactos con Vox, Igualdad, pensiones y críticas a Sánchez",
       "section": "Politica",
       "facts": [
-        "Feijóo encabeza la lista del PP por Madrid",
-        "Cayetana Álvarez de Toledo ocupa el puesto número dos",
-        "Borja Sémper ocupa el puesto número tres",
-        "La lista es para las elecciones del 29N"
+        "Feijóo afirma que su primer objetivo es que Sánchez se vaya del Gobierno",
+        "Feijóo dice que intentará gobernar aunque el PP no sea la lista más votada",
+        "Feijóo sostiene que no hay información que indique que el PP deje de ser la primera fuerza",
+        "Feijóo no descarta pactos con Vox en el Senado",
+        "Feijóo anuncia que no mantendrá un ministerio exclusivo para Igualdad",
+        "Feijóo plantea reabrir el debate sobre el aborto",
+        "Feijóo dice que estudiará la viabilidad de las pensiones",
+        "Feijóo afirma que Milei ha rebajado la pobreza en Argentina",
+        "Feijóo dice no compartir el lenguaje de Milei",
+        "Feijóo dice que garantiza las pensiones",
+        "Feijóo califica a Sánchez de 'tóxico'",
+        "Feijóo culpa a Sánchez de la crisis de vivienda",
+        "Feijóo se muestra dispuesto a 'corresponder' a Vox si éste se retira de provincias donde no sacaría senadores"
       ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "Confrontación personal con Sánchez / objetivo de poder",
+        "polo_b": "Políticas concretas y pactos (Igualdad, aborto, pensiones, Vox)",
+        "resumen": "Los medios difieren en si destacan el relato de pugna directa con Sánchez o el contenido programático y de alianzas de Feijóo."
+      },
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "Álvarez de Toledo y Sémper serán los números dos y tres de Feijóo en la lista por Madrid",
-          "link": "https://elpais.com/espana/2026-10-22/alvarez-de-toledo-y-semper-seran-los-numeros-dos-y-tres-de-feijoo-en-la-lista-por-madrid.html",
-          "position": 50,
-          "focus": "Informa de la composición de la lista sin valoraciones"
+          "headline": "Feijóo intentará gobernar aunque no sea la lista más votada: “Mi primer objetivo es que Sánchez se vaya”",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-10-23/feijoo-intentara-gobernar-aunque-no-sea-la-lista-mas-votada-mi-primer-objetivo-es-que-sanchez-se-vaya.html",
+          "position": 15,
+          "focus": "Centra el titular en el objetivo de desalojar a Sánchez, omitiendo detalles de políticas concretas"
         },
         {
           "outlet": "El Mundo",
-          "headline": "Feijóo confirma el ascenso de Cayetana Álvarez de Toledo como número dos y mantiene a Sémper como tres: \"En el PP caben todas las sensibilidades\"",
-          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/22/6ad9b4a3e9cf4ab91c8b4595.html",
-          "position": 50,
-          "focus": "Incluye cita de Feijóo sobre la pluralidad del PP"
+          "headline": "Feijóo establece como \"primer objetivo que Sánchez se vaya del Gobierno\" aunque el PSOE ganase el 29-N y recuerda: \"No hay ninguna información que diga que el PP no sigue siendo la primera fuerza\"",
+          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/23/6adafa3efc6c8384348b4579.html",
+          "position": 15,
+          "focus": "Repite el objetivo anti-Sánchez y añade el dato sobre ser primera fuerza, reforzando el marco de confrontación electoral"
         },
         {
           "outlet": "ABC",
-          "headline": "Feijóo apuesta por el 'efecto Cayetana' para ser su número dos por Madrid",
-          "link": "https://www.abc.es/espana/feijoo-elige-alvarez-toledo-numero-dos-lista-20261022090434-nt.html",
-          "position": 50,
-          "focus": "Usa la expresión 'efecto Cayetana' para describir la apuesta de Feijóo"
+          "headline": "Feijóo mantiene viva la posibilidad de pactos con Vox en el Senado y anuncia que no mantendrá un ministerio solo para Igualdad",
+          "link": "https://www.abc.es/espana/feijoo-mantiene-viva-posibilidad-pactos-vox-senado-20261023092445-nt.html",
+          "position": 55,
+          "focus": "Combina pactos con Vox y la eliminación de Igualdad, mezcla estrategia y política social"
         },
         {
           "outlet": "eldiario.es",
-          "headline": "Feijóo elige a Cayetana Álvarez de Toledo como 'número dos' por Madrid y a Borja Sémper como 'número tres'",
-          "link": "https://www.eldiario.es/politica/feijoo-elige-cayetana-alvarez-toledo-numero-madrid-borja-semper-numero-tres_1_13605274.html",
-          "position": 50,
-          "focus": "Describe la elección de Feijóo de forma directa"
+          "headline": "Feijóo reabre el debate sobre el aborto, eliminará el Ministerio de Igualdad y estudiará \"la viabilidad\" de las pensiones",
+          "link": "https://www.eldiario.es/politica/feijoo-reabre-debate-aborto-eliminara-ministerio-igualdad-estudiara-viabilidad-pensiones_1_13608554.html",
+          "position": 80,
+          "focus": "Prioriza contenidos programáticos sensibles (aborto, Igualdad, pensiones) sin mencionar la confrontación con Sánchez"
         },
         {
           "outlet": "La Vanguardia",
-          "headline": "Álvarez de Toledo y Sémper acompañarán a Feijóo en la lista por Madrid para las elecciones",
-          "link": "https://www.lavanguardia.com/politica/20261022/11665185/alvarez-toledo-semper-acompanaran-feijoo-lista-madrid-elecciones-29-n.html",
+          "headline": "Feijóo asegura que Milei ha rebajado la pobreza en Argentina, pero no comparte su “lenguaje”",
+          "link": "https://www.lavanguardia.com/politica/20261023/11666170/feijoo-dispuesto-corresponder-vox-renuncia-presentar-determinadas-provincias-senado.html",
           "position": 50,
-          "focus": "Centra el titular en el acompañamiento de ambos a Feijóo"
+          "focus": "Se centra en la comparación con Milei sobre pobreza y lenguaje, tema ajeno al eje Sánchez/políticas internas"
         },
         {
           "outlet": "El Espanol",
-          "headline": "Álvarez de Toledo y Sémper, dos y tres en la lista de Feijóo: \"Perfiles distintos unidos para hacer un país mejor\", dice el PP",
-          "link": "https://www.elespanol.com/espana/politica/20261022/cayetana-semper-lista-feijoo-perfiles-distintos-unidos-hacer-pais-mejor/1003744428338_0.html",
-          "position": 50,
-          "focus": "Incluye cita del PP sobre unir perfiles distintos"
+          "headline": "Feijóo \"garantiza\" las pensiones, \"no como Cuerpo\", llama \"tóxico\" a Sánchez y le culpa de la \"mayor crisis social, la vivienda\"",
+          "link": "https://www.elespanol.com/espana/politica/20261023/feijoo-garantiza-pensiones-no-cuerpo-llama-toxico-sanchez-culpa-mayor-crisis-social-vivienda/1003744431919_0.html",
+          "position": 20,
+          "focus": "Combina garantía de pensiones con ataque personal a Sánchez ('tóxico') y crisis de vivienda, reforzando el tono confrontativo"
         },
         {
           "outlet": "20minutos",
-          "headline": "El PP revela sus 2 y 3 en la lista de Madrid para las elecciones del 29N",
-          "link": "https://www.20minutos.es/nacional/feijoo-confirma-que-cayetana-alvarez-toledo-sera-su-numero-2-por-madrid-borja-semper-numero-3_7051877_0.html",
-          "position": 50,
-          "focus": "Presenta la noticia como revelación de la lista electoral"
+          "headline": "Feijóo, dispuesto a \"corresponder\" a Vox si el partido de Abascal se retira de las provincias donde no podrá sacar ningún senador",
+          "link": "https://www.20minutos.es/nacional/feijoo-se-muestra-dispuesto-corresponder-vox-si-partido-abascal-se-retira-provincias-donde-no-podran-tener-senador_7052442_0.html",
+          "position": 70,
+          "focus": "Destaca la posible cooperación táctica con Vox en el Senado, enfocado en estrategia electoral más que en Sánchez"
         }
       ],
-      "rango": 0,
-      "discrepancia": "baja",
+      "rango": 65,
+      "discrepancia": "alta",
       "silenciosos": []
     },
     {
-      "neutral_headline": "Visita de Milei a España durante la campaña electoral genera reacciones cruzadas entre partidos",
+      "neutral_headline": "Pedro Sánchez acude al programa 'La Revuelta' de Broncano",
       "section": "Politica",
       "facts": [
-        "Milei realizó declaraciones críticas hacia Sánchez durante su visita",
-        "Milei se abrazó con Ayuso en un acto público",
-        "Ayuso defendió públicamente ese abrazo con una declaración sobre las urnas y la 'herriko taberna'",
-        "Sánchez hizo referencia a la visita de Milei para criticar a Feijóo y Abascal",
-        "Sánchez usó la expresión 'motosierra' vinculada a las políticas de Milei en Argentina"
+        "Pedro Sánchez fue entrevistado en el programa 'La Revuelta' de David Broncano",
+        "Sánchez hizo declaraciones sobre la alternancia política y Vox, calificando su llegada al poder como 'involución'",
+        "La audiencia del programa alcanzó cifras récord según 20minutos"
       ],
       "tipo_divergencia": "editorial",
       "eje": {
-        "polo_a": "la visita beneficia y legitima a la derecha española",
-        "polo_b": "la visita perjudica a la derecha y favorece a Sánchez",
-        "resumen": "Los medios discrepan en si la presencia de Milei fortalece la posición de PP/Vox o si, por el contrario, les coloca en una posición incómoda que Sánchez aprovecha electoralmente."
+        "polo_a": "foco en contenido político-declarativo",
+        "polo_b": "foco en espectáculo/entretenimiento mediático",
+        "resumen": "Los medios difieren en si destacan las declaraciones políticas sustantivas de Sánchez o el carácter de evento mediático/entretenimiento de su aparición"
       },
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "Milei agita la campaña con insultos a Sánchez y abrazos a Ayuso",
-          "link": "https://elpais.com/espana/2026-10-22/milei-agita-la-campana-con-insultos-a-sanchez-y-abrazos-a-ayuso.html",
-          "position": 50,
-          "focus": "Describe tanto los insultos a Sánchez como los abrazos con Ayuso sin inclinarse claramente hacia ninguna lectura, aunque el verbo 'agita' sugiere cierta disrupción"
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "Ayuso defiende su abrazo con Milei: \"Ha salido de las urnas, no de una herriko taberna como los socios de Sánchez\"",
-          "link": "https://www.elmundo.es/madrid/2026/10/22/6ad9c9f321efa0fb678b45b1.html",
-          "position": 15,
-          "focus": "Da voz y legitima la defensa de Ayuso del abrazo, incluyendo un ataque directo a los socios de Sánchez; omite la polémica que genera la visita en el propio PP/Vox"
+          "headline": "Sánchez con Broncano: sesión de control del buen rollito",
+          "link": "https://elpais.com/espana/2026-10-22/sanchez-con-broncano-sesion-de-control-del-buen-rollito.html",
+          "position": 75,
+          "focus": "Destaca el tono distendido y cordial del encuentro ('buen rollito'), minimizando el contenido político sustantivo"
         },
         {
           "outlet": "eldiario.es",
-          "headline": "La irrupción en campaña de Milei pone en apuros a PP y Vox y regala otra baza electoral a Sánchez",
-          "link": "https://www.eldiario.es/politica/irrupcion-campana-milei-pone-apuros-pp-vox-regala-baza-electoral-sanchez_1_13604480.html",
-          "position": 85,
-          "focus": "Centra el relato en el coste político para PP y Vox y el beneficio electoral para Sánchez; omite cualquier defensa o beneficio que la derecha pueda obtener de la visita"
+          "headline": "Sánchez, en 'La Revuelta': \"La alternancia es sana, pero con Vox es involución\"",
+          "link": "https://www.eldiario.es/politica/sanchez-revuelta-alternancia-sana-vox-involucion_1_13608247.html",
+          "position": 15,
+          "focus": "Centra el titular en la declaración política concreta sobre Vox y la alternancia, tratando el programa como vehículo de un mensaje político"
         },
         {
-          "outlet": "El Espanol",
-          "headline": "Sánchez usa la visita de Milei contra Feijóo y Abascal: \"Sacarán la motosierra en España como en Argentina\"",
-          "link": "https://www.elespanol.com/espana/politica/20261021/sanchez-usa-visita-milei-feijoo-abascal-sacaran-motosierra-espana-argentina/1003744430242_0.html",
-          "position": 60,
-          "focus": "Reporta la estrategia de Sánchez de usar la visita contra Feijóo y Abascal, enfatizando su ofensiva política más que el efecto sobre la derecha"
+          "outlet": "La Vanguardia",
+          "headline": "Pedro Sánchez responde a las preguntas clásicas de 'La Revuelta'",
+          "link": "https://www.lavanguardia.com/television/20261023/11665873/pedro-sanchez-responde-preguntas-clasicas-revuelta.html",
+          "position": 50,
+          "focus": "Describe el formato de la entrevista de manera neutral, sin enfatizar ni el tono ni el contenido político específico"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Así se disparó 'La Revuelta' con Sánchez: claves del récord de Broncano",
+          "link": "https://www.20minutos.es/television/asi-revuelta-se-disparo-con-pedro-sanchez-4-4-millones-record-historico-broncano-emision-mas-vista-ano_7052430_3.html",
+          "position": 80,
+          "focus": "Enfatiza el fenómeno mediático y el éxito de audiencia del programa, relegando el contenido político a un segundo plano"
         }
       ],
-      "rango": 70,
+      "rango": 65,
       "discrepancia": "alta",
       "silenciosos": [
-        "20minutos",
         "ABC",
-        "La Vanguardia"
+        "El Espanol",
+        "El Mundo"
       ]
     },
     {
-      "neutral_headline": "España e Italia acuerdan poner fin a los controles fronterizos impuestos tras la crisis de Ceuta",
-      "section": "Politica",
+      "neutral_headline": "Netanyahu ordena el cierre de Cisjordania tras un ataque con víctimas antes de las elecciones israelíes",
+      "section": "Internacional",
       "facts": [
-        "España e Italia han alcanzado un acuerdo para levantar los controles fronterizos entre ambos países",
-        "Los controles habían sido impuestos tras la crisis migratoria de Ceuta",
-        "El acuerdo afecta a vuelos y conexiones marítimas según El País",
-        "El Ministerio del Interior español participó en la negociación del acuerdo"
+        "Netanyahu ordenó el cierre de Cisjordania",
+        "El cierre se produce tras un ataque/tiroteo con israelíes implicados",
+        "La medida se anuncia días antes de las elecciones en Israel",
+        "El Español precisa que el Ejército israelí abatió a dos palestinos que iban a disparar a civiles",
+        "20minutos señala que el cierre inmediato se aplicó primero a Hebrón, anticipando uno total a Cisjordania"
       ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "ataque palestino contra israelíes",
+        "polo_b": "acción israelí contra palestinos",
+        "resumen": "Los medios difieren en si el foco narrativo es el ataque sufrido por israelíes o la respuesta armada israelí que mató a los atacantes palestinos"
+      },
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "España e Italia acuerdan levantar los controles fronterizos a vuelos y las conexiones marítimas",
-          "link": "https://elpais.com/espana/2026-10-22/espanol-e-italia-acuerdan-levantar-los-controles-fronterizos-a-vuelos-y-las-conexiones-maritimas.html",
-          "position": 50,
-          "focus": "Especifica que los controles afectan a vuelos y conexiones marítimas, sin mencionar explícitamente al Ministerio del Interior como negociador"
+          "headline": "Netanyahu ordena el cierre de Cisjordania tras un ataque palestino días antes de las elecciones",
+          "link": "https://elpais.com/internacional/2026-10-23/el-ejercito-israeli-mata-a-dos-palestinos-armados-tras-un-tiroteo-en-cisjordania.html",
+          "position": 15,
+          "focus": "Destaca el 'ataque palestino' como causa, omite detalles de la respuesta israelí"
         },
         {
           "outlet": "El Mundo",
-          "headline": "Interior acuerda con Italia poner fin a los controles fronterizos impuestos tras la crisis de Ceuta",
-          "link": "https://www.elmundo.es/espana/2026/10/22/6ad9c768fdddff962b8b45a2.html",
-          "position": 50,
-          "focus": "Destaca al Ministerio del Interior como actor negociador del acuerdo con Italia"
+          "headline": "Netanyahu ordena el cierre total de Cisjordania ocupada tras un ataque contra israelíes",
+          "link": "https://www.elmundo.es/internacional/2026/10/23/6adb233f21efa0232d8b45a1.html",
+          "position": 20,
+          "focus": "Enfatiza que el ataque fue 'contra israelíes', centrando la narrativa en las víctimas israelíes"
         },
         {
           "outlet": "ABC",
-          "headline": "Italia y España levantan los controles de fronteras impuestos tras la crisis de Ceuta",
-          "link": "https://www.abc.es/espana/italia-espana-levantan-controles-fronteras-impuestos-tras-20261022102612-nt.html",
+          "headline": "Netanyahu ordena el «cierre total» de Cisjordania tras un tiroteo antes de las elecciones en Israel",
+          "link": "https://www.abc.es/internacional/netanyahu-ordena-cierre-total-cisjordania-tras-tiroteo-20261023105250-nt.html",
           "position": 50,
-          "focus": "Prioriza a Italia como primer sujeto de la acción, formato simétrico con España"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "España acuerda con Italia poner fin a los controles fronterizos impuestos tras la crisis de Ceuta",
-          "link": "https://www.eldiario.es/internacional/espana-acuerda-italia-poner-controles-fronterizos-impuestos-crisis-ceuta_1_13605485.html",
-          "position": 50,
-          "focus": "Centra a España como sujeto principal del acuerdo con Italia, similar a El Mundo"
+          "focus": "Usa el término neutro 'tiroteo' sin atribuir claramente el origen del ataque"
         },
         {
           "outlet": "El Espanol",
-          "headline": "Italia y España acuerdan poner fin a los controles fronterizos impuestos tras la crisis migratoria de Ceuta",
-          "link": "https://www.elespanol.com/mundo/europa/20261022/italia-espana-acuerdan-poner-fin-controles-fronterizos-impuestos-crisis-migratoria-ceuta/1003744430626_0.html",
-          "position": 50,
-          "focus": "Menciona explícitamente que la crisis fue 'migratoria', añadiendo precisión sobre la naturaleza del conflicto"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "España e Italia acuerdan no continuar con los controles recíprocos en las fronteras",
-          "link": "https://www.20minutos.es/internacional/espana-italia-acuerdan-no-continuar-con-los-controles-reciprocos-las-fronteras_7051916_0.html",
-          "position": 50,
-          "focus": "Usa la fórmula 'no continuar con los controles recíprocos' en lugar de 'levantar/poner fin', mismo hecho con matiz lingüístico distinto"
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "La Vanguardia"
-      ]
-    },
-    {
-      "neutral_headline": "El Tribunal Constitucional rechaza la petición del Gobierno sobre la 'ley de nietos' citando prudencia judicial",
-      "section": "Politica",
-      "facts": [
-        "El Tribunal Constitucional, presidido por Conde-Pumpido, emitió un fallo sobre la 'ley de nietos'",
-        "El fallo apela a la 'prudencia' para no intervenir a priori en procesos judiciales en curso",
-        "El abogado de los afectados asume que no podrán votar",
-        "El abogado de los afectados considera que el Constitucional era la única vía posible"
-      ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "foco en el impacto sobre los afectados",
-        "polo_b": "foco en el conflicto institucional TC-Gobierno",
-        "resumen": "Los medios difieren en si centran la noticia en las consecuencias para los ciudadanos afectados o en el enfrentamiento entre el Constitucional y el Gobierno"
-      },
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "El abogado de afectados por la ‘ley de nietos’ asume que no podrán votar: “El Constitucional era la única vía posible”",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-10-22/el-abogado-de-afectados-por-la-ley-de-nietos-asume-que-no-podran-votar-el-constitucional-era-la-unica-via-posible.html",
-          "position": 10,
-          "focus": "Destaca la perspectiva humana: los afectados no podrán votar, citando directamente a su abogado; omite el trasfondo institucional del choque TC-Gobierno"
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "El TC de Pumpido da un portazo al Gobierno en la 'ley de nietos' apelando a la \"prudencia\" para \"no intervenir en procesos judiciales en curso\"",
-          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/21/6ad8f83fe85ece1c148b4590.html",
-          "position": 90,
-          "focus": "Enmarca el fallo como un 'portazo' del TC al Gobierno, enfatizando el conflicto institucional y el argumento de prudencia judicial; minimiza el impacto concreto en los afectados"
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "El fallo del TC sobre los 'nietos' apela a la \"prudencia necesaria para no intervenir a priori en procesos judiciales en curso\"",
-          "link": "https://www.elespanol.com/espana/tribunales/20261022/fallo-tc-nietos-apela-prudencia-necesaria-no-intervenir-priori-procesos-judiciales-curso/1003744430214_0.html",
+          "headline": "Netanyahu confina Cisjordania después de que el Ejército israelí abatiese a dos palestinos que iban a disparar a civiles",
+          "link": "https://www.elespanol.com/mundo/oriente-proximo/20261023/netanyahu-confina-cisjordania-despues-ejercito-israeli-abatiese-palestinos-iban-disparar-civiles/1003744432037_0.html",
           "position": 65,
-          "focus": "Se centra en citar textualmente el argumento jurídico del fallo (prudencia, no intervención), con un tono más descriptivo y menos confrontacional que El Mundo"
+          "focus": "Detalla que el Ejército israelí abatió a los dos palestinos, aunque aclara que estos iban a disparar a civiles"
         },
         {
           "outlet": "20minutos",
-          "headline": "El giro de Conde-Pumpido: el presidente del Constitucional se desmarca por primera vez del Gobierno con la 'ley de nietos'",
-          "link": "https://www.20minutos.es/nacional/giro-conde-pumpido-presidente-constitucional-se-desmarca-por-primera-vez-gobierno-con-ley-nietos_7051716_0.html",
-          "position": 95,
-          "focus": "Personaliza la noticia en la figura de Conde-Pumpido, narrando un 'giro' y una ruptura con el Gobierno; pone el foco en la dimensión política del presidente del TC más que en los afectados o el contenido técnico del fallo"
+          "headline": "Netanyahu ordena el cierre \"inmediato\" de Hebrón y anticipa uno \"total\" de Cisjordania",
+          "link": "https://www.20minutos.es/internacional/netanyahu-ordena-cierre-inmediato-hebron-anticipa-uno-total-cisjordania_7052494_0.html",
+          "position": 50,
+          "focus": "Se centra en la mecánica del cierre (Hebrón primero, luego total) sin profundizar en el origen del ataque"
         }
       ],
-      "rango": 85,
-      "discrepancia": "alta",
+      "rango": 50,
+      "discrepancia": "media",
       "silenciosos": [
-        "ABC",
         "La Vanguardia",
         "eldiario.es"
       ]
     },
     {
-      "neutral_headline": "Informes sobre precios de la vivienda y el alquiler en España según zona geográfica y tipo de propietario",
-      "section": "Economia",
+      "neutral_headline": "El calor extremo del verano deja miles de muertes en Europa, con datos especificos para España y Barcelona",
+      "section": "Sociedad",
       "facts": [
-        "Madrid concentra los barrios más caros para comprar o alquilar vivienda entre las grandes ciudades españolas, según El País.",
-        "Los propietarios con más viviendas en alquiler cobran precios más altos que los que alquilan una sola, según eldiario.es.",
-        "La Vanguardia cuantifica en un 7% la diferencia de precio de alquiler entre grandes y pequeños propietarios.",
-        "El Mundo relaciona la densidad de las ciudades españolas con la crisis de vivienda."
+        "El Pais cifra en 50.000 los fallecidos por calor en Europa este verano",
+        "El Mundo cifra en mas de 50.300 las muertes por calor extremo en Europa en un verano",
+        "eldiario.es cifra en mas de 5.000 las muertes por calor extremo en Espana",
+        "La Vanguardia senala que Barcelona es la segunda urbe europea con mas muertes por calor atribuidas al cambio climatico"
       ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "la estructura de propiedad (grandes tenedores) explica la crisis",
-        "polo_b": "la distribución geográfica/demanda explica la crisis",
-        "resumen": "Unos medios señalan a los grandes propietarios como causa de los precios altos, mientras otros centran el problema en la concentración geográfica o demográfica de la demanda."
-      },
+      "tipo_divergencia": "ninguna",
+      "eje": null,
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "Buscador | Madrid copa los barrios más caros para comprar o alquilar casa en las grandes ciudades",
-          "link": "https://elpais.com/economia/vivienda/2026-10-22/buscador-madrid-copa-los-barrios-mas-caros-para-comprar-o-alquilar-casa-en-las-grandes-ciudades.html",
-          "position": 65,
-          "focus": "Destaca la geografía de los precios (Madrid como epicentro) sin mencionar la estructura de propiedad como causa."
+          "headline": "Autopsia del verano más mortífero en Europa: 50.000 fallecidos por calor",
+          "link": "https://elpais.com/clima-y-medio-ambiente/2026-10-22/autopsia-del-verano-mas-mortifero-en-europa-50000-fallecidos-por-calor.html",
+          "position": 50,
+          "focus": "Enfoca el balance global europeo con la cifra total de fallecidos, estilo 'autopsia' del verano"
         },
         {
           "outlet": "El Mundo",
-          "headline": "Las ciudades de España: demasiado llenas para la convivencia, demasiado vacías para la crisis de la vivienda",
-          "link": "https://www.elmundo.es/cultura/2026/10/21/6ad109e921efa04d5c8b45ba.html",
-          "position": 55,
-          "focus": "Plantea la paradoja de ciudades densas pero con crisis de vivienda, enfocando el problema en la distribución urbana más que en los propietarios."
+          "headline": "El calor extremo bate un récord histórico en Europa con más de 50.300 muertes en un solo verano",
+          "link": "https://www.elmundo.es/salud/2026/10/23/6ada5bb9e9cf4a6b638b456d.html",
+          "position": 50,
+          "focus": "Enfoca el caracter record historico del fenomeno con una cifra ligeramente superior para Europa"
         },
         {
           "outlet": "eldiario.es",
-          "headline": "Los caseros con más pisos suben más los precios a sus inquilinos que los que alquilan solo uno",
-          "link": "https://www.eldiario.es/economia/caseros-pisos-suben-precios-inquilinos-alquilan_1_13603331.html",
-          "position": 15,
-          "focus": "Atribuye directamente la subida de precios al comportamiento de los grandes caseros frente a los pequeños."
+          "headline": "El verano más mortífero: el calor extremo deja más de 5.000 muertes en España",
+          "link": "https://www.eldiario.es/sociedad/verano-mortifero-calor-extremo-deja-5-000-muertes-espana_1_13607100.html",
+          "position": 50,
+          "focus": "Enfoca el impacto especifico en Espana, con una cifra nacional distinta a las europeas"
         },
         {
           "outlet": "La Vanguardia",
-          "headline": "El gran propietario de pisos cobra un 7% más de alquiler que el pequeño",
-          "link": "https://www.lavanguardia.com/economia/20261022/11664897/gran-propietario-pisos-cobra-7-mas-alquiler-pequeno.html",
-          "position": 15,
-          "focus": "Mismo encuadre que eldiario.es, pero cuantifica la diferencia (7%) entre grandes y pequeños propietarios."
+          "headline": "Barcelona, la segunda urbe europea con más muertes por calor atribuidas al cambio climático",
+          "link": "https://www.lavanguardia.com/vida/20261023/11665726/barcelona-verano-segunda-urbe-europea-mas-muertes-cambio-climatico.html",
+          "position": 50,
+          "focus": "Enfoca el caso particular de Barcelona dentro del ranking europeo de ciudades afectadas"
         }
       ],
-      "rango": 50,
-      "discrepancia": "media",
+      "rango": 0,
+      "discrepancia": "baja",
       "silenciosos": [
         "20minutos",
         "ABC",
@@ -290,102 +243,292 @@
       ]
     },
     {
-      "neutral_headline": "Rusia intensifica ataques mientras se negocia un posible acuerdo sobre Ucrania",
+      "neutral_headline": "El Papa cancela su visita a Asís por recomendación médica tras su operación",
       "section": "Internacional",
       "facts": [
-        "Rusia lanzó varias oleadas de misiles balísticos contra Kiev",
-        "El ataque se produjo horas después de una propuesta ucraniana de negociación",
-        "Putin afirmó haber conquistado el monasterio de Sviatogirsk",
-        "En la zona del monasterio hay presencia constante de drones",
-        "Una fuente rusa citada por eldiario.es habla de 'devolver Ucrania a la Edad de Piedra'",
-        "Rusia muestra renovada confianza en Trump tras su choque con Zelenski",
-        "Trump calificó el pacto como 'más cerca que nunca'",
-        "Zelenski se mostró abierto a 'congelar' el frente actual"
+        "El Papa canceló/no viajará a Asís",
+        "La decisión se tomó por recomendación médica",
+        "La recomendación llega tras una operación que sufrió el Papa",
+        "El Pais especifica que los médicos desaconsejan el viaje en helicóptero",
+        "El Espanol indica que la operación fue de cáncer de pulmón",
+        "El Espanol señala que el Vaticano informa de que el Papa evoluciona bien",
+        "20minutos identifica al Papa como León XIV"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "El Papa anula una visita a Asís porque los médicos le desaconsejan viajar en helicóptero tras su operación",
+          "link": "https://elpais.com/internacional/2026-10-23/el-papa-anula-una-visita-a-asis-porque-los-medicos-le-desaconsejan-viajar-en-helicoptero-tras-su-operacion.html",
+          "position": 50,
+          "focus": "Destaca el motivo concreto (viaje en helicóptero) sin mencionar el tipo de cáncer"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "El Papa no viajará a Asís por recomendación médica tras su operación de cáncer",
+          "link": "https://www.abc.es/sociedad/papa-viajara-asis-recomendacion-medica-tras-operacion-20261023103912-nt.html",
+          "position": 50,
+          "focus": "Resume la cancelación y el motivo médico, sin detallar el tipo de operación"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "El Papa cancela su visita a Asís pese a que el Vaticano informa de que evoluciona bien tras ser operado de cáncer de pulmón",
+          "link": "https://www.elespanol.com/mundo/europa/20261023/papa-cancela-visita-asis-pese-vaticano-informa-evoluciona-bien-operado-cancer-pulmon/1003744432045_0.html",
+          "position": 50,
+          "focus": "Añade el dato del cáncer de pulmón y el parte médico positivo del Vaticano"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "El papa León XIV cancela por recomendación médica un viaje que tenía a Asís",
+          "link": "https://www.20minutos.es/internacional/papa-leon-xiv-cancela-su-viaje-asis-por-recomendacion-medica-pese-su-excelente-recuperacion-tras-cirugia_7052479_0.html",
+          "position": 50,
+          "focus": "Identifica al Papa por su nombre (León XIV) y repite el motivo médico"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "El Mundo",
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "El virus shamonda contagia por primera vez a un humano; se registra un fallecimiento en Francia y el Gobierno español declara alerta",
+      "section": "Sociedad",
+      "facts": [
+        "El virus shamonda ha contagiado por primera vez a un ser humano",
+        "El virus se ha detectado en España, según eldiario.es",
+        "Un hombre ha muerto en Francia, según 20minutos",
+        "El Gobierno español ha declarado 'alerta' por el virus, según 20minutos",
+        "Expertos han mostrado sorpresa ante este virus emergente, según El País"
+      ],
+      "tipo_divergencia": "cronologica",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "El primer salto del shamonda a un humano: qué se sabe de un virus emergente que ha sorprendido a los expertos",
+          "link": "https://elpais.com/sociedad/2026-10-23/el-primer-salto-del-shamonda-a-un-humano-que-se-sabe-de-un-virus-emergente-que-ha-sorprendido-a-los-expertos.html",
+          "position": 50,
+          "focus": "Centra en el caracter cientifico novedoso del salto a humanos y la sorpresa de los expertos; no menciona fallecimiento ni alerta gubernamental"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Qué sabemos del virus shamonda, que ha contagiado por primera vez a un ser humano y se ha detectado en España",
+          "link": "https://www.eldiario.es/sociedad/virus-shamonda-contagiado-primera-vez-humano-detectado-espana_1_13608494.html",
+          "position": 50,
+          "focus": "Anade el dato de deteccion en Espana junto al primer contagio humano; no menciona muerte en Francia ni alerta oficial"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Virus Shamonda: un caso excepcional",
+          "link": "https://www.lavanguardia.com/vida/20261023/11665782/virus-shamonda-caso-excepcional.html",
+          "position": 50,
+          "focus": "Titular minimo que solo califica el caso como excepcional, sin detalles especificos de pais, victimas o respuesta oficial"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "El Gobierno dice que España está en \"alerta\" por el virus shamonda tras la muerte de un hombre en Francia",
+          "link": "https://www.20minutos.es/nacional/agricultura-asegura-que-espana-esta-alerta-por-virus-shamonda-pero-pide-calma_7052212_0.html",
+          "position": 50,
+          "focus": "Incluye la reaccion gubernamental (alerta) y el dato de un fallecimiento en Francia, aportando informacion mas avanzada en el tiempo"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "ABC",
+        "El Espanol",
+        "El Mundo"
+      ]
+    },
+    {
+      "neutral_headline": "El PP difunde vídeos generados con IA contra el PSOE, lo que genera reacciones distintas",
+      "section": "Politica",
+      "facts": [
+        "El PP ha difundido vídeos generados con inteligencia artificial dirigidos contra el PSOE",
+        "Uno de los vídeos incluye una acusación contra Leire Díez de 'contratar matones' para eliminar a la jueza Biedma",
+        "Leire Díez ha presentado una querella contra el PP por ese vídeo",
+        "Otro vídeo del PP muestra una entrega de pizza con 'extra de chorizo' en la sede del PSOE en Ferraz",
+        "El PP ha invocado el derecho a la sátira para justificar el uso de estos vídeos",
+        "El uso de estos vídeos ha generado debate sobre los límites de la IA en la política"
       ],
       "tipo_divergencia": "editorial",
       "eje": {
-        "polo_a": "escepticismo/violencia pese al diálogo",
-        "polo_b": "optimismo sobre el acuerdo de paz",
-        "resumen": "Los medios se dividen entre subrayar la brutalidad y contradicción de Rusia mientras se negocia, o destacar el avance diplomático hacia un pacto"
+        "polo_a": "víctima de difamación grave",
+        "polo_b": "sátira política legítima",
+        "resumen": "Los medios se dividen entre presentar los vídeos del PP como ataques difamatorios que requieren respuesta judicial y presentarlos como ejercicio legítimo de la sátira política."
       },
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "Rusia golpea Kiev con varias oleadas de misiles balísticos horas después de la propuesta ucrania de negociación",
-          "link": "https://elpais.com/internacional/2026-10-22/rusia-golpea-kiev-con-varias-oleadas-de-misiles-balisticos-unas-horas-despues-de-la-propuesta-ucrania-de-negociacion.html",
-          "position": 20,
-          "focus": "Destaca la contradicción entre el discurso de paz ucraniano y la respuesta militar rusa; omite detalles del proceso negociador"
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "Viaje a Sviatogirsk, el monasterio que Putin aseguró haber conquistado: \"Estos drones pasan por aquí todo el día. Dios me protege\"",
-          "link": "https://www.elmundo.es/internacional/2026/10/21/6ad8ac00e85ece8e5d8b45a0.html",
-          "position": 45,
-          "focus": "Centra el relato en el testimonio humano y la violencia cotidiana en el terreno, sin entrar en el proceso diplomático"
+          "headline": "El vídeo del PP contra el PSOE agita el debate sobre los límites de la IA en la batalla política",
+          "link": "https://elpais.com/espana/2026-10-23/el-video-del-pp-contra-el-psoe-agita-el-debate-sobre-los-limites-de-la-ia-en-la-batalla-politica.html",
+          "position": 50,
+          "focus": "Analiza el debate general sobre los límites de la IA en política sin tomar partido explícito por ninguna de las partes."
         },
         {
           "outlet": "eldiario.es",
-          "headline": "Rusia recupera la fe en Trump tras su choque con Zelenski: “Aprovechemos para devolver Ucrania a la Edad de Piedra”",
-          "link": "https://www.eldiario.es/internacional/rusia-recupera-fe-trump-choque-zelenski-aprovechemos-devolver-ucrania-edad-piedra_1_13604397.html",
-          "position": 10,
-          "focus": "Resalta la retórica agresiva rusa y el cinismo hacia Trump, enfatizando el riesgo de escalada pese al acercamiento político"
+          "headline": "Leire Díez se querella contra el PP por el vídeo de IA en el que la acusa de \"contratar matones\" para eliminar a la jueza Biedma",
+          "link": "https://www.eldiario.es/politica/leire-diez-querella-pp-video-ia-acusa-contratar-matones-eliminar-jueza-biedma_1_13608569.html",
+          "position": 15,
+          "focus": "Centra la noticia en la respuesta judicial de la afectada, enfatizando la gravedad de la acusación y el daño causado, sin mencionar el argumento de la sátira."
         },
         {
-          "outlet": "20minutos",
-          "headline": "Se mueven más piezas en la guerra: para Trump el pacto está \"más cerca que nunca\" y Zelenski se abre a 'congelar' el frente actual",
-          "link": "https://www.20minutos.es/internacional/se-mueven-mas-piezas-guerra-para-trump-pacto-esta-mas-cerca-que-nunca-zelenski-se-abre-congelar-frente-actual_7051853_0.html",
-          "position": 85,
-          "focus": "Pone el foco en el progreso diplomático y las declaraciones optimistas de Trump y Zelenski, dejando en segundo plano la violencia en curso"
+          "outlet": "La Vanguardia",
+          "headline": "Nuevo vídeo del PP en el que trata de entregar una pizza con “extra de chorizo” en Ferraz",
+          "link": "https://www.lavanguardia.com/politica/20261023/11666215/nuevo-video-pp-trata-entregar-pizza-extra-chorizo-ferraz.html",
+          "position": 55,
+          "focus": "Describe de forma neutra y casi anecdótica otro vídeo del PP, sin profundizar en el debate ético ni en las consecuencias legales."
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "\"Si cobrar mordidas es de zurdos, soy zurdo\": el PP invoca el derecho a la sátira para poner en evidencia al PSOE usando IA",
+          "link": "https://www.elespanol.com/espana/politica/20261022/cobrar-mordidas-zurdos-zurdo-pp-invoca-derecho-satira-poner-evidencia-psoe-usando-ia/1003744431546_0.html",
+          "position": 88,
+          "focus": "Adopta la defensa del PP, presentando el vídeo como un ejercicio legítimo de sátira política y resaltando el mensaje crítico hacia el PSOE."
         }
       ],
-      "rango": 75,
+      "rango": 73,
       "discrepancia": "alta",
       "silenciosos": [
+        "20minutos",
         "ABC",
-        "El Espanol",
-        "La Vanguardia"
+        "El Mundo"
       ]
     },
     {
-      "neutral_headline": "Declaraciones de dirigentes del PP sobre distintos asuntos de gestion y casos judiciales",
+      "neutral_headline": "Tres informaciones distintas sobre PSOE, Gobierno y política exterior",
       "section": "Politica",
       "facts": [
-        "Esperanza Aguirre declaro sobre el caso Lezo que no podia saber lo que hacia Ignacio Gonzalez",
-        "Esperanza Aguirre califico como buena idea construir un campo de golf en Chamberi y lo comparo con un helipuerto para Bono",
-        "Isabel Diaz Ayuso acuso a la portavoz del PSOE Mar Espinar de vivir en un piso de la universidad a precio amigo sin trabajar alli"
+        "La UCO detectó desaparición de facturas en la contabilidad del PSOE durante investigación de financiación",
+        "El PSOE habría promovido en redes sociales a altos cargos presentándolos como periodistas neutrales",
+        "Albares envió al Censo una lista de 18.000 'nietos' con numerosos errores, sin especificar cuántos cumplen la ley"
       ],
       "tipo_divergencia": "ninguna",
       "eje": null,
       "frames": [
         {
           "outlet": "El Mundo",
-          "headline": "Esperanza Aguirre, sobre el caso Lezo: \"Cómo iba a saber\" lo que hacía Ignacio González",
-          "link": "https://www.elmundo.es/madrid/2026/10/22/6ad9c404e85ece9b228b4586.html",
+          "headline": "La UCO detecta la desaparición de facturas en la contabilidad del PSOE al rastrear la financiación ilegal",
+          "link": "https://www.elmundo.es/espana/2026/10/22/6ada535cfdddff545b8b45a9.html",
           "position": 50,
-          "focus": "Recoge la defensa de Aguirre en el caso Lezo sobre su desconocimiento de las actuaciones de Ignacio Gonzalez"
+          "focus": "Centra en la investigación de la UCO sobre financiación irregular del PSOE y la desaparición de facturas"
         },
         {
-          "outlet": "eldiario.es",
-          "headline": "Aguirre dice que fue \"una buena idea\" construir un campo de Golf en Chamberí: \"Mejor que un helipuerto para Bono\"",
-          "link": "https://www.eldiario.es/politica/aguirre-defiende-tribunal-buena-idea-construir-campo-golf-chamberi-mejor-helipuerto-bono_1_13605462.html",
+          "outlet": "ABC",
+          "headline": "El PSOE hace pasar en redes a altos cargos por periodistas neutrales",
+          "link": "https://www.abc.es/espana/psoe-pasar-altos-cargos-periodistas-neutrales-pseudomedios-20261023025033-nt.html",
           "position": 50,
-          "focus": "Recoge declaraciones de Aguirre defendiendo la construccion de un campo de golf en Chamberi"
+          "focus": "Centra en una práctica de comunicación del PSOE en redes sociales mediante perfiles que ocultan su afiliación partidista"
         },
         {
           "outlet": "El Espanol",
-          "headline": "Ayuso acusa a la portavoz del PSOE, Mar Espinar, de vivir en un piso de la universidad \"a precio amigo\" sin trabajar allí",
-          "link": "https://www.elespanol.com/madrid/comunidad/20261022/ayuso-acusa-portavoz-psoe-mar-espinar-vivir-piso-universidad-precio-amigo-sin-trabajar/1003744430606_0.html",
+          "headline": "Albares envía al Censo una lista con \"numerosos errores\" de sólo 18.000 'nietos' y sin concretar cuántos cumplen la ley",
+          "link": "https://www.elespanol.com/espana/tribunales/20261023/albares-envia-censo-lista-numerosos-errores-solo-nietos-sin-concretar-cumplen-ley/1003744431830_0.html",
           "position": 50,
-          "focus": "Recoge una acusacion de Ayuso contra Mar Espinar sobre una vivienda universitaria"
+          "focus": "Centra en errores y falta de concreción en el listado de 'nietos' enviado por Exteriores al Censo electoral"
         }
       ],
       "rango": 0,
       "discrepancia": "baja",
       "silenciosos": [
         "20minutos",
+        "El Pais",
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "La Ertzaintza carga contra concentrados en Vitoria durante un intento de desahucio",
+      "section": "Sociedad",
+      "facts": [
+        "Hubo cargas de la Ertzaintza contra personas concentradas en Vitoria",
+        "La concentración tenía como objetivo impedir un desahucio",
+        "El Mundo informa de dos personas detenidas",
+        "eldiario.es y 20minutos señalan que la familia afectada tiene seis hijos menores",
+        "eldiario.es sitúa los hechos en un barrio concreto de Vitoria"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "foco en el orden público y las detenciones",
+        "polo_b": "foco en la vulnerabilidad de la familia desahuciada",
+        "resumen": "El Mundo centra el titular en las detenciones y la acción de los concentrados, mientras eldiario.es y 20minutos enfatizan la condición de la familia con seis hijos menores afectada por el desahucio"
+      },
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "Dos detenidos tras cargar la Ertzaintza contra los concentrados para impedir un desahucio en Vitoria",
+          "link": "https://www.elmundo.es/pais-vasco/2026/10/23/6adb1dd4e85ece40698b4599.html",
+          "position": 30,
+          "focus": "Destaca las detenciones y la acción de los concentrados que intentaban impedir el desahucio; omite detalles sobre la familia afectada"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Tensión y cargas de la Ertzaintza en un barrio de Vitoria por el desahucio de una familia con seis hijos menores",
+          "link": "https://www.eldiario.es/euskadi/tension-cargas-ertzaintza-barrio-vitoria-desahucio-familia-seis-hijos-menores_1_13608441.html",
+          "position": 70,
+          "focus": "Enfatiza la tensión, las cargas policiales y la situación de una familia con seis hijos menores; sitúa el hecho en un barrio concreto"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Cargas policiales en Vitoria en la protesta contra un desahucio de una familia con seis hijos menores",
+          "link": "https://www.20minutos.es/pais-vasco/alava/cargas-policiales-vitoria-protesta-contra-un-desahucio-una-familia-con-seis-hijos-menores-cargo_7052475_0.html",
+          "position": 65,
+          "focus": "Resalta las cargas policiales y la protesta en defensa de una familia con seis hijos menores, sin mencionar detenciones"
+        }
+      ],
+      "rango": 40,
+      "discrepancia": "media",
+      "silenciosos": [
         "ABC",
+        "El Espanol",
         "El Pais",
         "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "El padre de Meghan Markle es investigado por presunta posesión de pornografía infantil",
+      "section": "Sociedad",
+      "facts": [
+        "Thomas Markle, padre de Meghan Markle, está siendo investigado por presunta posesión de pornografía infantil",
+        "ABC señala que la investigación surge tras una denuncia de su hijo",
+        "20minutos atribuye la información a 'The Sun'"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "ABC",
+          "headline": "Investigan a Thomas Markle, padre de Meghan, por presunta pornografía infantil tras la denuncia de su hijo",
+          "link": "https://www.abc.es/gente/investigan-thomas-markle-padre-meghan-presunta-pornografia-20261023102232-nt.html",
+          "position": 50,
+          "focus": "Destaca que la denuncia provino de un hijo de Thomas Markle, sin citar fuente periodística externa"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "El padre de Meghan Markle, investigado por presunta posesión de pornografía infantil",
+          "link": "https://www.elespanol.com/corazon/casas-reales/20261023/thomas-markle-padre-anos-meghan-investigado-presunta-posesion-pornografia-infantil/1003744431966_0.html",
+          "position": 50,
+          "focus": "Informa del hecho de forma escueta, sin mencionar origen de la denuncia ni fuente periodística"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "El padre de Meghan Markle, investigado por supuesta posesión de pornografía infantil, según 'The Sun'",
+          "link": "https://www.20minutos.es/gente/thomas-padre-meghan-markle-investigado-por-supuesta-posesion-pornografia-infantil-segun-the-sun_7052480_0.html",
+          "position": 50,
+          "focus": "Atribuye explícitamente la información al tabloide 'The Sun' como fuente original"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "El Mundo",
+        "El Pais",
+        "La Vanguardia",
+        "eldiario.es"
       ]
     }
   ]
