@@ -1,0 +1,232 @@
+{
+  "fecha": "2026-10-24T09:03:30.335941+00:00",
+  "esquema": 2,
+  "historias": [
+    {
+      "neutral_headline": "Consulados ante el plazo del Supremo para acreditar a 'nietos' con derecho a voto el 29-N",
+      "section": "Politica",
+      "facts": [
+        "El Tribunal Supremo impuso un ultimátum a los consulados para tramitar las acreditaciones de voto.",
+        "El Pais describe el proceso en los consulados como frenético, comparándolo con 'reparar un avión en pleno vuelo'.",
+        "El Mundo afirma que Exteriores solo acredita que el 0,3% de los 'nietos' cumple los requisitos para votar el 29-N.",
+        "El Espanol indica que los cónsules han emitido 91 certificados, una mínima parte de los 163.020 'nietos' nacionalizados."
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Cinco días frenéticos en los consulados para cumplir el ultimátum del Supremo: “Es como reparar un avión en pleno vuelo”",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-10-24/cinco-dias-freneticos-en-los-consulados-para-cumplir-el-ultimatum-del-supremo-es-como-reparar-un-avion-en-pleno-vuelo.html",
+          "position": 50,
+          "focus": "Centra el relato en la dificultad logística y el esfuerzo de los consulados para cumplir el plazo, sin aportar cifras concretas de acreditados."
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Exteriores sólo acredita que el 0,3% de los 'nietos' cumple los requisitos para votar el 29-N",
+          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/23/6adba990fc6c8325318b4587.html",
+          "position": 50,
+          "focus": "Aporta el dato porcentual (0,3%) de 'nietos' que cumplen requisitos, centrando el foco en el bajo cumplimiento según Exteriores."
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Los cónsules han emitido sólo 91 certificados: una mínima parte de los 163.020 'nietos' nacionalizados podrá votar",
+          "link": "https://www.elespanol.com/espana/politica/20261024/consules-emitido-solo-certificados-minima-parte-nietos-nacionalizados-podra-votar/1003744433115_0.html",
+          "position": 50,
+          "focus": "Detalla cifras absolutas (91 certificados de 163.020 nacionalizados), enfatizando la escasa proporción que podrá votar."
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline_general": "Brasil celebra el último debate presidencial entre Lula y Bolsonaro mientras crece la atención sobre otros candidatos del entorno Bolsonaro",
+      "section": "Internacional",
+      "facts": [
+        "Se celebró el último debate entre Lula y Bolsonaro antes de las elecciones",
+        "El debate incluyó intercambios sobre temas variados, entre ellos un comentario sobre papel higiénico y otro sobre los dedos de Lula",
+        "Flávio Bolsonaro es candidato al Senado en estas elecciones",
+        "eldiario.es señala vínculos de Flávio Bolsonaro con grupos paramilitares"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "juicio editorial explícito crítico hacia Bolsonaro/su entorno",
+        "polo_b": "registro neutro o descriptivo sin juicio",
+        "resumen": "El Pais y eldiario.es introducen un juicio claro sobre quién domina o qué representa el bolsonarismo, mientras 20minutos opta por un listado descriptivo de anécdotas del debate"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Lula pone a Bolsonaro a la defensiva en el último debate antes de las urnas",
+          "link": "https://elpais.com/america/2026-10-24/lula-pone-a-bolsonaro-a-la-defensiva-en-el-ultimo-debate-antes-de-las-urnas.html",
+          "position": 30,
+          "focus": "Destaca que Lula domina el debate y pone a Bolsonaro en posición defensiva, con un juicio implícito sobre el resultado del enfrentamiento; omite detalles concretos de los intercambios"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Flávio Bolsonaro, el candidato con vínculos paramilitares que acaricia la presidencia de Brasil",
+          "link": "https://www.eldiario.es/internacional/flavio-bolsonaro-candidato-vinculos-paramilitares-acaricia-presidencia-brasil_1_13609053.html",
+          "position": 15,
+          "focus": "Centra el foco en Flávio Bolsonaro, no en el debate presidencial, y lo caracteriza explícitamente con un juicio crítico ('vínculos paramilitares'); omite cualquier referencia al debate entre Lula y Bolsonaro"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Los diez momentos del último debate entre Lula y Bolsonaro: del grosor del papel higiénico a los 9 dedos de Lula",
+          "link": "https://www.20minutos.es/internacional/momentos-ultimo-debate-lula-flavio-bolsonaro-brasil-grosor-papel-higienico-nueve-dedos_7052883_0.html",
+          "position": 60,
+          "focus": "Enumera momentos puntuales del debate de forma anecdótica y descriptiva, sin emitir juicio sobre quién ganó o perdió; omite un balance general del enfrentamiento"
+        }
+      ],
+      "rango": 45,
+      "discrepancia": "media",
+      "silenciosos": [
+        "ABC",
+        "El Espanol",
+        "El Mundo",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "Marc Márquez gana la sprint y logra la pole mientras Jorge Martín sufre una caída con fractura en el GP de Australia",
+      "section": "Deportes",
+      "facts": [
+        "Marc Márquez ganó la carrera sprint del GP de Australia",
+        "Marc Márquez logró la pole position",
+        "Jorge Martín sufrió una fuerte caída en el GP de Australia",
+        "Jorge Martín se perderá la carrera del domingo por la lesión",
+        "Según El Mundo, Martín sufrió una fractura en el brazo",
+        "Según 20minutos, Martín sufrió una fractura de radio",
+        "Jorge Martín y Marc Márquez compiten por el Mundial, según 20minutos"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Márquez firma su enésima maravilla y Martín se rompe tras una fuerte caída en el GP de Australia",
+          "link": "https://elpais.com/deportes/motociclismo/2026-10-24/marquez-firma-su-enesima-maravilla-y-martin-se-rompe-tras-una-fuerte-caida-en-el-gp-de-australia.html",
+          "position": 50,
+          "focus": "Destaca el triunfo de Márquez como logro reiterado ('enésima maravilla') y menciona la rotura de Martín sin especificar el tipo de lesión"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Marc Márquez vence la 'sprint y logra la pole mientras Jorge Martín se cae y se pierde la carrera del domingo por una fractura en el brazo",
+          "link": "https://www.elmundo.es/deportes/motociclismo/2026/10/24/6adc4939e4d4d899348b45a3.html",
+          "position": 50,
+          "focus": "Detalla el doble logro de Márquez (sprint y pole) y precisa que la fractura de Martín es en el brazo, afectando su participación del domingo"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Duro golpe para Jorge Martín en plena lucha por el Mundial con Marc Márquez: caída y fractura de radio",
+          "link": "https://www.20minutos.es/deportes/deportes_motor/motogp/duro-golpe-para-jorge-martin-plena-lucha-por-mundial-motogp-con-marc-marquez-sufre-una-fuerte-caida-se-fractura-radio_7052889_0.html",
+          "position": 50,
+          "focus": "Centra el titular en Martín y el impacto deportivo de la lesión en la lucha por el Mundial, especificando que es una fractura de radio, sin mencionar la victoria de Márquez"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "ABC",
+        "El Espanol",
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Cambio de hora en España: fecha y explicación del paso al horario de invierno",
+      "section": "Sociedad",
+      "facts": [
+        "Hoy se produce el cambio de hora en España para entrar en el horario de invierno",
+        "Los relojes se atrasan una hora",
+        "Un experto en sueño explica por qué el cambio de hora, aunque gusta menos, resulta beneficioso para el organismo"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "Cambio de hora en España: cuándo se cambia la hora hoy para pasar al horario de invierno",
+          "link": "https://www.elmundo.es/como/2026/10/24/6adb3559e85ece6d4d8b4590.html",
+          "position": 50,
+          "focus": "Informa sobre la hora exacta del cambio, enfoque práctico e informativo"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "¿A qué hora se cambia hoy el reloj para entrar en el horario de invierno?",
+          "link": "https://www.abc.es/sociedad/cambio-hora-hoy-espana-hora-cambia-reloj-20261024050000-nt.html",
+          "position": 50,
+          "focus": "Pregunta directa sobre la hora del cambio, formato de pregunta-respuesta informativa"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Cambio de hora de invierno: un experto en sueño explica por qué gusta menos, pero nos sienta mucho mejor",
+          "link": "https://www.eldiario.es/consumoclaro/cambio-hora-invierno-experto-sueno-explica-gusta-sienta-mejor-xp_1_13602121.html",
+          "position": 50,
+          "focus": "Añade perspectiva científica/salud citando a un experto en sueño sobre los efectos del cambio"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Cambio de hora 2026: llega el día para atrasar los relojes en España y entrar en el horario de invierno",
+          "link": "https://www.20minutos.es/nacional/cambio-hora-2026-llega-dia-atrasar-relojes-espana-entrar-horario-invierno_7052767_0.html",
+          "position": 50,
+          "focus": "Anuncia la fecha del cambio de hora con mención al año 2026, enfoque informativo estándar"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "El Espanol",
+        "El Pais",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "Distintos enfoques sobre la crisis de vivienda en España: cooperativas, coste comparado con crianza y gastos por impago de alquiler",
+      "section": "Economia",
+      "facts": [
+        "El Pais menciona cooperativas para comprar vivienda a precio de coste como posible formula",
+        "El Mundo compara el coste de un piso en Madrid, Barcelona o Palma con los gastos de criar un hijo hasta los 30 años, cifrando la diferencia en al menos un 30% mas",
+        "El Espanol indica que recuperar un piso en impago de alquiler tarda una media de nueve meses y cuesta casi 10.000 euros"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Cooperativas para comprar vivienda a precio de coste: ¿una fórmula olvidada para aliviar la crisis de acceso?",
+          "link": "https://elpais.com/economia/negocios/2026-10-24/cooperativas-para-comprar-vivienda-a-precio-de-coste-una-formula-olvidada-para-aliviar-la-crisis-de-acceso.html",
+          "position": 50,
+          "focus": "Se centra en una solucion alternativa (cooperativas) para el acceso a la vivienda, sin dar cifras comparativas"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "¿Comprar casa o tener un hijo? Un piso en Madrid, Barcelona o Palma cuesta al menos un 30% más que todos los gastos de la crianza hasta los 30 años",
+          "link": "https://www.elmundo.es/economia/vivienda/2026/10/23/6adb80c821efa0eb7d8b4579.html",
+          "position": 50,
+          "focus": "Compara el coste de comprar vivienda con el de criar un hijo, destacando la carga economica de la vivienda frente a otras decisiones vitales"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Nueve meses para recuperar un piso y casi 10.000 euros de coste: la factura media del impago del alquiler en España",
+          "link": "https://www.elespanol.com/invertia/observatorios/vivienda/20261024/meses-recuperar-piso-euros-coste-factura-media-impago-alquiler-espana/1003744432253_0.html",
+          "position": 50,
+          "focus": "Aborda el problema desde la perspectiva de los propietarios, cuantificando el coste del impago de alquiler"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    }
+  ]
+}
