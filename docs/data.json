@@ -1,556 +1,472 @@
 {
-  "fecha": "2026-10-25T09:21:26.376838+00:00",
+  "fecha": "2026-10-26T10:26:03.628144+00:00",
   "esquema": 2,
   "historias": [
     {
-      "neutral_headline": "Partidos se posicionan ante posible coalicion PP-Vox de cara a las elecciones del 29-N",
+      "neutral_headline": "Lula da Silva gana las elecciones presidenciales de Brasil tras una remontada",
       "section": "Politica",
       "facts": [
-        "Pedro Sanchez declaro que un gobierno PP-Vox supondria retroceder 50 anos",
-        "Cayetana Alvarez de Toledo afirmo que Sanchez busca que suba Vox para que pierda el PP",
-        "Feijoo esta apostando por perfiles duros para competir con Vox",
-        "Hay elecciones previstas para el 29 de noviembre"
+        "Lula da Silva resultó vencedor en las elecciones presidenciales de Brasil",
+        "Es su cuarto mandato como presidente",
+        "La elección representó una remontada en las encuestas",
+        "Flávio Bolsonaro fue mencionado como rival o parte del bolsonarismo",
+        "20minutos indica que Flávio Bolsonaro impugnará el resultado",
+        "El Espanol cita una declaración de Lula: 'Mi victoria es una derrota de la mentira'"
       ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "la alianza PP-Vox es el problema/retroceso",
-        "polo_b": "la estrategia de Sanchez es la causa de la polarizacion",
-        "resumen": "los medios difieren en si el foco critico debe recaer sobre la coalicion PP-Vox o sobre la estrategia electoral de Sanchez"
-      },
+      "tipo_divergencia": "ninguna",
+      "eje": null,
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "Pedro Sánchez: “Un Gobierno del PP con Vox no es alternancia, es retroceder 50 años”",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-10-25/pedro-sanchez-un-gobierno-del-pp-con-vox-no-es-alternancia-es-retroceder-50-anos.html",
-          "position": 10,
-          "focus": "da voz a Sanchez senalando a PP-Vox como retroceso democratico, omite las criticas hacia la izquierda"
+          "headline": "Lula logra una remontada histórica en Brasil y da la victoria a la izquierda frente al avance ultra de los Bolsonaro",
+          "link": "https://elpais.com/america/2026-10-26/lula-logra-una-remontada-historica-en-brasil-y-da-la-victoria-a-la-izquierda-frente-al-avance-ultra-de-los-bolsonaro.html",
+          "position": 50,
+          "focus": "Destaca la remontada histórica y la derrota del 'avance ultra' de los Bolsonaro; omite detalles sobre impugnación"
         },
         {
           "outlet": "El Mundo",
-          "headline": "Cayetana Álvarez de Toledo: \"Sánchez quiere división, que suba Vox para que pierda el PP\"",
-          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/24/6adcd6d0e9cf4a2e028b45a4.html",
-          "position": 90,
-          "focus": "da voz a Cayetana acusando a Sanchez de manipular el ascenso de Vox para debilitar al PP, omite el argumento de Sanchez sobre el retroceso"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "Feijóo apuesta por perfiles duros para competir con Vox",
-          "link": "https://www.eldiario.es/politica/feijoo-apuesta-perfiles-duros-competir-vox_1_13610039.html",
-          "position": 30,
-          "focus": "describe la estrategia de Feijoo de endurecerse para competir con Vox, con tono levemente critico hacia esa deriva"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "¿Quién ganará el 29-N?",
-          "link": "https://www.lavanguardia.com/opinion/20261025/11667374/ganara-29-n.html",
+          "headline": "Lula logra una victoria inédita en las elecciones de Brasil y derrota al bolsonarismo",
+          "link": "https://www.elmundo.es/internacional/2026/10/26/6ade9b3be4d4d8d04c8b458a.html",
           "position": 50,
-          "focus": "plantea la pregunta electoral de forma neutral sin tomar partido por ningun bando"
-        }
-      ],
-      "rango": 80,
-      "discrepancia": "alta",
-      "silenciosos": [
-        "20minutos",
-        "ABC",
-        "El Espanol"
-      ]
-    },
-    {
-      "neutral_headline": "Brasil celebra la segunda vuelta presidencial entre Lula da Silva y Jair Bolsonaro",
-      "section": "Internacional",
-      "facts": [
-        "Brasil vota en segunda vuelta entre Luiz Inácio Lula da Silva y Jair Bolsonaro",
-        "La Vanguardia y eldiario.es describen la situación como empate técnico entre ambos candidatos",
-        "El Español señala que ningún candidato que perdió en primera vuelta ha remontado históricamente en segunda vuelta en Brasil",
-        "ABC reporta sobre el origen familiar de los Bolsonaro, remontándolo a la pobreza en Italia"
-      ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "Bolsonaro como amenaza / Lula como última esperanza",
-        "polo_b": "Lula con pocas opciones / Bolsonaro favorito",
-        "resumen": "Algunos medios enmarcan la elección como un rescate frente al avance ultra de Bolsonaro, mientras otros subrayan lo improbable de una remontada de Lula, lo que favorece implícitamente la narrativa de Bolsonaro."
-      },
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "Brasil decide entregar todo el poder a los Bolsonaro o dar una última oportunidad a Lula",
-          "link": "https://elpais.com/america/2026-10-25/brasil-decide-entregar-todo-el-poder-a-los-bolsonaro-o-dar-una-ultima-oportunidad-a-lula.html",
-          "position": 10,
-          "focus": "Plantea la elección como entregar 'todo el poder' a los Bolsonaro frente a dar 'última oportunidad' a Lula, enmarcando a Bolsonaro como riesgo y a Lula como salvación; omite datos de empate técnico."
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "Elecciones en Brasil: dos ideas de país para la gran potencia de América Latina",
-          "link": "https://www.elmundo.es/internacional/2026/10/25/6adcd212e9cf4a41288b456f.html",
-          "position": 50,
-          "focus": "Presenta la contienda como un choque de 'dos ideas de país' sin inclinar la balanza hacia ningún candidato."
+          "focus": "Enfatiza la derrota del bolsonarismo como movimiento político; no menciona impugnación"
         },
         {
           "outlet": "ABC",
-          "headline": "La cuna del clan Bolsonaro: de la pobreza en Italia al poder en Brasil",
-          "link": "https://www.abc.es/internacional/cuna-clan-bolsonaro-pobreza-italia-crear-saga-20261016023422-nt.html",
+          "headline": "Lula logra una remontada histórica y gana las elecciones",
+          "link": "https://www.abc.es/internacional/votos-lula-lidera-noche-larga-brasil-20261026011153-nt.html",
           "position": 50,
-          "focus": "Se centra en la historia familiar y el origen migrante de los Bolsonaro, sin entrar en el enfrentamiento electoral ni en el favoritismo de ningún bando."
+          "focus": "Resume el hecho de forma escueta: remontada y victoria electoral"
         },
         {
           "outlet": "eldiario.es",
-          "headline": "Empate técnico en Brasil: Lula intenta sostener el gran bastión de la izquierda en la región frente a Bolsonaro y la ola ultra",
-          "link": "https://www.eldiario.es/internacional/empate-tecnico-brasil-lula-sostener-gran-bastion-izquierda-region-frente-bolsonaro-ola-ultra_1_13610497.html",
-          "position": 18,
-          "focus": "Describe a Lula defendiendo el 'bastión de la izquierda' frente a Bolsonaro y la 'ola ultra', enmarcando a este último como amenaza regional."
+          "headline": "Lula da Silva logra la remontada: vence a Flávio Bolsonaro y será presidente de Brasil por cuarta vez",
+          "link": "https://www.eldiario.es/internacional/brasil-vilo-elecciones-ajustadas-historia_1_13614113.html",
+          "position": 50,
+          "focus": "Detalla el rival directo, Flávio Bolsonaro, y el histórico cuarto mandato"
         },
         {
           "outlet": "La Vanguardia",
-          "headline": "Lula y Bolsonaro llegan a las urnas en situación de empate",
-          "link": "https://www.lavanguardia.com/internacional/20261025/11667291/lula-bolsonaro-llegan-urnas-situacion-empate.html",
+          "headline": "Victoria histórica de Lula en Brasil",
+          "link": "https://www.lavanguardia.com/internacional/20261026/11667806/fuerte-recelo-recuento-brasileno.html",
           "position": 50,
-          "focus": "Informa de manera factual sobre el empate entre ambos candidatos sin atribuir juicios de valor."
+          "focus": "Titular breve centrado en el carácter histórico de la victoria"
         },
         {
           "outlet": "El Espanol",
-          "headline": "Lula busca el 'milagro' en las urnas: ningún candidato que ha perdido en la primera vuelta en Brasil remonta en la segunda",
-          "link": "https://www.elespanol.com/mundo/america/20261024/lula-busca-milagro-urnas-ningun-candidato-perdido-primera-vuelta-brasil-remonta-segunda/1003744433081_0.html",
-          "position": 80,
-          "focus": "Resalta que históricamente ningún candidato remonta tras perder la primera vuelta, sugiriendo que Lula enfrenta una tarea casi imposible y favoreciendo implícitamente las opciones de Bolsonaro."
-        }
-      ],
-      "rango": 70,
-      "discrepancia": "alta",
-      "silenciosos": [
-        "20minutos"
-      ]
-    },
-    {
-      "neutral_headline": "Francia atraviesa una jornada de protestas y disturbios con fuerte despliegue policial",
-      "section": "Internacional",
-      "facts": [
-        "En Francia se producen marchas masivas y hechos de violencia política",
-        "El dispositivo de seguridad francés se ha visto desbordado según El Mundo",
-        "Según El Espanol se han producido más de 1.000 arrestos y la violencia se ha extendido al norte de Italia",
-        "Le Pen tiene previsto un gran acto, según El Espanol",
-        "El Gobierno francés ha impuesto trabas a las marchas, según eldiario.es",
-        "Vox impulsa cambios drásticos ('motosierra') en política cultural en España, según El País"
-      ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "legitimidad de la protesta / responsabilidad del Gobierno",
-        "polo_b": "violencia y desorden protagonizados por los manifestantes",
-        "resumen": "Los medios franceses difieren en si el foco debe estar en la represión y trabas gubernamentales o en la violencia y el caos generado por las protestas"
-      },
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "Vox mete la “motosierra” en la cultura",
-          "link": "https://elpais.com/cultura/2026-10-25/vox-mete-la-motosierra-en-la-cultura.html",
+          "headline": "Lula logra una remontada histórica y volverá a presidir Brasil:  \"Mi victoria es una derrota de la mentira\"",
+          "link": "https://www.elespanol.com/mundo/america/20261026/lula-logra-remontada-historica-volvera-presidir-brasil-victoria-derrota-mentira/1003744434369_0.html",
           "position": 50,
-          "focus": "Pieza sobre política cultural española (Vox), sin relación directa con los sucesos en Francia; no se posiciona en el eje francés"
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "La violencia política desborda el blindaje de seguridad en Francia",
-          "link": "https://www.elmundo.es/internacional/2026/10/24/6adcf5e4fc6c8337488b4580.html",
-          "position": 70,
-          "focus": "Destaca que la violencia desborda el blindaje de seguridad, poniendo el acento en el descontrol y la amenaza a la seguridad"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "La calle mantiene la presión sobre Macron con marchas masivas pese a las trabas del Gobierno",
-          "link": "https://www.eldiario.es/internacional/movilizacion-social-mantiene-presion-emmanuel-macron-pese-trabas-derecho-manifestarse-decretadas-gobierno-semana_1_13612830.html",
-          "position": 15,
-          "focus": "Enfatiza la continuidad y masividad de las marchas pese a los obstáculos impuestos por el Gobierno, legitimando la protesta"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Siete argumentos para entender (o no) Francia",
-          "link": "https://www.lavanguardia.com/internacional/20261025/11667230/protestas-francia.html",
-          "position": 50,
-          "focus": "Ofrece un análisis plural con varios argumentos, sin inclinarse hacia la violencia ni hacia la legitimidad de la protesta"
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "Francia vive una nueva jornada de violencia, que salpica el norte de Italia: más de 1.000 arrestos  antes del gran acto de Le Pen",
-          "link": "https://www.elespanol.com/mundo/20261025/francia-vive-nueva-jornada-violencia-salpica-norte-italia-arrestos-gran-acto-pen/1003744433803_0.html",
-          "position": 85,
-          "focus": "Subraya la escala de la violencia, los arrestos masivos y su extensión a Italia, vinculándolo al acto de Le Pen"
-        }
-      ],
-      "rango": 70,
-      "discrepancia": "alta",
-      "silenciosos": [
-        "20minutos",
-        "ABC"
-      ]
-    },
-    {
-      "neutral_headline": "Serbia celebra elecciones con el movimiento estudiantil como principal rival de Vučić",
-      "section": "Internacional",
-      "facts": [
-        "Serbia celebra elecciones tras casi dos años de protestas",
-        "Vučić fue ministro durante el gobierno de Milošević",
-        "Vučić lleva 12 años liderando Serbia",
-        "Un movimiento estudiantil se presenta como principal oposición en estas elecciones",
-        "La Lista de Estudiantes incluye médicos, actores y una leyenda del baloncesto",
-        "El Español describe estas elecciones como las más inciertas de los últimos 14 años"
-      ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "protagonismo del movimiento estudiantil",
-        "polo_b": "protagonismo de Vučić y su trayectoria",
-        "resumen": "Los medios difieren en si centran la narrativa en el desafío ciudadano/estudiantil o en el perfil y la resistencia política de Vučić"
-      },
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "Los estudiantes de Serbia disputan el poder a Vucic en las urnas tras casi dos años de protestas",
-          "link": "https://elpais.com/internacional/2026-10-25/los-estudiantes-de-serbia-disputan-el-poder-a-vucic-en-las-urnas-tras-casi-dos-anos-de-protestas.html",
-          "position": 20,
-          "focus": "Pone el foco en los estudiantes como actores que disputan el poder, con Vučić como contrincante secundario"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "Vucic, el exministro ultra de Milosevic que se juega la reelección ante un movimiento estudiantil, tras 12 años liderando Serbia",
-          "link": "https://www.eldiario.es/internacional/vucic-exministro-ultra-milosevic-juega-reeleccion-movimiento-estudiantil-12-anos-liderando-serbia_1_13610755.html",
-          "position": 70,
-          "focus": "Centra el relato en la biografía y trayectoria de Vučić, presentando el movimiento estudiantil como amenaza a su continuidad"
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "\"Serbia o mafia\": los estudiantes miden la resistencia autoritaria de Vucic en las elecciones más inciertas de los últimos 14 años",
-          "link": "https://www.elespanol.com/mundo/europa/20261025/serbia-mafia-estudiantes-miden-resistencia-autoritaria-vucic-elecciones-inciertas-ultimos-anos/1003744433358_0.html",
-          "position": 30,
-          "focus": "Usa una cita del movimiento estudiantil ('Serbia o mafia') para enmarcar la elección como un test de resistencia autoritaria, destacando a los estudiantes como actores de cambio"
+          "focus": "Incluye declaración textual de Lula sobre la 'derrota de la mentira', dando voz al protagonista"
         },
         {
           "outlet": "20minutos",
-          "headline": "Así es la Lista de Estudiantes, el partido que podría acabar con Vučić en Serbia: médicos, actores... y una leyenda del baloncesto",
-          "link": "https://www.20minutos.es/internacional/asi-es-lista-estudiantes-partido-que-podria-acabar-con-vucic-serbia-medicos-actores-una-leyenda-baloncesto_7052670_0.html",
-          "position": 15,
-          "focus": "Describe en detalle la composición y perfil del partido estudiantil, destacando su diversidad y potencial para desbancar a Vučić"
+          "headline": "Lula culmina la remontada en Brasil y logra su cuarto mandato frente a un Flávio Bolsonaro que impugnará el resultado",
+          "link": "https://www.20minutos.es/internacional/lula-culmina-remontada-brasil-logra-su-cuarto-mandato-frente-un-flavio-bolsonaro-que-impugnara-resultado_7053232_0.html",
+          "position": 50,
+          "focus": "Añade el dato de que Flávio Bolsonaro impugnará el resultado, aportando contexto post-electoral"
         }
       ],
-      "rango": 55,
-      "discrepancia": "media",
-      "silenciosos": [
-        "ABC",
-        "El Mundo",
-        "La Vanguardia"
-      ]
-    },
-    {
-      "neutral_headline": "Disturbios y saqueos durante una protesta juvenil en el centro de Barcelona con más de un centenar de detenidos",
-      "section": "Sociedad",
-      "facts": [
-        "Hubo una protesta juvenil en el centro de Barcelona que derivó en disturbios",
-        "Se produjeron saqueos, quema de contenedores y destrozos (El Mundo, eldiario.es)",
-        "Los jóvenes se convocaron por TikTok y se organizaron en grupos de Telegram y WhatsApp (El País)",
-        "El Mundo cifra en más de un centenar los detenidos",
-        "ABC cifra en más de un centenar los detenidos, la mitad menores",
-        "La Vanguardia cifra en al menos 128 los detenidos, más de la mitad menores",
-        "El Español cifra en al menos 128 los detenidos",
-        "eldiario.es describe la protesta como juvenil 'contra el sistema'",
-        "20minutos vincula los disturbios de Barcelona con una ola de tensión y saqueos antisistema en otras ciudades europeas"
-      ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "protesta juvenil organizada",
-        "polo_b": "vandalismo antisistema / amenaza social",
-        "resumen": "Unos medios enmarcan el hecho como una protesta juvenil con sus propias formas de organización, mientras otros lo presentan como una ola de violencia y terror antisistema comparable a disturbios europeos"
-      },
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "Los jóvenes que provocaron altercados en Barcelona se convocaron por TikTok y organizaron por grupos de Telegram y Whatsapp",
-          "link": "https://elpais.com/espana/catalunya/2026-10-25/los-jovenes-que-provocaron-altercados-en-barcelona-se-convocaron-por-tiktok-y-organizaron-por-grupos-de-telegram-y-whatsapp.html",
-          "position": 35,
-          "focus": "Pone el foco en cómo se organizó la convocatoria (TikTok, Telegram, WhatsApp), presentando a los jóvenes como sujeto activo más que como amenaza"
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "Disturbios, saqueos, quema de contenedores y destrozos en el centro de Barcelona tras una protesta juvenil  violenta con más de un centenar de detenidos",
-          "link": "https://www.elmundo.es/cataluna/2026/10/24/6adcf26cfdddff1e2a8b4599.html",
-          "position": 55,
-          "focus": "Describe de forma factual los disturbios, saqueos y detenciones sin calificar ideológicamente a los participantes"
-        },
-        {
-          "outlet": "ABC",
-          "headline": "Más de un centenar de detenidos, la mitad de ellos menores, por la protesta antisistema en Barcelona",
-          "link": "https://www.abc.es/espana/cataluna/disturbios-centro-barcelona-marcha-sistema-20261024202028-nt.html",
-          "position": 55,
-          "focus": "Centra la noticia en el número de detenidos y la proporción de menores, con mención neutra de 'protesta antisistema'"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "Altercados, saqueos y cargas en el centro de Barcelona en una protesta juvenil \"contra el sistema\"",
-          "link": "https://www.eldiario.es/catalunya/altercados-saqueos-cargas-centro-barcelona-protesta-juvenil-sistema_1_13612854.html",
-          "position": 45,
-          "focus": "Usa comillas para 'contra el sistema', manteniendo distancia editorial y enfoque descriptivo de los hechos"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Al menos 128 detenidos, más de la mitad de ellos menores, tras los graves disturbios en Barcelona",
-          "link": "https://www.lavanguardia.com/local/barcelona/20261024/11667279/mossos-guardia-urbana-dispersan-concentracion-sistema-placa-catalunya.html",
-          "position": 55,
-          "focus": "Destaca la cifra de detenidos y menores, con tono factual sobre la gravedad de los disturbios"
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "Encapuchados antisistema saquean comercios y siembran el terror en Barcelona: hay al menos 128 detenidos",
-          "link": "https://www.elespanol.com/espana/20261024/saqueos-vandalismo-barcelona-concentracion-jovenes-antisistema-acaba-detenidos/1003744433857_0.html",
-          "position": 85,
-          "focus": "Enfatiza el miedo y el caos ('siembran el terror'), calificando a los encapuchados como antisistema de forma explícita"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "La tensión en las calles se extiende por Europa: Barcelona, la última en sufrir saqueos y violencia de los antisistema",
-          "link": "https://www.20minutos.es/nacional/tension-calles-sigue-extendiendo-europa-barcelona-ultima-ciudad-sufrir-saqueos-violencia-antisistema_7053031_0.html",
-          "position": 80,
-          "focus": "Inserta el hecho en una narrativa de violencia antisistema a escala europea, reforzando la idea de amenaza extendida"
-        }
-      ],
-      "rango": 50,
-      "discrepancia": "media",
+      "rango": 0,
+      "discrepancia": "baja",
       "silenciosos": []
     },
     {
-      "neutral_headline": "Distintas noticias de tensión política en España: Madrid, Feijóo y perspectiva de elecciones generales",
+      "neutral_headline": "María Corina Machado regresa a Venezuela tras meses en la clandestinidad",
+      "section": "Internacional",
+      "facts": [
+        "María Corina Machado regresó a Venezuela",
+        "El regreso se produjo 10 meses después de su salida/exilio",
+        "Hubo concentraciones de personas en las calles para recibirla",
+        "Se registraron gritos de 'libertad' y reclamos de elecciones",
+        "Machado realizó un trayecto en caravana hasta Caracas"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "protagonismo popular (la gente que la recibe)",
+        "polo_b": "protagonismo político (Machado como líder/desafiante)",
+        "resumen": "Los medios dividen el foco entre el apoyo ciudadano espontáneo en las calles y el papel de Machado como líder político que desafía o encabeza una transición"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Miles de personas salen a las calles a recibir a Machado: “Viene a apretar el acelerador”",
+          "link": "https://elpais.com/america/2026-10-26/la-oposicion-vuelve-a-tomar-las-calles-en-venezuela-tras-el-regreso-de-machado-viene-a-apretar-el-acelerador.html",
+          "position": 20,
+          "focus": "Centra el titular en las multitudes que salen a recibirla, citando una frase que sugiere aceleración del proceso político; el protagonismo recae en la ciudadanía"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "María Corina regresa para liderar la Transición de Venezuela",
+          "link": "https://www.elmundo.es/internacional/2026/10/26/6ade7f67fc6c835d488b4570.html",
+          "position": 80,
+          "focus": "Pone el acento en Machado como figura que regresa para 'liderar' un proceso político concreto (la Transición), otorgándole un rol de conducción"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Cronología del acoso, exilio y regreso de la líder opositora a Venezuela",
+          "link": "https://www.abc.es/internacional/periplo-maria-corina-machado-regresar-venezuela-20260922020055-nt.html",
+          "position": 50,
+          "focus": "Ofrece una narrativa cronológica y descriptiva del acoso, exilio y regreso, sin enfatizar ni el apoyo popular ni el liderazgo político de forma marcada"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Machado vuelve a Venezuela 10 meses después y desafía al chavismo con un viaje en caravana hasta Caracas",
+          "link": "https://www.elespanol.com/mundo/20261025/maria-corina-machado-regresa-venezuela-meses-despues-varios-intentos-fallidos/1003744434138_0.html",
+          "position": 72,
+          "focus": "Resalta el componente de confrontación ('desafía al chavismo') y el detalle logístico del viaje en caravana, enmarcando el regreso como un acto de reto político"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "María Corina Machado, recibida en Venezuela entre gritos de \"libertad\" y reclamos de elecciones",
+          "link": "https://www.20minutos.es/internacional/maria-corina-machado-recibida-venezuela-entre-gritos-libertad-reclamos-elecciones_7053246_0.html",
+          "position": 25,
+          "focus": "Describe la recepción con gritos de consignas populares ('libertad', elecciones), poniendo el foco en la reacción ciudadana más que en la figura de Machado"
+        }
+      ],
+      "rango": 60,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "El Real Madrid vence al Barcelona en el Clásico disputado en el Camp Nou",
+      "section": "Deportes",
+      "facts": [
+        "El Real Madrid ganó al Barcelona en el Camp Nou",
+        "Mbappé anotó un doblete (El Pais)",
+        "El Barcelona sufrió su segunda derrota (20minutos)",
+        "El resultado afecta la clasificación de La Liga (El Mundo, El Espanol)"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "Protagonismo individual (Mbappé)",
+        "polo_b": "Protagonismo del entrenador/plan táctico (Mourinho)",
+        "resumen": "Los medios difieren en si atribuyen la victoria al rendimiento individual de Mbappé o a la estrategia de Mourinho como artífice del triunfo."
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "El mejor Real Madrid nace en el Camp Nou y tumba al Barcelona con un doblete de Mbappé",
+          "link": "https://elpais.com/deportes/futbol/2026-10-25/el-mejor-madrid-nace-en-el-camp-nou-y-tumba-al-barcelona-con-un-doblete-de-mbappe.html",
+          "position": 15,
+          "focus": "Destaca el doblete de Mbappé como motor de la victoria, usando un encuadre de 'mejor Madrid' nacido en el partido; omite mención al técnico."
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Mourinho profana el Camp Nou con un plan que da la victoria al Madrid y pone en ascuas la Liga",
+          "link": "https://www.elmundo.es/deportes/futbol/primera-division/2026/10/25/6ade835de85ece1f1b8b4584.html",
+          "position": 90,
+          "focus": "Centra el relato en Mourinho y su plan táctico como causa de la victoria, usando un lenguaje dramático ('profana'); minimiza el rol de los jugadores individuales."
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "El Barça cae en las redes de Mbappé y pierde el clásico del Camp Nou",
+          "link": "https://www.lavanguardia.com/deportes/futbol/20261025/11667798/barca-cae-redes-mbappe-pierde-clasico-camp-nou.html",
+          "position": 20,
+          "focus": "Atribuye la derrota del Barça a 'caer en las redes de Mbappé', reforzando el protagonismo del delantero francés."
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "La victoria del Real Madrid en el Camp Nou cambia el rumbo de La Liga y mete al equipo de Mourinho en liza",
+          "link": "https://www.elespanol.com/deportes/futbol/20261025/mbappe-resuelve-clasico-alta-tension-real-madrid-reabre-pelea-liga/1003744434273_0.html",
+          "position": 65,
+          "focus": "Menciona a Mourinho como beneficiado por el resultado ('mete al equipo de Mourinho en liza'), con énfasis en el impacto en la Liga más que en el jugador."
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "El Madrid toma el Camp Nou y somete a un Barça que suma su segunda derrota",
+          "link": "https://www.20minutos.es/deportes/futbol/barcelona-real-madrid-directo-previa-ultima-hora-alineaciones-clasico-jornada-10-laliga_7053054_6.html",
+          "position": 50,
+          "focus": "Enfoca el hecho de forma colectiva, con el Madrid como sujeto que 'somete' al Barça, sin resaltar a un protagonista individual ni al entrenador."
+        }
+      ],
+      "rango": 75,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "ABC",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Disturbios en Barcelona: el Gobierno apunta a la ultraderecha mientras los Mossos investigan a los responsables",
       "section": "Politica",
       "facts": [
-        "El horario o agenda de trabajo de Ayuso varía día a día, según El País",
-        "Más Madrid ha realizado amenazas que, según ABC, elevan la tensión en la recta final de la legislatura de Ayuso",
-        "Feijóo ha estado haciendo advertencias, según eldiario.es, sin que el titular precise sobre qué",
-        "Un eventual gobierno de PP y VOX reduciría la influencia del PSC en empresas públicas, según El Español, en el contexto de unas posibles elecciones generales"
-      ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "El acertijo de cada día en Madrid: ¿dónde le toca trabajar hoy a Ayuso?",
-          "link": "https://elpais.com/espana/madrid/2026-10-25/el-acertijo-de-cada-dia-en-madrid-donde-le-toca-trabajar-hoy-a-ayuso.html",
-          "position": 50,
-          "focus": "Se centra en la imprevisibilidad de la agenda laboral de Ayuso, sin entrar en el conflicto político de fondo."
-        },
-        {
-          "outlet": "ABC",
-          "headline": "Las amenazas de Más Madrid extreman la tensión en la recta final de la legislatura de Ayuso",
-          "link": "https://www.abc.es/espana/madrid/amenazas-madrid-extreman-tension-recta-final-legislatura-20261023015257-nt.html",
-          "position": 50,
-          "focus": "Destaca las amenazas de Más Madrid como factor que intensifica la tensión política en el tramo final del mandato de Ayuso."
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "Feijóo viene avisando",
-          "link": "https://www.eldiario.es/opinion/feijoo-viene-avisando_131_13612893.html",
-          "position": 50,
-          "focus": "Apunta a advertencias previas de Feijóo, sin especificar el contenido concreto ni el contexto."
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "El PSC, ante el abismo de las generales: un gobierno PP-VOX dejaría bajo mínimos su poder en las empresas públicas",
-          "link": "https://www.elespanol.com/invertia/empresas/20261025/psc-abismo-generales-gobierno-pp-vox-dejaria-minimos-poder-empresas-publicas/1003744433157_0.html",
-          "position": 50,
-          "focus": "Pone el foco en las consecuencias para el PSC de un hipotético gobierno PP-VOX, centrado en el control de empresas públicas ante unas generales."
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "20minutos",
-        "El Mundo",
-        "La Vanguardia"
-      ]
-    },
-    {
-      "neutral_headline": "Felipe VI se somete a una operación de cataratas en el ojo izquierdo durante su viaje a Oviedo",
-      "section": "Sociedad",
-      "facts": [
-        "Felipe VI fue intervenido de cataratas",
-        "La operación fue en el ojo izquierdo",
-        "La intervención tuvo lugar en Oviedo",
-        "Según El Español, el rey pasará la noche en el hospital"
-      ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "El Mundo",
-          "headline": "Felipe VI, intervenido de cataratas en su ojo izquierdo",
-          "link": "https://www.elmundo.es/espana/2026/10/24/6add1778fdddff48738b457b.html",
-          "position": 50,
-          "focus": "Informa escuetamente del hecho médico: ojo afectado"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "El rey Felipe VI se somete a una operación de cataratas en Oviedo",
-          "link": "https://www.eldiario.es/politica/rey-felipe-vi-somete-operacion-cataratas-oviedo_1_13613044.html",
-          "position": 50,
-          "focus": "Añade la localización geográfica de la operación, Oviedo"
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "Felipe VI aprovecha su viaje a Oviedo para operarse de cataratas en el ojo izquierdo: pasará la noche en el hospital",
-          "link": "https://www.elespanol.com/espana/20261024/rey-felipe-vi-operado-cataratas-ojo-izquierdo-pasara-noche-hospital-oviedo/1003744433843_0.html",
-          "position": 50,
-          "focus": "Contextualiza la operación dentro de un viaje y añade el detalle de la pernoctación hospitalaria"
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "20minutos",
-        "ABC",
-        "El Pais",
-        "La Vanguardia"
-      ]
-    },
-    {
-      "neutral_headline": "Cancelado el Gran Premio de Australia de motociclismo por el temporal",
-      "section": "Deportes",
-      "facts": [
-        "Se cancela el Gran Premio de Australia de motociclismo en Phillip Island",
-        "El Mundo atribuye la cancelación a la imposibilidad de que vuele el helicóptero médico por el temporal",
-        "20minutos atribuye la cancelación a falta de seguridad",
-        "El Espanol atribuye la cancelación a la lluvia",
-        "ABC señala que el Mundial queda congelado con Márquez como líder y Martín beneficiado por la lluvia en una sesión previa",
-        "La Vanguardia solo informa de la cancelación sin detallar causa"
-      ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "El Mundo",
-          "headline": "Cancelan el Gran Premio de Australia de motociclismo ante la imposibilidad de volar el helicóptero médico por culpa del temporal",
-          "link": "https://www.elmundo.es/deportes/motociclismo/2026/10/25/6adda24dfc6c83d6718b458f.html",
-          "position": 50,
-          "focus": "Pone el foco en la causa técnica concreta: no poder volar el helicóptero médico por el temporal"
-        },
-        {
-          "outlet": "ABC",
-          "headline": "Australia, cancelado por seguridad: el Mundial se congela con Márquez líder y Martín salvado por la lluvia",
-          "link": "https://www.abc.es/deportes/motos/canceladas-carreras-gran-premio-australia-falta-seguridad-20261025075742-nt.html",
-          "position": 50,
-          "focus": "Añade contexto deportivo sobre cómo queda el Mundial tras la cancelación"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Cancelado el Gran Premio de Australia de motociclismo",
-          "link": "https://www.lavanguardia.com/deportes/20261025/11667568/cancelado-definitivamente-gran-premio-australia-motociclismo.html",
-          "position": 50,
-          "focus": "Informa de forma escueta solo del hecho de la cancelación"
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "La lluvia cancela la carrera de MotoGP en Australia: el peor final para el mítico circuito de Phillip Island",
-          "link": "https://www.elespanol.com/deportes/motor/motogp/20261025/lluvia-cancela-carrera-motogp-australia-peor-final-mitico-circuito-phillip-island/1003744433903_0.html",
-          "position": 50,
-          "focus": "Enfatiza la lluvia como causa y el simbolismo histórico del circuito"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "Canceladas las carreras de MotoGP en Phillip Island por falta de seguridad",
-          "link": "https://www.20minutos.es/deportes/deportes_motor/motogp/canceladas-las-carreras-motogp-phillip-island-por-falta-seguridad_7053043_0.html",
-          "position": 50,
-          "focus": "Atribuye la cancelación genéricamente a la falta de seguridad"
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "El Pais",
-        "eldiario.es"
-      ]
-    },
-    {
-      "neutral_headline": "Previas de El Clásico entre Barcelona y Real Madrid centradas en distintos protagonistas",
-      "section": "Deportes",
-      "facts": [
-        "Se disputa El Clásico entre Barcelona y Real Madrid",
-        "Lamine Yamal es mencionado como jugador relevante del Barça en el partido",
-        "Fermín es señalado como jugador que podría tener una noche destacada",
-        "Mourinho es citado en relación con una estrategia para enfrentar al Barça"
+        "Hubo disturbios violentos en Barcelona",
+        "El Gobierno condenó los disturbios",
+        "El Gobierno señaló que la extrema derecha podría beneficiarse de los disturbios",
+        "Los Mossos d'Esquadra iniciaron una investigación para identificar a los responsables"
       ],
       "tipo_divergencia": "editorial",
       "eje": {
-        "polo_a": "foco en protagonistas del Barça",
-        "polo_b": "foco en estrategia del Madrid para frenar al Barça",
-        "resumen": "Mientras El Pais y La Vanguardia centran su previa en jugadores del Barça como protagonistas, El Espanol adopta la perspectiva táctica del Real Madrid y su plan para neutralizarlos"
+        "polo_a": "atribución directa de responsabilidad a la ultraderecha",
+        "polo_b": "responsabilidad aún por determinar, en investigación"
       },
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "Conversación entre Marcelo y Jordi Alba: “Lamine es tan inteligente que se adaptará a los cambios”",
-          "link": "https://elpais.com/deportes/futbol/2026-10-25/conversacion-entre-marcelo-y-jordi-alba-lamine-es-tan-inteligente-que-se-adaptara-a-los-cambios.html",
+          "headline": "Última hora de la actualidad política, en directo | El Gobierno condena “sin paliativos” los violentos disturbios en Barcelona y sugiere que benefician a la extrema derecha",
+          "link": "https://elpais.com/espana/2026-10-26/ultima-hora-de-la-actualidad-politica-en-directo.html",
           "position": 20,
-          "focus": "Destaca una conversación sobre Lamine como protagonista positivo; omite la perspectiva del Madrid"
+          "focus": "Destaca la condena del Gobierno y su señalamiento de que la extrema derecha sale beneficiada, sin mencionar que la autoría está aún bajo investigación"
         },
         {
           "outlet": "La Vanguardia",
-          "headline": "El clásico de Fermín: puede ser su gran noche",
-          "link": "https://www.lavanguardia.com/deportes/futbol/20261025/11667233/asi-prepara-fermin-clasico-real-madrid-liga-spotif-camp-nou-su-gran-noche.html",
-          "position": 25,
-          "focus": "Centra la previa en Fermín como posible figura del partido; omite el planteamiento rival"
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "La pizarra de El Clásico: el dilema del Madrid de frenar a Lamine y la receta de Mourinho para sacar las costuras al Barça",
-          "link": "https://www.elespanol.com/deportes/futbol/20261025/pizarra-clasico-dilema-madrid-frenar-lamine-receta-mourinho-sacar-costuras-barca/1003744433534_0.html",
-          "position": 75,
-          "focus": "Analiza el partido desde la óptica táctica del Madrid y las instrucciones de Mourinho para contener al Barça"
-        }
-      ],
-      "rango": 55,
-      "discrepancia": "media",
-      "silenciosos": [
-        "20minutos",
-        "ABC",
-        "El Mundo",
-        "eldiario.es"
-      ]
-    },
-    {
-      "neutral_headline": "Distintas miradas sobre vivienda, ahorro y desigualdad económica en España",
-      "section": "Economia",
-      "facts": [
-        "Valeria Racu afirma que todos los gobiernos han promovido el rentismo",
-        "Los hogares más pobres concentran su ahorro en la vivienda, mientras los hogares ricos lo hacen en activos financieros",
-        "Daniel Fuentes afirma que los jóvenes tardan diez años más en acceder a una vivienda en propiedad que antes de la crisis de 2008"
-      ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "responsabilidad politica explicita (gobiernos culpables del rentismo)",
-        "polo_b": "descripcion neutra del fenomeno sin atribucion de culpa",
-        "resumen": "El Pais enmarca la desigualdad en vivienda como resultado de decisiones politicas deliberadas, mientras eldiario.es y 20minutos describen datos y tendencias sin senalar responsables concretos"
-      },
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "Valeria Racu: “Todos los gobiernos han promovido el rentismo”",
-          "link": "https://elpais.com/economia/vivienda/2026-10-25/valeria-racu-todos-los-gobiernos-han-promovido-el-rentismo.html",
-          "position": 10,
-          "focus": "Destaca la responsabilidad de los gobiernos en fomentar el rentismo a traves de una voz experta; omite datos cuantitativos sobre el fenomeno"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "¿Dónde tienen los españoles su ahorro? Los hogares más pobres, en la vivienda; los ricos, en activos financieros",
-          "link": "https://www.eldiario.es/economia/espanoles-ahorro-hogares-pobres-vivienda-ricos-activos-financieros_1_13598016.html",
-          "position": 50,
-          "focus": "Presenta datos comparativos sobre composicion del ahorro por nivel de renta sin atribuir causas politicas; omite juicio sobre responsables"
+          "headline": "Los Mossos investigan quién está detrás de los altercados en Barcelona",
+          "link": "https://www.lavanguardia.com/local/barcelona/20261026/11667794/mossos-investigan-esta-detras-altercados-barcelona.html",
+          "position": 85,
+          "focus": "Centra el relato en la investigación policial abierta para determinar quién organizó los altercados, sin incluir la valoración política del Gobierno"
         },
         {
           "outlet": "20minutos",
-          "headline": "Daniel Fuentes, economista: \"los jóvenes tardan hoy diez años más en acceder a una vivienda en propiedad que antes de la crisis de 2008\"",
-          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/daniel-fuentes-economista-los-jovenes-tardan-hoy-diez-anos-mas-acceder-una-vivienda-propiedad-que-antes-crisis-2008_7052534_0.html",
-          "position": 55,
-          "focus": "Enfatiza la brecha generacional en el acceso a la vivienda usando una cifra temporal comparativa; no asigna responsabilidad politica explicita"
+          "headline": "El Gobierno apunta a la ultraderecha como responsable de los disturbios en Barcelona: \"Es quien sale ganando\"",
+          "link": "https://www.20minutos.es/nacional/gobierno-apunta-ultraderecha-como-responsable-los-disturbios-barcelona-es-quien-sale-ganando-caos-odio_7053338_0.html",
+          "position": 15,
+          "focus": "Enfatiza la declaración gubernamental que apunta directamente a la ultraderecha como responsable, presentándolo como la lectura oficial del hecho"
         }
       ],
-      "rango": 45,
-      "discrepancia": "media",
+      "rango": 70,
+      "discrepancia": "alta",
       "silenciosos": [
         "ABC",
         "El Espanol",
         "El Mundo",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Telefónica y Santander caen en bolsa tras la victoria de Lula en Brasil",
+      "section": "Economia",
+      "facts": [
+        "Telefónica cae en bolsa tras la victoria de Lula en Brasil",
+        "Santander cae en bolsa tras la victoria de Lula en Brasil",
+        "El Mundo cifra la caída de Telefónica en un 7% y la de Santander en un 4%",
+        "ABC cifra la caída de Telefónica en un 8% y la de Santander en un 5%",
+        "20minutos señala que el Ibex 35 también se ve arrastrado por este efecto"
+      ],
+      "tipo_divergencia": "cronologica",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "Telefónica se desploma un 7% en la bolsa tras la victoria de Lula en Brasil y Santander pierde un 4%",
+          "link": "https://www.elmundo.es/economia/dinero-inversion/2026/10/26/6adf0b5bfdddff98418b458f.html",
+          "position": 50,
+          "focus": "Reporta caídas del 7% en Telefónica y 4% en Santander, posiblemente con datos de un momento anterior de la sesión"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Teléfonica cae un 8% en Bolsa y Santander pierde un 5% tras la victoria de Lula en Brasil",
+          "link": "https://www.abc.es/economia/telefonica-cae-bolsa-santander-pierde-tras-victoria-20261026101050-nt.html",
+          "position": 50,
+          "focus": "Reporta caídas mayores (8% y 5%), posiblemente con datos más actualizados o de cierre de sesión"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "El 'efecto Brasil' castiga a Telefónica y Santander en bolsa y arrastra al Ibex 35",
+          "link": "https://www.20minutos.es/lainformacion/mercados-y-bolsa/efecto-brasil-castiga-telefonica-santander-bolsa-que-arrastran-ibex-35_7053316_0.html",
+          "position": 50,
+          "focus": "No da cifras concretas pero amplía el foco al impacto general en el Ibex 35, sin precisar momento de la sesión"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "El Espanol",
+        "El Pais",
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Un autobús cae por un terraplén en el Montseny y deja numerosos heridos",
+      "section": "Sociedad",
+      "facts": [
+        "El Mundo y ABC informan de ochenta y tres heridos, siete de ellos en estado grave",
+        "La Vanguardia informa de ochenta heridos, siete de ellos graves",
+        "El autobús cayó por un terraplén/barranco de 20 metros en el Montseny (Cataluña)"
+      ],
+      "tipo_divergencia": "cronologica",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "Ochenta y tres heridos, siete de ellos en estado grave, tras precipitarse un autobús por un terraplén de 20 metros en el Montseny",
+          "link": "https://www.elmundo.es/cataluna/2026/10/25/6ade3c5121efa08a518b4592.html",
+          "position": 50,
+          "focus": "Cifra de heridos (83) y gravedad, localizacion exacta en el Montseny"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Ochenta y tres heridos, siete de ellos graves, tras caer un autobús por un terraplén de 20 metros en Cataluña",
+          "link": "https://www.abc.es/espana/cataluna/heridos-graves-tras-caer-autobus-barranco-metros-20261025181253-nt.html",
+          "position": 50,
+          "focus": "Misma cifra de heridos (83), situa el hecho de forma mas generica en Cataluna"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Un autobús cae por un barranco en el Montseny y deja ochenta heridos, siete de ellos graves",
+          "link": "https://www.lavanguardia.com/local/barcelona/20261025/11667725/20-heridos-graves-caer-autobus-terraplen-veinte-metros-fogars-montclus-barcelona.html",
+          "position": 50,
+          "focus": "Cifra ligeramente distinta de heridos (80), describe el accidente como caida por un barranco"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "El Espanol",
+        "El Pais",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "El movimiento estudiantil gana las elecciones en Serbia y pone fin a 12 años de gobierno de Vucic",
+      "section": "Internacional",
+      "facts": [
+        "La Lista Estudiantil obtuvo una victoria electoral en Serbia",
+        "Aleksandar Vucic llevaba 12 años en el poder",
+        "El resultado pone fin al periodo de gobierno de Vucic"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "denuncia del autoritarismo/clientelismo",
+        "polo_b": "relato neutro del resultado electoral",
+        "resumen": "Algunos medios cargan el titular con juicios sobre el carácter autoritario o clientelar del gobierno derrotado, mientras otros se limitan a describir el resultado electoral sin calificativos"
+      },
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "Serbia fulmina el modelo de Aleksandar Vucic con el triunfo aplastante de la Lista Estudiantil frente al Estado clientelar",
+          "link": "https://www.elmundo.es/internacional/2026/10/26/6adf136fe9cf4ad2528b4573.html",
+          "position": 15,
+          "focus": "Usa el verbo 'fulmina' y califica al Estado de 'clientelar', explicitando un juicio negativo sobre el régimen de Vucic"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "De las calles a la mayoría absoluta: cómo el movimiento Lista Estudiantil logró romper la hegemonía de Vucic",
+          "link": "https://www.abc.es/internacional/calles-mayoria-absoluta-movimiento-lista-estudiantil-logro-20261026102051-nt.html",
+          "position": 40,
+          "focus": "Centra el foco en el proceso ('cómo') y el origen del movimiento en las calles, con un tono menos condenatorio pero destacando la ruptura de una 'hegemonía'"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Un movimiento estudiantil pone fin al reinado autoritario de 12 años de Vucic en las elecciones de Serbia",
+          "link": "https://www.eldiario.es/internacional/movimiento-estudiantil-pone-reinado-autoritario-12-anos-vucic-serbia_1_13614161.html",
+          "position": 20,
+          "focus": "Califica el periodo de Vucic como 'reinado autoritario', introduciendo un juicio explícito sobre la naturaleza del poder derrotado"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "El movimiento estudiantil derrota a Vucic en las elecciones generales de Serbia",
+          "link": "https://www.lavanguardia.com/internacional/20261025/11667785/movimiento-estudiantil-derrota-vucic-elecciones-generales-serbia.html",
+          "position": 55,
+          "focus": "Describe el hecho de forma escueta y neutra: derrota electoral, sin calificar el régimen anterior"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "El movimiento estudiantil derrota en las urnas al presidente Vucic y pone fin a 12 años en el poder en Serbia",
+          "link": "https://www.elespanol.com/mundo/europa/20261025/movimiento-estudiantil-derrota-urnas-presidente-vucic-pone-fin-anos-control-politico/1003744434311_0.html",
+          "position": 55,
+          "focus": "Similar a La Vanguardia, se limita a constatar la derrota y el fin del periodo en el poder sin juicios adicionales"
+        }
+      ],
+      "rango": 40,
+      "discrepancia": "media",
+      "silenciosos": [
+        "20minutos",
+        "El Pais"
+      ]
+    },
+    {
+      "neutral_headline": "Muere Alfredo Sánchez Monteseirín, exalcalde de Sevilla",
+      "section": "Politica",
+      "facts": [
+        "Alfredo Sánchez Monteseirín ha fallecido",
+        "Fue alcalde de Sevilla y es, según eldiario.es y El Español, quien más tiempo ha estado en el cargo",
+        "Según 20minutos, falleció a los 69 años",
+        "El Español recoge que fue descrito como \"impulsor de la transformación\" de la ciudad"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "relato sobrio/factual",
+        "polo_b": "relato laudatorio/legado positivo",
+        "resumen": "Los medios coinciden en el hecho central pero El Español añade una valoración elogiosa de su legado que los otros no incluyen"
+      },
+      "frames": [
+        {
+          "outlet": "eldiario.es",
+          "headline": "Muere Alfredo Sánchez Monteseirín, el alcalde que más tiempo ha estado al frente del Ayuntamiento de Sevilla",
+          "link": "https://www.eldiario.es/sevilla/muere-alfredo-sanchez-monteseirin-alcalde-tiempo-frente-ayuntamiento-sevilla_1_13286528.html",
+          "position": 45,
+          "focus": "Destaca el récord de permanencia en el cargo, sin valorar su gestión"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Muere Alfredo Sánchez Monteseirín, alcalde con más años en el cargo e \"impulsor de la transformación\" de la ciudad",
+          "link": "https://www.elespanol.com/sevilla/20261026/muere-alfredo-sanchez-monteseirin-alcalde-socialista-sevilla/1003744434605_0.html",
+          "position": 65,
+          "focus": "Añade una cita que enmarca su legado como transformador de la ciudad, un juicio positivo explícito"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Muere Alfredo Sánchez Monteseirín, exalcalde de Sevilla, a los 69 años",
+          "link": "https://www.20minutos.es/andalucia/sevilla/muere-alfredo-sanchez-monteseirin-exalcalde-sevilla_7053340_0.html",
+          "position": 45,
+          "focus": "Se centra en el dato biográfico (edad) y su condición de exalcalde, sin valorar su legado"
+        }
+      ],
+      "rango": 20,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "ABC",
+        "El Mundo",
+        "El Pais",
         "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "Fallecen el actor de doblaje Eric Bauza y el streamer Komanche",
+      "section": "Cultura",
+      "facts": [
+        "Eric Bauza, actor de doblaje, murió a los 46 años",
+        "El Mundo atribuye a Bauza las voces de Bugs Bunny, Piolín y el Pato Lucas",
+        "20minutos atribuye a Bauza las voces de Bugs Bunny y el Pato Lucas",
+        "Komanche, streamer salvadoreño, murió a los 30 años segun La Vanguardia"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "Muere a los 46 años Eric Bauza, la voz de Bugs Bunny, Piolín y el Pato Lucas",
+          "link": "https://www.elmundo.es/cultura/2026/10/26/6adef73afc6c831e5c8b4575.html",
+          "position": 50,
+          "focus": "Centra la noticia en Eric Bauza y menciona tres personajes que dobló (Bugs Bunny, Piolín, Pato Lucas), sin omitir ningún dato relevante."
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Muere el salvadoreño Komanche a los 30 años, uno de los streamers más famosos de habla hispana",
+          "link": "https://www.lavanguardia.com/gente/20261026/11668103/muere-30-anos-komanche-streamer-salvadoreno-lucha-velada-ano-medio-denuncias-entorno-odio-redes.html",
+          "position": 50,
+          "focus": "Cubre un hecho distinto: la muerte del streamer salvadoreño Komanche, destacando su fama en el mundo hispano del streaming."
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Muere a los 46 años la voz de Bugs Bunny y el pato Lucas",
+          "link": "https://www.20minutos.es/cinemania/noticias/eric-bauza-muere-voz-bugs-bunny-pato-lucas_7053300_0.html",
+          "position": 50,
+          "focus": "Centra la noticia en Eric Bauza mencionando solo dos personajes doblados (Bugs Bunny y Pato Lucas), omitiendo a Piolín."
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "ABC",
+        "El Espanol",
+        "El Pais",
+        "eldiario.es"
       ]
     }
   ]
