@@ -1,0 +1,501 @@
+{
+  "fecha": "2026-10-27T10:01:14.219688+00:00",
+  "esquema": 2,
+  "historias": [
+    {
+      "neutral_headline": "PP y Vox pactan la distribución de candidaturas al Senado",
+      "section": "Politica",
+      "facts": [
+        "PP y Vox han alcanzado un acuerdo sobre candidaturas al Senado",
+        "El Pais identifica candidatos presentados como independientes con vinculos a Vox, incluyendo una exjefa de prensa de Ortega-Smith y un exconseller de Mazon",
+        "El Mundo senala que la formula elegida puede ser decisiva en 13 provincias para el control del Senado",
+        "El Espanol calcula un 70% de probabilidades de sumar tres quintos en el Senado si el 80% de los votantes de ambos partidos respalda el pacto",
+        "20minutos indica que el acuerdo se limita al reparto electoral, sin grupo parlamentario propio para Vox ni cesion de senadores"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "el pacto da poder e influencia ultra a Vox",
+        "polo_b": "el pacto es limitado y no supone concesiones relevantes a Vox",
+        "resumen": "los medios discrepan en si el acuerdo PP-Vox para el Senado representa una cesion de poder a los ultras o un pacto tecnico y contenido"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Vox impone al PP candidatos “independientes” al Senado muy vinculados a los ultras: de la exjefa de prensa de Ortega-Smith a un ‘exconseller’ de Mazón",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-10-26/vox-impone-al-pp-candidatos-independientes-al-senado-muy-vinculados-al-partido-de-la-exjefa-de-prensa-de-ortega-smith-a-un-exconseller-de-mazon.html",
+          "position": 10,
+          "focus": "destaca los vinculos ultras de los candidatos 'independientes', enmarcando el pacto como una infiltracion de Vox via el PP"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "El pacto de PP y Vox acerca a la derecha al control total del Senado: la fórmula elegida puede ser decisiva en 13 provincias",
+          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/26/6adfc1a4fdddff58628b4571.html",
+          "position": 35,
+          "focus": "pone el foco en las consecuencias estrategicas del acuerdo para el control institucional del Senado, con tono mas analitico que valorativo"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Quiénes son los candidatos de Vox al Senado integrados en las listas del PP",
+          "link": "https://www.eldiario.es/politica/son-candidatos-vox-senado-integrados-listas-pp_1_13617335.html",
+          "position": 50,
+          "focus": "enfoque puramente descriptivo, enumera quienes son los candidatos sin valorar el acuerdo"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Vox ya no da miedo al PP",
+          "link": "https://www.lavanguardia.com/opinion/20261027/11668808/vox-da-miedo-pp.html",
+          "position": 90,
+          "focus": "encuadra el pacto como senal de normalizacion de Vox dentro del PP, minimizando la conflictividad"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "PP y Vox tendrán un 70% de opciones de sumar tres quintos en el Senado si 8 de cada 10 de sus votantes secundan el pacto",
+          "link": "https://www.elespanol.com/espana/politica/20261027/pp-vox-opciones-sumar-quintos-senado-votantes-secundan-pacto/1003744435540_0.html",
+          "position": 45,
+          "focus": "centra el relato en datos y probabilidades electorales tecnicas, con tono neutral pero orientado al resultado de poder"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "PP y Vox limitan su acuerdo en el Senado al reparto electoral: sin grupo propio para los de Abascal ni cesión de senadores",
+          "link": "https://www.20minutos.es/nacional/pp-vox-limitan-su-acuerdo-senado-reparto-electoral-sin-grupo-propio-para-los-abascal-ni-cesion-senadores_7053600_0.html",
+          "position": 85,
+          "focus": "subraya los limites del pacto, enfatizando que Vox no logra grupo propio ni cesion de senadores, minimizando su alcance"
+        }
+      ],
+      "rango": 80,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "ABC"
+      ]
+    },
+    {
+      "neutral_headline": "Disturbios y saqueos en Barcelona: investigación sobre causas, organización y responsabilidades",
+      "section": "Sociedad",
+      "facts": [
+        "Se produjeron disturbios y saqueos en Barcelona vinculados a convocatorias de grupos llamados 'blocus'",
+        "Los Mossos d'Esquadra tenían constancia de la convocatoria desde al menos 7 días antes, según El Espanol",
+        "Existen mensajes internos de los Mossos que advierten de un posible nuevo saqueo masivo de Blocus, según El Mundo",
+        "El Mundo atribuye a esos mensajes la mención de 'bandas latinoamericanas' implicadas",
+        "ABC informa de que los servicios de Inteligencia investigan posibles injerencias extranjeras para amplificar los disturbios",
+        "eldiario.es ha accedido a grupos 'blocus' que preparan nuevos saqueos y recoge mensajes internos sobre logística (ej. bengalas)",
+        "Una jueza de menores ha reprendido a los padres de menores implicados en los disturbios, según La Vanguardia",
+        "20minutos recoge una valoración que descarta el paralelismo con disturbios en Francia y lo describe como 'una llamada a la acción sin reflexión'"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "malestar social espontáneo",
+        "polo_b": "acción organizada/externa (crimen o injerencia)",
+        "resumen": "Los medios difieren en si atribuyen los disturbios a un malestar social difuso, a grupos organizados con intereses criminales, o incluso a una posible injerencia externa."
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Lo que se sabe y lo que se investiga de los disturbios en Barcelona",
+          "link": "https://elpais.com/videos/2026-10-27/lo-que-se-sabe-y-lo-que-se-investiga-de-los-disturbios-en-barcelona.html",
+          "position": 50,
+          "focus": "Ofrece un repaso general de lo conocido y lo pendiente de investigar, sin inclinarse por una causa concreta"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Los mensajes internos de los Mossos que advierten de otro saqueo masivo de Blocus: \"Quieren repetirlo. Hay bandas latinoamericanas\"",
+          "link": "https://www.elmundo.es/cataluna/2026/10/27/6adfaaeb21efa022498b4581.html",
+          "position": 75,
+          "focus": "Destaca advertencias internas de los Mossos sobre una organización estructurada, citando 'bandas latinoamericanas' como actor clave"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Inteligencia investiga injerencias extranjeras para amplificar los disturbios de Barcelona",
+          "link": "https://www.abc.es/espana/cataluna/inteligencia-detecta-injerencias-rusas-amplificar-disturbios-barcelona-20261027012746-nt.html",
+          "position": 85,
+          "focus": "Pone el foco en la hipótesis de injerencia extranjera para amplificar los disturbios, una lectura geopolítica"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Dentro de los grupos 'blocus' que preparan más saqueos en Barcelona: \"¿Alguien puede conseguir bengalas?\"",
+          "link": "https://www.eldiario.es/catalunya/grupos-blocus-preparan-saqueos-barcelona-alguien-bengalas_1_13615410.html",
+          "position": 65,
+          "focus": "Describe desde dentro la logística y preparación de los grupos 'blocus', mostrando organización pero sin atribuir origen externo"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "La jueza de menores riñe a los padres por los disturbios de Barcelona",
+          "link": "https://www.lavanguardia.com/local/barcelona/20261027/11668735/jueza-menores-rine-padres-violencia-hijos.html",
+          "position": 55,
+          "focus": "Centra la atención en la responsabilidad parental de los menores implicados, un encuadre más individual/familiar"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Los Mossos conocían la convocatoria de los disturbios de Barcelona desde 7 días antes pero no previeron su gravedad",
+          "link": "https://www.elespanol.com/reportajes/20261027/mossos-conocian-convocatoria-disturbios-barcelona-dias-no-previeron-gravedad/1003744434941_0.html",
+          "position": 50,
+          "focus": "Señala un fallo de previsión policial pese a conocer la convocatoria, enfocándose en la gestión institucional más que en la causa última"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "\"Lo de Barcelona no es Francia ni responde a un malestar, es una llamada a la acción sin reflexión\"",
+          "link": "https://www.20minutos.es/cataluna/barcelona/liliana-arroyo-sobre-los-altercados-barcelona-no-es-francia-no-responde-un-malestar-es-una-llamada-accion_7053567_0.html",
+          "position": 80,
+          "focus": "Rechaza explícitamente la lectura de malestar social y define los hechos como una acción deliberada sin trasfondo reivindicativo"
+        }
+      ],
+      "rango": 35,
+      "discrepancia": "media",
+      "silenciosos": []
+    },
+    {
+      "neutral_headline": "Harry Kane gana el Balón de Oro 2026 por delante de Mbappé y Lamine Yamal, en una gala con fuerte presencia española",
+      "section": "Deportes",
+      "facts": [
+        "Harry Kane ganó el Balón de Oro",
+        "Mbappé y Lamine Yamal quedaron por detrás de Kane en la votación",
+        "Unai Simón mencionó a su novia en su discurso durante la gala",
+        "Jugadores y selección española tuvieron fuerte presencia en los premios de la gala",
+        "España no obtuvo el premio principal (Balón de Oro) pese a su protagonismo en otras categorías"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "Kane como protagonista individual del Balón de Oro",
+        "polo_b": "España/selección como protagonista colectivo de la gala",
+        "resumen": "Los medios se dividen entre centrar la noticia en el ganador individual (Kane) o en el papel colectivo de España y sus figuras en la gala"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Kane y el Balón de Oro más español",
+          "link": "https://elpais.com/deportes/futbol/2026-10-26/kane-y-el-balon-de-oro-mas-espanol.html",
+          "position": 35,
+          "focus": "Menciona a Kane como ganador pero enmarca el premio como 'español', dando peso al componente colectivo"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "El destino sonríe por fin a Harry Kane, Balón de Oro por delante de Mbappé y Lamine Yamal: \"No fui de esos que llegan directamente a la cima\"",
+          "link": "https://www.elmundo.es/deportes/futbol/2026/10/26/6adfadb2e9cf4a97228b4594.html",
+          "position": 10,
+          "focus": "Centrado totalmente en Kane, su trayectoria y su cita personal; omite cualquier referencia a España"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Unai Simón, a su novia en el discurso en la gala del Balón de Oro: «Eres un oasis de tranquilidad en este mundo tan caótico»",
+          "link": "https://www.abc.es/gente/unai-simon-habla-nunca-novia-carmen-discurso-20261027100513-nt.html",
+          "position": 90,
+          "focus": "Ignora el resultado del Balón de Oro y se centra en una anécdota personal de Unai Simón, ni siquiera menciona a Kane"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Harry Kane se lleva el Balón de Oro al mejor futbolista por delante de Mbappé y Lamine Yamal",
+          "link": "https://www.lavanguardia.com/deportes/20261026/11668794/balon-oro-harry-kane-mejor-futbolista-por-delante-lamine-yamal-mbappe-londres.html",
+          "position": 10,
+          "focus": "Foco exclusivo en Kane como ganador frente a Mbappé y Lamine Yamal, sin mención a España como colectivo"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "La España de la segunda estrella arrasa en la gala del Balón de Oro, pero se queda sin el premio gordo como en 2010",
+          "link": "https://www.elespanol.com/deportes/futbol/20261027/espana-segunda-estrella-arrasa-gala-balon-oro-queda-sin-premio-gordo/1003744435677_0.html",
+          "position": 75,
+          "focus": "Destaca el dominio español en la gala y lamenta la ausencia del premio individual, priorizando el relato colectivo sobre el individual"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Harry Kane se impone a Kylian Mbappé y Lamine Yamal y se lleva el Balón de Oro 2026",
+          "link": "https://www.20minutos.es/deportes/futbol/balon-oro-2026-directo-ultima-hora-ganadores-premiados-gala-lamine-yamal-mbappe-harry-kane-alexia-putellas_7053622_6.html",
+          "position": 10,
+          "focus": "Resume el resultado individual de Kane frente a sus competidores, sin enfoque colectivo"
+        }
+      ],
+      "rango": 80,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Israel celebra elecciones legislativas marcadas por la figura de Netanyahu y el riesgo de bloqueo político",
+      "section": "Internacional",
+      "facts": [
+        "Israel celebra elecciones hoy",
+        "Netanyahu es uno de los principales candidatos",
+        "Eisenkot se presenta como rival de Netanyahu",
+        "Las elecciones se celebran bajo la sombra del 7-O",
+        "Existe riesgo de bloqueo político (El Mundo, El Español, La Vanguardia)",
+        "Netanyahu lleva casi dos décadas de dominio político (eldiario.es)",
+        "La oposición teme 'medidas extremas' de Netanyahu para atrincherarse (El Español)",
+        "Los partidos árabes podrían tener la última palabra (20minutos)"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "Netanyahu como líder en juego electoral legítimo",
+        "polo_b": "Netanyahu como poder que se aferra al cargo",
+        "resumen": "Los medios varían entre presentar las elecciones como un test político neutral para Netanyahu y enmarcarlas como una amenaza a su permanencia tras años de dominio, con riesgo de que recurra a medidas extremas."
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Netanyahu se juega su futuro en unas elecciones decisivas para todo Oriente Próximo",
+          "link": "https://elpais.com/internacional/2026-10-27/netanyahu-se-juega-su-futuro-en-unas-elecciones-decisivas-para-todo-oriente-proximo.html",
+          "position": 40,
+          "focus": "Centra el relato en el futuro de Netanyahu y su impacto regional, sin cargar tintas críticas explícitas"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Israel vota bajo la sombra del 7-O: Netanyahu, Eisenkot o el bloqueo",
+          "link": "https://www.elmundo.es/internacional/2026/10/27/6adfb67ae4d4d8bf5d8b45b9.html",
+          "position": 50,
+          "focus": "Describe de forma neutral los tres escenarios posibles (Netanyahu, Eisenkot, bloqueo) sin inclinarse"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Israel acude a las urnas con un Netanyahu amenazado tras casi dos décadas de dominio político",
+          "link": "https://www.eldiario.es/internacional/israel-acude-urnas-netanyahu-amenazado-decadas-dominio-politico_1_13616669.html",
+          "position": 60,
+          "focus": "Enfatiza que Netanyahu está 'amenazado' tras casi dos décadas de dominio, sugiriendo desgaste de poder"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Israel acude a las urnas en unas elecciones decisivas",
+          "link": "https://www.lavanguardia.com/internacional/20261027/11669121/israel-acude-urnas-elecciones-decisivas.html",
+          "position": 50,
+          "focus": "Titular genérico y descriptivo, sin protagonismo marcado ni juicio"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Israel acude a las urnas ante el riesgo del bloqueo: la oposición teme las \"medidas extremas\" de Netanyahu para atrincherarse",
+          "link": "https://www.elespanol.com/mundo/oriente-proximo/20261027/israel-acude-urnas-riesgo-bloqueo-oposicion-teme-medidas-extremas-netanyahu-atrincherarse/1003744435425_0.html",
+          "position": 80,
+          "focus": "Destaca el temor opositor a 'medidas extremas' de Netanyahu para atrincherarse, encuadre crítico explícito"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Eisenkot desafía hoy a Netanyahu en un duelo electoral entre 'derechas' en los que la última voz podrían tenerla los partidos árabes",
+          "link": "https://www.20minutos.es/internacional/eisenkot-desafia-hoy-netanyahu-un-duelo-electoral-entre-derechas-los-que-ultima-voz-podrian-tenerla-los-partidos-arabes_7052078_0.html",
+          "position": 45,
+          "focus": "Desplaza el foco hacia Eisenkot y los partidos árabes como actores decisivos, restando protagonismo a Netanyahu"
+        }
+      ],
+      "rango": 40,
+      "discrepancia": "media",
+      "silenciosos": [
+        "ABC"
+      ]
+    },
+    {
+      "neutral_headline": "Lula da Silva gana las elecciones en Brasil y Bolsonaro reacciona como líder opositor",
+      "section": "Internacional",
+      "facts": [
+        "Lula da Silva resultó vencedor en la elección presidencial de Brasil",
+        "Bolsonaro se posiciona como líder de la oposición tras la derrota",
+        "La victoria rompe una racha de siete triunfos consecutivos de la derecha en Latinoamérica, según 20minutos",
+        "El resultado afecta al proyecto de 'Escudo de las Américas' promovido por Donald Trump, según El Mundo",
+        "André Janones es señalado como artífice de una campaña digital decisiva para Lula, según El País"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "derrota/colapso de Bolsonaro y la derecha",
+        "polo_b": "mérito y consecuencias geopolíticas del triunfo de Lula",
+        "resumen": "Los medios difieren en si ponen el foco en el hundimiento del bolsonarismo o en el protagonismo y alcance internacional de Lula"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "André Janones, el general de WhatsApp que le dio la vuelta a la elección de Lula",
+          "link": "https://elpais.com/america/2026-10-27/andre-janones-el-general-de-whatsapp-que-le-dio-la-vuelta-a-la-eleccion-de-lula.html",
+          "position": 85,
+          "focus": "Destaca la figura de André Janones y la estrategia digital que habría sido clave para Lula; omite el impacto sobre Bolsonaro o la derecha regional"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "La victoria de Lula en Brasil frena en seco el Escudo de las Américas de Donald Trump",
+          "link": "https://www.elmundo.es/internacional/2026/10/27/6adf8440e85eceaf758b458b.html",
+          "position": 75,
+          "focus": "Centra el relato en las consecuencias geopolíticas para Donald Trump y su proyecto regional, desplazando el foco de Bolsonaro"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Terremoto en la derecha brasileña: la remontada histórica de Lula empuja al bolsonarismo a la desaparición",
+          "link": "https://www.eldiario.es/internacional/terremoto-derecha-brasilena-remontada-historica-lula-empuja-bolsonarismo-desaparicion_1_13616408.html",
+          "position": 10,
+          "focus": "Enfatiza la crisis existencial del bolsonarismo y la derecha brasileña, presentándolo casi como su desaparición"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Bolsonaro rectifica y se proclama líder de la oposición en Brasil",
+          "link": "https://www.lavanguardia.com/internacional/20261026/11668787/bolsonaro-sigue-reconocer-historica-victoria-lula-presidenciales.html",
+          "position": 55,
+          "focus": "Muestra a Bolsonaro reposicionándose como líder opositor, sin enfatizar derrota ni colapso"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "El triunfo de Lula complica el futuro judicial de Bolsonaro y rompe con siete victorias seguidas de la derecha en Latinoamérica",
+          "link": "https://www.20minutos.es/internacional/triunfo-lula-complica-futuro-judicial-bolsonaro-rompe-con-siete-victorias-seguidas-derecha-latinoamerica_7053671_0.html",
+          "position": 30,
+          "focus": "Combina el impacto judicial sobre Bolsonaro con el fin de la racha de victorias derechistas en la región"
+        }
+      ],
+      "rango": 75,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "ABC",
+        "El Espanol"
+      ]
+    },
+    {
+      "neutral_headline": "China suspende las emisiones de LaLiga tras polémica de Mbappé por llamar \"dictador\" a Mao",
+      "section": "Deportes",
+      "facts": [
+        "La televisión estatal china suspendió las emisiones de LaLiga",
+        "La suspensión se produce tras una polémica relacionada con Mbappé",
+        "La polémica surge por referirse a Mao Zedong como \"dictador\"",
+        "El Pais afirma que el gobierno chino declaró que esto ha herido los sentimientos nacionales",
+        "ABC afirma que China rompió acuerdos comerciales con Mbappé",
+        "La Vanguardia vincula la polémica a un 'meme' difundido sobre el comentario"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "relato informativo factual",
+        "polo_b": "relato de conflicto/escalada dramatizada",
+        "resumen": "Los medios varían entre describir el hecho de forma neutra y presentarlo como una ruptura o 'guerra' abierta entre China y Mbappé"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "La televisión estatal china suspende las emisiones de LaLiga tras la polémica con Mbappé y su gobierno destaca que ha herido los sentimientos nacionales",
+          "link": "https://elpais.com/deportes/futbol/2026-10-27/la-television-estatal-china-suspende-las-emisiones-de-laliga-tras-la-polemica-con-mbappe-y-su-gobierno-destaca-que-ha-herido-los-sentimientos-nacionales.html",
+          "position": 30,
+          "focus": "Incluye la reacción oficial del gobierno chino, añadiendo contexto pero sin dramatizar"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "La televisión estatal china suspende las emisiones de LaLiga tras la polémica con Mbappé",
+          "link": "https://www.elmundo.es/deportes/futbol/primera-division/2026/10/27/6ae046c9fc6c839e088b45aa.html",
+          "position": 20,
+          "focus": "Describe el hecho de forma escueta y neutra, sin detalles adicionales"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "China veta los partidos de LaLiga y rompe acuerdos con Mbappé por calificar de «dictador» a Mao",
+          "link": "https://www.abc.es/deportes/futbol/china-pie-guerra-mbappe-vetan-partidos-laliga-20261027092813-nt.html",
+          "position": 60,
+          "focus": "Usa verbos de ruptura ('veta', 'rompe acuerdos') y cita explícita, enfatizando la responsabilidad de Mbappé"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "China suspende las emisiones de LaLiga tras la polémica de Mbappé y su 'meme' del “dictador”",
+          "link": "https://www.lavanguardia.com/deportes/futbol/20261027/11669052/empresas-chinas-rescinden-contratos-mbappe-reirse-meme-dictador-chino.html",
+          "position": 25,
+          "focus": "Relata el hecho con matiz informativo, mencionando el origen del 'meme' sin dramatizar"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "China declara la guerra a Mbappé tras referirse a Mao Zedong como \"dictador\" y veta las emisiones de LaLiga",
+          "link": "https://www.elespanol.com/deportes/futbol/20261027/china-declara-guerra-mbappe-referirse-mao-zedong-dictador-veta-emisiones-laliga/1003744435956_0.html",
+          "position": 85,
+          "focus": "Enmarca el hecho como una confrontación bélica ('declara la guerra'), maximizando el conflicto"
+        }
+      ],
+      "rango": 65,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "La concentración de gases de efecto invernadero alcanza nuevos máximos en 2025",
+      "section": "Sociedad",
+      "facts": [
+        "Los niveles de gases de efecto invernadero en la atmósfera alcanzaron máximos históricos",
+        "El récord se registró en 2025, según La Vanguardia",
+        "El País vincula el dato con la lentitud de los países en avanzar sus planes climáticos",
+        "eldiario.es describe el fenómeno como un espesamiento continuado de la capa de gases"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "constatación neutra del récord",
+        "polo_b": "atribución de responsabilidad política por la inacción",
+        "resumen": "El País enmarca el récord como consecuencia de la lentitud política, mientras los otros dos medios se limitan a describir el hecho sin señalar causas."
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Los gases que sobrecalientan la Tierra alcanzan máximos históricos mientras los países arrastran los pies con sus planes climáticos",
+          "link": "https://elpais.com/clima-y-medio-ambiente/2026-10-27/los-gases-que-sobrecalientan-la-tierra-alcanzan-maximos-historicos-mientras-los-paises-arrastran-los-pies-con-sus-planes-climaticos.html",
+          "position": 20,
+          "focus": "Destaca la inacción de los gobiernos como causa implícita del récord; omite detalles técnicos sobre la medición"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "La costra de gases de efecto invernadero se espesa todavía más",
+          "link": "https://www.eldiario.es/sociedad/costra-gases-efecto-invernadero-espesa-todavia_1_13617617.html",
+          "position": 50,
+          "focus": "Usa una metáfora descriptiva ('costra que se espesa') para ilustrar el aumento, sin atribuir responsabilidad"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "La concentración de gases que calientan el clima batieron récords otra vez en 2025",
+          "link": "https://www.lavanguardia.com/natural/20261027/11669063/concentracion-gases-calientan-clima-batieron-records-vez-2025.html",
+          "position": 50,
+          "focus": "Informa del dato de forma factual, especificando el año, sin entrar en causas ni responsables"
+        }
+      ],
+      "rango": 30,
+      "discrepancia": "media",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Espanol",
+        "El Mundo"
+      ]
+    },
+    {
+      "neutral_headline": "El paro sube un 10,18% en el tercer trimestre mientras el empleo alcanza un récord de 22,8 millones de ocupados",
+      "section": "Economia",
+      "facts": [
+        "La tasa de paro se situó en el 10,18% en el tercer trimestre",
+        "El número de ocupados alcanzó un récord de 22,8 millones de personas",
+        "El paro subió en 95.900 personas durante el verano, según eldiario.es y La Vanguardia"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "enfasis en el deterioro del paro",
+        "polo_b": "enfasis en el record de empleo",
+        "resumen": "Los medios se dividen entre destacar la subida del paro como dato principal o resaltar el récord histórico de ocupados, matizando la subida del paro"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "El paro repunta en el tercer trimestre hasta el 10,18%",
+          "link": "https://elpais.com/economia/2026-10-27/el-paro-repunta-en-el-tercer-trimestre-hasta-el-1018.html",
+          "position": 10,
+          "focus": "Centra el titular exclusivamente en la subida del paro al 10,18%, sin mencionar el récord de empleo"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "El empleo marcó un nuevo récord de 22,8 millones de trabajadores y el paro subió en 95.900 personas en verano",
+          "link": "https://www.eldiario.es/economia/empleo-marco-nuevo-record-22-8-millones-trabajadores-paro-subio-95-900-personas-verano_1_13617404.html",
+          "position": 75,
+          "focus": "Abre con el récord de empleo de 22,8 millones y menciona la subida del paro como dato secundario"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Un flojo tercer trimestre registra un aumento del paro de 95.900 personas",
+          "link": "https://www.lavanguardia.com/economia/20261027/11669087/flojo-tercer-trimestre-registra-aumento-paro-95-900-personas.html",
+          "position": 15,
+          "focus": "Califica el trimestre como 'flojo' y centra el titular en el aumento del paro, sin citar el récord de empleo"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "El paro sube hasta el 10,18% en el tercer trimestre del año a pesar del récord de 22,8 millones de ocupados",
+          "link": "https://www.elespanol.com/invertia/economia/empleo/20261027/paro-sube-tercer-trimestre-ano-millones-ocupados-epa/1003744435882_0.html",
+          "position": 55,
+          "focus": "Combina ambos datos: la subida del paro y el récord de ocupados, presentándolos como contraste equilibrado"
+        }
+      ],
+      "rango": 65,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Mundo"
+      ]
+    }
+  ]
+}
