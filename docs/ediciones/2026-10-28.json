@@ -1,0 +1,496 @@
+{
+  "fecha": "2026-10-28T10:47:20.640923+00:00",
+  "esquema": 2,
+  "historias": [
+    {
+      "neutral_headline": "Choque de dos trenes de alta velocidad en Urda (Toledo)",
+      "section": "Sociedad",
+      "facts": [
+        "El accidente ocurrió en Urda, Toledo",
+        "Colisionaron un tren AVE de Renfe y un tren de Iryo",
+        "El choque se produjo en la línea Madrid-Sevilla",
+        "Dos vagones cayeron por un terraplén",
+        "La velocidad del impacto fue superior a 100 km/h",
+        "El número de fallecidos varía según el medio y el momento de publicación: El País, El Mundo y 20minutos informan de al menos 30 muertos; La Vanguardia de al menos 46; ABC y El Español de al menos 50"
+      ],
+      "tipo_divergencia": "cronologica",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Última hora del accidente de trenes en Toledo, en directo | Al menos 30 muertos en el choque de trenes en Urda",
+          "link": "https://elpais.com/espana/2026-10-28/ultima-hora-del-choque-entre-dos-trenes-en-los-yebenes-toledo-en-directo.html",
+          "position": 50,
+          "focus": "Cobertura en directo centrada en la última hora, cifra de 30 muertos; omite causa y detalles del impacto"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Nueva tragedia en la Alta Velocidad española con al menos 30 muertos: un AVE de Renfe embiste a un Iryo en Urda a más de 100 km por hora",
+          "link": "https://www.elmundo.es/economia/empresas/2026/10/28/6ae1b066e85ece7a448b45a3.html",
+          "position": 50,
+          "focus": "Detalla trenes implicados (AVE Renfe e Iryo), velocidad del choque y localización en Urda; cifra de 30 muertos"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Al menos 50 muertos en un nuevo choque de trenes",
+          "link": "https://www.abc.es/espana/accidente-ave-sevilla-madrid-toledo-directo-heridos-20261028094604-di.html",
+          "position": 50,
+          "focus": "Titular escueto centrado en la cifra de víctimas, actualizada a 50 muertos, sin detalles del lugar ni trenes"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Qué sabemos del accidente de dos trenes de alta velocidad en Toledo",
+          "link": "https://www.eldiario.es/castilla-la-mancha/accidente-trenes-alta-velocidad-toledo_1_13620881.html",
+          "position": 50,
+          "focus": "Formato explicativo 'qué sabemos', sin cifra de muertos, centrado en reconstrucción de hechos"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Al menos 46 muertos al chocar dos trenes de alta velocidad en Toledo y caer dos vagones por un terraplén",
+          "link": "https://www.lavanguardia.com/vida/20261028/11669968/choque-de-trenes-urda-toledo-ave-madrid-andalucia-ultima-hora-hoy-en-directo.html",
+          "position": 50,
+          "focus": "Incluye detalle de los vagones caídos por un terraplén y cifra de 46 muertos, ubicación en Toledo"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Al menos 50 muertos tras chocar un AVE de Renfe contra un Iryo y sacarlo de la vía cerca de Toledo",
+          "link": "https://www.elespanol.com/invertia/observatorios/movilidad/20261028/adif-suspende-circulacion-alta-velocidad-madrid-andalucia-alcance-trenes/1003744437576_0.html",
+          "position": 50,
+          "focus": "Detalla trenes implicados y consecuencia (tren sacado de la vía), cifra de 50 muertos"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Tragedia en el AVE: al menos 30 muertos por un choque en la línea Madrid-Sevilla",
+          "link": "https://www.20minutos.es/nacional/choque-entre-dos-trenes-linea-ave-entre-madrid-sevilla-servicio-se-encuentra-interrumpido_7054308_0.html",
+          "position": 50,
+          "focus": "Identifica la línea Madrid-Sevilla, cifra de 30 muertos, menos detalle técnico del choque"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": []
+    },
+    {
+      "neutral_headline": "Netanyahu gana las elecciones en Israel pero su coalición no alcanza la mayoría para formar gobierno",
+      "section": "Internacional",
+      "facts": [
+        "Netanyahu y su coalición obtuvieron más votos/escaños que sus rivales",
+        "La coalición de Netanyahu no alcanzó los escaños necesarios para la mayoría absoluta",
+        "20minutos precisa que el dato corresponde al 72% del escrutinio",
+        "El resultado abre un escenario de bloqueo político para formar gobierno en Israel"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "Netanyahu gana/se impone",
+        "polo_b": "Revés para Netanyahu / sin ganador claro",
+        "resumen": "Los medios difieren en si enmarcan el resultado como una victoria de Netanyahu o como un fracaso/empate sin ganador claro"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Netanyahu gana las elecciones en Israel, pero su coalición no logra la mayoría",
+          "link": "https://elpais.com/internacional/2026-10-27/netanyahu-gana-las-elecciones-en-israel-pero-su-coalicion-queda-lejos-de-la-mayoria.html",
+          "position": 50,
+          "focus": "Reconoce la victoria pero subraya de inmediato la falta de mayoría, en equilibrio"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Revés a Netanyahu en un Israel bloqueado para formar gobierno",
+          "link": "https://www.elmundo.es/internacional/2026/10/27/6ae0e59dfc6c839c3a8b459d.html",
+          "position": 80,
+          "focus": "Titula directamente como 'revés' para Netanyahu, enfatizando el fracaso político por encima del triunfo electoral"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Netanyahu se impone en las urnas, pero su coalición no suma la mayoría necesaria",
+          "link": "https://www.abc.es/internacional/oposicion-israeli-supera-coalicion-netanyahu-necesitara-partidos-20261027222051-nt.html",
+          "position": 50,
+          "focus": "Similar a El País, reconoce el triunfo en votos pero señala la falta de mayoría"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Netanyahu gana las elecciones en Israel, pero no logra la mayoría para formar gobierno",
+          "link": "https://www.eldiario.es/internacional/netanyahu-gana-primeras-elecciones-israel-genocidio-no-podra-formar-gobierno-sondeos_1_13619855.html",
+          "position": 45,
+          "focus": "Formulación casi idéntica a El País, centrada en el hecho dual de ganar sin mayoría"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Netanyahu se adelanta en el recuento en unas elecciones sin un claro ganador en Israel",
+          "link": "https://www.lavanguardia.com/internacional/20261027/11669639/ninguno-dos-bloques-clara-mayoria-israel-sondeos-pie-urna.html",
+          "position": 65,
+          "focus": "Minimiza la victoria de Netanyahu ('se adelanta') y enfatiza la ausencia de un ganador claro en el conjunto de la elección"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Netanyahu gana las elecciones pero pierde la mayoría: el resultado empuja a la oposición a pactar con los partidos árabes",
+          "link": "https://www.elespanol.com/mundo/oriente-proximo/20261028/netanyahu-lidera-recuento-israel-pierde-mayoria-resultado-empuja-oposicion-pactar-partidos-arabes/1003744437490_0.html",
+          "position": 55,
+          "focus": "Añade un elemento propio: la posible alianza opositora con partidos árabes, desplazando el foco hacia las consecuencias políticas"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Netanyahu gana en Israel, pero no consigue la mayoría para formar Gobierno con el 72% escrutado",
+          "link": "https://www.20minutos.es/internacional/con-un-5-6-escrutado-partido-netanyahu-gana-las-elecciones-seguido-yashar-juntos_7054244_0.html",
+          "position": 45,
+          "focus": "Incluye el dato del porcentaje escrutado, aportando precisión temporal sin inclinar el juicio"
+        }
+      ],
+      "rango": 35,
+      "discrepancia": "media",
+      "silenciosos": []
+    },
+    {
+      "neutral_headline": "Begoña Gómez denuncia al PP por un vídeo generado con inteligencia artificial que usa su imagen",
+      "section": "Politica",
+      "facts": [
+        "Begoña Gómez ha presentado una denuncia contra el PP",
+        "La denuncia se refiere a un vídeo generado con inteligencia artificial",
+        "El vídeo utiliza la imagen de Begoña Gómez",
+        "El PP difundió el vídeo para atacar al PSOE, según El Pais"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Begoña Gómez presenta una denuncia contra el PP por el vídeo generado con IA para atacar al PSOE",
+          "link": "https://elpais.com/espana/2026-10-28/begona-gomez-presenta-una-denuncia-contra-el-pp-por-el-video-generado-con-ia-para-atacar-al-psoe.html",
+          "position": 50,
+          "focus": "Incluye el propósito del vídeo (atacar al PSOE) como contexto adicional"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Begoña Gómez presenta una denuncia por suplantación de imagen por el vídeo del PP hecho con inteligencia artificial",
+          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/28/6ae1a983e85ece095e8b456f.html",
+          "position": 50,
+          "focus": "Centra el hecho en la suplantación de imagen mediante IA"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Begoña Gómez denuncia al PP por suplantar su imagen con IA",
+          "link": "https://www.abc.es/espana/begona-denuncia-pp-suplantar-imagen-ia-20261028083843-nt.html",
+          "position": 50,
+          "focus": "Formulación directa: denuncia por suplantación de imagen con IA"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Begoña Gómez denuncia al PP por utilizar su imagen para un vídeo realizado con inteligencia artificial",
+          "link": "https://www.eldiario.es/politica/begona-gomez-denuncia-pp-utilizar-imagen-video-realizado-inteligencia-artificial_1_13620349.html",
+          "position": 50,
+          "focus": "Describe el hecho como uso de su imagen para un vídeo con IA, sin calificarlo de suplantación"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Begoña Gómez denuncia al PP por suplantación de identidad por el vídeo hecho con IA",
+          "link": "https://www.lavanguardia.com/politica/20261028/11669924/begona-gomez-denuncia-pp-suplantacion-identidad-video-hecho-ia.html",
+          "position": 50,
+          "focus": "Usa el término 'suplantación de identidad' en lugar de imagen"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Begoña Gómez denuncia al PP por suplantar su imagen en el vídeo con IA difundido en redes",
+          "link": "https://www.elespanol.com/espana/politica/20261028/begona-gomez-denuncia-pp-suplantar-imagen-video-ia-difundido-redes/1003744437541_0.html",
+          "position": 50,
+          "focus": "Añade el dato de que el vídeo fue difundido en redes sociales"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos"
+      ]
+    },
+    {
+      "neutral_headline": "Bolsonaro (o su hijo Flávio) viaja de Brasil a Estados Unidos, con escalas en Ecuador y Argentina, tras la derrota electoral",
+      "section": "Politica",
+      "facts": [
+        "El viaje incluyó una escala en Ecuador y otra en Argentina antes de llegar a EE UU (El País)",
+        "El Mundo identifica al protagonista como Flávio Bolsonaro, hijo de Jair Bolsonaro, viajando con su familia",
+        "El Mundo cita una afirmación que señala a Marco Rubio como 'el cerebro detrás de la operación'",
+        "eldiario.es y La Vanguardia vinculan la salida de Brasil a la derrota electoral",
+        "20minutos confirma la llegada a EE UU tras la salida de Brasil",
+        "Lula calificó la salida de 'vergonzosa', según 20minutos"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "huida por temor a prisión / trama política",
+        "polo_b": "salida neutra tras derrota electoral",
+        "resumen": "Los medios difieren en si enmarcan el viaje como una fuga motivada por miedo a la cárcel y una presunta operación política, o simplemente como una consecuencia de la derrota electoral."
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "La escapada de Bolsonaro: de Brasil a Argentina para viajar a EE UU tras hacer escala en Ecuador",
+          "link": "https://elpais.com/internacional/2026-10-28/argentina-confirma-que-flavio-bolsonaro-huyo-de-brasil-a-traves-de-su-territorio.html",
+          "position": 45,
+          "focus": "Describe la ruta del viaje (Brasil-Ecuador-Argentina-EE UU) de forma logística, sin atribuir motivación explícita, aunque el verbo 'escapada' introduce una leve connotación evasiva."
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Flávio Bolsonaro huye con su familia a EEUU ante el temor de ser enviado a prisión: \"Marco Rubio, el cerebro detrás de la operación\"",
+          "link": "https://www.elmundo.es/internacional/2026/10/28/6ae11c6fe9cf4a4c578b4598.html",
+          "position": 10,
+          "focus": "Centra el relato en el miedo a la prisión y añade una cita que sugiere una operación orquestada por Marco Rubio, reforzando un marco de conspiración política."
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Flávio Bolsonaro huye de Brasil hacia EEUU tras su derrota electoral",
+          "link": "https://www.eldiario.es/internacional/flavio-bolsonaro-incumple-orden-entregar-pasaporte-paradero-desconocido_1_13619629.html",
+          "position": 65,
+          "focus": "Atribuye la huida a la derrota electoral, un marco más neutro y menos conspirativo, centrado en la consecuencia política inmediata."
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Bolsonaro huye a EE.UU. tras su derrota electoral",
+          "link": "https://www.lavanguardia.com/internacional/20261027/11669018/flavio-bolsonaro-presidenciable-favorito-presunto-delincuente-48-horas.html",
+          "position": 65,
+          "focus": "Igual que eldiario.es, enlaza la huida con la derrota electoral sin mencionar motivos adicionales ni actores externos."
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Bolsonaro llega a EEUU tras huir de Brasil y Lula califica su salida de \"vergonzosa\"",
+          "link": "https://www.20minutos.es/internacional/bolsonaro-llega-eeuu-tras-huir-brasil-lula-califica-su-salida-vergonzosa_7054256_0.html",
+          "position": 55,
+          "focus": "Informa de la llegada a EE UU y añade la valoración de Lula ('vergonzosa'), introduciendo un juicio crítico pero atribuido a una fuente política, no al propio medio."
+        }
+      ],
+      "rango": 55,
+      "discrepancia": "media",
+      "silenciosos": [
+        "ABC",
+        "El Espanol"
+      ]
+    },
+    {
+      "neutral_headline": "Reacciones distintas a las protestas y disturbios convocados en Barcelona",
+      "section": "Sociedad",
+      "facts": [
+        "Se han producido llamamientos a protestar en Barcelona",
+        "El Pais recoge testimonios de familias preocupadas por la participacion de sus hijos en las protestas",
+        "Un informe citado por eldiario.es detecta estrategias de captacion y coordinacion detras de las convocatorias de saqueos",
+        "La Vanguardia senala que el PP utiliza los disturbios callejeros como argumento politico contra el PSOE"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "enfoque social/humano (preocupacion familiar)",
+        "polo_b": "enfoque politico-partidista (instrumentalizacion de los disturbios)",
+        "resumen": "Los medios difieren en si centran el hecho en la dimension humana y social de los jovenes implicados o en su uso como arma politica entre partidos"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Familias preocupadas por los llamamientos a protestar en Barcelona: “No sé si pondría la mano en el fuego por mi hijo”",
+          "link": "https://elpais.com/espana/catalunya/2026-10-28/familias-preocupadas-por-los-llamamientos-a-protestar-en-barcelona-no-se-si-pondria-la-mano-en-el-fuego-por-mi-hijo.html",
+          "position": 15,
+          "focus": "Pone el foco en la angustia y duda de las familias sobre sus hijos, humanizando el fenomeno sin senalar responsables politicos"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Un informe detecta estrategias de \"captación y coordinación\" detrás de las convocatorias de saqueos",
+          "link": "https://www.eldiario.es/catalunya/informe-detecta-estrategias-captacion-coordinacion-detras-convocatorias-saqueos_1_13617839.html",
+          "position": 55,
+          "focus": "Se centra en la dimension organizativa y de seguridad, revelando estrategias de coordinacion detras de los saqueos, sin atribuir explicitamente motivacion politica"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "El PP halla en los disturbios callejeros nueva munición pesada contra el PSOE",
+          "link": "https://www.lavanguardia.com/politica/20261028/11669640/pp-halla-disturbios-callejeros-nueva-municion-pesada-psoe.html",
+          "position": 90,
+          "focus": "Enmarca los disturbios como terreno de disputa partidista, destacando como el PP los capitaliza contra el PSOE"
+        }
+      ],
+      "rango": 75,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Espanol",
+        "El Mundo"
+      ]
+    },
+    {
+      "neutral_headline": "Colau propone impuesto del 10% al valor de viviendas para grandes propietarios no destinadas a alquiler asequible",
+      "section": "Politica",
+      "facts": [
+        "La propuesta de Colau establece un impuesto anual del 10% del valor de la vivienda",
+        "El impuesto aplicaria desde la cuarta vivienda en propiedad para particulares",
+        "El Mundo y 20minutos precisan que para empresas aplicaria desde la primera vivienda",
+        "20minutos anade que el impuesto no aplicaria si las viviendas se destinan a alquiler asequible",
+        "eldiario.es cita a Colau afirmando que el objetivo es 'que no sea rentable especular'"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "medida cuestionada/distanciamiento critico",
+        "polo_b": "medida legitimada por su objetivo declarado",
+        "resumen": "Los medios difieren en si presentan la propuesta con distancia critica (comillas, etiqueta de 'estrella') o si adoptan el marco discursivo de Colau sobre combatir la especulacion"
+      },
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "La medida estrella de Colau contra la \"especulación\": impuesto anual del 10% del valor de la vivienda desde la cuarta casa y para empresas desde la primera",
+          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/28/6ae1b574e4d4d8d5758b4570.html",
+          "position": 30,
+          "focus": "Usa comillas en 'especulacion' y la llama 'medida estrella', sugiriendo distancia critica del medio hacia el termino y enfatiza el caracter contundente de la cifra"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Colau propone un \"impuesto disuasorio\" del 10% a multipropietarios: \"Que no sea rentable especular\"",
+          "link": "https://www.eldiario.es/politica/colau-propone-impuesto-disuasorio-10-multipropietarios-no-sea-rentable-especular_1_13620560.html",
+          "position": 68,
+          "focus": "Cita textualmente el objetivo declarado por Colau ('que no sea rentable especular'), adoptando su marco discursivo sin distancia critica"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Colau propone un impuesto del 10% del valor de cada vivienda a quienes tengan al menos 4 y no las destinen al alquiler asequible",
+          "link": "https://www.20minutos.es/nacional/colau-propone-un-impuesto-10-valor-cada-vivienda-quienes-tengan-menos-cuatro-no-las-destinen-alquiler-asequible_7054299_0.html",
+          "position": 50,
+          "focus": "Describe el mecanismo de forma tecnica y neutral, incluyendo el detalle de la excepcion por alquiler asequible, sin valorar la medida"
+        }
+      ],
+      "rango": 38,
+      "discrepancia": "media",
+      "silenciosos": [
+        "ABC",
+        "El Espanol",
+        "El Pais",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "Subasta de objetos del Pazo de Meirás vinculados a Franco alcanza precios elevados",
+      "section": "Cultura",
+      "facts": [
+        "Se subastaron bienes procedentes del Pazo de Meirás vinculados a la familia Franco",
+        "El Mundo informa de ventas de hasta 2.750 euros, incluyendo una foto de Juan Carlos I dedicada a Franco y retratos del dictador",
+        "eldiario.es informa de una foto de Franco vendida por 2.250 euros y un tapiz por 9.000 euros",
+        "El Pais recoge una exclamacion de un asistente durante la subasta sin especificar cifras"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Dentro de la subasta de los Franco: “¡Sí que se ha resistido el pajarraco!”",
+          "link": "https://elpais.com/espana/2026-10-27/dentro-de-la-subasta-de-los-franco-si-que-se-ha-resistido-el-pajarraco.html",
+          "position": 50,
+          "focus": "Destaca el ambiente y las reacciones de los asistentes a la subasta mediante una cita textual, sin aportar cifras concretas"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Una foto de Juan Carlos I dedicada a Franco y retratos del dictador, entre los bienes del Pazo de Meirás subastados con ventas de hasta 2.750 euros",
+          "link": "https://www.elmundo.es/espana/2026/10/27/6ae10cf521efa073018b45a6.html",
+          "position": 50,
+          "focus": "Detalla los objetos subastados (fotos, retratos) y senala el precio maximo alcanzado, hasta 2.750 euros"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "El fetichismo franquista dispara los precios en la subasta del Pazo de Meirás: una foto de Franco por 2.250 euros y un tapiz por 9.000",
+          "link": "https://www.eldiario.es/sociedad/precios-disparan-subasta-pazo-meiras-foto-franco-2-250-euros-tapiz-9-000_1_13617952.html",
+          "position": 50,
+          "focus": "Enfatiza el interes o fetichismo por objetos franquistas citando precios especificos de dos piezas: una foto por 2.250 euros y un tapiz por 9.000 euros"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Espanol",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "Irene Montero y Gabriel Rufián visitan 'La Revuelta' de David Broncano",
+      "section": "Sociedad",
+      "facts": [
+        "Irene Montero y Gabriel Rufián fueron invitados en el programa 'La Revuelta' de David Broncano",
+        "Según ABC, la visita logró el tercer programa más visto en la historia de 'La Revuelta'",
+        "Según eldiario.es, durante la entrevista se citó la frase: 'El PSOE jamás se va a atrever a expropiar o nacionalizar, nosotras sí'",
+        "El Pais compara a Montero y Rufián con 'los nuevos Javis' y describe su efecto en Broncano"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "enfoque en el espectáculo/audiencia",
+        "polo_b": "enfoque en el contenido político sustantivo",
+        "resumen": "Los medios eligen distinto protagonismo: el show televisivo y su éxito de audiencia frente al mensaje político explícito de los invitados."
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Montero y Rufián, los nuevos Javis, vuelven loco a Broncano",
+          "link": "https://elpais.com/espana/2026-10-27/montero-y-rufian-los-nuevos-javis-vuelven-loco-a-broncano.html",
+          "position": 20,
+          "focus": "Destaca la dinámica personal y el tono de 'los nuevos Javis', centrando la noticia en el entretenimiento y la relación con Broncano, sin mencionar el contenido político."
+        },
+        {
+          "outlet": "ABC",
+          "headline": "La visita de Rufián y Montero regala a 'La Revuelta' el tercer programa más visto de su historia",
+          "link": "https://www.abc.es/play/television/noticias/visita-rufian-montero-regala-revuelta-tercer-programa-20261028090820-nt.html",
+          "position": 15,
+          "focus": "Se centra en el dato de audiencia (tercer programa más visto), enmarcando la visita como un éxito mediático, dejando de lado el mensaje político de los invitados."
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Irene Montero y Gabriel Rufián, en 'La Revuelta': \"El PSOE jamás se va a atrever a expropiar o nacionalizar, nosotras sí\"",
+          "link": "https://www.eldiario.es/politica/irene-montero-gabriel-rufian-revuelta-psoe-atrever-expropiar-nacionalizar-si_1_13620221.html",
+          "position": 90,
+          "focus": "Prioriza la declaración política explícita sobre expropiación/nacionalización, presentando la visita como un acto de contenido ideológico más que de entretenimiento."
+        }
+      ],
+      "rango": 75,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "El Espanol",
+        "El Mundo",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "Reacciones políticas al accidente de Toledo y declaraciones sobre la expulsión de Vito Quiles del Congreso",
+      "section": "Politica",
+      "facts": [
+        "Andrea Ropero afirmó alegrarse de la expulsión de Vito Quiles del Congreso",
+        "Ropero señaló que a ella no le acreditan",
+        "Vox mantuvo su agenda de campaña tras un accidente en Toledo",
+        "Vox atribuyó el accidente a la 'campaña del amor' del PSOE, según eldiario.es",
+        "Según La Vanguardia, los partidos cancelaron sus actos por el accidente excepto Vox",
+        "Según La Vanguardia, Vox culpó al Gobierno del accidente"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Andrea Ropero (’El intermedio’): “Me alegra la expulsión de Vito Quiles del Congreso, a mí no me acreditan”",
+          "link": "https://elpais.com/television/2026-10-28/andrea-ropero-el-intermedio-me-alegra-la-expulsion-de-vito-quiles-del-congreso-a-mi-no-me-acreditan.html",
+          "position": 50,
+          "focus": "Se centra en las declaraciones de Andrea Ropero sobre la expulsión de Vito Quiles del Congreso; no guarda relación temática con el accidente de Toledo cubierto en las otras piezas."
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Vox mantiene su agenda y ataca al Gobierno con el accidente de Toledo: \"La campaña del amor del PSOE causa muertos\"",
+          "link": "https://www.eldiario.es/politica/vox-mantiene-agenda-ataca-gobierno-accidente-toledo-campana-amor-psoe-causa-muertos_1_13620836.html",
+          "position": 50,
+          "focus": "Describe que Vox mantuvo su agenda electoral y atacó al Gobierno citando textualmente la frase sobre la 'campaña del amor' del PSOE como causa de muertes."
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Los partidos cancelan sus actos por el accidente salvo Vox, que ya culpa al Gobierno",
+          "link": "https://www.lavanguardia.com/politica/20261028/11669987/partidos-suspenden-agendas-accidente-ferroviario-toledo.html",
+          "position": 50,
+          "focus": "Contrasta la decisión de la mayoría de partidos de cancelar actos por respeto al accidente con la excepción de Vox, que culpó de inmediato al Gobierno."
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Espanol",
+        "El Mundo"
+      ]
+    }
+  ]
+}

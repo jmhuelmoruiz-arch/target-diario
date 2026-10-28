@@ -1,141 +1,139 @@
 {
-  "fecha": "2026-10-27T10:01:14.219688+00:00",
+  "fecha": "2026-10-28T10:47:20.640923+00:00",
   "esquema": 2,
   "historias": [
     {
-      "neutral_headline": "PP y Vox pactan la distribución de candidaturas al Senado",
-      "section": "Politica",
-      "facts": [
-        "PP y Vox han alcanzado un acuerdo sobre candidaturas al Senado",
-        "El Pais identifica candidatos presentados como independientes con vinculos a Vox, incluyendo una exjefa de prensa de Ortega-Smith y un exconseller de Mazon",
-        "El Mundo senala que la formula elegida puede ser decisiva en 13 provincias para el control del Senado",
-        "El Espanol calcula un 70% de probabilidades de sumar tres quintos en el Senado si el 80% de los votantes de ambos partidos respalda el pacto",
-        "20minutos indica que el acuerdo se limita al reparto electoral, sin grupo parlamentario propio para Vox ni cesion de senadores"
-      ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "el pacto da poder e influencia ultra a Vox",
-        "polo_b": "el pacto es limitado y no supone concesiones relevantes a Vox",
-        "resumen": "los medios discrepan en si el acuerdo PP-Vox para el Senado representa una cesion de poder a los ultras o un pacto tecnico y contenido"
-      },
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "Vox impone al PP candidatos “independientes” al Senado muy vinculados a los ultras: de la exjefa de prensa de Ortega-Smith a un ‘exconseller’ de Mazón",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-10-26/vox-impone-al-pp-candidatos-independientes-al-senado-muy-vinculados-al-partido-de-la-exjefa-de-prensa-de-ortega-smith-a-un-exconseller-de-mazon.html",
-          "position": 10,
-          "focus": "destaca los vinculos ultras de los candidatos 'independientes', enmarcando el pacto como una infiltracion de Vox via el PP"
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "El pacto de PP y Vox acerca a la derecha al control total del Senado: la fórmula elegida puede ser decisiva en 13 provincias",
-          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/26/6adfc1a4fdddff58628b4571.html",
-          "position": 35,
-          "focus": "pone el foco en las consecuencias estrategicas del acuerdo para el control institucional del Senado, con tono mas analitico que valorativo"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "Quiénes son los candidatos de Vox al Senado integrados en las listas del PP",
-          "link": "https://www.eldiario.es/politica/son-candidatos-vox-senado-integrados-listas-pp_1_13617335.html",
-          "position": 50,
-          "focus": "enfoque puramente descriptivo, enumera quienes son los candidatos sin valorar el acuerdo"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Vox ya no da miedo al PP",
-          "link": "https://www.lavanguardia.com/opinion/20261027/11668808/vox-da-miedo-pp.html",
-          "position": 90,
-          "focus": "encuadra el pacto como senal de normalizacion de Vox dentro del PP, minimizando la conflictividad"
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "PP y Vox tendrán un 70% de opciones de sumar tres quintos en el Senado si 8 de cada 10 de sus votantes secundan el pacto",
-          "link": "https://www.elespanol.com/espana/politica/20261027/pp-vox-opciones-sumar-quintos-senado-votantes-secundan-pacto/1003744435540_0.html",
-          "position": 45,
-          "focus": "centra el relato en datos y probabilidades electorales tecnicas, con tono neutral pero orientado al resultado de poder"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "PP y Vox limitan su acuerdo en el Senado al reparto electoral: sin grupo propio para los de Abascal ni cesión de senadores",
-          "link": "https://www.20minutos.es/nacional/pp-vox-limitan-su-acuerdo-senado-reparto-electoral-sin-grupo-propio-para-los-abascal-ni-cesion-senadores_7053600_0.html",
-          "position": 85,
-          "focus": "subraya los limites del pacto, enfatizando que Vox no logra grupo propio ni cesion de senadores, minimizando su alcance"
-        }
-      ],
-      "rango": 80,
-      "discrepancia": "alta",
-      "silenciosos": [
-        "ABC"
-      ]
-    },
-    {
-      "neutral_headline": "Disturbios y saqueos en Barcelona: investigación sobre causas, organización y responsabilidades",
+      "neutral_headline": "Choque de dos trenes de alta velocidad en Urda (Toledo)",
       "section": "Sociedad",
       "facts": [
-        "Se produjeron disturbios y saqueos en Barcelona vinculados a convocatorias de grupos llamados 'blocus'",
-        "Los Mossos d'Esquadra tenían constancia de la convocatoria desde al menos 7 días antes, según El Espanol",
-        "Existen mensajes internos de los Mossos que advierten de un posible nuevo saqueo masivo de Blocus, según El Mundo",
-        "El Mundo atribuye a esos mensajes la mención de 'bandas latinoamericanas' implicadas",
-        "ABC informa de que los servicios de Inteligencia investigan posibles injerencias extranjeras para amplificar los disturbios",
-        "eldiario.es ha accedido a grupos 'blocus' que preparan nuevos saqueos y recoge mensajes internos sobre logística (ej. bengalas)",
-        "Una jueza de menores ha reprendido a los padres de menores implicados en los disturbios, según La Vanguardia",
-        "20minutos recoge una valoración que descarta el paralelismo con disturbios en Francia y lo describe como 'una llamada a la acción sin reflexión'"
+        "El accidente ocurrió en Urda, Toledo",
+        "Colisionaron un tren AVE de Renfe y un tren de Iryo",
+        "El choque se produjo en la línea Madrid-Sevilla",
+        "Dos vagones cayeron por un terraplén",
+        "La velocidad del impacto fue superior a 100 km/h",
+        "El número de fallecidos varía según el medio y el momento de publicación: El País, El Mundo y 20minutos informan de al menos 30 muertos; La Vanguardia de al menos 46; ABC y El Español de al menos 50"
       ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "malestar social espontáneo",
-        "polo_b": "acción organizada/externa (crimen o injerencia)",
-        "resumen": "Los medios difieren en si atribuyen los disturbios a un malestar social difuso, a grupos organizados con intereses criminales, o incluso a una posible injerencia externa."
-      },
+      "tipo_divergencia": "cronologica",
+      "eje": null,
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "Lo que se sabe y lo que se investiga de los disturbios en Barcelona",
-          "link": "https://elpais.com/videos/2026-10-27/lo-que-se-sabe-y-lo-que-se-investiga-de-los-disturbios-en-barcelona.html",
+          "headline": "Última hora del accidente de trenes en Toledo, en directo | Al menos 30 muertos en el choque de trenes en Urda",
+          "link": "https://elpais.com/espana/2026-10-28/ultima-hora-del-choque-entre-dos-trenes-en-los-yebenes-toledo-en-directo.html",
           "position": 50,
-          "focus": "Ofrece un repaso general de lo conocido y lo pendiente de investigar, sin inclinarse por una causa concreta"
+          "focus": "Cobertura en directo centrada en la última hora, cifra de 30 muertos; omite causa y detalles del impacto"
         },
         {
           "outlet": "El Mundo",
-          "headline": "Los mensajes internos de los Mossos que advierten de otro saqueo masivo de Blocus: \"Quieren repetirlo. Hay bandas latinoamericanas\"",
-          "link": "https://www.elmundo.es/cataluna/2026/10/27/6adfaaeb21efa022498b4581.html",
-          "position": 75,
-          "focus": "Destaca advertencias internas de los Mossos sobre una organización estructurada, citando 'bandas latinoamericanas' como actor clave"
+          "headline": "Nueva tragedia en la Alta Velocidad española con al menos 30 muertos: un AVE de Renfe embiste a un Iryo en Urda a más de 100 km por hora",
+          "link": "https://www.elmundo.es/economia/empresas/2026/10/28/6ae1b066e85ece7a448b45a3.html",
+          "position": 50,
+          "focus": "Detalla trenes implicados (AVE Renfe e Iryo), velocidad del choque y localización en Urda; cifra de 30 muertos"
         },
         {
           "outlet": "ABC",
-          "headline": "Inteligencia investiga injerencias extranjeras para amplificar los disturbios de Barcelona",
-          "link": "https://www.abc.es/espana/cataluna/inteligencia-detecta-injerencias-rusas-amplificar-disturbios-barcelona-20261027012746-nt.html",
-          "position": 85,
-          "focus": "Pone el foco en la hipótesis de injerencia extranjera para amplificar los disturbios, una lectura geopolítica"
+          "headline": "Al menos 50 muertos en un nuevo choque de trenes",
+          "link": "https://www.abc.es/espana/accidente-ave-sevilla-madrid-toledo-directo-heridos-20261028094604-di.html",
+          "position": 50,
+          "focus": "Titular escueto centrado en la cifra de víctimas, actualizada a 50 muertos, sin detalles del lugar ni trenes"
         },
         {
           "outlet": "eldiario.es",
-          "headline": "Dentro de los grupos 'blocus' que preparan más saqueos en Barcelona: \"¿Alguien puede conseguir bengalas?\"",
-          "link": "https://www.eldiario.es/catalunya/grupos-blocus-preparan-saqueos-barcelona-alguien-bengalas_1_13615410.html",
-          "position": 65,
-          "focus": "Describe desde dentro la logística y preparación de los grupos 'blocus', mostrando organización pero sin atribuir origen externo"
+          "headline": "Qué sabemos del accidente de dos trenes de alta velocidad en Toledo",
+          "link": "https://www.eldiario.es/castilla-la-mancha/accidente-trenes-alta-velocidad-toledo_1_13620881.html",
+          "position": 50,
+          "focus": "Formato explicativo 'qué sabemos', sin cifra de muertos, centrado en reconstrucción de hechos"
         },
         {
           "outlet": "La Vanguardia",
-          "headline": "La jueza de menores riñe a los padres por los disturbios de Barcelona",
-          "link": "https://www.lavanguardia.com/local/barcelona/20261027/11668735/jueza-menores-rine-padres-violencia-hijos.html",
-          "position": 55,
-          "focus": "Centra la atención en la responsabilidad parental de los menores implicados, un encuadre más individual/familiar"
+          "headline": "Al menos 46 muertos al chocar dos trenes de alta velocidad en Toledo y caer dos vagones por un terraplén",
+          "link": "https://www.lavanguardia.com/vida/20261028/11669968/choque-de-trenes-urda-toledo-ave-madrid-andalucia-ultima-hora-hoy-en-directo.html",
+          "position": 50,
+          "focus": "Incluye detalle de los vagones caídos por un terraplén y cifra de 46 muertos, ubicación en Toledo"
         },
         {
           "outlet": "El Espanol",
-          "headline": "Los Mossos conocían la convocatoria de los disturbios de Barcelona desde 7 días antes pero no previeron su gravedad",
-          "link": "https://www.elespanol.com/reportajes/20261027/mossos-conocian-convocatoria-disturbios-barcelona-dias-no-previeron-gravedad/1003744434941_0.html",
+          "headline": "Al menos 50 muertos tras chocar un AVE de Renfe contra un Iryo y sacarlo de la vía cerca de Toledo",
+          "link": "https://www.elespanol.com/invertia/observatorios/movilidad/20261028/adif-suspende-circulacion-alta-velocidad-madrid-andalucia-alcance-trenes/1003744437576_0.html",
           "position": 50,
-          "focus": "Señala un fallo de previsión policial pese a conocer la convocatoria, enfocándose en la gestión institucional más que en la causa última"
+          "focus": "Detalla trenes implicados y consecuencia (tren sacado de la vía), cifra de 50 muertos"
         },
         {
           "outlet": "20minutos",
-          "headline": "\"Lo de Barcelona no es Francia ni responde a un malestar, es una llamada a la acción sin reflexión\"",
-          "link": "https://www.20minutos.es/cataluna/barcelona/liliana-arroyo-sobre-los-altercados-barcelona-no-es-francia-no-responde-un-malestar-es-una-llamada-accion_7053567_0.html",
+          "headline": "Tragedia en el AVE: al menos 30 muertos por un choque en la línea Madrid-Sevilla",
+          "link": "https://www.20minutos.es/nacional/choque-entre-dos-trenes-linea-ave-entre-madrid-sevilla-servicio-se-encuentra-interrumpido_7054308_0.html",
+          "position": 50,
+          "focus": "Identifica la línea Madrid-Sevilla, cifra de 30 muertos, menos detalle técnico del choque"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": []
+    },
+    {
+      "neutral_headline": "Netanyahu gana las elecciones en Israel pero su coalición no alcanza la mayoría para formar gobierno",
+      "section": "Internacional",
+      "facts": [
+        "Netanyahu y su coalición obtuvieron más votos/escaños que sus rivales",
+        "La coalición de Netanyahu no alcanzó los escaños necesarios para la mayoría absoluta",
+        "20minutos precisa que el dato corresponde al 72% del escrutinio",
+        "El resultado abre un escenario de bloqueo político para formar gobierno en Israel"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "Netanyahu gana/se impone",
+        "polo_b": "Revés para Netanyahu / sin ganador claro",
+        "resumen": "Los medios difieren en si enmarcan el resultado como una victoria de Netanyahu o como un fracaso/empate sin ganador claro"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Netanyahu gana las elecciones en Israel, pero su coalición no logra la mayoría",
+          "link": "https://elpais.com/internacional/2026-10-27/netanyahu-gana-las-elecciones-en-israel-pero-su-coalicion-queda-lejos-de-la-mayoria.html",
+          "position": 50,
+          "focus": "Reconoce la victoria pero subraya de inmediato la falta de mayoría, en equilibrio"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Revés a Netanyahu en un Israel bloqueado para formar gobierno",
+          "link": "https://www.elmundo.es/internacional/2026/10/27/6ae0e59dfc6c839c3a8b459d.html",
           "position": 80,
-          "focus": "Rechaza explícitamente la lectura de malestar social y define los hechos como una acción deliberada sin trasfondo reivindicativo"
+          "focus": "Titula directamente como 'revés' para Netanyahu, enfatizando el fracaso político por encima del triunfo electoral"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Netanyahu se impone en las urnas, pero su coalición no suma la mayoría necesaria",
+          "link": "https://www.abc.es/internacional/oposicion-israeli-supera-coalicion-netanyahu-necesitara-partidos-20261027222051-nt.html",
+          "position": 50,
+          "focus": "Similar a El País, reconoce el triunfo en votos pero señala la falta de mayoría"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Netanyahu gana las elecciones en Israel, pero no logra la mayoría para formar gobierno",
+          "link": "https://www.eldiario.es/internacional/netanyahu-gana-primeras-elecciones-israel-genocidio-no-podra-formar-gobierno-sondeos_1_13619855.html",
+          "position": 45,
+          "focus": "Formulación casi idéntica a El País, centrada en el hecho dual de ganar sin mayoría"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Netanyahu se adelanta en el recuento en unas elecciones sin un claro ganador en Israel",
+          "link": "https://www.lavanguardia.com/internacional/20261027/11669639/ninguno-dos-bloques-clara-mayoria-israel-sondeos-pie-urna.html",
+          "position": 65,
+          "focus": "Minimiza la victoria de Netanyahu ('se adelanta') y enfatiza la ausencia de un ganador claro en el conjunto de la elección"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Netanyahu gana las elecciones pero pierde la mayoría: el resultado empuja a la oposición a pactar con los partidos árabes",
+          "link": "https://www.elespanol.com/mundo/oriente-proximo/20261028/netanyahu-lidera-recuento-israel-pierde-mayoria-resultado-empuja-oposicion-pactar-partidos-arabes/1003744437490_0.html",
+          "position": 55,
+          "focus": "Añade un elemento propio: la posible alianza opositora con partidos árabes, desplazando el foco hacia las consecuencias políticas"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Netanyahu gana en Israel, pero no consigue la mayoría para formar Gobierno con el 72% escrutado",
+          "link": "https://www.20minutos.es/internacional/con-un-5-6-escrutado-partido-netanyahu-gana-las-elecciones-seguido-yashar-juntos_7054244_0.html",
+          "position": 45,
+          "focus": "Incluye el dato del porcentaje escrutado, aportando precisión temporal sin inclinar el juicio"
         }
       ],
       "rango": 35,
@@ -143,301 +141,167 @@
       "silenciosos": []
     },
     {
-      "neutral_headline": "Harry Kane gana el Balón de Oro 2026 por delante de Mbappé y Lamine Yamal, en una gala con fuerte presencia española",
-      "section": "Deportes",
+      "neutral_headline": "Begoña Gómez denuncia al PP por un vídeo generado con inteligencia artificial que usa su imagen",
+      "section": "Politica",
       "facts": [
-        "Harry Kane ganó el Balón de Oro",
-        "Mbappé y Lamine Yamal quedaron por detrás de Kane en la votación",
-        "Unai Simón mencionó a su novia en su discurso durante la gala",
-        "Jugadores y selección española tuvieron fuerte presencia en los premios de la gala",
-        "España no obtuvo el premio principal (Balón de Oro) pese a su protagonismo en otras categorías"
+        "Begoña Gómez ha presentado una denuncia contra el PP",
+        "La denuncia se refiere a un vídeo generado con inteligencia artificial",
+        "El vídeo utiliza la imagen de Begoña Gómez",
+        "El PP difundió el vídeo para atacar al PSOE, según El Pais"
       ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "Kane como protagonista individual del Balón de Oro",
-        "polo_b": "España/selección como protagonista colectivo de la gala",
-        "resumen": "Los medios se dividen entre centrar la noticia en el ganador individual (Kane) o en el papel colectivo de España y sus figuras en la gala"
-      },
+      "tipo_divergencia": "ninguna",
+      "eje": null,
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "Kane y el Balón de Oro más español",
-          "link": "https://elpais.com/deportes/futbol/2026-10-26/kane-y-el-balon-de-oro-mas-espanol.html",
-          "position": 35,
-          "focus": "Menciona a Kane como ganador pero enmarca el premio como 'español', dando peso al componente colectivo"
+          "headline": "Begoña Gómez presenta una denuncia contra el PP por el vídeo generado con IA para atacar al PSOE",
+          "link": "https://elpais.com/espana/2026-10-28/begona-gomez-presenta-una-denuncia-contra-el-pp-por-el-video-generado-con-ia-para-atacar-al-psoe.html",
+          "position": 50,
+          "focus": "Incluye el propósito del vídeo (atacar al PSOE) como contexto adicional"
         },
         {
           "outlet": "El Mundo",
-          "headline": "El destino sonríe por fin a Harry Kane, Balón de Oro por delante de Mbappé y Lamine Yamal: \"No fui de esos que llegan directamente a la cima\"",
-          "link": "https://www.elmundo.es/deportes/futbol/2026/10/26/6adfadb2e9cf4a97228b4594.html",
-          "position": 10,
-          "focus": "Centrado totalmente en Kane, su trayectoria y su cita personal; omite cualquier referencia a España"
+          "headline": "Begoña Gómez presenta una denuncia por suplantación de imagen por el vídeo del PP hecho con inteligencia artificial",
+          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/28/6ae1a983e85ece095e8b456f.html",
+          "position": 50,
+          "focus": "Centra el hecho en la suplantación de imagen mediante IA"
         },
         {
           "outlet": "ABC",
-          "headline": "Unai Simón, a su novia en el discurso en la gala del Balón de Oro: «Eres un oasis de tranquilidad en este mundo tan caótico»",
-          "link": "https://www.abc.es/gente/unai-simon-habla-nunca-novia-carmen-discurso-20261027100513-nt.html",
-          "position": 90,
-          "focus": "Ignora el resultado del Balón de Oro y se centra en una anécdota personal de Unai Simón, ni siquiera menciona a Kane"
+          "headline": "Begoña Gómez denuncia al PP por suplantar su imagen con IA",
+          "link": "https://www.abc.es/espana/begona-denuncia-pp-suplantar-imagen-ia-20261028083843-nt.html",
+          "position": 50,
+          "focus": "Formulación directa: denuncia por suplantación de imagen con IA"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Begoña Gómez denuncia al PP por utilizar su imagen para un vídeo realizado con inteligencia artificial",
+          "link": "https://www.eldiario.es/politica/begona-gomez-denuncia-pp-utilizar-imagen-video-realizado-inteligencia-artificial_1_13620349.html",
+          "position": 50,
+          "focus": "Describe el hecho como uso de su imagen para un vídeo con IA, sin calificarlo de suplantación"
         },
         {
           "outlet": "La Vanguardia",
-          "headline": "Harry Kane se lleva el Balón de Oro al mejor futbolista por delante de Mbappé y Lamine Yamal",
-          "link": "https://www.lavanguardia.com/deportes/20261026/11668794/balon-oro-harry-kane-mejor-futbolista-por-delante-lamine-yamal-mbappe-londres.html",
-          "position": 10,
-          "focus": "Foco exclusivo en Kane como ganador frente a Mbappé y Lamine Yamal, sin mención a España como colectivo"
+          "headline": "Begoña Gómez denuncia al PP por suplantación de identidad por el vídeo hecho con IA",
+          "link": "https://www.lavanguardia.com/politica/20261028/11669924/begona-gomez-denuncia-pp-suplantacion-identidad-video-hecho-ia.html",
+          "position": 50,
+          "focus": "Usa el término 'suplantación de identidad' en lugar de imagen"
         },
         {
           "outlet": "El Espanol",
-          "headline": "La España de la segunda estrella arrasa en la gala del Balón de Oro, pero se queda sin el premio gordo como en 2010",
-          "link": "https://www.elespanol.com/deportes/futbol/20261027/espana-segunda-estrella-arrasa-gala-balon-oro-queda-sin-premio-gordo/1003744435677_0.html",
-          "position": 75,
-          "focus": "Destaca el dominio español en la gala y lamenta la ausencia del premio individual, priorizando el relato colectivo sobre el individual"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "Harry Kane se impone a Kylian Mbappé y Lamine Yamal y se lleva el Balón de Oro 2026",
-          "link": "https://www.20minutos.es/deportes/futbol/balon-oro-2026-directo-ultima-hora-ganadores-premiados-gala-lamine-yamal-mbappe-harry-kane-alexia-putellas_7053622_6.html",
-          "position": 10,
-          "focus": "Resume el resultado individual de Kane frente a sus competidores, sin enfoque colectivo"
+          "headline": "Begoña Gómez denuncia al PP por suplantar su imagen en el vídeo con IA difundido en redes",
+          "link": "https://www.elespanol.com/espana/politica/20261028/begona-gomez-denuncia-pp-suplantar-imagen-video-ia-difundido-redes/1003744437541_0.html",
+          "position": 50,
+          "focus": "Añade el dato de que el vídeo fue difundido en redes sociales"
         }
       ],
-      "rango": 80,
-      "discrepancia": "alta",
+      "rango": 0,
+      "discrepancia": "baja",
       "silenciosos": [
-        "eldiario.es"
+        "20minutos"
       ]
     },
     {
-      "neutral_headline": "Israel celebra elecciones legislativas marcadas por la figura de Netanyahu y el riesgo de bloqueo político",
-      "section": "Internacional",
+      "neutral_headline": "Bolsonaro (o su hijo Flávio) viaja de Brasil a Estados Unidos, con escalas en Ecuador y Argentina, tras la derrota electoral",
+      "section": "Politica",
       "facts": [
-        "Israel celebra elecciones hoy",
-        "Netanyahu es uno de los principales candidatos",
-        "Eisenkot se presenta como rival de Netanyahu",
-        "Las elecciones se celebran bajo la sombra del 7-O",
-        "Existe riesgo de bloqueo político (El Mundo, El Español, La Vanguardia)",
-        "Netanyahu lleva casi dos décadas de dominio político (eldiario.es)",
-        "La oposición teme 'medidas extremas' de Netanyahu para atrincherarse (El Español)",
-        "Los partidos árabes podrían tener la última palabra (20minutos)"
+        "El viaje incluyó una escala en Ecuador y otra en Argentina antes de llegar a EE UU (El País)",
+        "El Mundo identifica al protagonista como Flávio Bolsonaro, hijo de Jair Bolsonaro, viajando con su familia",
+        "El Mundo cita una afirmación que señala a Marco Rubio como 'el cerebro detrás de la operación'",
+        "eldiario.es y La Vanguardia vinculan la salida de Brasil a la derrota electoral",
+        "20minutos confirma la llegada a EE UU tras la salida de Brasil",
+        "Lula calificó la salida de 'vergonzosa', según 20minutos"
       ],
       "tipo_divergencia": "editorial",
       "eje": {
-        "polo_a": "Netanyahu como líder en juego electoral legítimo",
-        "polo_b": "Netanyahu como poder que se aferra al cargo",
-        "resumen": "Los medios varían entre presentar las elecciones como un test político neutral para Netanyahu y enmarcarlas como una amenaza a su permanencia tras años de dominio, con riesgo de que recurra a medidas extremas."
+        "polo_a": "huida por temor a prisión / trama política",
+        "polo_b": "salida neutra tras derrota electoral",
+        "resumen": "Los medios difieren en si enmarcan el viaje como una fuga motivada por miedo a la cárcel y una presunta operación política, o simplemente como una consecuencia de la derrota electoral."
       },
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "Netanyahu se juega su futuro en unas elecciones decisivas para todo Oriente Próximo",
-          "link": "https://elpais.com/internacional/2026-10-27/netanyahu-se-juega-su-futuro-en-unas-elecciones-decisivas-para-todo-oriente-proximo.html",
-          "position": 40,
-          "focus": "Centra el relato en el futuro de Netanyahu y su impacto regional, sin cargar tintas críticas explícitas"
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "Israel vota bajo la sombra del 7-O: Netanyahu, Eisenkot o el bloqueo",
-          "link": "https://www.elmundo.es/internacional/2026/10/27/6adfb67ae4d4d8bf5d8b45b9.html",
-          "position": 50,
-          "focus": "Describe de forma neutral los tres escenarios posibles (Netanyahu, Eisenkot, bloqueo) sin inclinarse"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "Israel acude a las urnas con un Netanyahu amenazado tras casi dos décadas de dominio político",
-          "link": "https://www.eldiario.es/internacional/israel-acude-urnas-netanyahu-amenazado-decadas-dominio-politico_1_13616669.html",
-          "position": 60,
-          "focus": "Enfatiza que Netanyahu está 'amenazado' tras casi dos décadas de dominio, sugiriendo desgaste de poder"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Israel acude a las urnas en unas elecciones decisivas",
-          "link": "https://www.lavanguardia.com/internacional/20261027/11669121/israel-acude-urnas-elecciones-decisivas.html",
-          "position": 50,
-          "focus": "Titular genérico y descriptivo, sin protagonismo marcado ni juicio"
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "Israel acude a las urnas ante el riesgo del bloqueo: la oposición teme las \"medidas extremas\" de Netanyahu para atrincherarse",
-          "link": "https://www.elespanol.com/mundo/oriente-proximo/20261027/israel-acude-urnas-riesgo-bloqueo-oposicion-teme-medidas-extremas-netanyahu-atrincherarse/1003744435425_0.html",
-          "position": 80,
-          "focus": "Destaca el temor opositor a 'medidas extremas' de Netanyahu para atrincherarse, encuadre crítico explícito"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "Eisenkot desafía hoy a Netanyahu en un duelo electoral entre 'derechas' en los que la última voz podrían tenerla los partidos árabes",
-          "link": "https://www.20minutos.es/internacional/eisenkot-desafia-hoy-netanyahu-un-duelo-electoral-entre-derechas-los-que-ultima-voz-podrian-tenerla-los-partidos-arabes_7052078_0.html",
+          "headline": "La escapada de Bolsonaro: de Brasil a Argentina para viajar a EE UU tras hacer escala en Ecuador",
+          "link": "https://elpais.com/internacional/2026-10-28/argentina-confirma-que-flavio-bolsonaro-huyo-de-brasil-a-traves-de-su-territorio.html",
           "position": 45,
-          "focus": "Desplaza el foco hacia Eisenkot y los partidos árabes como actores decisivos, restando protagonismo a Netanyahu"
-        }
-      ],
-      "rango": 40,
-      "discrepancia": "media",
-      "silenciosos": [
-        "ABC"
-      ]
-    },
-    {
-      "neutral_headline": "Lula da Silva gana las elecciones en Brasil y Bolsonaro reacciona como líder opositor",
-      "section": "Internacional",
-      "facts": [
-        "Lula da Silva resultó vencedor en la elección presidencial de Brasil",
-        "Bolsonaro se posiciona como líder de la oposición tras la derrota",
-        "La victoria rompe una racha de siete triunfos consecutivos de la derecha en Latinoamérica, según 20minutos",
-        "El resultado afecta al proyecto de 'Escudo de las Américas' promovido por Donald Trump, según El Mundo",
-        "André Janones es señalado como artífice de una campaña digital decisiva para Lula, según El País"
-      ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "derrota/colapso de Bolsonaro y la derecha",
-        "polo_b": "mérito y consecuencias geopolíticas del triunfo de Lula",
-        "resumen": "Los medios difieren en si ponen el foco en el hundimiento del bolsonarismo o en el protagonismo y alcance internacional de Lula"
-      },
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "André Janones, el general de WhatsApp que le dio la vuelta a la elección de Lula",
-          "link": "https://elpais.com/america/2026-10-27/andre-janones-el-general-de-whatsapp-que-le-dio-la-vuelta-a-la-eleccion-de-lula.html",
-          "position": 85,
-          "focus": "Destaca la figura de André Janones y la estrategia digital que habría sido clave para Lula; omite el impacto sobre Bolsonaro o la derecha regional"
+          "focus": "Describe la ruta del viaje (Brasil-Ecuador-Argentina-EE UU) de forma logística, sin atribuir motivación explícita, aunque el verbo 'escapada' introduce una leve connotación evasiva."
         },
         {
           "outlet": "El Mundo",
-          "headline": "La victoria de Lula en Brasil frena en seco el Escudo de las Américas de Donald Trump",
-          "link": "https://www.elmundo.es/internacional/2026/10/27/6adf8440e85eceaf758b458b.html",
-          "position": 75,
-          "focus": "Centra el relato en las consecuencias geopolíticas para Donald Trump y su proyecto regional, desplazando el foco de Bolsonaro"
+          "headline": "Flávio Bolsonaro huye con su familia a EEUU ante el temor de ser enviado a prisión: \"Marco Rubio, el cerebro detrás de la operación\"",
+          "link": "https://www.elmundo.es/internacional/2026/10/28/6ae11c6fe9cf4a4c578b4598.html",
+          "position": 10,
+          "focus": "Centra el relato en el miedo a la prisión y añade una cita que sugiere una operación orquestada por Marco Rubio, reforzando un marco de conspiración política."
         },
         {
           "outlet": "eldiario.es",
-          "headline": "Terremoto en la derecha brasileña: la remontada histórica de Lula empuja al bolsonarismo a la desaparición",
-          "link": "https://www.eldiario.es/internacional/terremoto-derecha-brasilena-remontada-historica-lula-empuja-bolsonarismo-desaparicion_1_13616408.html",
-          "position": 10,
-          "focus": "Enfatiza la crisis existencial del bolsonarismo y la derecha brasileña, presentándolo casi como su desaparición"
+          "headline": "Flávio Bolsonaro huye de Brasil hacia EEUU tras su derrota electoral",
+          "link": "https://www.eldiario.es/internacional/flavio-bolsonaro-incumple-orden-entregar-pasaporte-paradero-desconocido_1_13619629.html",
+          "position": 65,
+          "focus": "Atribuye la huida a la derrota electoral, un marco más neutro y menos conspirativo, centrado en la consecuencia política inmediata."
         },
         {
           "outlet": "La Vanguardia",
-          "headline": "Bolsonaro rectifica y se proclama líder de la oposición en Brasil",
-          "link": "https://www.lavanguardia.com/internacional/20261026/11668787/bolsonaro-sigue-reconocer-historica-victoria-lula-presidenciales.html",
-          "position": 55,
-          "focus": "Muestra a Bolsonaro reposicionándose como líder opositor, sin enfatizar derrota ni colapso"
+          "headline": "Bolsonaro huye a EE.UU. tras su derrota electoral",
+          "link": "https://www.lavanguardia.com/internacional/20261027/11669018/flavio-bolsonaro-presidenciable-favorito-presunto-delincuente-48-horas.html",
+          "position": 65,
+          "focus": "Igual que eldiario.es, enlaza la huida con la derrota electoral sin mencionar motivos adicionales ni actores externos."
         },
         {
           "outlet": "20minutos",
-          "headline": "El triunfo de Lula complica el futuro judicial de Bolsonaro y rompe con siete victorias seguidas de la derecha en Latinoamérica",
-          "link": "https://www.20minutos.es/internacional/triunfo-lula-complica-futuro-judicial-bolsonaro-rompe-con-siete-victorias-seguidas-derecha-latinoamerica_7053671_0.html",
-          "position": 30,
-          "focus": "Combina el impacto judicial sobre Bolsonaro con el fin de la racha de victorias derechistas en la región"
+          "headline": "Bolsonaro llega a EEUU tras huir de Brasil y Lula califica su salida de \"vergonzosa\"",
+          "link": "https://www.20minutos.es/internacional/bolsonaro-llega-eeuu-tras-huir-brasil-lula-califica-su-salida-vergonzosa_7054256_0.html",
+          "position": 55,
+          "focus": "Informa de la llegada a EE UU y añade la valoración de Lula ('vergonzosa'), introduciendo un juicio crítico pero atribuido a una fuente política, no al propio medio."
         }
       ],
-      "rango": 75,
-      "discrepancia": "alta",
+      "rango": 55,
+      "discrepancia": "media",
       "silenciosos": [
         "ABC",
         "El Espanol"
       ]
     },
     {
-      "neutral_headline": "China suspende las emisiones de LaLiga tras polémica de Mbappé por llamar \"dictador\" a Mao",
-      "section": "Deportes",
-      "facts": [
-        "La televisión estatal china suspendió las emisiones de LaLiga",
-        "La suspensión se produce tras una polémica relacionada con Mbappé",
-        "La polémica surge por referirse a Mao Zedong como \"dictador\"",
-        "El Pais afirma que el gobierno chino declaró que esto ha herido los sentimientos nacionales",
-        "ABC afirma que China rompió acuerdos comerciales con Mbappé",
-        "La Vanguardia vincula la polémica a un 'meme' difundido sobre el comentario"
-      ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "relato informativo factual",
-        "polo_b": "relato de conflicto/escalada dramatizada",
-        "resumen": "Los medios varían entre describir el hecho de forma neutra y presentarlo como una ruptura o 'guerra' abierta entre China y Mbappé"
-      },
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "La televisión estatal china suspende las emisiones de LaLiga tras la polémica con Mbappé y su gobierno destaca que ha herido los sentimientos nacionales",
-          "link": "https://elpais.com/deportes/futbol/2026-10-27/la-television-estatal-china-suspende-las-emisiones-de-laliga-tras-la-polemica-con-mbappe-y-su-gobierno-destaca-que-ha-herido-los-sentimientos-nacionales.html",
-          "position": 30,
-          "focus": "Incluye la reacción oficial del gobierno chino, añadiendo contexto pero sin dramatizar"
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "La televisión estatal china suspende las emisiones de LaLiga tras la polémica con Mbappé",
-          "link": "https://www.elmundo.es/deportes/futbol/primera-division/2026/10/27/6ae046c9fc6c839e088b45aa.html",
-          "position": 20,
-          "focus": "Describe el hecho de forma escueta y neutra, sin detalles adicionales"
-        },
-        {
-          "outlet": "ABC",
-          "headline": "China veta los partidos de LaLiga y rompe acuerdos con Mbappé por calificar de «dictador» a Mao",
-          "link": "https://www.abc.es/deportes/futbol/china-pie-guerra-mbappe-vetan-partidos-laliga-20261027092813-nt.html",
-          "position": 60,
-          "focus": "Usa verbos de ruptura ('veta', 'rompe acuerdos') y cita explícita, enfatizando la responsabilidad de Mbappé"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "China suspende las emisiones de LaLiga tras la polémica de Mbappé y su 'meme' del “dictador”",
-          "link": "https://www.lavanguardia.com/deportes/futbol/20261027/11669052/empresas-chinas-rescinden-contratos-mbappe-reirse-meme-dictador-chino.html",
-          "position": 25,
-          "focus": "Relata el hecho con matiz informativo, mencionando el origen del 'meme' sin dramatizar"
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "China declara la guerra a Mbappé tras referirse a Mao Zedong como \"dictador\" y veta las emisiones de LaLiga",
-          "link": "https://www.elespanol.com/deportes/futbol/20261027/china-declara-guerra-mbappe-referirse-mao-zedong-dictador-veta-emisiones-laliga/1003744435956_0.html",
-          "position": 85,
-          "focus": "Enmarca el hecho como una confrontación bélica ('declara la guerra'), maximizando el conflicto"
-        }
-      ],
-      "rango": 65,
-      "discrepancia": "alta",
-      "silenciosos": [
-        "20minutos",
-        "eldiario.es"
-      ]
-    },
-    {
-      "neutral_headline": "La concentración de gases de efecto invernadero alcanza nuevos máximos en 2025",
+      "neutral_headline": "Reacciones distintas a las protestas y disturbios convocados en Barcelona",
       "section": "Sociedad",
       "facts": [
-        "Los niveles de gases de efecto invernadero en la atmósfera alcanzaron máximos históricos",
-        "El récord se registró en 2025, según La Vanguardia",
-        "El País vincula el dato con la lentitud de los países en avanzar sus planes climáticos",
-        "eldiario.es describe el fenómeno como un espesamiento continuado de la capa de gases"
+        "Se han producido llamamientos a protestar en Barcelona",
+        "El Pais recoge testimonios de familias preocupadas por la participacion de sus hijos en las protestas",
+        "Un informe citado por eldiario.es detecta estrategias de captacion y coordinacion detras de las convocatorias de saqueos",
+        "La Vanguardia senala que el PP utiliza los disturbios callejeros como argumento politico contra el PSOE"
       ],
       "tipo_divergencia": "editorial",
       "eje": {
-        "polo_a": "constatación neutra del récord",
-        "polo_b": "atribución de responsabilidad política por la inacción",
-        "resumen": "El País enmarca el récord como consecuencia de la lentitud política, mientras los otros dos medios se limitan a describir el hecho sin señalar causas."
+        "polo_a": "enfoque social/humano (preocupacion familiar)",
+        "polo_b": "enfoque politico-partidista (instrumentalizacion de los disturbios)",
+        "resumen": "Los medios difieren en si centran el hecho en la dimension humana y social de los jovenes implicados o en su uso como arma politica entre partidos"
       },
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "Los gases que sobrecalientan la Tierra alcanzan máximos históricos mientras los países arrastran los pies con sus planes climáticos",
-          "link": "https://elpais.com/clima-y-medio-ambiente/2026-10-27/los-gases-que-sobrecalientan-la-tierra-alcanzan-maximos-historicos-mientras-los-paises-arrastran-los-pies-con-sus-planes-climaticos.html",
-          "position": 20,
-          "focus": "Destaca la inacción de los gobiernos como causa implícita del récord; omite detalles técnicos sobre la medición"
+          "headline": "Familias preocupadas por los llamamientos a protestar en Barcelona: “No sé si pondría la mano en el fuego por mi hijo”",
+          "link": "https://elpais.com/espana/catalunya/2026-10-28/familias-preocupadas-por-los-llamamientos-a-protestar-en-barcelona-no-se-si-pondria-la-mano-en-el-fuego-por-mi-hijo.html",
+          "position": 15,
+          "focus": "Pone el foco en la angustia y duda de las familias sobre sus hijos, humanizando el fenomeno sin senalar responsables politicos"
         },
         {
           "outlet": "eldiario.es",
-          "headline": "La costra de gases de efecto invernadero se espesa todavía más",
-          "link": "https://www.eldiario.es/sociedad/costra-gases-efecto-invernadero-espesa-todavia_1_13617617.html",
-          "position": 50,
-          "focus": "Usa una metáfora descriptiva ('costra que se espesa') para ilustrar el aumento, sin atribuir responsabilidad"
+          "headline": "Un informe detecta estrategias de \"captación y coordinación\" detrás de las convocatorias de saqueos",
+          "link": "https://www.eldiario.es/catalunya/informe-detecta-estrategias-captacion-coordinacion-detras-convocatorias-saqueos_1_13617839.html",
+          "position": 55,
+          "focus": "Se centra en la dimension organizativa y de seguridad, revelando estrategias de coordinacion detras de los saqueos, sin atribuir explicitamente motivacion politica"
         },
         {
           "outlet": "La Vanguardia",
-          "headline": "La concentración de gases que calientan el clima batieron récords otra vez en 2025",
-          "link": "https://www.lavanguardia.com/natural/20261027/11669063/concentracion-gases-calientan-clima-batieron-records-vez-2025.html",
-          "position": 50,
-          "focus": "Informa del dato de forma factual, especificando el año, sin entrar en causas ni responsables"
+          "headline": "El PP halla en los disturbios callejeros nueva munición pesada contra el PSOE",
+          "link": "https://www.lavanguardia.com/politica/20261028/11669640/pp-halla-disturbios-callejeros-nueva-municion-pesada-psoe.html",
+          "position": 90,
+          "focus": "Enmarca los disturbios como terreno de disputa partidista, destacando como el PP los capitaliza contra el PSOE"
         }
       ],
-      "rango": 30,
-      "discrepancia": "media",
+      "rango": 75,
+      "discrepancia": "alta",
       "silenciosos": [
         "20minutos",
         "ABC",
@@ -446,54 +310,185 @@
       ]
     },
     {
-      "neutral_headline": "El paro sube un 10,18% en el tercer trimestre mientras el empleo alcanza un récord de 22,8 millones de ocupados",
-      "section": "Economia",
+      "neutral_headline": "Colau propone impuesto del 10% al valor de viviendas para grandes propietarios no destinadas a alquiler asequible",
+      "section": "Politica",
       "facts": [
-        "La tasa de paro se situó en el 10,18% en el tercer trimestre",
-        "El número de ocupados alcanzó un récord de 22,8 millones de personas",
-        "El paro subió en 95.900 personas durante el verano, según eldiario.es y La Vanguardia"
+        "La propuesta de Colau establece un impuesto anual del 10% del valor de la vivienda",
+        "El impuesto aplicaria desde la cuarta vivienda en propiedad para particulares",
+        "El Mundo y 20minutos precisan que para empresas aplicaria desde la primera vivienda",
+        "20minutos anade que el impuesto no aplicaria si las viviendas se destinan a alquiler asequible",
+        "eldiario.es cita a Colau afirmando que el objetivo es 'que no sea rentable especular'"
       ],
       "tipo_divergencia": "editorial",
       "eje": {
-        "polo_a": "enfasis en el deterioro del paro",
-        "polo_b": "enfasis en el record de empleo",
-        "resumen": "Los medios se dividen entre destacar la subida del paro como dato principal o resaltar el récord histórico de ocupados, matizando la subida del paro"
+        "polo_a": "medida cuestionada/distanciamiento critico",
+        "polo_b": "medida legitimada por su objetivo declarado",
+        "resumen": "Los medios difieren en si presentan la propuesta con distancia critica (comillas, etiqueta de 'estrella') o si adoptan el marco discursivo de Colau sobre combatir la especulacion"
+      },
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "La medida estrella de Colau contra la \"especulación\": impuesto anual del 10% del valor de la vivienda desde la cuarta casa y para empresas desde la primera",
+          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/28/6ae1b574e4d4d8d5758b4570.html",
+          "position": 30,
+          "focus": "Usa comillas en 'especulacion' y la llama 'medida estrella', sugiriendo distancia critica del medio hacia el termino y enfatiza el caracter contundente de la cifra"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Colau propone un \"impuesto disuasorio\" del 10% a multipropietarios: \"Que no sea rentable especular\"",
+          "link": "https://www.eldiario.es/politica/colau-propone-impuesto-disuasorio-10-multipropietarios-no-sea-rentable-especular_1_13620560.html",
+          "position": 68,
+          "focus": "Cita textualmente el objetivo declarado por Colau ('que no sea rentable especular'), adoptando su marco discursivo sin distancia critica"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Colau propone un impuesto del 10% del valor de cada vivienda a quienes tengan al menos 4 y no las destinen al alquiler asequible",
+          "link": "https://www.20minutos.es/nacional/colau-propone-un-impuesto-10-valor-cada-vivienda-quienes-tengan-menos-cuatro-no-las-destinen-alquiler-asequible_7054299_0.html",
+          "position": 50,
+          "focus": "Describe el mecanismo de forma tecnica y neutral, incluyendo el detalle de la excepcion por alquiler asequible, sin valorar la medida"
+        }
+      ],
+      "rango": 38,
+      "discrepancia": "media",
+      "silenciosos": [
+        "ABC",
+        "El Espanol",
+        "El Pais",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "Subasta de objetos del Pazo de Meirás vinculados a Franco alcanza precios elevados",
+      "section": "Cultura",
+      "facts": [
+        "Se subastaron bienes procedentes del Pazo de Meirás vinculados a la familia Franco",
+        "El Mundo informa de ventas de hasta 2.750 euros, incluyendo una foto de Juan Carlos I dedicada a Franco y retratos del dictador",
+        "eldiario.es informa de una foto de Franco vendida por 2.250 euros y un tapiz por 9.000 euros",
+        "El Pais recoge una exclamacion de un asistente durante la subasta sin especificar cifras"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Dentro de la subasta de los Franco: “¡Sí que se ha resistido el pajarraco!”",
+          "link": "https://elpais.com/espana/2026-10-27/dentro-de-la-subasta-de-los-franco-si-que-se-ha-resistido-el-pajarraco.html",
+          "position": 50,
+          "focus": "Destaca el ambiente y las reacciones de los asistentes a la subasta mediante una cita textual, sin aportar cifras concretas"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Una foto de Juan Carlos I dedicada a Franco y retratos del dictador, entre los bienes del Pazo de Meirás subastados con ventas de hasta 2.750 euros",
+          "link": "https://www.elmundo.es/espana/2026/10/27/6ae10cf521efa073018b45a6.html",
+          "position": 50,
+          "focus": "Detalla los objetos subastados (fotos, retratos) y senala el precio maximo alcanzado, hasta 2.750 euros"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "El fetichismo franquista dispara los precios en la subasta del Pazo de Meirás: una foto de Franco por 2.250 euros y un tapiz por 9.000",
+          "link": "https://www.eldiario.es/sociedad/precios-disparan-subasta-pazo-meiras-foto-franco-2-250-euros-tapiz-9-000_1_13617952.html",
+          "position": 50,
+          "focus": "Enfatiza el interes o fetichismo por objetos franquistas citando precios especificos de dos piezas: una foto por 2.250 euros y un tapiz por 9.000 euros"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Espanol",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "Irene Montero y Gabriel Rufián visitan 'La Revuelta' de David Broncano",
+      "section": "Sociedad",
+      "facts": [
+        "Irene Montero y Gabriel Rufián fueron invitados en el programa 'La Revuelta' de David Broncano",
+        "Según ABC, la visita logró el tercer programa más visto en la historia de 'La Revuelta'",
+        "Según eldiario.es, durante la entrevista se citó la frase: 'El PSOE jamás se va a atrever a expropiar o nacionalizar, nosotras sí'",
+        "El Pais compara a Montero y Rufián con 'los nuevos Javis' y describe su efecto en Broncano"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "enfoque en el espectáculo/audiencia",
+        "polo_b": "enfoque en el contenido político sustantivo",
+        "resumen": "Los medios eligen distinto protagonismo: el show televisivo y su éxito de audiencia frente al mensaje político explícito de los invitados."
       },
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "El paro repunta en el tercer trimestre hasta el 10,18%",
-          "link": "https://elpais.com/economia/2026-10-27/el-paro-repunta-en-el-tercer-trimestre-hasta-el-1018.html",
-          "position": 10,
-          "focus": "Centra el titular exclusivamente en la subida del paro al 10,18%, sin mencionar el récord de empleo"
+          "headline": "Montero y Rufián, los nuevos Javis, vuelven loco a Broncano",
+          "link": "https://elpais.com/espana/2026-10-27/montero-y-rufian-los-nuevos-javis-vuelven-loco-a-broncano.html",
+          "position": 20,
+          "focus": "Destaca la dinámica personal y el tono de 'los nuevos Javis', centrando la noticia en el entretenimiento y la relación con Broncano, sin mencionar el contenido político."
+        },
+        {
+          "outlet": "ABC",
+          "headline": "La visita de Rufián y Montero regala a 'La Revuelta' el tercer programa más visto de su historia",
+          "link": "https://www.abc.es/play/television/noticias/visita-rufian-montero-regala-revuelta-tercer-programa-20261028090820-nt.html",
+          "position": 15,
+          "focus": "Se centra en el dato de audiencia (tercer programa más visto), enmarcando la visita como un éxito mediático, dejando de lado el mensaje político de los invitados."
         },
         {
           "outlet": "eldiario.es",
-          "headline": "El empleo marcó un nuevo récord de 22,8 millones de trabajadores y el paro subió en 95.900 personas en verano",
-          "link": "https://www.eldiario.es/economia/empleo-marco-nuevo-record-22-8-millones-trabajadores-paro-subio-95-900-personas-verano_1_13617404.html",
-          "position": 75,
-          "focus": "Abre con el récord de empleo de 22,8 millones y menciona la subida del paro como dato secundario"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Un flojo tercer trimestre registra un aumento del paro de 95.900 personas",
-          "link": "https://www.lavanguardia.com/economia/20261027/11669087/flojo-tercer-trimestre-registra-aumento-paro-95-900-personas.html",
-          "position": 15,
-          "focus": "Califica el trimestre como 'flojo' y centra el titular en el aumento del paro, sin citar el récord de empleo"
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "El paro sube hasta el 10,18% en el tercer trimestre del año a pesar del récord de 22,8 millones de ocupados",
-          "link": "https://www.elespanol.com/invertia/economia/empleo/20261027/paro-sube-tercer-trimestre-ano-millones-ocupados-epa/1003744435882_0.html",
-          "position": 55,
-          "focus": "Combina ambos datos: la subida del paro y el récord de ocupados, presentándolos como contraste equilibrado"
+          "headline": "Irene Montero y Gabriel Rufián, en 'La Revuelta': \"El PSOE jamás se va a atrever a expropiar o nacionalizar, nosotras sí\"",
+          "link": "https://www.eldiario.es/politica/irene-montero-gabriel-rufian-revuelta-psoe-atrever-expropiar-nacionalizar-si_1_13620221.html",
+          "position": 90,
+          "focus": "Prioriza la declaración política explícita sobre expropiación/nacionalización, presentando la visita como un acto de contenido ideológico más que de entretenimiento."
         }
       ],
-      "rango": 65,
+      "rango": 75,
       "discrepancia": "alta",
       "silenciosos": [
         "20minutos",
+        "El Espanol",
+        "El Mundo",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "Reacciones políticas al accidente de Toledo y declaraciones sobre la expulsión de Vito Quiles del Congreso",
+      "section": "Politica",
+      "facts": [
+        "Andrea Ropero afirmó alegrarse de la expulsión de Vito Quiles del Congreso",
+        "Ropero señaló que a ella no le acreditan",
+        "Vox mantuvo su agenda de campaña tras un accidente en Toledo",
+        "Vox atribuyó el accidente a la 'campaña del amor' del PSOE, según eldiario.es",
+        "Según La Vanguardia, los partidos cancelaron sus actos por el accidente excepto Vox",
+        "Según La Vanguardia, Vox culpó al Gobierno del accidente"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Andrea Ropero (’El intermedio’): “Me alegra la expulsión de Vito Quiles del Congreso, a mí no me acreditan”",
+          "link": "https://elpais.com/television/2026-10-28/andrea-ropero-el-intermedio-me-alegra-la-expulsion-de-vito-quiles-del-congreso-a-mi-no-me-acreditan.html",
+          "position": 50,
+          "focus": "Se centra en las declaraciones de Andrea Ropero sobre la expulsión de Vito Quiles del Congreso; no guarda relación temática con el accidente de Toledo cubierto en las otras piezas."
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Vox mantiene su agenda y ataca al Gobierno con el accidente de Toledo: \"La campaña del amor del PSOE causa muertos\"",
+          "link": "https://www.eldiario.es/politica/vox-mantiene-agenda-ataca-gobierno-accidente-toledo-campana-amor-psoe-causa-muertos_1_13620836.html",
+          "position": 50,
+          "focus": "Describe que Vox mantuvo su agenda electoral y atacó al Gobierno citando textualmente la frase sobre la 'campaña del amor' del PSOE como causa de muertes."
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Los partidos cancelan sus actos por el accidente salvo Vox, que ya culpa al Gobierno",
+          "link": "https://www.lavanguardia.com/politica/20261028/11669987/partidos-suspenden-agendas-accidente-ferroviario-toledo.html",
+          "position": 50,
+          "focus": "Contrasta la decisión de la mayoría de partidos de cancelar actos por respeto al accidente con la excepción de Vox, que culpó de inmediato al Gobierno."
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
         "ABC",
+        "El Espanol",
         "El Mundo"
       ]
     }
