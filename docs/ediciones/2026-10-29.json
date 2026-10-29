@@ -1,0 +1,490 @@
+{
+  "fecha": "2026-10-29T11:03:51.309599+00:00",
+  "esquema": 2,
+  "historias": [
+    {
+      "neutral_headline": "Un choque de trenes de Alta Velocidad en Urda deja 69 muertos por fallos técnicos y de señalización",
+      "section": "Sociedad",
+      "facts": [
+        "El accidente ocurrió en Urda entre dos trenes de Alta Velocidad",
+        "El número de víctimas mortales asciende a 69 según El País",
+        "Hubo una avería técnica según eldiario.es",
+        "Según eldiario.es se produjo además una cadena de errores humanos",
+        "Según 20minutos, tres ordenadores de los años 90 sin renovar afectaron al sistema de señalización",
+        "Según El Español los trenes circulaban sin sistemas de seguridad activos",
+        "Iker Jiménez realizó una cobertura televisiva del suceso según ABC"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "fallo técnico/humano puntual",
+        "polo_b": "responsabilidad política por negligencia estructural",
+        "resumen": "Los medios difieren en si el accidente se explica como una suma de fallos técnicos y humanos aislados o como consecuencia de una gestión política negligente de la seguridad ferroviaria"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "¿Por qué chocaron los trenes? Tres fallos catastróficos que han costado 69 vidas",
+          "link": "https://elpais.com/espana/2026-10-29/por-que-chocaron-los-trenes-tres-fallos-catastroficos-que-han-costado-68-vidas.html",
+          "position": 25,
+          "focus": "Enumera tres fallos técnicos concretos como causa directa, sin mencionar responsabilidad política"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "El accidente de la Alta Velocidad en Urda, explicado en gráficos",
+          "link": "https://www.elmundo.es/espana/2026/10/28/6ae236b621efa012638b4600.html",
+          "position": 50,
+          "focus": "Formato explicativo con gráficos, centrado en describir el suceso sin atribuir causas ni responsables"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Iker Jiménez bate un récord histórico con la cobertura de la tragedia de Urda",
+          "link": "https://www.abc.es/play/television/noticias/iker-jimenez-bate-record-historico-cobertura-tragedia-20261029101617-nt.html",
+          "position": 50,
+          "focus": "Se centra en la cobertura mediática del suceso, no en sus causas ni responsables"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Una avería técnica y una cadena de errores humanos provocaron el fatal accidente de Urda",
+          "link": "https://www.eldiario.es/castilla-la-mancha/averia-tecnica-cadena-errores-humanos-provocaron-fatal-accidente-urda_1_13621405.html",
+          "position": 25,
+          "focus": "Combina avería técnica con errores humanos en cadena, enfoque técnico-operativo sin mención política"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "El choque de dos trenes en Urda, otra tragedia insoportable",
+          "link": "https://www.lavanguardia.com/vida/20261029/11670595/choque-dos-trenes-urda-tragedia-insoportable.html",
+          "position": 50,
+          "focus": "Enfoque emocional y de tragedia, sin entrar en causas técnicas ni políticas"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "La mala gestión política de la Alta Velocidad permitió que los trenes de Urda circularan sin sistemas de seguridad activos",
+          "link": "https://www.elespanol.com/invertia/observatorios/movilidad/20261029/mala-gestion-politica-alta-velocidad-permitio-trenes-urda-circularan-sin-sistemas-seguridad-activos/1003744438705_0.html",
+          "position": 90,
+          "focus": "Atribuye el accidente directamente a la mala gestión política de la Alta Velocidad y la falta de sistemas de seguridad activos"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Tres ordenadores de los años 90 que debían estar renovados tumbaron el sistema de señalización antes del choque",
+          "link": "https://www.20minutos.es/nacional/tres-ordenadores-los-anos-90-que-debian-estar-ya-renovados-fallo-sistema-que-prendio-error-humano-accidente_7054694_0.html",
+          "position": 45,
+          "focus": "Señala un fallo técnico concreto (ordenadores obsoletos sin renovar) que insinúa falta de mantenimiento, sin culpar explícitamente a la política"
+        }
+      ],
+      "rango": 65,
+      "discrepancia": "alta",
+      "silenciosos": []
+    },
+    {
+      "neutral_headline": "Lagarde dejará la presidencia del BCE el 7 de febrero",
+      "section": "Economia",
+      "facts": [
+        "Christine Lagarde dejará la presidencia del BCE el 7 de febrero",
+        "Se abre el proceso de sucesión en la presidencia del BCE",
+        "El Español menciona a De Cos como uno de los favoritos para sucederle"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Christine Lagarde dejará la presidencia del BCE el 7 de febrero y abre la carrera por su sucesión",
+          "link": "https://elpais.com/economia/2026-10-29/christine-lagarde-dejara-la-presidencia-del-bce-el-7-de-febrero-y-abre-la-carrera-por-su-sucesion.html",
+          "position": 50,
+          "focus": "Informa de la salida y de la apertura de la carrera sucesoria, sin detallar candidatos"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Lagarde abandonará la presidencia del BCE el próximo 7 de febrero",
+          "link": "https://www.elmundo.es/economia/dinero-inversion/2026/10/29/6ae31ae8e4d4d8a0548b459c.html",
+          "position": 50,
+          "focus": "Se centra en el hecho de la marcha de Lagarde en la fecha indicada"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Lagarde dejará la presidencia del BCE el próximo 7 de febrero",
+          "link": "https://www.abc.es/economia/lagarde-dejara-presidencia-bce-proximo-febrero-20261029111717-nt.html",
+          "position": 50,
+          "focus": "Se centra en el hecho de la marcha de Lagarde en la fecha indicada"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Lagarde anuncia su salida de la presidencia del BCE y abre la pugna por su sucesión",
+          "link": "https://www.eldiario.es/economia/lagarde-anuncia-salida-presidencia-bce-abre-pugna-sucesion_1_13623923.html",
+          "position": 50,
+          "focus": "Informa del anuncio de salida y de la pugna por la sucesión, sin nombrar candidatos"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Lagarde anuncia que dejará la presidencia del BCE el 7 de febrero, con De Cos entre los favoritos para sucederle",
+          "link": "https://www.elespanol.com/invertia/economia/bancos-centrales/20261029/lagarde-anuncia-dejara-presidencia-bce-febrero-cos-favoritos-sucederle/1003744439371_0.html",
+          "position": 50,
+          "focus": "Añade el dato de De Cos como posible sucesor, aportando más detalle que el resto"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Lagarde anuncia que abandonará la presidencia del BCE el próximo 7 de febrero",
+          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/lagarde-anuncia-que-abandonara-presidencia-bce-proximo-7-febrero_7054895_0.html",
+          "position": 50,
+          "focus": "Se centra en el anuncio de la marcha de Lagarde en la fecha indicada"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "Un hombre ingresado en el Hospital Joan XXIII de Tarragona muere tiroteado",
+      "section": "Sociedad",
+      "facts": [
+        "Un hombre fue ingresado en el Hospital Joan XXIII de Tarragona",
+        "El hombre murió tras recibir disparos dentro del hospital",
+        "El Pais señala que el hombre ya había sido agredido previamente en Salou"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Asesinado a tiros un hombre ingresado en un hospital en Tarragona que ya había sido agredido en Salou",
+          "link": "https://elpais.com/espana/catalunya/2026-10-29/ejecutan-a-tiros-a-un-hombre-ingresado-en-un-hospital-en-tarragona-que-ya-habia-sido-tiroteado-en-salou.html",
+          "position": 50,
+          "focus": "Incluye el antecedente de la agresión en Salou, dando contexto previo al ataque"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Asesinan a tiros a un hombre ingresado en el Hospital Joan XXIII de Tarragona",
+          "link": "https://www.elmundo.es/cataluna/2026/10/29/6ae307cae9cf4a23398b4577.html",
+          "position": 50,
+          "focus": "Se centra en el hecho del tiroteo y la identificación del hospital"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Ejecutado a tiros un hombre ingresado en un hospital de Tarragona",
+          "link": "https://www.abc.es/espana/cataluna/ejecutado-tiros-hombre-ingresado-hospital-tarragona-20261029091842-nt.html",
+          "position": 50,
+          "focus": "Usa el término 'ejecutado', enfatizando la naturaleza deliberada del ataque, sin mencionar el hospital concreto"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Matan a tiros a un hombre ingresado en el Hospital Joan XXIII de Tarragona",
+          "link": "https://www.lavanguardia.com/local/tarragona/20261029/11670874/matan-tiros-hombre-ingresado-hospital-joan-xxiii-tarragona.html",
+          "position": 50,
+          "focus": "Describe el hecho con verbo neutro 'matan', mencionando el hospital específico"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "El Espanol",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Un accidente en Urda marca el desarrollo de la campaña electoral antes del 29-N",
+      "section": "Politica",
+      "facts": [
+        "Hay un accidente en Urda",
+        "Se ha iniciado una campaña electoral",
+        "Las elecciones están previstas para el 29-N"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "hecho aislado de campaña",
+        "polo_b": "crisis de gobierno",
+        "resumen": "Los medios difieren en si el accidente de Urda es un episodio más de la campaña o una crisis que compromete directamente al Gobierno"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Empieza otra campaña electoral",
+          "link": "https://elpais.com/videos/2026-10-29/empieza-otra-campana-electoral.html",
+          "position": 50,
+          "focus": "Se centra en el arranque genérico de la campaña electoral sin mencionar el accidente ni atribuir responsabilidad alguna"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "El accidente de Urda rompe la campaña y pone al Gobierno de nuevo contra las cuerdas",
+          "link": "https://www.eldiario.es/politica/accidente-urda-rompe-campana-pone-gobierno-nuevo-cuerdas_1_13622861.html",
+          "position": 85,
+          "focus": "Vincula explícitamente el accidente con una presión política sobre el Gobierno, situándolo como protagonista bajo escrutinio"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Un golpe que eclipsa el 29-N",
+          "link": "https://www.lavanguardia.com/opinion/20261029/11670618/golpe-eclipsa-29-n.html",
+          "position": 45,
+          "focus": "Describe el accidente como un 'golpe' que domina la agenda informativa, sin señalar directamente al Gobierno como responsable"
+        }
+      ],
+      "rango": 40,
+      "discrepancia": "media",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Espanol",
+        "El Mundo"
+      ]
+    },
+    {
+      "neutral_headline": "Una nueva tragedia ferroviaria en Urda reaviva el miedo a viajar en tren tras el segundo accidente mortal en nueve meses",
+      "section": "Sociedad",
+      "facts": [
+        "Se han producido dos accidentes ferroviarios mortales en un periodo de nueve meses",
+        "El accidente más reciente ocurrió en Urda",
+        "El Mundo describe trenes de alta velocidad con menos pasajeros al día siguiente del accidente",
+        "El Español señala que el suceso afecta al plan de transporte del Gobierno"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Dos accidentes mortales en nueve meses disparan el miedo a viajar en tren: “Voy a volver en avión, autobús o lo que sea”",
+          "link": "https://elpais.com/sociedad/2026-10-29/dos-accidentes-mortales-en-diez-meses-disparan-el-miedo-a-viajar-en-tren-voy-a-volver-en-avion-autobus-o-lo-que-sea.html",
+          "position": 50,
+          "focus": "Centra en el miedo ciudadano a viajar en tren, con testimonio directo de un pasajero que prefiere otros medios de transporte"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Trenes del silencio y vagones semivacíos en la alta velocidad un día después de la tragedia: \"Esto es una ruina, ¿quién se atreve a coger un tren ahora?\"",
+          "link": "https://www.elmundo.es/madrid/2026/10/29/6ae302b9e85ecee0218b457a.html",
+          "position": 50,
+          "focus": "Describe el impacto inmediato en la ocupación de los trenes de alta velocidad, con testimonios sobre el temor a viajar"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "España, golpeada por la segunda gran tragedia ferroviaria en solo nueve meses",
+          "link": "https://www.eldiario.es/castilla-la-mancha/espana-golpeada-segunda-gran-tragedia-ferroviaria-nueve-meses_1_13622570.html",
+          "position": 50,
+          "focus": "Pone el foco en la recurrencia del hecho, calificándolo como la segunda gran tragedia ferroviaria en el periodo"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "La tragedia ferroviaria de Urda deja en mínimos la confianza en el tren y pone en jaque el plan de transporte del Gobierno",
+          "link": "https://www.elespanol.com/invertia/observatorios/movilidad/20261029/tragedia-ferroviaria-urda-deja-minimos-confianza-tren-pone-jaque-plan-transporte-gobierno/1003744438471_0.html",
+          "position": 50,
+          "focus": "Vincula el accidente con la confianza general en el sistema ferroviario y sus consecuencias para la política de transporte del Gobierno"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "Maquinistas mantienen huelga en Renfe que afecta a Cercanías Madrid y Rodalies",
+      "section": "Sociedad",
+      "facts": [
+        "Los maquinistas de Renfe mantienen una huelga este jueves",
+        "Las líneas C-1, C-3, C-4 y C-8 de Cercanías Madrid están suspendidas según El Mundo",
+        "Hay alteraciones graves en el resto de la red según El Mundo",
+        "La huelga afecta a toda la red incluida Rodalies según La Vanguardia",
+        "Maquinistas y ferroviarios declaran sentirse señalados por errores humanos según El Pais"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "foco en queja de los trabajadores por ser señalados",
+        "polo_b": "foco informativo neutro en el hecho y sus efectos",
+        "resumen": "El Pais da voz a la queja de los maquinistas sobre ser culpabilizados, mientras El Mundo y La Vanguardia se centran en describir la huelga y sus consecuencias operativas sin ese marco de queja"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Maquinistas y ferroviarios se quejan de ser señalados: “Un error humano se produce cuando no tienes lo necesario para trabajar”",
+          "link": "https://elpais.com/economia/2026-10-29/maquinistas-y-ferroviarios-se-quejan-de-ser-senalados-un-error-humano-se-produce-cuando-no-tienes-lo-necesario-para-trabajar.html",
+          "position": 25,
+          "focus": "Da voz directa a maquinistas y ferroviarios que se sienten injustamente señalados por errores humanos, enfatizando falta de medios para trabajar; omite detalles sobre el alcance operativo de la huelga"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Los maquinistas mantienen la huelga de este jueves en Renfe \"en la defensa de la seguridad ferroviaria\": suspendidas las líneas C-1, C-3, C-4 y C-8 de Cercanías Madrid y graves alteraciones en el resto de red",
+          "link": "https://www.elmundo.es/economia/empresas/2026/10/29/6ae232b9e9cf4aae4e8b457d.html",
+          "position": 40,
+          "focus": "Enmarca la huelga como defensa de la seguridad ferroviaria (cita textual) y detalla exhaustivamente las líneas suspendidas y afectadas; combina framing reivindicativo con datos operativos"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Los maquinistas de Renfe mantienen hoy la huelga en toda la red, incluida Rodalies",
+          "link": "https://www.lavanguardia.com/vida/20261029/11670547/maquinistas-renfe-mantienen-hoy-huelga-toda-red-incluida-rodalies.html",
+          "position": 55,
+          "focus": "Informa de manera escueta y neutral sobre el mantenimiento de la huelga en toda la red incluida Rodalies, sin profundizar en causas ni en quejas de los trabajadores"
+        }
+      ],
+      "rango": 30,
+      "discrepancia": "media",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Espanol",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Accidente en línea de alta velocidad deja múltiples muertos",
+      "section": "Sociedad",
+      "facts": [
+        "Se ha producido un accidente ferroviario en una línea de alta velocidad",
+        "El suceso ha causado víctimas mortales"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Las líneas de alta velocidad española vuelven a teñirse de sangre",
+          "link": "https://elpais.com/espana/2026-10-28/las-lineas-de-alta-velocidad-espanola-vuelven-a-tenirse-de-sangre.html",
+          "position": 50,
+          "focus": "Enmarca el hecho dentro de un patrón repetido ('vuelven a teñirse de sangre') sobre las líneas de alta velocidad en general, sin señalar causa concreta."
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "La España del Muro se desangra",
+          "link": "https://www.elmundo.es/espana/2026/10/28/6ae1f051e9cf4ad66f8b4598.html",
+          "position": 50,
+          "focus": "Usa un topónimo o referencia local ('del Muro') para situar el accidente, con tono dramático, sin indicar responsable."
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Una mole de hierro llena de cadáveres",
+          "link": "https://www.lavanguardia.com/vida/20261029/11670606/mole-hierro-llena-cadaveres.html",
+          "position": 50,
+          "focus": "Describe la escena del tren siniestrado con una imagen visual intensa, centrada en el impacto humano, sin atribuir causa."
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Espanol",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Flávio Bolsonaro abandona Brasil y se instala en Miami tras la derrota electoral, desde donde hace declaraciones políticas",
+      "section": "Politica",
+      "facts": [
+        "Flávio Bolsonaro salió de Brasil y llegó a Estados Unidos (Miami)",
+        "Según El Español, viajó en coche hasta Argentina y usó un pasaporte italiano para volar a Ecuador antes de llegar a Miami",
+        "Según eldiario.es, calificó su derrota ante Lula de 'fraude electoral' y se declaró 'verdadero presidente electo de Brasil'",
+        "Según La Vanguardia, declaró desde Miami que va a 'liderar la oposición' desde allí",
+        "El País vincula el episodio con una alineación ideológica de sectores latinoamericanos con Donald Trump"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "crítica a la alineación ideológica y la huida",
+        "polo_b": "narrativa neutral que da voz al protagonismo de Bolsonaro",
+        "resumen": "Los medios difieren en si enmarcan el hecho como una denuncia política de fondo (alianza con Trump, fraude al derecho internacional) o como un relato de los movimientos y declaraciones del propio Bolsonaro sin juicio explícito"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "La huida de Flávio Bolsonaro desnuda una alineación ideológica con Trump que prevalece sobre el derecho internacional en Latinoamérica",
+          "link": "https://elpais.com/america/2026-10-29/la-huida-de-flavio-bolsonaro-desnuda-una-alineacion-ideologica-con-trump-que-prevalece-sobre-el-derecho-internacional-en-latinoamerica.html",
+          "position": 10,
+          "focus": "Enmarca el caso como síntoma de una alineación ideológica regional con Trump que socava el derecho internacional; omite detalles del trayecto o declaraciones concretas de Bolsonaro"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Flávio Bolsonaro tacha de \"fraude electoral\" su derrota ante Lula y se declara \"verdadero presidente electo de Brasil\" tras huir a EEUU",
+          "link": "https://www.eldiario.es/internacional/flavio-bolsonaro-tacha-fraude-electoral-derrota-lula-declara-verdadero-presidente-electo-brasil-huir-eeuu_1_13623136.html",
+          "position": 30,
+          "focus": "Centra el titular en las declaraciones de Bolsonaro autoproclamándose 'presidente electo' y denunciando 'fraude', entrecomillando para marcar distancia crítica; menciona la huida como contexto"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Bolsonaro, desde Miami: “Voy a liderar la oposición desde aquí”",
+          "link": "https://www.lavanguardia.com/internacional/20261028/11670230/miami-espera-llegada-flavio-bolsonaro-cronologia-ruta.html",
+          "position": 60,
+          "focus": "Da voz directa a Bolsonaro con una cita textual sobre liderar la oposición desde Miami, sin cuestionar ni contextualizar la legitimidad de su discurso"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "La saga/fuga de Bolsonaro: viajó en coche hasta Argentina y usó pasaporte italiano para volar a Ecuador antes de partir a Miami",
+          "link": "https://www.elespanol.com/mundo/america/20261029/sagafuga-bolsonaro-viajo-coche-argentina-uso-pasaporte-italiano-volar-ecuador-partir-miami/1003744438689_0.html",
+          "position": 50,
+          "focus": "Se centra en los detalles rocambolescos del trayecto de huida (coche, pasaporte italiano, escalas) con tono casi narrativo, sin profundizar en las implicaciones políticas o ideológicas"
+        }
+      ],
+      "rango": 50,
+      "discrepancia": "media",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Mundo"
+      ]
+    },
+    {
+      "neutral_headline": "Accidente del tren Iryo en Urda: familiares y testigos relatan la espera por noticias de los desaparecidos",
+      "section": "Sociedad",
+      "facts": [
+        "Se produjo un accidente ferroviario en Urda que afectó a un tren de la compañía Iryo",
+        "Hay personas desaparecidas o sin noticias de su paradero tras el accidente",
+        "La familia de Antonio Vázquez afirma seguir sin noticias de su paradero o estado (El Mundo)",
+        "Claudia Rodríguez, pareja de Marc Cucurella, viajaba en un tren que iba detrás y relata haber vivido el accidente en shock (ABC)",
+        "Testigos en Urda relatan la angustia de la espera por noticias de un herido trasladado al hospital de Toledo (eldiario.es)",
+        "Fátima Báñez, exministra del PP, se encuentra entre los desaparecidos tras el siniestro (La Vanguardia)",
+        "La familia de Báñez, la CEOE y el PP van perdiendo la esperanza de encontrarla con vida, según El Español",
+        "La CEOE afirma seguir sin noticias de Báñez, que viajaba en el tren siniestrado (20minutos)"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "La familia de Antonio Vázquez emite un comunicado: \"Continuamos sin tener noticias de su paradero o estado\"",
+          "link": "https://www.elmundo.es/cultura/toros/2026/10/28/6ae20069fc6c833e718b45c8.html",
+          "position": 50,
+          "focus": "Centra el relato en la familia de Antonio Vázquez y su falta de noticias sobre él"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Claudia Rodríguez, pareja de Marc Cucurella, cuenta cómo vivió el accidente ferroviario de Urda desde el tren que iba detrás: «Estoy en shock»",
+          "link": "https://www.abc.es/gente/claudia-rodriguez-pareja-marc-cucurella-cuenta-vivio-20261029110717-nt.html",
+          "position": 50,
+          "focus": "Aporta el testimonio de una testigo cercana al accidente, pareja de un futbolista conocido"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "La angustia de la espera en Urda: “Está en el hospital de Toledo. Díselo a quien sea”",
+          "link": "https://www.eldiario.es/castilla-la-mancha/angustia-espera-urda-hospital-toledo-diselo-sea_1_13622634.html",
+          "position": 50,
+          "focus": "Describe el ambiente de angustia e incertidumbre entre los afectados en Urda"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "La exministra del PP Fátima Báñez, entre los desaparecidos en el Iryo",
+          "link": "https://www.lavanguardia.com/vida/20261028/11670175/exministra-pp-fatima-banez-desaparecidos-accidente-ferroviario-toledo.html",
+          "position": 50,
+          "focus": "Identifica a Fátima Báñez, exministra, como una de las desaparecidas"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "La familia de Fátima Báñez, la CEOE y el PP van perdiendo la esperanza de encontrar a la exministra con vida",
+          "link": "https://www.elespanol.com/invertia/economia/empleo/20261028/preocupacion-exministra-fatima-banez-desaparecidos-accidente-ferroviario-toledo/1003744437957_0.html",
+          "position": 50,
+          "focus": "Señala que el entorno de Báñez va perdiendo la esperanza de hallarla con vida"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "La CEOE sigue \"sin noticias\" de la exministra Fátima Báñez que viajaba en el tren Iryo siniestrado",
+          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/ceoe-sigue-sin-noticias-exministra-fatima-banez-que-viajaba-tren-iryo-siniestrado_7054848_0.html",
+          "position": 50,
+          "focus": "Recoge la declaración oficial de la CEOE sobre la falta de noticias de Báñez"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "El Pais"
+      ]
+    }
+  ]
+}
