@@ -1,489 +1,422 @@
 {
-  "fecha": "2026-10-29T11:03:51.309599+00:00",
+  "fecha": "2026-10-30T11:00:58.113081+00:00",
   "esquema": 2,
   "historias": [
     {
-      "neutral_headline": "Un choque de trenes de Alta Velocidad en Urda deja 69 muertos por fallos técnicos y de señalización",
+      "neutral_headline": "Choque entre un tren AVE y uno de Iryo cerca de Madrid desata debate sobre causas y responsables",
       "section": "Sociedad",
       "facts": [
-        "El accidente ocurrió en Urda entre dos trenes de Alta Velocidad",
-        "El número de víctimas mortales asciende a 69 según El País",
-        "Hubo una avería técnica según eldiario.es",
-        "Según eldiario.es se produjo además una cadena de errores humanos",
-        "Según 20minutos, tres ordenadores de los años 90 sin renovar afectaron al sistema de señalización",
-        "Según El Español los trenes circulaban sin sistemas de seguridad activos",
-        "Iker Jiménez realizó una cobertura televisiva del suceso según ABC"
+        "Se produjo un choque entre un tren AVE y un tren de Iryo en el tramo Madrid-Sevilla",
+        "El choque se produjo a 160 km/hora según 20minutos",
+        "Los controladores de Atocha siguieron un protocolo que resultó equivocado, según El País",
+        "Técnicos e Iryo habían avisado de problemas 'frecuentes' en los sistemas antes del choque, según 20minutos",
+        "Pedro Sánchez admitió una 'confianza quebrada' en la alta velocidad y calificó los dos accidentes de 'inasumibles'",
+        "Isabel Díaz Ayuso exigió el 'total esclarecimiento' del accidente y la 'inmediata asunción de responsabilidades'",
+        "La Vanguardia señala falta de personal, falta de experiencia y mayor presión en los centros de control de Adif",
+        "Sánchez compareció por tercer día consecutivo citando a Page y al Rey, según El Español"
       ],
       "tipo_divergencia": "editorial",
       "eje": {
-        "polo_a": "fallo técnico/humano puntual",
-        "polo_b": "responsabilidad política por negligencia estructural",
-        "resumen": "Los medios difieren en si el accidente se explica como una suma de fallos técnicos y humanos aislados o como consecuencia de una gestión política negligente de la seguridad ferroviaria"
+        "polo_a": "fallo humano/operativo puntual",
+        "polo_b": "fallo estructural/institucional sistémico",
+        "resumen": "Los medios difieren en si el origen del choque se atribuye a un error humano concreto (controladores, protocolo) o a problemas estructurales del sistema (falta de personal, avisos ignorados, responsabilidad política)."
       },
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "¿Por qué chocaron los trenes? Tres fallos catastróficos que han costado 69 vidas",
-          "link": "https://elpais.com/espana/2026-10-29/por-que-chocaron-los-trenes-tres-fallos-catastroficos-que-han-costado-68-vidas.html",
-          "position": 25,
-          "focus": "Enumera tres fallos técnicos concretos como causa directa, sin mencionar responsabilidad política"
+          "headline": "Los controladores de Atocha ordenaron seguir el protocolo equivocado antes del choque entre el AVE y el Iryo: “Me estaba liando”",
+          "link": "https://elpais.com/espana/2026-10-30/los-controladores-de-atocha-ordenaron-seguir-el-protocolo-equivocado-antes-del-choque-entre-el-ave-y-el-iryo-me-estaba-liando.html",
+          "position": 15,
+          "focus": "Pone el foco en el error humano de los controladores que siguieron un protocolo equivocado, citando su propia confusión ('Me estaba liando')."
         },
         {
           "outlet": "El Mundo",
-          "headline": "El accidente de la Alta Velocidad en Urda, explicado en gráficos",
+          "headline": "El sistema de señalización en el tramo Madrid-Sevilla, explicado en gráficos",
           "link": "https://www.elmundo.es/espana/2026/10/28/6ae236b621efa012638b4600.html",
           "position": 50,
-          "focus": "Formato explicativo con gráficos, centrado en describir el suceso sin atribuir causas ni responsables"
+          "focus": "Explica de forma técnica y gráfica el funcionamiento del sistema de señalización, sin atribuir responsabilidad ni culpa."
         },
         {
           "outlet": "ABC",
-          "headline": "Iker Jiménez bate un récord histórico con la cobertura de la tragedia de Urda",
-          "link": "https://www.abc.es/play/television/noticias/iker-jimenez-bate-record-historico-cobertura-tragedia-20261029101617-nt.html",
-          "position": 50,
-          "focus": "Se centra en la cobertura mediática del suceso, no en sus causas ni responsables"
+          "headline": "Ayuso exige el «total esclarecimiento» de la catástrofe ferroviaria y la «inmediata asunción de responsabilidades»",
+          "link": "https://www.abc.es/espana/madrid/ayuso-exige-total-esclarecimiento-catastrofe-ferroviaria-inmediata-20261030113152-nt.html",
+          "position": 65,
+          "focus": "Centra la noticia en la exigencia política de Ayuso de esclarecimiento y responsabilidades, apuntando hacia una falla institucional más amplia."
         },
         {
           "outlet": "eldiario.es",
-          "headline": "Una avería técnica y una cadena de errores humanos provocaron el fatal accidente de Urda",
-          "link": "https://www.eldiario.es/castilla-la-mancha/averia-tecnica-cadena-errores-humanos-provocaron-fatal-accidente-urda_1_13621405.html",
-          "position": 25,
-          "focus": "Combina avería técnica con errores humanos en cadena, enfoque técnico-operativo sin mención política"
+          "headline": "Sánchez admite una \"confianza quebrada\" en la alta velocidad española y reitera que los dos accidentes son \"inasumibles\"",
+          "link": "https://www.eldiario.es/politica/sanchez-admite-confianza-quebrada-alta-velocidad-espanola-reitera-accidentes-son-inasumibles_1_13626547.html",
+          "position": 70,
+          "focus": "Resalta la admisión de Sánchez de una 'confianza quebrada' en el sistema de alta velocidad, enmarcando el problema como sistémico y reiterado (dos accidentes)."
         },
         {
           "outlet": "La Vanguardia",
-          "headline": "El choque de dos trenes en Urda, otra tragedia insoportable",
-          "link": "https://www.lavanguardia.com/vida/20261029/11670595/choque-dos-trenes-urda-tragedia-insoportable.html",
-          "position": 50,
-          "focus": "Enfoque emocional y de tragedia, sin entrar en causas técnicas ni políticas"
+          "headline": "Falta de personal, de experiencia y bajo más presión: así se trabaja en los centros de control de Adif",
+          "link": "https://www.lavanguardia.com/vida/20261030/11671578/centros-control-adif-sufren-falta-personal-experiencia.html",
+          "position": 90,
+          "focus": "Describe condiciones estructurales de los centros de control de Adif (falta de personal, experiencia, presión), situando la causa en el sistema, no en individuos."
         },
         {
           "outlet": "El Espanol",
-          "headline": "La mala gestión política de la Alta Velocidad permitió que los trenes de Urda circularan sin sistemas de seguridad activos",
-          "link": "https://www.elespanol.com/invertia/observatorios/movilidad/20261029/mala-gestion-politica-alta-velocidad-permitio-trenes-urda-circularan-sin-sistemas-seguridad-activos/1003744438705_0.html",
-          "position": 90,
-          "focus": "Atribuye el accidente directamente a la mala gestión política de la Alta Velocidad y la falta de sistemas de seguridad activos"
+          "headline": "Sánchez comparece por tercer día escudándose en Page, cita al Rey y reconoce una \"confianza quebrada\" en la Alta Velocidad",
+          "link": "https://www.elespanol.com/espana/politica/20261030/sanchez-comparece-tercer-dia-escudandose-page-cita-rey-reconoce-confianza-quebrada-alta-velocidad/1003744440823_0.html",
+          "position": 60,
+          "focus": "Pone énfasis en la gestión política de Sánchez, su defensa citando a Page y al Rey, matizando su reconocimiento de la 'confianza quebrada' como estrategia política."
         },
         {
           "outlet": "20minutos",
-          "headline": "Tres ordenadores de los años 90 que debían estar renovados tumbaron el sistema de señalización antes del choque",
-          "link": "https://www.20minutos.es/nacional/tres-ordenadores-los-anos-90-que-debian-estar-ya-renovados-fallo-sistema-que-prendio-error-humano-accidente_7054694_0.html",
-          "position": 45,
-          "focus": "Señala un fallo técnico concreto (ordenadores obsoletos sin renovar) que insinúa falta de mantenimiento, sin culpar explícitamente a la política"
+          "headline": "Los técnicos e Iryo avisaron de problemas \"frecuentes\" en los sistemas antes del choque que se produjo a 160 km/hora",
+          "link": "https://www.20minutos.es/nacional/ave-choco-contra-iryo-menos-160-km-hora-tras-un-fallo-frecuente-que-se-aviso-hace-tres-semanas_7055259_0.html",
+          "position": 80,
+          "focus": "Subraya que hubo avisos previos de problemas frecuentes ignorados, apuntando a una negligencia institucional antes que a un fallo puntual."
         }
       ],
-      "rango": 65,
+      "rango": 75,
       "discrepancia": "alta",
       "silenciosos": []
     },
     {
-      "neutral_headline": "Lagarde dejará la presidencia del BCE el 7 de febrero",
-      "section": "Economia",
-      "facts": [
-        "Christine Lagarde dejará la presidencia del BCE el 7 de febrero",
-        "Se abre el proceso de sucesión en la presidencia del BCE",
-        "El Español menciona a De Cos como uno de los favoritos para sucederle"
-      ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "Christine Lagarde dejará la presidencia del BCE el 7 de febrero y abre la carrera por su sucesión",
-          "link": "https://elpais.com/economia/2026-10-29/christine-lagarde-dejara-la-presidencia-del-bce-el-7-de-febrero-y-abre-la-carrera-por-su-sucesion.html",
-          "position": 50,
-          "focus": "Informa de la salida y de la apertura de la carrera sucesoria, sin detallar candidatos"
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "Lagarde abandonará la presidencia del BCE el próximo 7 de febrero",
-          "link": "https://www.elmundo.es/economia/dinero-inversion/2026/10/29/6ae31ae8e4d4d8a0548b459c.html",
-          "position": 50,
-          "focus": "Se centra en el hecho de la marcha de Lagarde en la fecha indicada"
-        },
-        {
-          "outlet": "ABC",
-          "headline": "Lagarde dejará la presidencia del BCE el próximo 7 de febrero",
-          "link": "https://www.abc.es/economia/lagarde-dejara-presidencia-bce-proximo-febrero-20261029111717-nt.html",
-          "position": 50,
-          "focus": "Se centra en el hecho de la marcha de Lagarde en la fecha indicada"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "Lagarde anuncia su salida de la presidencia del BCE y abre la pugna por su sucesión",
-          "link": "https://www.eldiario.es/economia/lagarde-anuncia-salida-presidencia-bce-abre-pugna-sucesion_1_13623923.html",
-          "position": 50,
-          "focus": "Informa del anuncio de salida y de la pugna por la sucesión, sin nombrar candidatos"
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "Lagarde anuncia que dejará la presidencia del BCE el 7 de febrero, con De Cos entre los favoritos para sucederle",
-          "link": "https://www.elespanol.com/invertia/economia/bancos-centrales/20261029/lagarde-anuncia-dejara-presidencia-bce-febrero-cos-favoritos-sucederle/1003744439371_0.html",
-          "position": 50,
-          "focus": "Añade el dato de De Cos como posible sucesor, aportando más detalle que el resto"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "Lagarde anuncia que abandonará la presidencia del BCE el próximo 7 de febrero",
-          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/lagarde-anuncia-que-abandonara-presidencia-bce-proximo-7-febrero_7054895_0.html",
-          "position": 50,
-          "focus": "Se centra en el anuncio de la marcha de Lagarde en la fecha indicada"
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "La Vanguardia"
-      ]
-    },
-    {
-      "neutral_headline": "Un hombre ingresado en el Hospital Joan XXIII de Tarragona muere tiroteado",
-      "section": "Sociedad",
-      "facts": [
-        "Un hombre fue ingresado en el Hospital Joan XXIII de Tarragona",
-        "El hombre murió tras recibir disparos dentro del hospital",
-        "El Pais señala que el hombre ya había sido agredido previamente en Salou"
-      ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "Asesinado a tiros un hombre ingresado en un hospital en Tarragona que ya había sido agredido en Salou",
-          "link": "https://elpais.com/espana/catalunya/2026-10-29/ejecutan-a-tiros-a-un-hombre-ingresado-en-un-hospital-en-tarragona-que-ya-habia-sido-tiroteado-en-salou.html",
-          "position": 50,
-          "focus": "Incluye el antecedente de la agresión en Salou, dando contexto previo al ataque"
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "Asesinan a tiros a un hombre ingresado en el Hospital Joan XXIII de Tarragona",
-          "link": "https://www.elmundo.es/cataluna/2026/10/29/6ae307cae9cf4a23398b4577.html",
-          "position": 50,
-          "focus": "Se centra en el hecho del tiroteo y la identificación del hospital"
-        },
-        {
-          "outlet": "ABC",
-          "headline": "Ejecutado a tiros un hombre ingresado en un hospital de Tarragona",
-          "link": "https://www.abc.es/espana/cataluna/ejecutado-tiros-hombre-ingresado-hospital-tarragona-20261029091842-nt.html",
-          "position": 50,
-          "focus": "Usa el término 'ejecutado', enfatizando la naturaleza deliberada del ataque, sin mencionar el hospital concreto"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Matan a tiros a un hombre ingresado en el Hospital Joan XXIII de Tarragona",
-          "link": "https://www.lavanguardia.com/local/tarragona/20261029/11670874/matan-tiros-hombre-ingresado-hospital-joan-xxiii-tarragona.html",
-          "position": 50,
-          "focus": "Describe el hecho con verbo neutro 'matan', mencionando el hospital específico"
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "20minutos",
-        "El Espanol",
-        "eldiario.es"
-      ]
-    },
-    {
-      "neutral_headline": "Un accidente en Urda marca el desarrollo de la campaña electoral antes del 29-N",
+      "neutral_headline": "Sánchez mantiene a Puente como ministro tras la tragedia de Urda pese a las críticas de la oposición y de sus socios",
       "section": "Politica",
       "facts": [
-        "Hay un accidente en Urda",
-        "Se ha iniciado una campaña electoral",
-        "Las elecciones están previstas para el 29-N"
+        "Se ha producido una tragedia en Urda relacionada con Óscar Puente",
+        "Óscar Puente es ministro del Gobierno de Pedro Sánchez",
+        "Hay presión política para que Puente dimita",
+        "El PP ha anunciado que respetará el luto antes de criticar a Sánchez",
+        "Juan del Val ha calificado al Gobierno y a Puente de inmorales",
+        "Page, presidente de Castilla-La Mancha, ha ejercido de anfitrión de Feijóo",
+        "Los socios de Sánchez han criticado la permanencia de Puente"
       ],
       "tipo_divergencia": "editorial",
       "eje": {
-        "polo_a": "hecho aislado de campaña",
-        "polo_b": "crisis de gobierno",
-        "resumen": "Los medios difieren en si el accidente de Urda es un episodio más de la campaña o una crisis que compromete directamente al Gobierno"
+        "polo_a": "presión para que Puente dimita",
+        "polo_b": "respeto institucional y apoyo al Gobierno",
+        "resumen": "Los medios se dividen entre enfatizar la presión política y las críticas hacia Puente/Sánchez, o destacar el tono institucional y de respeto ante la tragedia"
       },
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "Empieza otra campaña electoral",
-          "link": "https://elpais.com/videos/2026-10-29/empieza-otra-campana-electoral.html",
-          "position": 50,
-          "focus": "Se centra en el arranque genérico de la campaña electoral sin mencionar el accidente ni atribuir responsabilidad alguna"
+          "headline": "El PP respetará el luto, pero después apuntará a Sánchez: “Con la dimisión de Puente no basta”",
+          "link": "https://elpais.com/espana/2026-10-30/el-pp-respetara-el-luto-pero-despues-apuntara-a-sanchez-con-la-dimision-de-puente-no-basta.html",
+          "position": 20,
+          "focus": "Destaca que el PP, aunque respeta el luto, prepara una ofensiva contra Sánchez exigiendo más que la dimisión de Puente"
         },
         {
-          "outlet": "eldiario.es",
-          "headline": "El accidente de Urda rompe la campaña y pone al Gobierno de nuevo contra las cuerdas",
-          "link": "https://www.eldiario.es/politica/accidente-urda-rompe-campana-pone-gobierno-nuevo-cuerdas_1_13622861.html",
+          "outlet": "El Mundo",
+          "headline": "El ejemplo institucional de Page: \"muy afectado\", aparca sus diferencias con Sánchez y ejerce de anfitrión de Feijóo",
+          "link": "https://www.elmundo.es/espana/2026/10/30/6abcb554e85eceda1a8b45ba.html",
           "position": 85,
-          "focus": "Vincula explícitamente el accidente con una presión política sobre el Gobierno, situándolo como protagonista bajo escrutinio"
+          "focus": "Resalta el gesto institucional de Page, su cercanía a Sánchez pese a diferencias, y el respeto mutuo con Feijóo, omitiendo la presión por la dimisión"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Juan del Val: «El Gobierno de Pedro Sánchez es profundamente inmoral y el más inmoral de todos es Óscar Puente»",
+          "link": "https://www.abc.es/play/television/noticias/juan-val-gobierno-pedro-sanchez-profundamente-inmoral-20261030093758-nt.html",
+          "position": 5,
+          "focus": "Recoge una opinión muy dura que califica al Gobierno y a Puente de inmorales, sin matices institucionales"
         },
         {
           "outlet": "La Vanguardia",
-          "headline": "Un golpe que eclipsa el 29-N",
-          "link": "https://www.lavanguardia.com/opinion/20261029/11670618/golpe-eclipsa-29-n.html",
+          "headline": "Sánchez sostiene por ahora a Puente pese a la presión para que dimita",
+          "link": "https://www.lavanguardia.com/politica/20261030/11671445/sanchez-sostiene-puente-pese-presion-dimita.html",
           "position": 45,
-          "focus": "Describe el accidente como un 'golpe' que domina la agenda informativa, sin señalar directamente al Gobierno como responsable"
+          "focus": "Informa de forma neutral que Sánchez sostiene a Puente pese a la presión, sin tomar partido explícito"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Sánchez, decidido a llegar a las elecciones con Puente como ministro, pese a la tragedia de Urda y las críticas de sus socios",
+          "link": "https://www.elespanol.com/espana/politica/20261030/sanchez-decidido-llegar-elecciones-puente-ministro-pese-tragedia-urda-criticas-socios/1003744439442_0.html",
+          "position": 35,
+          "focus": "Señala la decisión de Sánchez de mantener a Puente pese a la tragedia y las críticas de sus propios socios, poniendo el foco en la tensión interna"
+        }
+      ],
+      "rango": 80,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Binance sufre un ciberataque con robo de criptomonedas por miles de millones de dólares",
+      "section": "Economia",
+      "facts": [
+        "Binance, la mayor plataforma de criptomonedas del mundo, sufrió un ciberataque/robo",
+        "El Mundo, ABC, eldiario.es y La Vanguardia cifran el robo en 6.300 millones de dólares",
+        "El Espanol cifra el robo en 'más de 6.000 millones de dólares'",
+        "El Pais y eldiario.es informan de que Binance paralizó operaciones o bloqueó la retirada de depósitos",
+        "La Vanguardia apunta a una posible relación con Corea del Norte",
+        "ABC señala que es la propia Binance la que denuncia el ciberataque"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "sin atribuir responsable",
+        "polo_b": "apunta a Corea del Norte como autor",
+        "resumen": "La mayoria de medios no senala autoria del ataque, mientras La Vanguardia introduce la sospecha de implicacion norcoreana"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "El mercado de criptomonedas Binance paraliza las operaciones tras sufrir  el mayor ciberatraco de la historia",
+          "link": "https://elpais.com/us/2026-10-29/la-plataforma-de-intercambio-de-criptomoneda-binance-denuncia-un-ataque-informatico.html",
+          "position": 50,
+          "focus": "Destaca la paralizacion de operaciones como consecuencia inmediata; no atribuye autoria"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Binance, la mayor plataforma de criptomonedas del mundo, sufre un robo de 6.300 millones de dólares",
+          "link": "https://www.elmundo.es/economia/2026/10/30/6ae43e2221efa0123f8b4573.html",
+          "position": 50,
+          "focus": "Centra el foco en la magnitud del robo (6.300 millones) y el tamano de la plataforma afectada; no menciona autor"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Binance denuncia un ciberataque de 6.300 millones de dólares",
+          "link": "https://www.abc.es/economia/binance-mayor-bolsa-criptomonedas-mundo-denuncia-ciberataque-20261030073304-nt.html",
+          "position": 50,
+          "focus": "Enfatiza que es Binance quien denuncia el hecho, sin senalar responsable"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Binance sufre un ciberataque donde le roban 6.300 millones de dólares y bloquea la retirada de depósitos",
+          "link": "https://www.eldiario.es/economia/binance-sufre-ciberataque-le-roban-6-300-millones-dolares-bloquea-retirada-depositos_1_13626118.html",
+          "position": 50,
+          "focus": "Combina la cifra del robo con el bloqueo de retiradas, sin atribuir autoria"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Binance sufre el mayor robo cripto de la historia: 6.300 millones con la sombra de Corea del Norte",
+          "link": "https://www.lavanguardia.com/economia/20261030/11671817/binance-cifra-6-300-millones-dolares-robo-multimillonario-plataforma.html",
+          "position": 75,
+          "focus": "Ademas de la cifra, introduce la sospecha de implicacion de Corea del Norte como posible responsable"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Binance sufre un ciberrobo histórico: un grupo de 'hackers' sustrae más de 6.000 millones de dólares en criptomonedas",
+          "link": "https://www.elespanol.com/omicrono/tecnologia/20261030/golpe-criptomonedas-binance-sufre-mayor-hackeo-historia-robo-millones-dolares/1003744440636_0.html",
+          "position": 50,
+          "focus": "Describe el hecho como obra de 'un grupo de hackers' generico, sin especificar origen ni cifra exacta"
+        }
+      ],
+      "rango": 25,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos"
+      ]
+    },
+    {
+      "neutral_headline": "La inflación se mantiene en el 4,9% en octubre pese a la caída del precio de los carburantes, mientras el PIB crece en el tercer trimestre",
+      "section": "Economia",
+      "facts": [
+        "La inflación interanual de octubre se situó en el 4,9%, igual que el mes anterior, según El Mundo, ABC, eldiario.es, La Vanguardia y El Español",
+        "El precio de los carburantes/gasolinas cayó o se contuvo en octubre, según El Mundo, ABC, eldiario.es y La Vanguardia",
+        "El Pais indica que el PIB creció un 2,7% en el tercer trimestre, impulsado por el consumo y el gasto público",
+        "El Español indica que el PIB creció un 0,6% en el tercer trimestre, una décima menos que el periodo anterior"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "estabilidad/normalización de precios",
+        "polo_b": "alarma por persistencia de inflación alta",
+        "resumen": "Con la misma cifra (4,9%), unos medios describen la situación como estabilidad mientras eldiario.es la presenta como un repunte alarmante"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "España creció en el tercer trimestre un 2,7% impulsada por el consumo y el gasto público",
+          "link": "https://elpais.com/economia/2026-10-30/espana-crecio-en-el-tercer-trimestre-un-27.html",
+          "position": 50,
+          "focus": "Se centra en el crecimiento del PIB (2,7%) y sus causas (consumo, gasto público); no aborda la inflación"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "La inflación no se mueve del 4,9% en octubre pese a la caída del precio de los carburantes",
+          "link": "https://www.elmundo.es/economia/2026/10/30/6ae44e87fc6c8392178b4587.html",
+          "position": 48,
+          "focus": "Destaca que la inflación 'no se mueve' pese a la caída de carburantes, tono neutro-descriptivo"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "La inflación se mantiene en el 4,9% en octubre pese al abaratamiento de la gasolina",
+          "link": "https://www.abc.es/economia/inflacion-20261030085501-nt.html",
+          "position": 48,
+          "focus": "Formulación casi idéntica a El Mundo, enfatiza estabilidad pese al abaratamiento de la gasolina"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "La inflación se dispara otro 4,9% en octubre pese al abaratamiento de las gasolinas",
+          "link": "https://www.eldiario.es/economia/inflacion-dispara-4-9-octubre_1_13626158.html",
+          "position": 85,
+          "focus": "Usa el verbo 'se dispara' pese a tratarse de la misma cifra (4,9%) que los demás, lo que introduce una lectura alarmista de la estabilidad"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "La inflación se mantiene en el 4,9% en octubre por la contención de precio de los combustibles",
+          "link": "https://www.lavanguardia.com/economia/20261030/11671838/inflacion-crece.html",
+          "position": 45,
+          "focus": "Atribuye la estabilidad a la contención de precios de combustibles, tono explicativo-neutro"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "El PIB crece un 0,6%, una décima menos, en el tercer trimestre y la inflación se mantiene en el 4,9% en octubre",
+          "link": "https://www.elespanol.com/invertia/economia/macroeconomia/20261030/pib-crece-decima-tercer-trimestre-inflacion-mantiene-octubre/1003744440645_0.html",
+          "position": 50,
+          "focus": "Combina el dato de PIB (0,6%, una décima menos) con la inflación estable en 4,9%, sin calificar ninguno de los dos hechos"
         }
       ],
       "rango": 40,
       "discrepancia": "media",
       "silenciosos": [
-        "20minutos",
-        "ABC",
-        "El Espanol",
-        "El Mundo"
+        "20minutos"
       ]
     },
     {
-      "neutral_headline": "Una nueva tragedia ferroviaria en Urda reaviva el miedo a viajar en tren tras el segundo accidente mortal en nueve meses",
+      "neutral_headline": "Detienen a un menor vinculado a los canales de Blocus por los saqueos del 24-O en Barcelona",
       "section": "Sociedad",
       "facts": [
-        "Se han producido dos accidentes ferroviarios mortales en un periodo de nueve meses",
-        "El accidente más reciente ocurrió en Urda",
-        "El Mundo describe trenes de alta velocidad con menos pasajeros al día siguiente del accidente",
-        "El Español señala que el suceso afecta al plan de transporte del Gobierno"
+        "Los Mossos d'Esquadra detuvieron a un menor de edad vinculado a los canales de Blocus",
+        "El menor tiene 17 años segun El Mundo y 20minutos",
+        "Se le relaciona con la organizacion o difusion de llamadas a los saqueos y disturbios del sabado 24 de octubre en Barcelona",
+        "eldiario.es y La Vanguardia informan de la detencion de un segundo menor, posterior a la primera",
+        "La Vanguardia situa esta segunda detencion en Sant Sadurni d'Anoia"
       ],
-      "tipo_divergencia": "ninguna",
+      "tipo_divergencia": "cronologica",
       "eje": null,
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "Dos accidentes mortales en nueve meses disparan el miedo a viajar en tren: “Voy a volver en avión, autobús o lo que sea”",
-          "link": "https://elpais.com/sociedad/2026-10-29/dos-accidentes-mortales-en-diez-meses-disparan-el-miedo-a-viajar-en-tren-voy-a-volver-en-avion-autobus-o-lo-que-sea.html",
+          "headline": "Detenido un menor por organizar los saqueos de Blocus del sábado en Barcelona",
+          "link": "https://elpais.com/espana/catalunya/2026-10-30/detenido-un-menor-por-los-organizar-los-saqueos-de-blocus-del-sabado-en-barcelona.html",
           "position": 50,
-          "focus": "Centra en el miedo ciudadano a viajar en tren, con testimonio directo de un pasajero que prefiere otros medios de transporte"
+          "focus": "Informa de la primera detencion, centrandose en el rol organizador del menor en los saqueos, sin precisar edad ni lugar de arresto"
         },
         {
           "outlet": "El Mundo",
-          "headline": "Trenes del silencio y vagones semivacíos en la alta velocidad un día después de la tragedia: \"Esto es una ruina, ¿quién se atreve a coger un tren ahora?\"",
-          "link": "https://www.elmundo.es/madrid/2026/10/29/6ae302b9e85ecee0218b457a.html",
+          "headline": "Los Mossos detienen a un menor de 17 años por difundir y alentar los disturbios y saqueos de Blocus en Barcelona el 24-O",
+          "link": "https://www.elmundo.es/cataluna/2026/10/30/6ae45863e9cf4a4b168b4570.html",
           "position": 50,
-          "focus": "Describe el impacto inmediato en la ocupación de los trenes de alta velocidad, con testimonios sobre el temor a viajar"
+          "focus": "Detalla la edad (17 anos) y el rol de difundir y alentar los disturbios, fechando el suceso en el 24-O"
         },
         {
           "outlet": "eldiario.es",
-          "headline": "España, golpeada por la segunda gran tragedia ferroviaria en solo nueve meses",
-          "link": "https://www.eldiario.es/castilla-la-mancha/espana-golpeada-segunda-gran-tragedia-ferroviaria-nueve-meses_1_13622570.html",
+          "headline": "Los Mossos detienen a un segundo menor vinculado a los canales de 'blocus' por los saqueos de Barcelona",
+          "link": "https://www.eldiario.es/catalunya/mossos-detienen-segundo-menor-vinculado-canales-blocus-saqueos-barcelona_1_13626276.html",
           "position": 50,
-          "focus": "Pone el foco en la recurrencia del hecho, calificándolo como la segunda gran tragedia ferroviaria en el periodo"
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "La tragedia ferroviaria de Urda deja en mínimos la confianza en el tren y pone en jaque el plan de transporte del Gobierno",
-          "link": "https://www.elespanol.com/invertia/observatorios/movilidad/20261029/tragedia-ferroviaria-urda-deja-minimos-confianza-tren-pone-jaque-plan-transporte-gobierno/1003744438471_0.html",
-          "position": 50,
-          "focus": "Vincula el accidente con la confianza general en el sistema ferroviario y sus consecuencias para la política de transporte del Gobierno"
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "20minutos",
-        "ABC",
-        "La Vanguardia"
-      ]
-    },
-    {
-      "neutral_headline": "Maquinistas mantienen huelga en Renfe que afecta a Cercanías Madrid y Rodalies",
-      "section": "Sociedad",
-      "facts": [
-        "Los maquinistas de Renfe mantienen una huelga este jueves",
-        "Las líneas C-1, C-3, C-4 y C-8 de Cercanías Madrid están suspendidas según El Mundo",
-        "Hay alteraciones graves en el resto de la red según El Mundo",
-        "La huelga afecta a toda la red incluida Rodalies según La Vanguardia",
-        "Maquinistas y ferroviarios declaran sentirse señalados por errores humanos según El Pais"
-      ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "foco en queja de los trabajadores por ser señalados",
-        "polo_b": "foco informativo neutro en el hecho y sus efectos",
-        "resumen": "El Pais da voz a la queja de los maquinistas sobre ser culpabilizados, mientras El Mundo y La Vanguardia se centran en describir la huelga y sus consecuencias operativas sin ese marco de queja"
-      },
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "Maquinistas y ferroviarios se quejan de ser señalados: “Un error humano se produce cuando no tienes lo necesario para trabajar”",
-          "link": "https://elpais.com/economia/2026-10-29/maquinistas-y-ferroviarios-se-quejan-de-ser-senalados-un-error-humano-se-produce-cuando-no-tienes-lo-necesario-para-trabajar.html",
-          "position": 25,
-          "focus": "Da voz directa a maquinistas y ferroviarios que se sienten injustamente señalados por errores humanos, enfatizando falta de medios para trabajar; omite detalles sobre el alcance operativo de la huelga"
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "Los maquinistas mantienen la huelga de este jueves en Renfe \"en la defensa de la seguridad ferroviaria\": suspendidas las líneas C-1, C-3, C-4 y C-8 de Cercanías Madrid y graves alteraciones en el resto de red",
-          "link": "https://www.elmundo.es/economia/empresas/2026/10/29/6ae232b9e9cf4aae4e8b457d.html",
-          "position": 40,
-          "focus": "Enmarca la huelga como defensa de la seguridad ferroviaria (cita textual) y detalla exhaustivamente las líneas suspendidas y afectadas; combina framing reivindicativo con datos operativos"
+          "focus": "Actualiza la noticia senalando que se trata de un segundo menor detenido, vinculandolo a los canales de blocus"
         },
         {
           "outlet": "La Vanguardia",
-          "headline": "Los maquinistas de Renfe mantienen hoy la huelga en toda la red, incluida Rodalies",
-          "link": "https://www.lavanguardia.com/vida/20261029/11670547/maquinistas-renfe-mantienen-hoy-huelga-toda-red-incluida-rodalies.html",
-          "position": 55,
-          "focus": "Informa de manera escueta y neutral sobre el mantenimiento de la huelga en toda la red incluida Rodalies, sin profundizar en causas ni en quejas de los trabajadores"
-        }
-      ],
-      "rango": 30,
-      "discrepancia": "media",
-      "silenciosos": [
-        "20minutos",
-        "ABC",
-        "El Espanol",
-        "eldiario.es"
-      ]
-    },
-    {
-      "neutral_headline": "Accidente en línea de alta velocidad deja múltiples muertos",
-      "section": "Sociedad",
-      "facts": [
-        "Se ha producido un accidente ferroviario en una línea de alta velocidad",
-        "El suceso ha causado víctimas mortales"
-      ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "Las líneas de alta velocidad española vuelven a teñirse de sangre",
-          "link": "https://elpais.com/espana/2026-10-28/las-lineas-de-alta-velocidad-espanola-vuelven-a-tenirse-de-sangre.html",
+          "headline": "Detenido en Sant Sadurní d'Anoia otro menor vinculado a los disturbios de Barcelona",
+          "link": "https://www.lavanguardia.com/local/barcelona/20261030/11671869/detenido-menor-sant-sadurni-d-anoia-vinculado-coordinacion-disturbios-barcelona.html",
           "position": 50,
-          "focus": "Enmarca el hecho dentro de un patrón repetido ('vuelven a teñirse de sangre') sobre las líneas de alta velocidad en general, sin señalar causa concreta."
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "La España del Muro se desangra",
-          "link": "https://www.elmundo.es/espana/2026/10/28/6ae1f051e9cf4ad66f8b4598.html",
-          "position": 50,
-          "focus": "Usa un topónimo o referencia local ('del Muro') para situar el accidente, con tono dramático, sin indicar responsable."
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Una mole de hierro llena de cadáveres",
-          "link": "https://www.lavanguardia.com/vida/20261029/11670606/mole-hierro-llena-cadaveres.html",
-          "position": 50,
-          "focus": "Describe la escena del tren siniestrado con una imagen visual intensa, centrada en el impacto humano, sin atribuir causa."
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "20minutos",
-        "ABC",
-        "El Espanol",
-        "eldiario.es"
-      ]
-    },
-    {
-      "neutral_headline": "Flávio Bolsonaro abandona Brasil y se instala en Miami tras la derrota electoral, desde donde hace declaraciones políticas",
-      "section": "Politica",
-      "facts": [
-        "Flávio Bolsonaro salió de Brasil y llegó a Estados Unidos (Miami)",
-        "Según El Español, viajó en coche hasta Argentina y usó un pasaporte italiano para volar a Ecuador antes de llegar a Miami",
-        "Según eldiario.es, calificó su derrota ante Lula de 'fraude electoral' y se declaró 'verdadero presidente electo de Brasil'",
-        "Según La Vanguardia, declaró desde Miami que va a 'liderar la oposición' desde allí",
-        "El País vincula el episodio con una alineación ideológica de sectores latinoamericanos con Donald Trump"
-      ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "crítica a la alineación ideológica y la huida",
-        "polo_b": "narrativa neutral que da voz al protagonismo de Bolsonaro",
-        "resumen": "Los medios difieren en si enmarcan el hecho como una denuncia política de fondo (alianza con Trump, fraude al derecho internacional) o como un relato de los movimientos y declaraciones del propio Bolsonaro sin juicio explícito"
-      },
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "La huida de Flávio Bolsonaro desnuda una alineación ideológica con Trump que prevalece sobre el derecho internacional en Latinoamérica",
-          "link": "https://elpais.com/america/2026-10-29/la-huida-de-flavio-bolsonaro-desnuda-una-alineacion-ideologica-con-trump-que-prevalece-sobre-el-derecho-internacional-en-latinoamerica.html",
-          "position": 10,
-          "focus": "Enmarca el caso como síntoma de una alineación ideológica regional con Trump que socava el derecho internacional; omite detalles del trayecto o declaraciones concretas de Bolsonaro"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "Flávio Bolsonaro tacha de \"fraude electoral\" su derrota ante Lula y se declara \"verdadero presidente electo de Brasil\" tras huir a EEUU",
-          "link": "https://www.eldiario.es/internacional/flavio-bolsonaro-tacha-fraude-electoral-derrota-lula-declara-verdadero-presidente-electo-brasil-huir-eeuu_1_13623136.html",
-          "position": 30,
-          "focus": "Centra el titular en las declaraciones de Bolsonaro autoproclamándose 'presidente electo' y denunciando 'fraude', entrecomillando para marcar distancia crítica; menciona la huida como contexto"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Bolsonaro, desde Miami: “Voy a liderar la oposición desde aquí”",
-          "link": "https://www.lavanguardia.com/internacional/20261028/11670230/miami-espera-llegada-flavio-bolsonaro-cronologia-ruta.html",
-          "position": 60,
-          "focus": "Da voz directa a Bolsonaro con una cita textual sobre liderar la oposición desde Miami, sin cuestionar ni contextualizar la legitimidad de su discurso"
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "La saga/fuga de Bolsonaro: viajó en coche hasta Argentina y usó pasaporte italiano para volar a Ecuador antes de partir a Miami",
-          "link": "https://www.elespanol.com/mundo/america/20261029/sagafuga-bolsonaro-viajo-coche-argentina-uso-pasaporte-italiano-volar-ecuador-partir-miami/1003744438689_0.html",
-          "position": 50,
-          "focus": "Se centra en los detalles rocambolescos del trayecto de huida (coche, pasaporte italiano, escalas) con tono casi narrativo, sin profundizar en las implicaciones políticas o ideológicas"
-        }
-      ],
-      "rango": 50,
-      "discrepancia": "media",
-      "silenciosos": [
-        "20minutos",
-        "ABC",
-        "El Mundo"
-      ]
-    },
-    {
-      "neutral_headline": "Accidente del tren Iryo en Urda: familiares y testigos relatan la espera por noticias de los desaparecidos",
-      "section": "Sociedad",
-      "facts": [
-        "Se produjo un accidente ferroviario en Urda que afectó a un tren de la compañía Iryo",
-        "Hay personas desaparecidas o sin noticias de su paradero tras el accidente",
-        "La familia de Antonio Vázquez afirma seguir sin noticias de su paradero o estado (El Mundo)",
-        "Claudia Rodríguez, pareja de Marc Cucurella, viajaba en un tren que iba detrás y relata haber vivido el accidente en shock (ABC)",
-        "Testigos en Urda relatan la angustia de la espera por noticias de un herido trasladado al hospital de Toledo (eldiario.es)",
-        "Fátima Báñez, exministra del PP, se encuentra entre los desaparecidos tras el siniestro (La Vanguardia)",
-        "La familia de Báñez, la CEOE y el PP van perdiendo la esperanza de encontrarla con vida, según El Español",
-        "La CEOE afirma seguir sin noticias de Báñez, que viajaba en el tren siniestrado (20minutos)"
-      ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "El Mundo",
-          "headline": "La familia de Antonio Vázquez emite un comunicado: \"Continuamos sin tener noticias de su paradero o estado\"",
-          "link": "https://www.elmundo.es/cultura/toros/2026/10/28/6ae20069fc6c833e718b45c8.html",
-          "position": 50,
-          "focus": "Centra el relato en la familia de Antonio Vázquez y su falta de noticias sobre él"
-        },
-        {
-          "outlet": "ABC",
-          "headline": "Claudia Rodríguez, pareja de Marc Cucurella, cuenta cómo vivió el accidente ferroviario de Urda desde el tren que iba detrás: «Estoy en shock»",
-          "link": "https://www.abc.es/gente/claudia-rodriguez-pareja-marc-cucurella-cuenta-vivio-20261029110717-nt.html",
-          "position": 50,
-          "focus": "Aporta el testimonio de una testigo cercana al accidente, pareja de un futbolista conocido"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "La angustia de la espera en Urda: “Está en el hospital de Toledo. Díselo a quien sea”",
-          "link": "https://www.eldiario.es/castilla-la-mancha/angustia-espera-urda-hospital-toledo-diselo-sea_1_13622634.html",
-          "position": 50,
-          "focus": "Describe el ambiente de angustia e incertidumbre entre los afectados en Urda"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "La exministra del PP Fátima Báñez, entre los desaparecidos en el Iryo",
-          "link": "https://www.lavanguardia.com/vida/20261028/11670175/exministra-pp-fatima-banez-desaparecidos-accidente-ferroviario-toledo.html",
-          "position": 50,
-          "focus": "Identifica a Fátima Báñez, exministra, como una de las desaparecidas"
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "La familia de Fátima Báñez, la CEOE y el PP van perdiendo la esperanza de encontrar a la exministra con vida",
-          "link": "https://www.elespanol.com/invertia/economia/empleo/20261028/preocupacion-exministra-fatima-banez-desaparecidos-accidente-ferroviario-toledo/1003744437957_0.html",
-          "position": 50,
-          "focus": "Señala que el entorno de Báñez va perdiendo la esperanza de hallarla con vida"
+          "focus": "Aporta el dato mas reciente y especifico: el lugar exacto de la detencion (Sant Sadurni d'Anoia) de este otro menor"
         },
         {
           "outlet": "20minutos",
-          "headline": "La CEOE sigue \"sin noticias\" de la exministra Fátima Báñez que viajaba en el tren Iryo siniestrado",
-          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/ceoe-sigue-sin-noticias-exministra-fatima-banez-que-viajaba-tren-iryo-siniestrado_7054848_0.html",
+          "headline": "Detenido un menor de 17 años vinculado a Blocus utilizados para coordinar los saqueos en Barcelona",
+          "link": "https://www.20minutos.es/cataluna/barcelona/detenido-un-menor-17-anos-vinculado-los-canales-blocus-utilizados-para-coordinar-los-saqueos-sabado-barcelona_7055343_0.html",
           "position": 50,
-          "focus": "Recoge la declaración oficial de la CEOE sobre la falta de noticias de Báñez"
+          "focus": "Precisa la edad (17 anos) y describe la funcion de Blocus como herramienta de coordinacion de los saqueos"
         }
       ],
       "rango": 0,
       "discrepancia": "baja",
       "silenciosos": [
-        "El Pais"
+        "ABC",
+        "El Espanol"
+      ]
+    },
+    {
+      "neutral_headline": "Comercios y policía de Madrid se preparan ante posibles altercados vinculados a la convocatoria 'Blocus' en Halloween",
+      "section": "Sociedad",
+      "facts": [
+        "Hay circulación de bulos y mensajes de desinformación sobre una convocatoria llamada 'Blocus' en Madrid",
+        "La Policía ha advertido sobre estos bulos",
+        "Se ha reforzado la presencia policial en Madrid",
+        "Según El País, comerciantes dicen que hay preocupación pero que no hay que alarmarse",
+        "Según 20minutos, comercios del centro de Madrid tapian escaparates y acortan jornadas por miedo al pillaje",
+        "ABC cita un mensaje difundido que incita a 'llevar hachas, extintores y gasolina para saquear Madrid'"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "minimizar la alarma",
+        "polo_b": "amplificar la alarma",
+        "resumen": "Los medios difieren en si enfatizan la calma y el control institucional o el miedo y las medidas defensivas ante una posible amenaza"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Bulos, refuerzo policial y comerciantes a la expectativa sobre altercados en Madrid: “Hay preocupación, pero nos dicen que no hay que alarmarse”",
+          "link": "https://elpais.com/espana/madrid/2026-10-30/bulos-refuerzo-policial-y-comerciantes-a-la-expectativa-sobre-altercados-en-madrid-hay-preocupacion-pero-nos-dicen-que-no-hay-que-alarmarse.html",
+          "position": 30,
+          "focus": "Destaca el refuerzo policial y el mensaje tranquilizador de los comerciantes, enmarcando la situación como controlada pese a los bulos"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "«Llevad hachas, extintores y gasolina para saquear Madrid»: la Policía advierte de bulos y desinformaciones sobre Blocus",
+          "link": "https://www.abc.es/espana/madrid/llevad-hachas-extintores-gasolina-saquear-madrid-policia-20261030101810-nt.html",
+          "position": 70,
+          "focus": "Reproduce literalmente un mensaje violento difundido como bulo, lo que amplifica la sensación de amenaza aunque el foco oficial sea advertir sobre desinformación"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Los comercios del centro de Madrid tapian escaparates y acortan jornadas por miedo al pillaje en Halloween",
+          "link": "https://www.20minutos.es/madrid/los-comercios-centro-madrid-tapian-sus-escaparates-acortan-jornadas-por-miedo-pillaje-ante-fin-semana-halloween_7055198_0.html",
+          "position": 60,
+          "focus": "Documenta medidas concretas de los comercios (tapiar escaparates, acortar jornadas) que reflejan miedo real sin matizar si está justificado"
+        }
+      ],
+      "rango": 40,
+      "discrepancia": "media",
+      "silenciosos": [
+        "El Espanol",
+        "El Mundo",
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Muere el actor Patrick Stewart a los 86 años, conocido por sus papeles de Picard y el profesor X",
+      "section": "Cultura",
+      "facts": [
+        "Patrick Stewart ha muerto a los 86 años",
+        "Fue el capitán Picard en 'Star Trek'",
+        "Interpretó al profesor X en 'X-Men'",
+        "ABC cifra su fortuna en 75 millones de dólares",
+        "Ian McKellen publicó un mensaje de despedida describiéndolo como 'un hombre al que admirar'"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "ABC",
+          "headline": "La fortuna que deja Patrick Stewart: 75 millones de dólares y contratos millonarios como capitán de 'Star Trek'",
+          "link": "https://www.abc.es/gente/fortuna-deja-patrick-stewart-millones-dolares-contratos-20261030111204-nt.html",
+          "position": 50,
+          "focus": "Se centra en el aspecto patrimonial y contractual de la carrera del actor, omitiendo detalles personales o reacciones de otros"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Muere a los 86 años Patrick Stewart, el legendario capitán Picard de Star Trek y el profesor X de X-Men",
+          "link": "https://www.elespanol.com/el-cultural/cine/20261029/muere-anos-patrick-stewart-legendario-capitan-picard-star-trek-profesor-x-men/1003744440513_0.html",
+          "position": 50,
+          "focus": "Resume su fallecimiento y trayectoria artística destacando sus dos papeles más icónicos, sin entrar en reacciones ni cifras económicas"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Ian McKellen se despide de Patrick Stewart con un emotivo mensaje: \"Un hombre al que admirar\"",
+          "link": "https://www.20minutos.es/cinemania/noticias/ian-mckellen-despedida-patrick-stewart-emotivo-mensaje-50-anos-amistad_7055303_0.html",
+          "position": 50,
+          "focus": "Destaca la reacción emocional de un compañero de profesión, Ian McKellen, centrándose en el aspecto humano y de homenaje"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "El Mundo",
+        "El Pais",
+        "La Vanguardia",
+        "eldiario.es"
       ]
     }
   ]
