@@ -1,421 +1,392 @@
 {
-  "fecha": "2026-10-30T11:00:58.113081+00:00",
+  "fecha": "2026-10-31T10:34:05.359980+00:00",
   "esquema": 2,
   "historias": [
     {
-      "neutral_headline": "Choque entre un tren AVE y uno de Iryo cerca de Madrid desata debate sobre causas y responsables",
+      "neutral_headline": "Tras el choque de trenes en Urda se analizan el estado del sistema de señalización y las condiciones de trabajo en el control ferroviario",
       "section": "Sociedad",
       "facts": [
-        "Se produjo un choque entre un tren AVE y un tren de Iryo en el tramo Madrid-Sevilla",
-        "El choque se produjo a 160 km/hora según 20minutos",
-        "Los controladores de Atocha siguieron un protocolo que resultó equivocado, según El País",
-        "Técnicos e Iryo habían avisado de problemas 'frecuentes' en los sistemas antes del choque, según 20minutos",
-        "Pedro Sánchez admitió una 'confianza quebrada' en la alta velocidad y calificó los dos accidentes de 'inasumibles'",
-        "Isabel Díaz Ayuso exigió el 'total esclarecimiento' del accidente y la 'inmediata asunción de responsabilidades'",
-        "La Vanguardia señala falta de personal, falta de experiencia y mayor presión en los centros de control de Adif",
-        "Sánchez compareció por tercer día consecutivo citando a Page y al Rey, según El Español"
+        "El accidente ferroviario ocurrió en Urda, en la línea Madrid-Sevilla",
+        "Según El País, el sistema de seguridad presentaba caídas cada dos días antes del accidente",
+        "Según El Español, un AVE quedó parado la noche anterior a menos de 1 km del lugar del siniestro, retenido 11 minutos por una caída del sistema LZB",
+        "Según eldiario.es, la plantilla advirtió de aumento de presión, carga de trabajo y personal sin experiencia en el control ferroviario",
+        "Según 20minutos, en el centro de control de Adif hay falta de personal, fallos del sistema y presión para que salgan los trenes",
+        "El ministro Puente declaró, según La Vanguardia, que los operarios de Atocha podían ver la ubicación de los trenes en pantalla",
+        "ABC recoge el testimonio de un testigo que describe el momento del choque"
       ],
       "tipo_divergencia": "editorial",
       "eje": {
-        "polo_a": "fallo humano/operativo puntual",
-        "polo_b": "fallo estructural/institucional sistémico",
-        "resumen": "Los medios difieren en si el origen del choque se atribuye a un error humano concreto (controladores, protocolo) o a problemas estructurales del sistema (falta de personal, avisos ignorados, responsabilidad política)."
+        "polo_a": "fallo estructural y precariedad del sistema",
+        "polo_b": "el sistema funcionaba y los operarios tenían información",
+        "resumen": "Unos medios subrayan la precariedad y los fallos recurrentes del sistema de control, mientras otros recogen la versión oficial que relativiza esos fallos."
       },
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "Los controladores de Atocha ordenaron seguir el protocolo equivocado antes del choque entre el AVE y el Iryo: “Me estaba liando”",
-          "link": "https://elpais.com/espana/2026-10-30/los-controladores-de-atocha-ordenaron-seguir-el-protocolo-equivocado-antes-del-choque-entre-el-ave-y-el-iryo-me-estaba-liando.html",
-          "position": 15,
-          "focus": "Pone el foco en el error humano de los controladores que siguieron un protocolo equivocado, citando su propia confusión ('Me estaba liando')."
+          "headline": "Una caída cada dos días: la penuria del sistema de seguridad que dejó de funcionar antes del accidente de Urda",
+          "link": "https://elpais.com/espana/2026-10-31/radiografia-del-sistema-de-seguridad-que-dejo-de-funcionar-antes-del-accidente-de-urda-casi-una-caida-cada-dos-dias.html",
+          "position": 12,
+          "focus": "Destaca la frecuencia de caídas del sistema de seguridad y lo enmarca como una penuria estructural previa al accidente; omite la versión oficial"
         },
         {
           "outlet": "El Mundo",
           "headline": "El sistema de señalización en el tramo Madrid-Sevilla, explicado en gráficos",
           "link": "https://www.elmundo.es/espana/2026/10/28/6ae236b621efa012638b4600.html",
           "position": 50,
-          "focus": "Explica de forma técnica y gráfica el funcionamiento del sistema de señalización, sin atribuir responsabilidad ni culpa."
+          "focus": "Explica de forma técnica y gráfica el funcionamiento del sistema de señalización sin atribuir responsabilidades"
         },
         {
           "outlet": "ABC",
-          "headline": "Ayuso exige el «total esclarecimiento» de la catástrofe ferroviaria y la «inmediata asunción de responsabilidades»",
-          "link": "https://www.abc.es/espana/madrid/ayuso-exige-total-esclarecimiento-catastrofe-ferroviaria-inmediata-20261030113152-nt.html",
-          "position": 65,
-          "focus": "Centra la noticia en la exigencia política de Ayuso de esclarecimiento y responsabilidades, apuntando hacia una falla institucional más amplia."
+          "headline": "«Escuché una bomba y, después, un silencio inusual»: el testigo del choque",
+          "link": "https://www.abc.es/sociedad/unico-testigo-choque-hizo-foto-iryo-minutos-20261030012953-nt.html",
+          "position": 50,
+          "focus": "Centra el relato en el testimonio humano de un testigo, sin entrar en causas técnicas ni laborales"
         },
         {
           "outlet": "eldiario.es",
-          "headline": "Sánchez admite una \"confianza quebrada\" en la alta velocidad española y reitera que los dos accidentes son \"inasumibles\"",
-          "link": "https://www.eldiario.es/politica/sanchez-admite-confianza-quebrada-alta-velocidad-espanola-reitera-accidentes-son-inasumibles_1_13626547.html",
-          "position": 70,
-          "focus": "Resalta la admisión de Sánchez de una 'confianza quebrada' en el sistema de alta velocidad, enmarcando el problema como sistémico y reiterado (dos accidentes)."
+          "headline": "La plantilla advierte del aumento de presión, carga de trabajo y personal sin experiencia en el control ferroviario",
+          "link": "https://www.eldiario.es/economia/plantilla-advierte-aumento-presion-carga-trabajo-personal-experiencia-control-ferroviario_1_13625397.html",
+          "position": 15,
+          "focus": "Da voz a la plantilla que denuncia presión, sobrecarga y falta de experiencia como factores de riesgo"
         },
         {
           "outlet": "La Vanguardia",
-          "headline": "Falta de personal, de experiencia y bajo más presión: así se trabaja en los centros de control de Adif",
-          "link": "https://www.lavanguardia.com/vida/20261030/11671578/centros-control-adif-sufren-falta-personal-experiencia.html",
-          "position": 90,
-          "focus": "Describe condiciones estructurales de los centros de control de Adif (falta de personal, experiencia, presión), situando la causa en el sistema, no en individuos."
+          "headline": "Puente dice que los operarios de Atocha podían ver la ubicación de los trenes en pantalla",
+          "link": "https://www.lavanguardia.com/vida/20261030/11672185/puente-dice-operarios-atocha-podian-ver-ubicacion-trenes-pantalla.html",
+          "position": 85,
+          "focus": "Recoge la versión del ministro que defiende que los operarios tenían visibilidad de los trenes, minimizando el fallo"
         },
         {
           "outlet": "El Espanol",
-          "headline": "Sánchez comparece por tercer día escudándose en Page, cita al Rey y reconoce una \"confianza quebrada\" en la Alta Velocidad",
-          "link": "https://www.elespanol.com/espana/politica/20261030/sanchez-comparece-tercer-dia-escudandose-page-cita-rey-reconoce-confianza-quebrada-alta-velocidad/1003744440823_0.html",
-          "position": 60,
-          "focus": "Pone énfasis en la gestión política de Sánchez, su defensa citando a Page y al Rey, matizando su reconocimiento de la 'confianza quebrada' como estrategia política."
+          "headline": "Un AVE quedó parado a menos de 1 km del lugar del siniestro la noche anterior: estuvo retenido 11 minutos por la caída del LZB",
+          "link": "https://www.elespanol.com/invertia/observatorios/movilidad/20261031/ave-quedo-parado-km-lugar-siniestro-noche-anterior-retenido-minutos-caida-lzb/1003744441485_0.html",
+          "position": 30,
+          "focus": "Aporta un dato concreto y verificable sobre un incidente similar la noche anterior, con tono más fáctico que acusatorio"
         },
         {
           "outlet": "20minutos",
-          "headline": "Los técnicos e Iryo avisaron de problemas \"frecuentes\" en los sistemas antes del choque que se produjo a 160 km/hora",
-          "link": "https://www.20minutos.es/nacional/ave-choco-contra-iryo-menos-160-km-hora-tras-un-fallo-frecuente-que-se-aviso-hace-tres-semanas_7055259_0.html",
-          "position": 80,
-          "focus": "Subraya que hubo avisos previos de problemas frecuentes ignorados, apuntando a una negligencia institucional antes que a un fallo puntual."
+          "headline": "Falta de personal, fallos del sistema y presión para que salgan los trenes: así trabajan los operarios en el centro de control de Adif",
+          "link": "https://www.20minutos.es/nacional/falta-personal-fallos-sistema-presion-para-que-salgan-los-trenes-asi-trabajan-los-operarios-centro-control-adif_7055422_0.html",
+          "position": 15,
+          "focus": "Describe las condiciones laborales en el centro de control, señalando falta de personal y presión como problemas de fondo"
         }
       ],
-      "rango": 75,
+      "rango": 73,
       "discrepancia": "alta",
       "silenciosos": []
     },
     {
-      "neutral_headline": "Sánchez mantiene a Puente como ministro tras la tragedia de Urda pese a las críticas de la oposición y de sus socios",
+      "neutral_headline": "El Gobierno afronta una crisis política mientras el PP exige la dimisión del ministro Puente",
       "section": "Politica",
       "facts": [
-        "Se ha producido una tragedia en Urda relacionada con Óscar Puente",
-        "Óscar Puente es ministro del Gobierno de Pedro Sánchez",
-        "Hay presión política para que Puente dimita",
-        "El PP ha anunciado que respetará el luto antes de criticar a Sánchez",
-        "Juan del Val ha calificado al Gobierno y a Puente de inmorales",
-        "Page, presidente de Castilla-La Mancha, ha ejercido de anfitrión de Feijóo",
-        "Los socios de Sánchez han criticado la permanencia de Puente"
+        "El Gobierno atraviesa una crisis política",
+        "El PP exige la dimisión del ministro Óscar Puente",
+        "Sánchez no acepta la dimisión de Puente",
+        "El Mundo vincula la estrategia de Sánchez con la llamada 'doctrina Marlaska'"
       ],
       "tipo_divergencia": "editorial",
       "eje": {
-        "polo_a": "presión para que Puente dimita",
-        "polo_b": "respeto institucional y apoyo al Gobierno",
-        "resumen": "Los medios se dividen entre enfatizar la presión política y las críticas hacia Puente/Sánchez, o destacar el tono institucional y de respeto ante la tragedia"
+        "polo_a": "crisis por responsabilidad propia del Gobierno",
+        "polo_b": "resistencia legítima frente a la presión de la oposición",
+        "resumen": "Los medios difieren en si enmarcan la situación como una crisis autoinfligida del Gobierno o como una resistencia de Sánchez ante el acoso del PP"
       },
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "El PP respetará el luto, pero después apuntará a Sánchez: “Con la dimisión de Puente no basta”",
-          "link": "https://elpais.com/espana/2026-10-30/el-pp-respetara-el-luto-pero-despues-apuntara-a-sanchez-con-la-dimision-de-puente-no-basta.html",
-          "position": 20,
-          "focus": "Destaca que el PP, aunque respeta el luto, prepara una ofensiva contra Sánchez exigiendo más que la dimisión de Puente"
+          "headline": "El Gobierno cae por su propio peso",
+          "link": "https://elpais.com/opinion/2026-10-31/el-gobierno-cae-por-su-propio-peso.html",
+          "position": 10,
+          "focus": "Atribuye la crisis a causas internas del propio Gobierno, sin mencionar a Puente ni al PP; juicio implícito de debilidad estructural"
         },
         {
           "outlet": "El Mundo",
-          "headline": "El ejemplo institucional de Page: \"muy afectado\", aparca sus diferencias con Sánchez y ejerce de anfitrión de Feijóo",
-          "link": "https://www.elmundo.es/espana/2026/10/30/6abcb554e85eceda1a8b45ba.html",
-          "position": 85,
-          "focus": "Resalta el gesto institucional de Page, su cercanía a Sánchez pese a diferencias, y el respeto mutuo con Feijóo, omitiendo la presión por la dimisión"
-        },
-        {
-          "outlet": "ABC",
-          "headline": "Juan del Val: «El Gobierno de Pedro Sánchez es profundamente inmoral y el más inmoral de todos es Óscar Puente»",
-          "link": "https://www.abc.es/play/television/noticias/juan-val-gobierno-pedro-sanchez-profundamente-inmoral-20261030093758-nt.html",
-          "position": 5,
-          "focus": "Recoge una opinión muy dura que califica al Gobierno y a Puente de inmorales, sin matices institucionales"
+          "headline": "Sánchez aplica con Puente el \"escudo protector\" de la 'doctrina Marlaska' para evitar que lo arrastre la crisis",
+          "link": "https://www.elmundo.es/espana/2026/10/30/6ae4f23be85ecea06a8b45b2.html",
+          "position": 25,
+          "focus": "Presenta la defensa de Puente como una maniobra calculada ('escudo protector') que recuerda a un patrón previo (Marlaska), insinuando encubrimiento"
         },
         {
           "outlet": "La Vanguardia",
-          "headline": "Sánchez sostiene por ahora a Puente pese a la presión para que dimita",
-          "link": "https://www.lavanguardia.com/politica/20261030/11671445/sanchez-sostiene-puente-pese-presion-dimita.html",
-          "position": 45,
-          "focus": "Informa de forma neutral que Sánchez sostiene a Puente pese a la presión, sin tomar partido explícito"
+          "headline": "Sánchez frena la dimisión de Puente que exige ya el PP",
+          "link": "https://www.lavanguardia.com/politica/20261031/11672405/puente-admite-puso-cargo-disposicion-sanchez-considero-injusto-cesarle.html",
+          "position": 75,
+          "focus": "Centra el relato en la presión del PP y en que Sánchez la frena, mostrando al Gobierno resistiendo una exigencia opositora más que una crisis propia"
+        }
+      ],
+      "rango": 65,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Espanol",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Crisis institucional en Polonia por la suspensión del presidente del Tribunal Constitucional",
+      "section": "Internacional",
+      "facts": [
+        "El presidente del Tribunal Constitucional de Polonia fue suspendido, según El País, eldiario.es y La Vanguardia",
+        "La Policía se desplegó o rodeó la sede del Tribunal Constitucional, según El Mundo y ABC",
+        "ABC atribuye el despliegue policial a un choque entre el presidente de Polonia y el primer ministro",
+        "El presidente de Polonia entró en la sede del Constitucional y bloqueó su renovación, según El Español",
+        "El presidente acusó al primer ministro Donald Tusk de un 'golpe de Estado', según El Español",
+        "eldiario.es señala que la crisis abrió una fractura política y desató protestas"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "crisis institucional/sistémica",
+        "polo_b": "conflicto personal entre Duda y Tusk",
+        "resumen": "Los medios difieren en si presentan el hecho como una crisis institucional abstracta o como un choque personal y acusatorio entre el presidente polaco y el primer ministro Tusk"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "La suspensión del presidente del Tribunal Constitucional de Polonia desata una crisis institucional",
+          "link": "https://elpais.com/internacional/2026-10-30/el-presidente-de-polonia-regresa-a-su-pais-en-pleno-vuelo-a-senegal-por-una-crisis-en-el-tribunal-constitucional.html",
+          "position": 20,
+          "focus": "Describe la suspensión como detonante de una crisis institucional, sin nombrar a actores enfrentados"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Escala la crisis en Polonia: la Policía se despliega en torno a la Corte Constitucional",
+          "link": "https://www.elmundo.es/internacional/2026/10/30/6ae4f89c21efa0d3758b45a7.html",
+          "position": 40,
+          "focus": "Centra el relato en la escalada y el despliegue policial, aún sin personalizar el conflicto"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "La Policía rodea el Constitucional por el choque entre presidente y el primer ministro",
+          "link": "https://www.abc.es/internacional/policia-rodea-constitucional-polonia-enfrentarse-primer-ministro-20261030212104-nt.html",
+          "position": 65,
+          "focus": "Nombra explícitamente a presidente y primer ministro como protagonistas de un 'choque', personalizando parcialmente el conflicto"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "La crisis institucional en Polonia por la suspensión del presidente del Constitucional abre una fractura política y desata protestas",
+          "link": "https://www.eldiario.es/interferencias/crisis-institucional-polonia-suspension-presidente-constitucional-abre-fractura-politica-desata-protestas_1_13628838.html",
+          "position": 25,
+          "focus": "Mantiene el foco institucional (suspensión, fractura política, protestas) sin señalar responsables individuales"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Crisis institucional en Polonia por la suspensión del presidente del Tribunal Constitucional",
+          "link": "https://www.lavanguardia.com/internacional/20261031/11672737/polonia-crisis-suspension-tribunal-constitucional-presidente-tusk-nawrocki-policia.html",
+          "position": 20,
+          "focus": "Presenta la crisis como resultado directo de la suspensión, sin mencionar a los líderes políticos"
         },
         {
           "outlet": "El Espanol",
-          "headline": "Sánchez, decidido a llegar a las elecciones con Puente como ministro, pese a la tragedia de Urda y las críticas de sus socios",
-          "link": "https://www.elespanol.com/espana/politica/20261030/sanchez-decidido-llegar-elecciones-puente-ministro-pese-tragedia-urda-criticas-socios/1003744439442_0.html",
-          "position": 35,
-          "focus": "Señala la decisión de Sánchez de mantener a Puente pese a la tragedia y las críticas de sus propios socios, poniendo el foco en la tensión interna"
+          "headline": "El presidente de Polonia entra en la sede del Constitucional, bloquea su renovación y acusa a Tusk de \"golpe de Estado\"",
+          "link": "https://www.elespanol.com/mundo/europa/20261030/presidente-polonia-aborta-visita-oficial-senegal-pleno-pulso-donald-tusk-controlar-constitucional/1003744442009_0.html",
+          "position": 90,
+          "focus": "Adopta la perspectiva del presidente, destacando sus acciones y su acusación directa de 'golpe de Estado' contra Tusk"
+        }
+      ],
+      "rango": 70,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos"
+      ]
+    },
+    {
+      "neutral_headline": "Ciudades y comercios en España se preparan ante posibles disturbios vinculados a las movilizaciones de Blocus",
+      "section": "Sociedad",
+      "facts": [
+        "El grupo Blocus ha convocado movilizaciones en varias ciudades españolas",
+        "Varias ciudades y comercios han reforzado medidas de seguridad (blindaje de comercios, despliegues policiales)",
+        "El Espanol cita informes de inteligencia que alertan de 'grave riesgo' en Barcelona, Valencia y Bilbao",
+        "La Vanguardia indica que Barcelona busca evitar 'otra noche de vandalismo y pillaje', lo que implica un incidente previo",
+        "20minutos detalla que las protestas están previstas para Halloween y describe tácticas como guantes y bengalas",
+        "El Mundo identifica a un líder de Blocus, descrito como hispanopakistaní y llamado Alfayez, operando desde un pueblo de Valencia",
+        "eldiario.es menciona detenidos en el marco de los despliegues policiales"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "foco en la amenaza colectiva y medidas de seguridad",
+        "polo_b": "foco en la identidad y origen del líder señalado",
+        "resumen": "Mientras la mayoría de medios centra la noticia en los preparativos de seguridad ante la amenaza de Blocus, El Mundo individualiza el relato en la identidad étnica y el liderazgo de una persona concreta."
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Las grandes ciudades y los comercios se blindan ante posibles disturbios por las movilizaciones espontáneas de Blocus",
+          "link": "https://elpais.com/espana/2026-10-30/las-grandes-ciudades-y-los-comercios-se-blindan-ante-posibles-disturbios-por-las-movilizaciones-espontaneas-de-blocus.html",
+          "position": 10,
+          "focus": "Destaca el blindaje de ciudades y comercios ante la amenaza; omite cualquier referencia a líderes individuales."
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Una semana infiltrado con los Blocus, los violentos que lideraba el hispanopakistaní Alfayez desde un pueblo de Valencia",
+          "link": "https://www.elmundo.es/cronica/2026/10/30/6ae506b7e9cf4a72368b4585.html",
+          "position": 90,
+          "focus": "Centra el relato en la investigación de un líder concreto y su origen étnico, desplazando el foco de la amenaza colectiva hacia una figura individual."
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Despliegues policiales, detenidos y comercios blindados ante la amenaza de Blocus",
+          "link": "https://www.eldiario.es/sociedad/despliegues-policiales-detenidos-comercios-blindados-amenaza-blocus_1_13628006.html",
+          "position": 10,
+          "focus": "Enfatiza el despliegue policial y las detenciones como respuesta institucional, sin mencionar actores individuales."
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Barcelona se prepara para evitar otra noche de vandalismo y pillaje",
+          "link": "https://www.lavanguardia.com/local/barcelona/20261031/11672482/barcelona-prepara-evitar-noche-vandalismo-pillaje.html",
+          "position": 15,
+          "focus": "Se centra en la prevención de disturbios en Barcelona, aludiendo a un episodio previo sin personalizar la amenaza."
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Comercios tapiados en Madrid: informes de inteligencia sobre Blocus alertan de \"grave riesgo\" en Barcelona, Valencia y Bilbao",
+          "link": "https://www.elespanol.com/reportajes/20261031/comercios-tapiados-madrid-informes-inteligencia-blocus-alertan-grave-riesgo-barcelona-valencia-bilbao/1003744441950_0.html",
+          "position": 20,
+          "focus": "Subraya los informes de inteligencia y el riesgo en varias ciudades, manteniendo el foco en el fenómeno colectivo más que en individuos."
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Así prepara Blocus las protestas en España para Halloween: guantes para no dejar huella, bengalas... y \"todo lo negro posible\"",
+          "link": "https://www.20minutos.es/nacional/asi-prepara-blocus-las-protestas-espana-para-halloween-guantes-para-no-dejar-huella-bengalas-todo-negro-posible_7053937_0.html",
+          "position": 25,
+          "focus": "Detalla las tácticas organizativas del grupo (vestimenta, herramientas) sin identificar a líderes concretos."
         }
       ],
       "rango": 80,
       "discrepancia": "alta",
       "silenciosos": [
-        "20minutos",
-        "eldiario.es"
+        "ABC"
       ]
     },
     {
-      "neutral_headline": "Binance sufre un ciberataque con robo de criptomonedas por miles de millones de dólares",
-      "section": "Economia",
+      "neutral_headline": "Bolsonaro realiza declaraciones y movimientos tras la derrota electoral en Brasil",
+      "section": "Internacional",
       "facts": [
-        "Binance, la mayor plataforma de criptomonedas del mundo, sufrió un ciberataque/robo",
-        "El Mundo, ABC, eldiario.es y La Vanguardia cifran el robo en 6.300 millones de dólares",
-        "El Espanol cifra el robo en 'más de 6.000 millones de dólares'",
-        "El Pais y eldiario.es informan de que Binance paralizó operaciones o bloqueó la retirada de depósitos",
-        "La Vanguardia apunta a una posible relación con Corea del Norte",
-        "ABC señala que es la propia Binance la que denuncia el ciberataque"
-      ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "sin atribuir responsable",
-        "polo_b": "apunta a Corea del Norte como autor",
-        "resumen": "La mayoria de medios no senala autoria del ataque, mientras La Vanguardia introduce la sospecha de implicacion norcoreana"
-      },
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "El mercado de criptomonedas Binance paraliza las operaciones tras sufrir  el mayor ciberatraco de la historia",
-          "link": "https://elpais.com/us/2026-10-29/la-plataforma-de-intercambio-de-criptomoneda-binance-denuncia-un-ataque-informatico.html",
-          "position": 50,
-          "focus": "Destaca la paralizacion de operaciones como consecuencia inmediata; no atribuye autoria"
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "Binance, la mayor plataforma de criptomonedas del mundo, sufre un robo de 6.300 millones de dólares",
-          "link": "https://www.elmundo.es/economia/2026/10/30/6ae43e2221efa0123f8b4573.html",
-          "position": 50,
-          "focus": "Centra el foco en la magnitud del robo (6.300 millones) y el tamano de la plataforma afectada; no menciona autor"
-        },
-        {
-          "outlet": "ABC",
-          "headline": "Binance denuncia un ciberataque de 6.300 millones de dólares",
-          "link": "https://www.abc.es/economia/binance-mayor-bolsa-criptomonedas-mundo-denuncia-ciberataque-20261030073304-nt.html",
-          "position": 50,
-          "focus": "Enfatiza que es Binance quien denuncia el hecho, sin senalar responsable"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "Binance sufre un ciberataque donde le roban 6.300 millones de dólares y bloquea la retirada de depósitos",
-          "link": "https://www.eldiario.es/economia/binance-sufre-ciberataque-le-roban-6-300-millones-dolares-bloquea-retirada-depositos_1_13626118.html",
-          "position": 50,
-          "focus": "Combina la cifra del robo con el bloqueo de retiradas, sin atribuir autoria"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Binance sufre el mayor robo cripto de la historia: 6.300 millones con la sombra de Corea del Norte",
-          "link": "https://www.lavanguardia.com/economia/20261030/11671817/binance-cifra-6-300-millones-dolares-robo-multimillonario-plataforma.html",
-          "position": 75,
-          "focus": "Ademas de la cifra, introduce la sospecha de implicacion de Corea del Norte como posible responsable"
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "Binance sufre un ciberrobo histórico: un grupo de 'hackers' sustrae más de 6.000 millones de dólares en criptomonedas",
-          "link": "https://www.elespanol.com/omicrono/tecnologia/20261030/golpe-criptomonedas-binance-sufre-mayor-hackeo-historia-robo-millones-dolares/1003744440636_0.html",
-          "position": 50,
-          "focus": "Describe el hecho como obra de 'un grupo de hackers' generico, sin especificar origen ni cifra exacta"
-        }
-      ],
-      "rango": 25,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "20minutos"
-      ]
-    },
-    {
-      "neutral_headline": "La inflación se mantiene en el 4,9% en octubre pese a la caída del precio de los carburantes, mientras el PIB crece en el tercer trimestre",
-      "section": "Economia",
-      "facts": [
-        "La inflación interanual de octubre se situó en el 4,9%, igual que el mes anterior, según El Mundo, ABC, eldiario.es, La Vanguardia y El Español",
-        "El precio de los carburantes/gasolinas cayó o se contuvo en octubre, según El Mundo, ABC, eldiario.es y La Vanguardia",
-        "El Pais indica que el PIB creció un 2,7% en el tercer trimestre, impulsado por el consumo y el gasto público",
-        "El Español indica que el PIB creció un 0,6% en el tercer trimestre, una décima menos que el periodo anterior"
-      ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "estabilidad/normalización de precios",
-        "polo_b": "alarma por persistencia de inflación alta",
-        "resumen": "Con la misma cifra (4,9%), unos medios describen la situación como estabilidad mientras eldiario.es la presenta como un repunte alarmante"
-      },
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "España creció en el tercer trimestre un 2,7% impulsada por el consumo y el gasto público",
-          "link": "https://elpais.com/economia/2026-10-30/espana-crecio-en-el-tercer-trimestre-un-27.html",
-          "position": 50,
-          "focus": "Se centra en el crecimiento del PIB (2,7%) y sus causas (consumo, gasto público); no aborda la inflación"
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "La inflación no se mueve del 4,9% en octubre pese a la caída del precio de los carburantes",
-          "link": "https://www.elmundo.es/economia/2026/10/30/6ae44e87fc6c8392178b4587.html",
-          "position": 48,
-          "focus": "Destaca que la inflación 'no se mueve' pese a la caída de carburantes, tono neutro-descriptivo"
-        },
-        {
-          "outlet": "ABC",
-          "headline": "La inflación se mantiene en el 4,9% en octubre pese al abaratamiento de la gasolina",
-          "link": "https://www.abc.es/economia/inflacion-20261030085501-nt.html",
-          "position": 48,
-          "focus": "Formulación casi idéntica a El Mundo, enfatiza estabilidad pese al abaratamiento de la gasolina"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "La inflación se dispara otro 4,9% en octubre pese al abaratamiento de las gasolinas",
-          "link": "https://www.eldiario.es/economia/inflacion-dispara-4-9-octubre_1_13626158.html",
-          "position": 85,
-          "focus": "Usa el verbo 'se dispara' pese a tratarse de la misma cifra (4,9%) que los demás, lo que introduce una lectura alarmista de la estabilidad"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "La inflación se mantiene en el 4,9% en octubre por la contención de precio de los combustibles",
-          "link": "https://www.lavanguardia.com/economia/20261030/11671838/inflacion-crece.html",
-          "position": 45,
-          "focus": "Atribuye la estabilidad a la contención de precios de combustibles, tono explicativo-neutro"
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "El PIB crece un 0,6%, una décima menos, en el tercer trimestre y la inflación se mantiene en el 4,9% en octubre",
-          "link": "https://www.elespanol.com/invertia/economia/macroeconomia/20261030/pib-crece-decima-tercer-trimestre-inflacion-mantiene-octubre/1003744440645_0.html",
-          "position": 50,
-          "focus": "Combina el dato de PIB (0,6%, una décima menos) con la inflación estable en 4,9%, sin calificar ninguno de los dos hechos"
-        }
-      ],
-      "rango": 40,
-      "discrepancia": "media",
-      "silenciosos": [
-        "20minutos"
-      ]
-    },
-    {
-      "neutral_headline": "Detienen a un menor vinculado a los canales de Blocus por los saqueos del 24-O en Barcelona",
-      "section": "Sociedad",
-      "facts": [
-        "Los Mossos d'Esquadra detuvieron a un menor de edad vinculado a los canales de Blocus",
-        "El menor tiene 17 años segun El Mundo y 20minutos",
-        "Se le relaciona con la organizacion o difusion de llamadas a los saqueos y disturbios del sabado 24 de octubre en Barcelona",
-        "eldiario.es y La Vanguardia informan de la detencion de un segundo menor, posterior a la primera",
-        "La Vanguardia situa esta segunda detencion en Sant Sadurni d'Anoia"
-      ],
-      "tipo_divergencia": "cronologica",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "Detenido un menor por organizar los saqueos de Blocus del sábado en Barcelona",
-          "link": "https://elpais.com/espana/catalunya/2026-10-30/detenido-un-menor-por-los-organizar-los-saqueos-de-blocus-del-sabado-en-barcelona.html",
-          "position": 50,
-          "focus": "Informa de la primera detencion, centrandose en el rol organizador del menor en los saqueos, sin precisar edad ni lugar de arresto"
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "Los Mossos detienen a un menor de 17 años por difundir y alentar los disturbios y saqueos de Blocus en Barcelona el 24-O",
-          "link": "https://www.elmundo.es/cataluna/2026/10/30/6ae45863e9cf4a4b168b4570.html",
-          "position": 50,
-          "focus": "Detalla la edad (17 anos) y el rol de difundir y alentar los disturbios, fechando el suceso en el 24-O"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "Los Mossos detienen a un segundo menor vinculado a los canales de 'blocus' por los saqueos de Barcelona",
-          "link": "https://www.eldiario.es/catalunya/mossos-detienen-segundo-menor-vinculado-canales-blocus-saqueos-barcelona_1_13626276.html",
-          "position": 50,
-          "focus": "Actualiza la noticia senalando que se trata de un segundo menor detenido, vinculandolo a los canales de blocus"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Detenido en Sant Sadurní d'Anoia otro menor vinculado a los disturbios de Barcelona",
-          "link": "https://www.lavanguardia.com/local/barcelona/20261030/11671869/detenido-menor-sant-sadurni-d-anoia-vinculado-coordinacion-disturbios-barcelona.html",
-          "position": 50,
-          "focus": "Aporta el dato mas reciente y especifico: el lugar exacto de la detencion (Sant Sadurni d'Anoia) de este otro menor"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "Detenido un menor de 17 años vinculado a Blocus utilizados para coordinar los saqueos en Barcelona",
-          "link": "https://www.20minutos.es/cataluna/barcelona/detenido-un-menor-17-anos-vinculado-los-canales-blocus-utilizados-para-coordinar-los-saqueos-sabado-barcelona_7055343_0.html",
-          "position": 50,
-          "focus": "Precisa la edad (17 anos) y describe la funcion de Blocus como herramienta de coordinacion de los saqueos"
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "ABC",
-        "El Espanol"
-      ]
-    },
-    {
-      "neutral_headline": "Comercios y policía de Madrid se preparan ante posibles altercados vinculados a la convocatoria 'Blocus' en Halloween",
-      "section": "Sociedad",
-      "facts": [
-        "Hay circulación de bulos y mensajes de desinformación sobre una convocatoria llamada 'Blocus' en Madrid",
-        "La Policía ha advertido sobre estos bulos",
-        "Se ha reforzado la presencia policial en Madrid",
-        "Según El País, comerciantes dicen que hay preocupación pero que no hay que alarmarse",
-        "Según 20minutos, comercios del centro de Madrid tapian escaparates y acortan jornadas por miedo al pillaje",
-        "ABC cita un mensaje difundido que incita a 'llevar hachas, extintores y gasolina para saquear Madrid'"
-      ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "minimizar la alarma",
-        "polo_b": "amplificar la alarma",
-        "resumen": "Los medios difieren en si enfatizan la calma y el control institucional o el miedo y las medidas defensivas ante una posible amenaza"
-      },
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "Bulos, refuerzo policial y comerciantes a la expectativa sobre altercados en Madrid: “Hay preocupación, pero nos dicen que no hay que alarmarse”",
-          "link": "https://elpais.com/espana/madrid/2026-10-30/bulos-refuerzo-policial-y-comerciantes-a-la-expectativa-sobre-altercados-en-madrid-hay-preocupacion-pero-nos-dicen-que-no-hay-que-alarmarse.html",
-          "position": 30,
-          "focus": "Destaca el refuerzo policial y el mensaje tranquilizador de los comerciantes, enmarcando la situación como controlada pese a los bulos"
-        },
-        {
-          "outlet": "ABC",
-          "headline": "«Llevad hachas, extintores y gasolina para saquear Madrid»: la Policía advierte de bulos y desinformaciones sobre Blocus",
-          "link": "https://www.abc.es/espana/madrid/llevad-hachas-extintores-gasolina-saquear-madrid-policia-20261030101810-nt.html",
-          "position": 70,
-          "focus": "Reproduce literalmente un mensaje violento difundido como bulo, lo que amplifica la sensación de amenaza aunque el foco oficial sea advertir sobre desinformación"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "Los comercios del centro de Madrid tapian escaparates y acortan jornadas por miedo al pillaje en Halloween",
-          "link": "https://www.20minutos.es/madrid/los-comercios-centro-madrid-tapian-sus-escaparates-acortan-jornadas-por-miedo-pillaje-ante-fin-semana-halloween_7055198_0.html",
-          "position": 60,
-          "focus": "Documenta medidas concretas de los comercios (tapiar escaparates, acortar jornadas) que reflejan miedo real sin matizar si está justificado"
-        }
-      ],
-      "rango": 40,
-      "discrepancia": "media",
-      "silenciosos": [
-        "El Espanol",
-        "El Mundo",
-        "La Vanguardia",
-        "eldiario.es"
-      ]
-    },
-    {
-      "neutral_headline": "Muere el actor Patrick Stewart a los 86 años, conocido por sus papeles de Picard y el profesor X",
-      "section": "Cultura",
-      "facts": [
-        "Patrick Stewart ha muerto a los 86 años",
-        "Fue el capitán Picard en 'Star Trek'",
-        "Interpretó al profesor X en 'X-Men'",
-        "ABC cifra su fortuna en 75 millones de dólares",
-        "Ian McKellen publicó un mensaje de despedida describiéndolo como 'un hombre al que admirar'"
+        "Bolsonaro pidió hacer del Congreso una 'trinchera' para 'impedir o retardar' la presidencia de Lula",
+        "Brasil pidió explicaciones a Argentina tras la salida de Bolsonaro del país con ayuda de Milei",
+        "Bolsonaro calificó el resultado electoral como 'matemáticamente imposible', insistiendo en el fraude"
       ],
       "tipo_divergencia": "ninguna",
       "eje": null,
       "frames": [
         {
-          "outlet": "ABC",
-          "headline": "La fortuna que deja Patrick Stewart: 75 millones de dólares y contratos millonarios como capitán de 'Star Trek'",
-          "link": "https://www.abc.es/gente/fortuna-deja-patrick-stewart-millones-dolares-contratos-20261030111204-nt.html",
+          "outlet": "El Pais",
+          "headline": "Bolsonaro llama a hacer del Congreso de Brasil una “trinchera” para “impedir o retardar el gran caos” de la presidencia de Lula",
+          "link": "https://elpais.com/internacional/2026-10-31/bolsonaro-llama-a-hacer-del-congreso-de-brasil-una-trinchera-para-impedir-o-retardar-el-gran-caos-de-la-presidencia-de-lula.html",
           "position": 50,
-          "focus": "Se centra en el aspecto patrimonial y contractual de la carrera del actor, omitiendo detalles personales o reacciones de otros"
+          "focus": "Destaca el llamado político de Bolsonaro al Congreso como resistencia institucional"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Brasil pide explicaciones a Argentina tras la huida de Bolsonaro con la ayuda de Milei",
+          "link": "https://www.elmundo.es/internacional/2026/10/30/6ae512d9e85ece2c388b459d.html",
+          "position": 50,
+          "focus": "Destaca el conflicto diplomático entre Brasil y Argentina por la salida de Bolsonaro"
         },
         {
           "outlet": "El Espanol",
-          "headline": "Muere a los 86 años Patrick Stewart, el legendario capitán Picard de Star Trek y el profesor X de X-Men",
-          "link": "https://www.elespanol.com/el-cultural/cine/20261029/muere-anos-patrick-stewart-legendario-capitan-picard-star-trek-profesor-x-men/1003744440513_0.html",
+          "headline": "Bolsonaro insiste en el fraude electoral: dice que el resultado de los comicios en Brasil es \"matemáticamente imposible\"",
+          "link": "https://www.elespanol.com/mundo/america/20261031/bolsonaro-insiste-fraude-electoral-dice-resultado-comicios-brasil-matematicamente-imposible/1003744442137_0.html",
           "position": 50,
-          "focus": "Resume su fallecimiento y trayectoria artística destacando sus dos papeles más icónicos, sin entrar en reacciones ni cifras económicas"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "Ian McKellen se despide de Patrick Stewart con un emotivo mensaje: \"Un hombre al que admirar\"",
-          "link": "https://www.20minutos.es/cinemania/noticias/ian-mckellen-despedida-patrick-stewart-emotivo-mensaje-50-anos-amistad_7055303_0.html",
-          "position": 50,
-          "focus": "Destaca la reacción emocional de un compañero de profesión, Ian McKellen, centrándose en el aspecto humano y de homenaje"
+          "focus": "Destaca las declaraciones de Bolsonaro negando la legitimidad del resultado electoral"
         }
       ],
       "rango": 0,
       "discrepancia": "baja",
       "silenciosos": [
+        "20minutos",
+        "ABC",
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Binance sufre un robo histórico de criptomonedas y se investigan sus causas y responsables",
+      "section": "Economia",
+      "facts": [
+        "Binance sufrió un robo de criptomonedas calificado como el mayor de la historia",
+        "Binance está tomando medidas para cubrir las pérdidas",
+        "Se atribuye el ataque a un grupo de hackers vinculado a Corea del Norte llamado TraderTraitor"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "foco en la víctima y su gestión de la crisis",
+        "polo_b": "foco en los atacantes y su identidad"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Las claves del robo del siglo en Binance: qué ocurrió, quién está detrás y cómo puede sobrevivir la empresa",
+          "link": "https://cincodias.elpais.com/criptoactivos/2026-10-31/las-claves-del-robo-del-siglo-en-binance-que-ocurrio-quien-esta-detras-y-como-puede-sobrevivir-la-empresa.html",
+          "position": 25,
+          "focus": "Ofrece una visión panorámica centrada en Binance: qué pasó, quién está detrás y cómo sobrevivirá la empresa, con énfasis en las consecuencias para la compañía."
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Cómo Binance se apresura a cubrir las pérdidas del mayor robo de la historia de las criptomonedas",
+          "link": "https://www.elmundo.es/economia/2026/10/31/6ae4d6cae9cf4ab54a8b4589.html",
+          "position": 15,
+          "focus": "Se centra exclusivamente en la respuesta financiera de Binance para cubrir las pérdidas, omitiendo detalles sobre los autores del ataque."
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "TraderTraitor, los 'hackers' de élite de criptomonedas de Kim Jong-un: así habrían hecho el histórico ciberrobo a Binance",
+          "link": "https://www.elespanol.com/omicrono/tecnologia/20261031/tradertraitor-hackers-elite-criptomonedas-kim-jong-un-hecho-historico-ciberrobo-binance/1003744441301_0.html",
+          "position": 85,
+          "focus": "Pone el foco en los hackers norcoreanos TraderTraitor y su presunta vinculación con Kim Jong-un, destacando la autoría más que las consecuencias para Binance."
+        }
+      ],
+      "rango": 70,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "La Princesa Leonor cumple 21 años",
+      "section": "Sociedad",
+      "facts": [
+        "Leonor cumple 21 años",
+        "El Espanol menciona su vida en Gales, su afición por 'Operación Triunfo' y salidas a McDonald's",
+        "La Vanguardia vincula su trayectoria con su futuro papel como reina"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "enfoque institucional (futura reina)",
+        "polo_b": "enfoque personal/cotidiano",
+        "resumen": "Los medios eligen entre resaltar su destino como heredera de la Corona o su faceta personal y cotidiana como joven de 21 años"
+      },
+      "frames": [
+        {
+          "outlet": "ABC",
+          "headline": "La Princesa Leonor cumple 21 años",
+          "link": "https://www.abc.es/espana/casa-real/princesa-leonor-cumple-anos-altavoz-desencanto-generacional-20261031050855-nt.html",
+          "position": 50,
+          "focus": "Anuncia el hecho del cumpleaños sin añadir enfoque particular, de forma neutra"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Leonor, toda una vida para ser reina",
+          "link": "https://www.lavanguardia.com/local/barcelona/20261031/11672228/leonor-toda-vida-reina.html",
+          "position": 25,
+          "focus": "Enmarca el cumpleaños como un hito en su preparación para ser reina, destacando el peso institucional de su vida"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "La princesa Leonor cumple 21 años: de su vida en Gales a su afición por 'Operación Triunfo' y las salidas a McDonald's",
+          "link": "https://www.elespanol.com/mujer/royals/20261031/princesa-leonor-cumple-anos-vida-gales-aficion-operacion-triunfo-salidas-mcdonalds/1003744440767_0.html",
+          "position": 80,
+          "focus": "Destaca aspectos personales y cotidianos (vida en Gales, gustos musicales, salidas informales) restando peso al rol institucional"
+        }
+      ],
+      "rango": 55,
+      "discrepancia": "media",
+      "silenciosos": [
+        "20minutos",
         "El Mundo",
         "El Pais",
-        "La Vanguardia",
         "eldiario.es"
       ]
     }
