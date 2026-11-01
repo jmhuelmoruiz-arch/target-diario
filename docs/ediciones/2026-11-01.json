@@ -1,0 +1,498 @@
+{
+  "fecha": "2026-11-01T11:28:42.038867+00:00",
+  "esquema": 2,
+  "historias": [
+    {
+      "neutral_headline": "Perfiles de las víctimas del accidente de tren en Urda",
+      "section": "Sociedad",
+      "facts": [
+        "Se produjo un accidente de tren en Urda",
+        "Hubo víctimas mortales en el suceso",
+        "La Vanguardia cifra en 538 las vidas que no llegaron a su destino",
+        "Entre las víctimas descritas por ABC había una madre que viajaba a la boda de su hija, un nazareno y una científica",
+        "Entre las víctimas descritas por 20minutos había empleados de Renfe, una exministra, guardias civiles y una compositora"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Las vidas truncadas en el tren: “Gracias por quererme, por entenderme, por ser el mejor padre del mundo”",
+          "link": "https://elpais.com/espana/2026-11-01/las-vidas-truncadas-en-el-tren-gracias-por-quererme-por-entenderme-por-ser-el-mejor-padre-del-mundo.html",
+          "position": 50,
+          "focus": "Centra el relato en testimonios emotivos y mensajes de despedida de las víctimas, sin detallar cifras ni perfiles concretos"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Una madre que viajaba a la boda de su hija, un nazareno, una brillante científica... Las vidas que se perdieron en Urda",
+          "link": "https://www.abc.es/sociedad/antonio-jose-manuel-ana-historias-detras-tragedia-20261029012927-nt.html",
+          "position": 50,
+          "focus": "Describe perfiles individuales de víctimas (madre, nazareno, científica) como forma de humanizar la tragedia"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Las vidas que segó la tragedia de Urda",
+          "link": "https://www.eldiario.es/castilla-la-mancha/provincias/toledo/vidas-sego-tragedia-urda_1_13626510.html",
+          "position": 50,
+          "focus": "Enfoque general en las vidas perdidas sin detallar número exacto ni perfiles específicos"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Cronología al detalle de 538 vidas que no llegaron a su destino",
+          "link": "https://www.lavanguardia.com/vida/20261101/11672954/cronologia-538-vidas-llegaron-destino.html",
+          "position": 50,
+          "focus": "Aporta una cronología detallada y cifra exacta de 538 víctimas, con enfoque cuantitativo y temporal"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Rostros de la tragedia de Urda: empleados de Renfe, una exministra, guardias civiles, una compositora...",
+          "link": "https://www.20minutos.es/nacional/rostros-tragedia-trenes-urda-exministra-empleados-renfe-reportero-guardias-civiles-compositora_7055129_0.html",
+          "position": 50,
+          "focus": "Enumera perfiles profesionales variados de las víctimas (Renfe, política, seguridad, música) para mostrar diversidad de los afectados"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "El Espanol",
+        "El Mundo"
+      ]
+    },
+    {
+      "neutral_headline": "Accidente ferroviario en el tramo Madrid-Sevilla: análisis de causas y consecuencias",
+      "section": "Sociedad",
+      "facts": [
+        "Se produjo un accidente ferroviario en el tramo Madrid-Sevilla",
+        "El accidente ocurrió en la localidad de Urda",
+        "El choque fue mortal, según eldiario.es",
+        "Hubo una cadena de fallos relacionados con el sistema de señalización, según El País",
+        "Existen incógnitas sin resolver sobre el accidente, según eldiario.es"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "explicacion tecnica neutra",
+        "polo_b": "atribucion de responsabilidad y crisis sistemica",
+        "resumen": "Los medios se dividen entre explicar el funcionamiento tecnico del sistema y senalar fallos evitables o una crisis estructural del modelo ferroviario"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "¿Qué causó el accidente?  La secuencia paso a paso de una cadena de fallos que el sistema no detuvo",
+          "link": "https://elpais.com/espana/2026-11-01/que-causo-el-accidente-la-secuencia-paso-a-paso-de-una-cadena-de-fallos-que-el-sistema-no-detuvo.html",
+          "position": 55,
+          "focus": "Reconstruye la secuencia causal del accidente senalando que el sistema no detuvo la cadena de fallos, con enfoque analitico pero con cierta carga de responsabilidad implicita"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "El sistema de señalización en el tramo Madrid-Sevilla, explicado en gráficos",
+          "link": "https://www.elmundo.es/espana/2026/10/28/6ae236b621efa012638b4600.html",
+          "position": 10,
+          "focus": "Explica de forma puramente tecnica y grafica el funcionamiento del sistema de senalizacion, sin atribuir causas ni responsabilidades"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Accidente en Urda: las cinco incógnitas sin resolver tras un choque mortal y evitable",
+          "link": "https://www.eldiario.es/castilla-la-mancha/accidente-urda-cinco-incognitas-resolver-choque-mortal-evitable_1_13626632.html",
+          "position": 85,
+          "focus": "Plantea preguntas pendientes y califica explicitamente el choque como evitable, cargando el foco en la responsabilidad no esclarecida"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "El modelo ferroviario de España entra en una crisis de difícil solución",
+          "link": "https://www.lavanguardia.com/vida/20261101/11672958/modelo-ferroviario-espana-agrieta-crisis-dificil-solucion.html",
+          "position": 80,
+          "focus": "Amplia el hecho puntual a una critica estructural del modelo ferroviario espanol, hablando de crisis de dificil solucion"
+        }
+      ],
+      "rango": 75,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Espanol"
+      ]
+    },
+    {
+      "neutral_headline": "Puente afronta críticas por la gestión de la crisis del AVE mientras el Gobierno define su respaldo",
+      "section": "Politica",
+      "facts": [
+        "Puente anuncia un plan de refuerzo de la seguridad del AVE",
+        "El Gobierno estudia el cese del presidente de Adif",
+        "Sánchez mantiene a Puente en su cargo para gestionar la crisis de Urda",
+        "Una encuesta citada por El Español sitúa en 74% el apoyo a la dimisión o cese de Puente, con un 59% entre votantes del PSOE",
+        "El PSOE busca reorientar su discurso de campaña hacia la gestión y las propuestas"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "respaldo institucional a Puente",
+        "polo_b": "exigencia de dimisión/cese",
+        "resumen": "Los medios difieren en si enmarcan la crisis como una gestión que el Gobierno sostiene y defiende o como un escándalo que exige la salida de Puente."
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Puente intenta bajar la presión con un gran plan de refuerzo de la seguridad del AVE",
+          "link": "https://elpais.com/espana/2026-11-01/puente-intenta-bajar-la-presion-con-un-gran-plan-de-refuerzo-de-la-seguridad-del-ave.html",
+          "position": 40,
+          "focus": "Destaca la respuesta técnica del ministro (plan de seguridad) y omite las presiones políticas por su continuidad."
+        },
+        {
+          "outlet": "ABC",
+          "headline": "El Gobierno prepara el cese del presidente de Adif para proteger a Puente y a Sánchez",
+          "link": "https://www.abc.es/espana/gobierno-preve-dejar-caer-presidente-adif-cortafuegos-20261030014015-nt.html",
+          "position": 65,
+          "focus": "Señala que el Gobierno sacrificaría al presidente de Adif para proteger a Puente y Sánchez, insinuando responsabilidad política encubierta."
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Sánchez sostiene a Puente para que no dimita por ahora y le ayude a gestionar la gran crisis de Urda",
+          "link": "https://www.eldiario.es/politica/sanchez-sostiene-puente-no-dimita-ahora-le-ayude-gestionar-gran-crisis-urda_1_13628223.html",
+          "position": 55,
+          "focus": "Muestra a Sánchez sosteniendo a Puente como estrategia de gestión de crisis, sin calificar si es correcto o no."
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Un 74% de los españoles, incluido un 59% de votantes del PSOE, piden que Óscar Puente dimita o Sánchez lo cese",
+          "link": "https://www.elespanol.com/espana/politica/20261101/espanoles-incluido-votantes-psoe-piden-oscar-puente-dimita-sanchez-cese/1003744442400_0.html",
+          "position": 85,
+          "focus": "Centra el relato en la opinión pública y la demanda mayoritaria de dimisión o cese, incluso entre votantes propios."
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "El PSOE busca redirigir la 'campaña del amor' hacia la gestión y las propuestas mientras deja a Puente al frente de la crisis",
+          "link": "https://www.20minutos.es/nacional/psoe-busca-redirigir-campana-amor-hacia-gestion-las-propuestas-mientras-deja-puente-frente-crisis_7055541_0.html",
+          "position": 45,
+          "focus": "Pone el foco en la estrategia de comunicación del PSOE, dejando la crisis de Puente como tema secundario a gestionar."
+        }
+      ],
+      "rango": 45,
+      "discrepancia": "media",
+      "silenciosos": [
+        "El Mundo",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "Testimonios sobre el accidente del tren Iryo en Urda: el aviso del maquinista de Angrois y el rescate de una pasajera",
+      "section": "Sociedad",
+      "facts": [
+        "El maquinista del accidente de Angrois aconsejó al operador de Cercanías de Atocha que se aislara de la televisión y la prensa.",
+        "Un guardia civil relata el rescate de Almudena, pasajera sevillana que viajaba en el tren Iryo con destino Urda.",
+        "El Mundo identifica al guardia civil como Salvador y señala que la localizó entre los hierros gracias a su pulsera.",
+        "eldiario.es y El Mundo coinciden en que Almudena fue la única persona que salió con vida de su vagón."
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "El maquinista de Angrois al operador de Atocha: “Que se aísle de la tele y la prensa: le pueden hacer mucho daño”",
+          "link": "https://elpais.com/espana/2026-11-01/el-maquinista-de-angrois-al-operador-de-atocha-que-se-aisle-de-la-tele-y-la-prensa-le-pueden-hacer-mucho-dano.html",
+          "position": 50,
+          "focus": "Centra la pieza en el consejo del maquinista de Angrois al operador de Atocha sobre cómo manejar la presión mediática, sin detallar el rescate de pasajeros."
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Un guardia civil cuenta el rescate de Almudena, la sevillana que viajaba en el Iryo de Urda: \"Fue la única que salió con vida\"",
+          "link": "https://www.eldiario.es/andalucia/guardia-civil-cuenta-rescate-almudena-sevillana-viajaba-iryo-urda-unica-salio-vida_1_13629494.html",
+          "position": 50,
+          "focus": "Relata el testimonio de un guardia civil sobre el rescate de Almudena, destacando que fue la única superviviente, sin mencionar el episodio de Angrois."
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Salvador, el guardia civil que rescató a Almudena de entre los hierros gracias a su pulsera: \"Fue la única que salió viva del vagón\"",
+          "link": "https://www.elmundo.es/espana/2026/10/31/6ae60007e4d4d89d158b45b2.html",
+          "position": 50,
+          "focus": "Amplía el testimonio del guardia civil (nombrado Salvador) con el detalle de la pulsera que permitió identificar a Almudena, coincidiendo en que fue la única superviviente del vagón."
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Espanol",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "Las elecciones legislativas de EEUU se interpretan como un momento clave para el futuro político de Trump",
+      "section": "Internacional",
+      "facts": [
+        "Estados Unidos celebra elecciones legislativas",
+        "El Pais vincula la votacion con el futuro del trumpismo",
+        "La Vanguardia señala que Trump plantea los comicios como un plebiscito sobre su mandato",
+        "El Mundo identifica una dimension religiosa en la contienda electoral",
+        "eldiario.es informa sobre Abdul El-Sayed, candidato progresista al Senado por Michigan, señalado por Trump"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "Referendum sobre Trump",
+        "polo_b": "Batalla cultural/identitaria",
+        "resumen": "Unos medios centran la eleccion en el juicio sobre Trump y su poder, otros en frentes culturales o candidatos concretos ajenos a ese eje."
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Estados Unidos somete a referéndum el final del trumpismo",
+          "link": "https://elpais.com/us/2026-11-01/estados-unidos-somete-a-referendum-el-final-del-trumpismo.html",
+          "position": 15,
+          "focus": "Presenta la eleccion como un veredicto directo sobre la continuidad del trumpismo, omitiendo otros ejes como religion o candidatos locales"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Jesucristo, John Wayne y la batalla religiosa en las elecciones estadounidenses",
+          "link": "https://www.elmundo.es/internacional/2026/11/01/6ae4adace9cf4a7f048b4590.html",
+          "position": 90,
+          "focus": "Desplaza el foco hacia una batalla cultural y religiosa (Jesucristo, John Wayne), dejando en segundo plano el juicio sobre Trump mismo"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "\"Si El-Sayed puede ganar en Michigan, cualquiera puede ganar en cualquier lugar\": el candidato progresista a senador más odiado por Trump",
+          "link": "https://www.eldiario.es/internacional/si-sayed-ganar-michigan-ganar-lugar-candidato-progresista-senador-odiado-trump_1_13623298.html",
+          "position": 65,
+          "focus": "Centra la historia en un candidato progresista concreto y su enfrentamiento con Trump, more personalizando el relato que convirtiendolo en referendo nacional"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Trump encara las legislativas como plebiscito sobre su mandato",
+          "link": "https://www.lavanguardia.com/internacional/20261101/11672928/plebiscito-donald-trump.html",
+          "position": 20,
+          "focus": "Enmarca la eleccion explicitamente como plebiscito sobre la gestion de Trump, enfatizando su figura como eje central"
+        }
+      ],
+      "rango": 75,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Espanol"
+      ]
+    },
+    {
+      "neutral_headline": "Tres piezas informativas sin relación temática entre sí: Mägo de Oz, ciclismo e influencers en política",
+      "section": "Cultura",
+      "facts": [
+        "Mägo de Oz ha vivido demandas y disputas internas por el poder",
+        "Existe una película sobre Mägo de Oz que ha reabierto conflictos del grupo",
+        "Un agente apodado 'El pastelero' ha logrado un contrato para el ciclista Benjamín Noval",
+        "Hay influencers presentes en el ámbito de la política"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Mägo de Oz, muy grandes, muy conflictivos: demandas, disputas por el poder y una película que reabre las heridas del grupo heavy",
+          "link": "https://elpais.com/cultura/2026-11-01/mago-de-oz-muy-grandes-muy-conflictivos-demandas-disputas-por-el-poder-y-una-pelicula-que-reabre-las-heridas-del-grupo-heavy.html",
+          "position": 50,
+          "focus": "Se centra en los conflictos internos históricos del grupo Mägo de Oz y cómo una película los reaviva"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Así es 'El pastelero', el superagente del ciclismo que ha logrado un contrato galáctico para Benjamín Noval",
+          "link": "https://www.elmundo.es/deportes/ciclismo/2026/10/31/6ae222c3e4d4d831028b45c3.html",
+          "position": 50,
+          "focus": "Se centra en la figura del agente deportivo y el contrato logrado para un ciclista"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Influencers, el lado salvaje de la política",
+          "link": "https://www.lavanguardia.com/politica/20261101/11672785/influencers-lado-salvaje-politica.html",
+          "position": 50,
+          "focus": "Se centra en la presencia de influencers en el ámbito político"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Espanol",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Heidi Klum lleva un disfraz de su propia mano en su fiesta de Halloween",
+      "section": "Cultura",
+      "facts": [
+        "Heidi Klum se disfrazó de su propia mano para Halloween",
+        "El evento corresponde a su fiesta anual de Halloween",
+        "El disfraz es descrito como espeluznante/terrorífico"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Heidi Klum se disfraza de su propia mano para Halloween",
+          "link": "https://elpais.com/us/entretenimiento/2026-11-01/heidi-klum-se-disfraza-de-su-propia-mano-para-halloween.html",
+          "position": 50,
+          "focus": "Describe el disfraz concreto (mano) sin calificativos adicionales"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Heidi Klum lo vuelve a hacer y se supera por Halloween 2026: espeluznante con su disfraz de mano",
+          "link": "https://www.abc.es/gente/heidi-klum-vuelve-supera-halloween-2026-espeluznante-20261101095308-nt.html",
+          "position": 50,
+          "focus": "Enfatiza la trayectoria repetida de Klum en superarse cada año y detalla el disfraz de mano"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Heidi Klum se supera con el disfraz más terrorífico en su icónica fiesta de Halloween",
+          "link": "https://www.20minutos.es/mujer/moda/se-le-va-las-manos-heidi-klum-se-supera-con-disfraz-mas-terrorifico-su-iconica-fiesta-halloween_7055917_0.html",
+          "position": 50,
+          "focus": "Resalta el carácter terrorífico del disfraz dentro de su fiesta icónica, sin especificar qué representa"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "El Espanol",
+        "El Mundo",
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Tres piezas económicas distintas: ansiedad juvenil, costes energéticos industriales e inversión en alta velocidad",
+      "section": "Economia",
+      "facts": [
+        "El Pais aborda la angustia económica de los jóvenes en Europa",
+        "La Vanguardia señala sobrecostes energéticos para la gran industria de cara a fin de año",
+        "El Espanol identifica inflación, desgaste y presión sobre infraestructura como causas de la caída en inversión en alta velocidad"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "La angustia económica revoluciona a los jóvenes: la Gran Insatisfacción recorre Europa",
+          "link": "https://elpais.com/ideas/2026-11-01/la-angustia-economica-revoluciona-a-los-jovenes-la-gran-insatisfaccion-recorre-europa.html",
+          "position": 50,
+          "focus": "Centra el foco en el malestar económico juvenil como fenómeno social europeo, sin relación directa con las otras dos piezas"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "La gran industria se enfrenta a un fin de año con fuertes sobrecostes energéticos",
+          "link": "https://www.lavanguardia.com/economia/20261101/11672968/gran-industria-enfrenta-fuertes-sobrecostes-energeticos-finales-ano.html",
+          "position": 50,
+          "focus": "Se enfoca en el impacto de costes energéticos sobre la industria pesada, un tema sectorial distinto"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Inflación, desgaste y más presión sobre la infraestructura: las claves para entender por qué la inversión en la alta velocidad disminuye",
+          "link": "https://www.elespanol.com/invertia/observatorios/movilidad/20261101/inflacion-desgaste-presion-infraestructura-claves-entender-inversion-alta-velocidad-disminuye/1003744442049_0.html",
+          "position": 50,
+          "focus": "Analiza causas técnicas y económicas de la menor inversión en infraestructura ferroviaria de alta velocidad"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Mundo",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Menores implicados en disturbios enfrentan consecuencias legales mientras se debate el papel de un reto viral de TikTok y teorías psicológicas sobre la violencia juvenil",
+      "section": "Sociedad",
+      "facts": [
+        "Hay menores detenidos por disturbios",
+        "Existe un fenómeno de TikTok llamado 'curis' vinculado a los hechos",
+        "Los menores han sido citados o procesados judicialmente",
+        "Se discuten teorías psicológicas como el 'efecto Lucifer' y la de las 'ventanas rotas' para explicar la violencia"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "responsabilidad individual y consecuencias legales",
+        "polo_b": "explicación estructural/social del fenómeno",
+        "resumen": "Los medios difieren en si el foco debe estar en la responsabilidad personal de los menores ante la justicia o en las causas sociales y psicológicas que explican la violencia colectiva"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Del ‘reel’ al juzgado: el golpe de realidad a los menores detenidos por los disturbios",
+          "link": "https://elpais.com/espana/catalunya/2026-11-01/del-reel-al-juzgado-el-golpe-de-realidad-a-los-menores-detenidos-por-los-disturbios.html",
+          "position": 20,
+          "focus": "Centra el relato en el proceso judicial y las consecuencias personales que enfrentan los menores detenidos, sin profundizar en causas sociales"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "El fenómeno 'curis' de TikTok, de broma de instituto a delito: \"Si el alumno no asume sus responsabilidades, lo harán sus tutores\"",
+          "link": "https://www.eldiario.es/sociedad/fenomeno-curis-tiktok-broma-instituto-delito-si-alumno-no-asume-responsabilidades-haran-tutores_1_13622459.html",
+          "position": 45,
+          "focus": "Describe el origen viral del fenómeno 'curis' en TikTok pero también recoge la idea de que los alumnos deben asumir su responsabilidad, equilibrando causa social e individual"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Del \"efecto Lucifer\" a la teoría de las ventanas rotas: la psicología tras la violencia juvenil sin reivindicación",
+          "link": "https://www.20minutos.es/nacional/efecto-lucifer-teoria-las-ventanas-rotas-psicologia-detras-violencia-juvenil-sin-reivindicacion_7055606_0.html",
+          "position": 75,
+          "focus": "Prioriza marcos psicológicos y sociológicos (efecto Lucifer, ventanas rotas) para explicar la violencia juvenil, restando peso a la responsabilidad individual"
+        }
+      ],
+      "rango": 55,
+      "discrepancia": "media",
+      "silenciosos": [
+        "ABC",
+        "El Espanol",
+        "El Mundo",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "Crisis de regímenes autoritarios y auge de movimientos de protesta en el mundo",
+      "section": "Internacional",
+      "facts": [
+        "Existe un movimiento de protesta sin líderes definidos en Serbia",
+        "Varios dirigentes autoritarios o 'hombres fuertes' atraviesan una semana de dificultades políticas"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "protagonismo de los lideres/dictadores en crisis",
+        "polo_b": "protagonismo del movimiento popular que los desafia",
+        "resumen": "Los medios difieren en si el foco de la historia son los regimenes autoritarios que se tambalean o la ciudadania/movimiento que los confronta."
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "World in Progress: en busca de claves de progreso en medio del desorden mundial",
+          "link": "https://elpais.com/internacional/2026-11-01/world-in-progress-en-busca-de-claves-de-progreso-en-medio-del-desorden-mundial.html",
+          "position": 50,
+          "focus": "Encuadre generico y analitico sobre 'el desorden mundial', sin senalar protagonistas concretos ni tomar partido explicito."
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "La semana negra de los hombres fuertes",
+          "link": "https://www.elmundo.es/internacional/2026/11/01/6ae5b6ae21efa0b9318b456d.html",
+          "position": 20,
+          "focus": "Centra la atencion en los propios lideres autoritarios ('hombres fuertes') y su mala semana, sin mencionar a quienes los desafian."
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Una revolución sin líderes se extiende por Serbia: por qué el mundo debería prestar atención",
+          "link": "https://www.eldiario.es/internacional/theguardian/revolucion-lideres-extiende-serbia-mundo-deberia-prestar-atencion_129_13625213.html",
+          "position": 85,
+          "focus": "Pone el foco en la ciudadania serbia y su revolucion 'sin lideres', presentandola como protagonista y modelo a observar."
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Con disculpas a los dictadores",
+          "link": "https://www.lavanguardia.com/opinion/20261101/11672896/disculpas-dictadores.html",
+          "position": 15,
+          "focus": "Tono ironico dirigido a los dictadores como sujeto central, sugiriendo una critica a quienes les han sido indulgentes, sin mencionar a los movimientos opositores."
+        }
+      ],
+      "rango": 70,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Espanol"
+      ]
+    }
+  ]
+}
