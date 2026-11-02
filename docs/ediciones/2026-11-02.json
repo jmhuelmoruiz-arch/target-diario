@@ -1,0 +1,442 @@
+{
+  "fecha": "2026-11-02T12:48:17.524262+00:00",
+  "esquema": 2,
+  "historias": [
+    {
+      "neutral_headline": "Sánchez anuncia un decreto con ayudas e indemnizaciones anticipadas para las víctimas del accidente de Urda",
+      "section": "Politica",
+      "facts": [
+        "Sánchez anunció ayudas específicas para las víctimas del accidente de Urda (El País)",
+        "Se adelantarán las indemnizaciones a las víctimas (El País)",
+        "El Gobierno anticipará las indemnizaciones a las víctimas (eldiario.es)",
+        "El Gobierno doblará las ayudas obligatorias a las víctimas (eldiario.es)",
+        "El decreto de ayudas prevé bajas específicas (20minutos)",
+        "El decreto de ayudas prevé indemnizaciones anticipadas (20minutos)"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Sánchez anuncia ayudas específicas y el adelanto de las indemnizaciones para las víctimas del accidente de Urda",
+          "link": "https://elpais.com/internacional/2026-11-02/sanchez-debemos-recuperar-la-confianza-en-la-alta-velocidad-cuanto-antes-y-cueste-lo-que-cueste.html",
+          "position": 50,
+          "focus": "Centra el anuncio en Sánchez como figura que comunica las medidas, sin detallar el alcance económico exacto"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "El Gobierno anticipará las indemnizaciones y doblará las ayudas obligatorias a las víctimas del accidente de Urda",
+          "link": "https://www.eldiario.es/catalunya/gobierno-anticipara-indemnizaciones-doblara-ayudas-obligatorias-victimas-accidente-urda_1_13631241.html",
+          "position": 50,
+          "focus": "Pone el foco en el Gobierno como actor y añade el dato de que las ayudas obligatorias se duplicarán"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Sánchez anuncia que el decreto de ayudas para las víctimas de Urda prevé bajas específicas e indemnizaciones anticipadas",
+          "link": "https://www.20minutos.es/nacional/sanchez-anuncia-que-decreto-ayudas-para-las-victimas-urda-preve-bajas-especificas-indemnizaciones-anticipadas_7056166_0.html",
+          "position": 50,
+          "focus": "Atribuye el anuncio a Sánchez y destaca un detalle no mencionado por los otros: las bajas específicas incluidas en el decreto"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "ABC",
+        "El Espanol",
+        "El Mundo",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "Feijóo pide explicaciones al Gobierno tras el accidente de trenes en Urda, Toledo",
+      "section": "Politica",
+      "facts": [
+        "Se ha producido un accidente de trenes en Urda, Toledo",
+        "Feijóo ha pedido a Sánchez que comparezca",
+        "Feijóo ha mostrado su apoyo a maquinistas y controladores",
+        "Feijóo ha dirigido declaraciones críticas al ministro Puente sobre las familias afectadas"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Última hora del accidente de trenes de Urda, Toledo, en directo | Feijóo acusa a Sánchez de “reducir todo el sistema ferroviario a un solo trabajador” y le pide que comparezca",
+          "link": "https://elpais.com/espana/2026-11-02/ultima-hora-y-reacciones-tras-el-accidente-de-trenes-de-urda-toledo-en-directo.html",
+          "position": 50,
+          "focus": "Centra en la acusación de Feijóo sobre la gestión del sistema ferroviario y su petición de comparecencia"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Feijóo pide a Sánchez que «dé la cara» y muestra su apoyo a los maquinistas y controladores",
+          "link": "https://www.abc.es/espana/accidente-tren-toledo-directo-comparecencia-oscar-puente-20261030104605-di.html",
+          "position": 50,
+          "focus": "Destaca la petición de Feijóo de que Sánchez dé explicaciones y su respaldo a los trabajadores del sector"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Feijóo a Puente: \"No señor ministro, el calvario no es de usted, es el de las familias que están esperando un cuerpo\"",
+          "link": "https://www.elespanol.com/espana/politica/20261102/feijoo-puente-no-senor-ministro-calvario-no-usted-familias-esperando-cuerpo/1003744443274_0.html",
+          "position": 50,
+          "focus": "Recoge la confrontación directa de Feijóo con Puente centrada en el sufrimiento de las familias de las víctimas"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "El Mundo",
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "La Palma sufre un apagón general y recupera el suministro eléctrico tras varias horas",
+      "section": "Sociedad",
+      "facts": [
+        "La Palma sufrió un apagón general que dejó a la isla sin suministro eléctrico",
+        "El suministro fue restablecido",
+        "El Pais y El Mundo cifran la duración del apagón en casi cuatro horas",
+        "La Vanguardia no precisa la duración exacta, solo indica que fue 'durante horas'"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Restablecido el suministro eléctrico en La Palma tras un apagón de cuatro horas",
+          "link": "https://elpais.com/economia/2026-11-02/la-isla-de-la-palma-sufre-un-apagon-general-que-deja-a-la-isla-sin-suministro-electrico.html",
+          "position": 50,
+          "focus": "Destaca el restablecimiento del suministro y precisa la duración del apagón en cuatro horas"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "La Palma sufre un apagón general que deja a la isla sin suministro eléctrico durante casi cuatro horas",
+          "link": "https://www.elmundo.es/espana/2026/11/02/6ae84c15e85ece0f5a8b4582.html",
+          "position": 50,
+          "focus": "Destaca el apagón en sí y su alcance general, precisando la duración en casi cuatro horas"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Restablecido el servicio en La Palma tras un apagón que ha dejado a la isla sin luz durante horas",
+          "link": "https://www.lavanguardia.com/vida/20261102/11673822/isla-palma-sufre-apagon-general-deja-50-500-habitantes-isla-oscuras.html",
+          "position": 50,
+          "focus": "Destaca el restablecimiento del servicio sin precisar la duración exacta del corte"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Espanol",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Nueve personas mueren al estrellarse una aeronave privada en Palm Beach, Florida",
+      "section": "Sociedad",
+      "facts": [
+        "El accidente ocurrió en Florida, zona de Palm Beach",
+        "Murieron nueve personas",
+        "La aeronave era de uso privado",
+        "Existen videos del momento del accidente"
+      ],
+      "tipo_divergencia": "cronologica",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Al menos nueve personas mueren al estrellarse un avión privado en Florida",
+          "link": "https://elpais.com/us/2026-11-01/personas-mueren-al-estrellarse-un-jet-privado-en-florida.html",
+          "position": 50,
+          "focus": "Usa cifra preliminar 'al menos nueve', posible cierre temprano de la noticia"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Nueve personas mueren al estrellarse un jet privado en Palm Beach",
+          "link": "https://www.lavanguardia.com/internacional/20261101/11673544/jet-privado-estrella-nueve-personas-bordo-barrio-florida.html",
+          "position": 50,
+          "focus": "Confirma la cifra exacta de nueve fallecidos y ubica el lugar preciso, Palm Beach"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Los impactantes vídeos del accidente de una avioneta con nueve pasajeros",
+          "link": "https://www.20minutos.es/internacional/los-impactantes-videos-accidente-una-avioneta-con-9-pasajeros-florida_7056102_0.html",
+          "position": 50,
+          "focus": "Centra la pieza en el material audiovisual del accidente, con la cifra de pasajeros"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "ABC",
+        "El Espanol",
+        "El Mundo",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "El primer ministro de Bélgica dimite tras el fracaso de la negociación presupuestaria",
+      "section": "Internacional",
+      "facts": [
+        "El primer ministro de Bélgica presentó su dimisión",
+        "La dimisión se produce tras el fracaso en la negociación de los presupuestos",
+        "Según El Mundo, el Rey ha dejado la dimisión en suspenso hasta el viernes"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "El primer ministro de Bélgica presenta su dimisión por el colapso de la negociación presupuestaria",
+          "link": "https://elpais.com/internacional/2026-11-02/crisis-en-el-gobierno-de-belgica-por-el-fracaso-de-la-negociacion-presupuestaria.html",
+          "position": 50,
+          "focus": "Se centra en la dimisión y su causa, sin mencionar la respuesta del Rey"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "El primer ministro de Bélgica presenta su dimisión tras \"el fracaso en la negociación de los presupuestos\" y el Rey la deja en suspenso hasta el viernes",
+          "link": "https://www.elmundo.es/internacional/2026/11/02/6ae85b41e9cf4abb738b4583.html",
+          "position": 50,
+          "focus": "Añade el detalle de que el Rey ha dejado la dimisión en suspenso hasta el viernes"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "El primer ministro de Bélgica presenta su dimisión tras el fracaso de los presupuestos",
+          "link": "https://www.abc.es/internacional/primer-ministro-belgica-presenta-dimision-20261102101648-nt.html",
+          "position": 50,
+          "focus": "Se centra en la dimisión y su causa, de forma similar a El País, sin mencionar al Rey"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "El Espanol",
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Un ciberataque afecta a los sistemas de refrigeración de supermercados en varios países europeos",
+      "section": "Economia",
+      "facts": [
+        "Un ciberataque afectó a sistemas de refrigeración de supermercados en Europa",
+        "El Pais señala pérdidas millonarias en decenas de supermercados de al menos siete países",
+        "eldiario.es señala pérdidas millonarias en supermercados de Bélgica, Suecia y Luxemburgo",
+        "ABC indica que el ciberataque alteró los sistemas de refrigeración sin especificar pérdidas económicas",
+        "El ataque provocó un aumento de la temperatura en las neveras según El Pais"
+      ],
+      "tipo_divergencia": "cronologica",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Un nuevo ciberataque causa pérdidas millonarias en decenas de supermercados de al menos siete países europeos tras disparar la temperatura de las neveras",
+          "link": "https://elpais.com/tecnologia/2026-11-02/un-ciberataque-causa-perdidas-millonarias-en-decenas-de-supermercados-en-belgica-y-suecia.html",
+          "position": 50,
+          "focus": "Detalla pérdidas millonarias y un alcance amplio de al menos siete países, con el efecto técnico concreto (subida de temperatura)"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Un nuevo ciberataque altera los sistemas de refrigeración de supermercados de varios países europeos",
+          "link": "https://www.abc.es/tecnologia/nuevo-ciberataque-altera-sistemas-refrigeracion-supermercados-suecia-20261102114132-nt.html",
+          "position": 50,
+          "focus": "Describe el hecho de forma más general, centrado en la alteración de sistemas, sin cuantificar países ni pérdidas"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Un nuevo ciberataque deja pérdidas millonarias en supermercados de Bélgica, Suecia y Luxemburgo",
+          "link": "https://www.eldiario.es/economia/nuevo-ciberataque-deja-perdidas-millonarias-supermercados-belgica-suecia_1_13631596.html",
+          "position": 50,
+          "focus": "Aporta pérdidas millonarias pero acota el alcance a tres países concretos"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "El Espanol",
+        "El Mundo",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "Binance reanuda retiradas de fondos tras un robo informático y los usuarios sacan fondos",
+      "section": "Economia",
+      "facts": [
+        "Binance reanudó las retiradas de fondos tras un robo informático",
+        "El Pais indica que los clientes sacaron 4.700 millones de dólares",
+        "El Espanol indica que los usuarios retiraron mas de 3.640 millones de dólares",
+        "eldiario.es indica que el hackeo fue de 6.300 millones de dólares y que los inversores retiraron miles de millones de dólares"
+      ],
+      "tipo_divergencia": "cronologica",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Binance reanuda las retiradas de fondos tras el histórico robo y los clientes sacan 4.700 millones de dólares",
+          "link": "https://cincodias.elpais.com/criptoactivos/2026-11-02/binance-reanuda-las-retiradas-de-fondos-tras-el-historico-robo-y-los-clientes-sacan-4700-millones-de-dolares.html",
+          "position": 50,
+          "focus": "Centra en la cifra de retiradas (4.700 millones) tras la reanudacion del servicio"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Los inversores retiran miles de millones de dólares de Binance tras el 'hackeo' récord de 6.300 millones",
+          "link": "https://www.eldiario.es/economia/inversores-retiran-miles-millones-dolares-binance-hackeo-record-6-300-millones_1_13631115.html",
+          "position": 50,
+          "focus": "Destaca la magnitud del hackeo (6.300 millones) como marco principal y menciona retiradas sin cifra exacta"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Los usuarios de Binance retiran más de 3.640 millones de dólares tras el ciberrobo",
+          "link": "https://www.elespanol.com/invertia/mercados/20261102/usuarios-binance-retiran-millones-dolares-ciberrobo/1003744443032_0.html",
+          "position": 50,
+          "focus": "Reporta una cifra de retiradas mas baja (3.640 millones), posiblemente con corte temporal distinto"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Mundo",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "Siete muertos en una patera o cayuco con destino a Lanzarote rescatada por Salvamento Marítimo",
+      "section": "Sociedad",
+      "facts": [
+        "Al menos siete personas murieron en una embarcación que se dirigía a Lanzarote",
+        "Salvamento Marítimo participó en el rescate",
+        "El Mundo cifra en casi 140 los ocupantes de la embarcación"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Siete muertos en un cayuco rescatado por Salvamento Marítimo en Lanzarote",
+          "link": "https://elpais.com/espana/2026-11-02/siete-fallecidos-en-un-cayuco-rescatado-por-salvamento-maritimo-en-lanzarote.html",
+          "position": 50,
+          "focus": "Centra el titular en el rescate de Salvamento Marítimo y la cifra de fallecidos, sin mencionar el total de ocupantes"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Al menos siete muertos en una patera con casi 140 ocupantes que se dirigía a Lanzarote",
+          "link": "https://www.elmundo.es/espana/2026/11/02/6ae85328e85ece854c8b4585.html",
+          "position": 50,
+          "focus": "Añade el dato del número total de ocupantes (casi 140), ampliando la magnitud del suceso"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Al menos siete muertos en una patera que se dirigía a Lanzarote",
+          "link": "https://www.eldiario.es/canariasahora/migraciones/siete-fallecidos-patera-dirigia-lanzarote_1_13631179.html",
+          "position": 50,
+          "focus": "Se limita a confirmar la cifra de fallecidos y el destino de la embarcación, sin detalles adicionales"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Espanol",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "Detenido un hombre por la muerte de una mujer en Murcia",
+      "section": "Sociedad",
+      "facts": [
+        "Un hombre fue detenido en Murcia",
+        "La muerte de una mujer está relacionada con la detención",
+        "El Pais y eldiario.es especifican que la mujer murió apuñalada en la calle"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Detenido un hombre por matar a puñaladas a una mujer en plena calle en Murcia",
+          "link": "https://elpais.com/espana/2026-11-02/detenido-un-hombre-por-matar-a-punaladas-a-una-mujer-en-plena-calle-en-murcia.html",
+          "position": 50,
+          "focus": "Incluye el metodo (puñaladas) y el lugar (plena calle)"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Detenido un hombre por la muerte de una mujer en Murcia",
+          "link": "https://www.abc.es/espana/murcia/detenido-hombre-muerte-mujer-anos-barrio-murciano-20261102115306-nt.html",
+          "position": 50,
+          "focus": "Version mas escueta, omite metodo y detalle del lugar"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Detenido un hombre por matar a puñaladas a una mujer en una calle de Murcia",
+          "link": "https://www.eldiario.es/murcia/sociedad/mujer-33-anos-muere-apunalada-plena-luz-dia-barrio-fama-murcia_1_13631682.html",
+          "position": 50,
+          "focus": "Incluye el metodo (puñaladas) y especifica una calle de Murcia"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "El Espanol",
+        "El Mundo",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "Perfiles de las víctimas y testimonios del accidente de tren en Urda",
+      "section": "Sociedad",
+      "facts": [
+        "Hubo un accidente de tren en Urda",
+        "Entre las víctimas hay una mujer que iba a la boda de su hija",
+        "Entre las víctimas hay una ejecutiva próxima a jubilarse",
+        "Entre las víctimas hay un hombre descrito como héroe que iba a ser padre",
+        "Entre las víctimas hay una científica",
+        "Entre las víctimas hay un trabajador portugués de Iryo",
+        "Entre las víctimas hay una premio nacional de música",
+        "Entre las víctimas hay una directiva",
+        "Álvaro era instructor de los maquinistas del AVE",
+        "Álvaro relató su última conversación antes del accidente, mencionando la frase 'a ver qué nos toca hoy en la ruleta rusa'"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "Las vidas rotas del accidente de Urda: la mujer que iba a la boda de su hija, la ejecutiva a punto de jubilarse, el héroe que iba a ser padre, la científica que iba a por un premio...",
+          "link": "https://www.elmundo.es/espana/2026/11/02/6ae79ce3fdddffdf6b8b4594.html",
+          "position": 50,
+          "focus": "Enumera varios perfiles de víctimas destacando sus planes vitales truncados, sin atribuir responsabilidades"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "El trabajador portugués del Iryo, una premio nacional de música, una directiva de éxito... Las vidas que se perdieron en Urda",
+          "link": "https://www.abc.es/sociedad/antonio-jose-manuel-ana-historias-detras-tragedia-20261029012927-nt.html",
+          "position": 50,
+          "focus": "Similar a El Mundo, presenta perfiles de víctimas con énfasis en sus logros profesionales y personales"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "\"A ver qué nos toca hoy en la ruleta rusa\": Álvaro, instructor de los maquinistas del AVE, revela su última conversación",
+          "link": "https://www.elespanol.com/espana/20261102/ver-toca-hoy-ruleta-rusa-alvaro-instructor-maquinistas-ave-revela-ultima-conversacion/1003744441503_0.html",
+          "position": 50,
+          "focus": "Se centra en el testimonio de un instructor superviviente, aportando una frase impactante sobre el riesgo laboral percibido"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "El Pais",
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    }
+  ]
+}
