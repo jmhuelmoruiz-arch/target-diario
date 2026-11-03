@@ -1,256 +1,557 @@
 {
-  "fecha": "2026-11-02T12:48:17.524262+00:00",
+  "fecha": "2026-11-03T12:15:25.340218+00:00",
   "esquema": 2,
   "historias": [
     {
-      "neutral_headline": "Sánchez anuncia un decreto con ayudas e indemnizaciones anticipadas para las víctimas del accidente de Urda",
+      "neutral_headline": "Puente anuncia medidas de seguridad y ayudas tras el accidente de trenes en Urda (Toledo)",
       "section": "Politica",
       "facts": [
-        "Sánchez anunció ayudas específicas para las víctimas del accidente de Urda (El País)",
-        "Se adelantarán las indemnizaciones a las víctimas (El País)",
-        "El Gobierno anticipará las indemnizaciones a las víctimas (eldiario.es)",
-        "El Gobierno doblará las ayudas obligatorias a las víctimas (eldiario.es)",
-        "El decreto de ayudas prevé bajas específicas (20minutos)",
-        "El decreto de ayudas prevé indemnizaciones anticipadas (20minutos)"
+        "Hubo un accidente de trenes en Urda, Toledo",
+        "El Pais informa de que un segundo controlador supervisara cada orden a los maquinistas desde los centros de control de Adif",
+        "El Mundo explica en graficos el sistema de senalizacion del tramo Madrid-Sevilla",
+        "ABC informa de que Puente anuncio la creacion de un software para los centros de control y una IA para supervisar el sistema",
+        "eldiario.es informa de que Puente anuncio un plan de refuerzo de la seguridad de la alta velocidad y la reduccion de trenes en la linea Madrid-Sevilla",
+        "La Vanguardia informa de que Puente comparecio tras el Consejo de Ministros",
+        "El Espanol informa de que el Consejo de Ministros aprobo ayudas para las victimas del accidente de Urda",
+        "20minutos informa de que Puente anuncio un paquete de 30 millones de euros en ayudas para los afectados"
       ],
       "tipo_divergencia": "ninguna",
       "eje": null,
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "Sánchez anuncia ayudas específicas y el adelanto de las indemnizaciones para las víctimas del accidente de Urda",
-          "link": "https://elpais.com/internacional/2026-11-02/sanchez-debemos-recuperar-la-confianza-en-la-alta-velocidad-cuanto-antes-y-cueste-lo-que-cueste.html",
+          "headline": "Última hora del accidente de trenes de Urda, en Toledo, en directo | Un segundo controlador tendrá que supervisar cada orden a los maquinistas desde los centros de control de Adif",
+          "link": "https://elpais.com/espana/2026-11-03/ultima-hora-del-accidente-de-trenes-de-urda-en-toledo-en-directo.html",
           "position": 50,
-          "focus": "Centra el anuncio en Sánchez como figura que comunica las medidas, sin detallar el alcance económico exacto"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "El Gobierno anticipará las indemnizaciones y doblará las ayudas obligatorias a las víctimas del accidente de Urda",
-          "link": "https://www.eldiario.es/catalunya/gobierno-anticipara-indemnizaciones-doblara-ayudas-obligatorias-victimas-accidente-urda_1_13631241.html",
-          "position": 50,
-          "focus": "Pone el foco en el Gobierno como actor y añade el dato de que las ayudas obligatorias se duplicarán"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "Sánchez anuncia que el decreto de ayudas para las víctimas de Urda prevé bajas específicas e indemnizaciones anticipadas",
-          "link": "https://www.20minutos.es/nacional/sanchez-anuncia-que-decreto-ayudas-para-las-victimas-urda-preve-bajas-especificas-indemnizaciones-anticipadas_7056166_0.html",
-          "position": 50,
-          "focus": "Atribuye el anuncio a Sánchez y destaca un detalle no mencionado por los otros: las bajas específicas incluidas en el decreto"
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "ABC",
-        "El Espanol",
-        "El Mundo",
-        "La Vanguardia"
-      ]
-    },
-    {
-      "neutral_headline": "Feijóo pide explicaciones al Gobierno tras el accidente de trenes en Urda, Toledo",
-      "section": "Politica",
-      "facts": [
-        "Se ha producido un accidente de trenes en Urda, Toledo",
-        "Feijóo ha pedido a Sánchez que comparezca",
-        "Feijóo ha mostrado su apoyo a maquinistas y controladores",
-        "Feijóo ha dirigido declaraciones críticas al ministro Puente sobre las familias afectadas"
-      ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "Última hora del accidente de trenes de Urda, Toledo, en directo | Feijóo acusa a Sánchez de “reducir todo el sistema ferroviario a un solo trabajador” y le pide que comparezca",
-          "link": "https://elpais.com/espana/2026-11-02/ultima-hora-y-reacciones-tras-el-accidente-de-trenes-de-urda-toledo-en-directo.html",
-          "position": 50,
-          "focus": "Centra en la acusación de Feijóo sobre la gestión del sistema ferroviario y su petición de comparecencia"
-        },
-        {
-          "outlet": "ABC",
-          "headline": "Feijóo pide a Sánchez que «dé la cara» y muestra su apoyo a los maquinistas y controladores",
-          "link": "https://www.abc.es/espana/accidente-tren-toledo-directo-comparecencia-oscar-puente-20261030104605-di.html",
-          "position": 50,
-          "focus": "Destaca la petición de Feijóo de que Sánchez dé explicaciones y su respaldo a los trabajadores del sector"
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "Feijóo a Puente: \"No señor ministro, el calvario no es de usted, es el de las familias que están esperando un cuerpo\"",
-          "link": "https://www.elespanol.com/espana/politica/20261102/feijoo-puente-no-senor-ministro-calvario-no-usted-familias-esperando-cuerpo/1003744443274_0.html",
-          "position": 50,
-          "focus": "Recoge la confrontación directa de Feijóo con Puente centrada en el sufrimiento de las familias de las víctimas"
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "20minutos",
-        "El Mundo",
-        "La Vanguardia",
-        "eldiario.es"
-      ]
-    },
-    {
-      "neutral_headline": "La Palma sufre un apagón general y recupera el suministro eléctrico tras varias horas",
-      "section": "Sociedad",
-      "facts": [
-        "La Palma sufrió un apagón general que dejó a la isla sin suministro eléctrico",
-        "El suministro fue restablecido",
-        "El Pais y El Mundo cifran la duración del apagón en casi cuatro horas",
-        "La Vanguardia no precisa la duración exacta, solo indica que fue 'durante horas'"
-      ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "Restablecido el suministro eléctrico en La Palma tras un apagón de cuatro horas",
-          "link": "https://elpais.com/economia/2026-11-02/la-isla-de-la-palma-sufre-un-apagon-general-que-deja-a-la-isla-sin-suministro-electrico.html",
-          "position": 50,
-          "focus": "Destaca el restablecimiento del suministro y precisa la duración del apagón en cuatro horas"
+          "focus": "Cobertura en directo del accidente, destaca la medida tecnica del segundo controlador en Adif"
         },
         {
           "outlet": "El Mundo",
-          "headline": "La Palma sufre un apagón general que deja a la isla sin suministro eléctrico durante casi cuatro horas",
-          "link": "https://www.elmundo.es/espana/2026/11/02/6ae84c15e85ece0f5a8b4582.html",
+          "headline": "El sistema de señalización en el tramo Madrid-Sevilla, explicado en gráficos",
+          "link": "https://www.elmundo.es/espana/2026/10/28/6ae236b621efa012638b4600.html",
           "position": 50,
-          "focus": "Destaca el apagón en sí y su alcance general, precisando la duración en casi cuatro horas"
+          "focus": "Explicativo tecnico sobre el sistema de senalizacion del tramo, sin centrarse en las declaraciones de Puente"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Puente anuncia la creación de un software para los centros de control y una IA para supervisar el sistema",
+          "link": "https://www.abc.es/espana/ultima-hora-accidente-tren-urda-directo-comparecencia-20261103110818-di.html",
+          "position": 50,
+          "focus": "Centra el anuncio en las herramientas tecnologicas: software y una IA de supervision"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Óscar Puente anuncia un plan de refuerzo de la seguridad de la alta velocidad y menos trenes en la línea Madrid-Sevilla",
+          "link": "https://www.eldiario.es/economia/oscar-puente-anuncia-plan-refuerzo-seguridad-alta-velocidad-trenes-linea-madrid-sevilla_1_13633260.html",
+          "position": 50,
+          "focus": "Destaca el plan de refuerzo de seguridad y la reduccion de frecuencia de trenes"
         },
         {
           "outlet": "La Vanguardia",
-          "headline": "Restablecido el servicio en La Palma tras un apagón que ha dejado a la isla sin luz durante horas",
-          "link": "https://www.lavanguardia.com/vida/20261102/11673822/isla-palma-sufre-apagon-general-deja-50-500-habitantes-isla-oscuras.html",
+          "headline": "Óscar Puente comparece tras el Consejo de Ministros",
+          "link": "https://www.lavanguardia.com/vida/20261103/11674702/choque-de-trenes-toledo-oscar-puente-investigacion-ultima-hora-hoy-en-directo.html",
           "position": 50,
-          "focus": "Destaca el restablecimiento del servicio sin precisar la duración exacta del corte"
+          "focus": "Cobertura neutra de la comparecencia, sin detallar medidas concretas"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Elecciones generales del 29-N, en directo | Puente comparece tras aprobar el Consejo de Ministros las ayudas a las víctimas del accidente de Urda",
+          "link": "https://www.elespanol.com/espana/20261103/elecciones-generales-directo-ultima-hora-pedro-sanchez-oscar-puente-voto-correo-actos-precampana-causas-accidente-tren-urda/1003744443663_10.html",
+          "position": 50,
+          "focus": "Enmarca la comparecencia dentro de la cobertura electoral del 29-N, centrandose en la aprobacion de ayudas"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Puente anuncia un paquete de 30 millones de euros en ayudas para los afectados por el accidente ferroviario en Urda",
+          "link": "https://www.20minutos.es/nacional/directo-accidente-tren-urda-oscar-puente-congreso-ultima-hora_7056385_6.html",
+          "position": 50,
+          "focus": "Destaca la cifra concreta de 30 millones de euros en ayudas para los afectados"
         }
       ],
       "rango": 0,
       "discrepancia": "baja",
-      "silenciosos": [
-        "20minutos",
-        "ABC",
-        "El Espanol",
-        "eldiario.es"
-      ]
+      "silenciosos": []
     },
     {
-      "neutral_headline": "Nueve personas mueren al estrellarse una aeronave privada en Palm Beach, Florida",
-      "section": "Sociedad",
+      "neutral_headline": "Muere el futbolista del Tenerife Jesús de Miguel tras un choque con el portero del Andorra",
+      "section": "Deportes",
       "facts": [
-        "El accidente ocurrió en Florida, zona de Palm Beach",
-        "Murieron nueve personas",
-        "La aeronave era de uso privado",
-        "Existen videos del momento del accidente"
+        "Jesús de Miguel era delantero/jugador del CD Tenerife",
+        "Falleció tras un choque con el portero del FC Andorra",
+        "El choque fue descrito como brutal o grave en varias piezas",
+        "Según El Español y 20minutos, el choque provocó un paro cardíaco",
+        "Según El Español, el suceso ocurrió un lunes"
       ],
-      "tipo_divergencia": "cronologica",
+      "tipo_divergencia": "ninguna",
       "eje": null,
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "Al menos nueve personas mueren al estrellarse un avión privado en Florida",
-          "link": "https://elpais.com/us/2026-11-01/personas-mueren-al-estrellarse-un-jet-privado-en-florida.html",
+          "headline": "Muere Jesús de Miguel, delantero del Tenerife, tras el brutal choque con el portero del Andorra",
+          "link": "https://elpais.com/deportes/futbol/2026-11-03/el-tenerife-informa-del-empeoramiento-del-estado-de-salud-de-jesus-de-miguel.html",
           "position": 50,
-          "focus": "Usa cifra preliminar 'al menos nueve', posible cierre temprano de la noticia"
+          "focus": "Informa la muerte y el choque, calificándolo de brutal; no detalla causa médica"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Muere el delantero del Tenerife Jesús de Miguel  tras el brutal choque con el portero del Andorra",
+          "link": "https://www.elmundo.es/deportes/futbol/segunda-division/2026/11/03/6ae97d60e4d4d8e9038b459e.html",
+          "position": 50,
+          "focus": "Igual que El País, enfatiza el carácter brutal del choque"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Muere Jesús de Miguel, delantero del Tenerife, tras el choque con el portero del Andorra",
+          "link": "https://www.abc.es/deportes/futbol/muere-hospital-futbolista-jesus-miguel-tras-salvaje-20261103093829-nt.html",
+          "position": 50,
+          "focus": "Versión más neutra, sin calificar el choque como brutal"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Muere el futbolista del CD Tenerife Jesús de Miguel tras el grave choque con el portero del FC Andorra",
+          "link": "https://www.eldiario.es/canariasahora/Deportes/futbol/muere-futbolista-cd-tenerife-jesus-miguel-grave-choque-portero-fc-andorra_1_13632909.html",
+          "position": 50,
+          "focus": "Usa 'grave' para describir el choque, mencionando ambos clubes con sus siglas oficiales"
         },
         {
           "outlet": "La Vanguardia",
-          "headline": "Nueve personas mueren al estrellarse un jet privado en Palm Beach",
-          "link": "https://www.lavanguardia.com/internacional/20261101/11673544/jet-privado-estrella-nueve-personas-bordo-barrio-florida.html",
+          "headline": "Muere el jugador del CD Tenerife Jesús de Miguel tras el choque con el portero del Andorra",
+          "link": "https://www.lavanguardia.com/deportes/20261103/11674777/muere-jugador-cd-tenerife-jesus-miguel-choque-portero-andorra.html",
           "position": 50,
-          "focus": "Confirma la cifra exacta de nueve fallecidos y ubica el lugar preciso, Palm Beach"
+          "focus": "Describe el choque sin adjetivos intensos, mención neutra"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Muere Jesús de Miguel, jugador del Tenerife, tras sufrir este lunes un paro cardíaco por un golpe del portero del Andorra",
+          "link": "https://www.elespanol.com/deportes/futbol/20261103/muere-jesus-miguel-jugador-tenerife-sufrir-lunes-paro-cardiaco-patada-portero-andorra/1003744443745_0.html",
+          "position": 50,
+          "focus": "Añade causa médica (paro cardíaco) y temporalidad (lunes), más detallado clínicamente"
         },
         {
           "outlet": "20minutos",
-          "headline": "Los impactantes vídeos del accidente de una avioneta con nueve pasajeros",
-          "link": "https://www.20minutos.es/internacional/los-impactantes-videos-accidente-una-avioneta-con-9-pasajeros-florida_7056102_0.html",
+          "headline": "Muere Jesús de Miguel, futbolista del Tenerife, tras la parada cardíaca que sufrió después de un fuerte choque con el portero rival",
+          "link": "https://www.20minutos.es/deportes/futbol/muere-jesus-miguel-futbolista-tenerife-tras-sufrir-una-parada-cardiaca-despues-un-fuerte-choque-con-portero-rival_7056393_0.html",
           "position": 50,
-          "focus": "Centra la pieza en el material audiovisual del accidente, con la cifra de pasajeros"
+          "focus": "También detalla el paro cardíaco como consecuencia del choque, con énfasis en la secuencia médica"
         }
       ],
       "rango": 0,
       "discrepancia": "baja",
-      "silenciosos": [
-        "ABC",
-        "El Espanol",
-        "El Mundo",
-        "eldiario.es"
-      ]
+      "silenciosos": []
     },
     {
-      "neutral_headline": "El primer ministro de Bélgica dimite tras el fracaso de la negociación presupuestaria",
+      "neutral_headline": "Estados Unidos celebra elecciones de mitad de mandato mientras se registra un ataque militar en el Estrecho de Ormuz",
       "section": "Internacional",
       "facts": [
-        "El primer ministro de Bélgica presentó su dimisión",
-        "La dimisión se produce tras el fracaso en la negociación de los presupuestos",
-        "Según El Mundo, el Rey ha dejado la dimisión en suspenso hasta el viernes"
+        "Estados Unidos vota hoy en las elecciones de mitad de mandato (midterms)",
+        "Las elecciones pueden definir el control del Congreso y, según algunos medios, el poder de Trump",
+        "Estados Unidos atacó objetivos iraníes en el Estrecho de Ormuz horas antes de las elecciones (El Mundo)",
+        "20minutos menciona una amenaza de impeachment vinculada al resultado electoral",
+        "El Español enmarca la jornada como el posible inicio del fin del 'trumpismo'"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "cobertura informativa neutra de la jornada electoral",
+        "polo_b": "narrativa de crisis o declive para Trump",
+        "resumen": "Algunos medios describen las midterms como un trámite electoral informativo, mientras otros las presentan como un punto de inflexión dramático para el poder o la supervivencia política de Trump"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Estados Unidos vota en unas ‘midterms’ decisivas para el poder de Trump: siete claves de las elecciones",
+          "link": "https://elpais.com/us/2026-11-03/estados-unidos-vota-en-unas-midterms-decisivas-para-el-poder-de-trump-siete-claves-de-las-elecciones.html",
+          "position": 50,
+          "focus": "El País ofrece un resumen de 'siete claves' sin cargar el tono, centrado en explicar el proceso electoral"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Estados Unidos ataca objetivos iraníes en el Estrecho de Ormuz horas antes de las elecciones de mitad de mandato",
+          "link": "https://www.elmundo.es/internacional/2026/11/03/6ae983d321efa065688b458a.html",
+          "position": 50,
+          "focus": "El Mundo se centra en un hecho militar distinto (ataque a Irán) y lo sitúa cronológicamente antes de las elecciones, sin valorar el resultado electoral"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Trump se juega su poder absoluto en EEUU con las 'midterms'",
+          "link": "https://www.eldiario.es/internacional/trump-juega-absoluto-eeuu-midterms_1_13632381.html",
+          "position": 70,
+          "focus": "eldiario.es enfatiza que Trump 'se juega su poder absoluto', introduciendo un juicio sobre el riesgo político para el presidente"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Elecciones de mitad de mandato en Estados Unidos, hoy en directo: última hora de Trump, los estados clave y sondeos de las midterm",
+          "link": "https://www.lavanguardia.com/internacional/20261103/11674703/elecciones-estados-unidos-midterm-encuestas-campana-electoral-donald-trump-ultima-hora-en-directo.html",
+          "position": 50,
+          "focus": "La Vanguardia narra la jornada en formato directo, con sondeos y estados clave, sin interpretación editorial"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Midterms 2026: EEUU vota en unas elecciones legislativas que aspiran a marcar el comienzo del fin del 'trumpismo'",
+          "link": "https://www.elespanol.com/mundo/america/eeuu/20261102/midterms-eeuu-vota-elecciones-legislativas-aspiran-marcar-comienzo-fin-trumpismo/1003744443002_0.html",
+          "position": 85,
+          "focus": "El Español anticipa explícitamente el 'comienzo del fin del trumpismo', una interpretación fuerte sobre el significado histórico del voto"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Trump afronta unas 'midterms' decisivas bajo amenaza de un 'impeachment': \"Perder el Congreso lo cambiaría todo\"",
+          "link": "https://www.20minutos.es/internacional/trump-afronta-unas-midterms-decisivas-bajo-amenaza-un-nuevo-impeachment-perder-congreso-cambiaria-todo_7053705_0.html",
+          "position": 75,
+          "focus": "20minutos subraya la amenaza de impeachment y cita que 'perder el Congreso lo cambiaría todo', reforzando la idea de un momento decisivo y amenazante para Trump"
+        }
+      ],
+      "rango": 35,
+      "discrepancia": "media",
+      "silenciosos": [
+        "ABC"
+      ]
+    },
+    {
+      "neutral_headline": "La Policía desaloja la acampada de la Puerta del Sol en Madrid",
+      "section": "Politica",
+      "facts": [
+        "La policía desalojó la acampada de la Puerta del Sol",
+        "El Pais afirma que el desalojo se produjo sin disturbios",
+        "El Pais afirma que varias comisiones organizadoras habían anunciado su retirada",
+        "El Mundo, La Vanguardia y 20minutos cifran en 334 las personas desalojadas",
+        "El Mundo, La Vanguardia y 20minutos cifran en 2 los detenidos",
+        "El Mundo atribuye los detenidos a resistencia y afirma que la mayoria de los desalojados eran indigentes"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "desalojo pacifico y consensuado",
+        "polo_b": "desalojo conflictivo con detenidos e indigentes",
+        "resumen": "El Pais enmarca el desalojo como ordenado y acordado con los organizadores, mientras El Mundo subraya la resistencia, los detenidos y la presencia de indigentes entre los desalojados"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "La policía desaloja la acampada de Sol sin disturbios después de que varias comisiones organizadoras anunciaran su retirada",
+          "link": "https://elpais.com/espana/madrid/2026-11-03/la-policia-desaloja-la-acampada-de-sol-sin-disturbios-despues-de-que-las-comisiones-organizadoras-anunciaran-su-retirada.html",
+          "position": 15,
+          "focus": "Destaca la ausencia de disturbios y la retirada acordada por las comisiones organizadoras; omite detenidos y composicion de los desalojados"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "La Policía desaloja definitivamente la acampada de Sol en una intervención con dos detenidos por resistencia y 334 expulsados, la mayoría indigentes",
+          "link": "https://www.elmundo.es/madrid/2026/11/03/6ae97a08fdddffb1178b4587.html",
+          "position": 80,
+          "focus": "Pone el foco en los dos detenidos por resistencia y en que la mayoria de los 334 desalojados eran indigentes, sugiriendo tension y deterioro de la acampada"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Dos detenidos y 334 personas desalojadas de la acampada de la Puerta del Sol en Madrid",
+          "link": "https://www.lavanguardia.com/local/madrid/20261103/11674701/policia-nacional-desaloja-acampada-vivienda-puerta-sol-madrid.html",
+          "position": 50,
+          "focus": "Se limita a dar las cifras de detenidos y desalojados sin calificar el ambiente ni el perfil de los afectados"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "La Policía desmonta la acampada de Sol: hay 2 detenidos y 334 personas desalojadas",
+          "link": "https://www.20minutos.es/madrid/policia-desaloja-madrugada-acampada-sol-los-manifestantes-se-quejan-uso-viokencia-gas-pimienta_7056367_0.html",
+          "position": 50,
+          "focus": "Informa de las mismas cifras de forma escueta, sin anadir valoracion sobre el tono del desalojo"
+        }
+      ],
+      "rango": 65,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "ABC",
+        "El Espanol",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Feijóo pide a los sindicatos que reconsideren o desconvoquen la huelga general tras el accidente ferroviario de Urda",
+      "section": "Politica",
+      "facts": [
+        "Feijóo se dirigió a los sindicatos a propósito de la huelga general convocada para el 11N",
+        "El accidente ferroviario de Urda es el motivo invocado por Feijóo para su petición",
+        "El Pais, ABC y El Espanol citan a Feijóo mencionando 69 muertos",
+        "Varias piezas recogen la frase de Feijóo calificando la huelga de 'grave error'"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "peticion tajante (desconvocar)",
+        "polo_b": "peticion suave (reconsiderar)",
+        "resumen": "Los medios varian en cuan contundente presentan la exigencia de Feijóo a los sindicatos: unos usan el verbo 'desconvocar' y otros el mas matizado 'reconsiderar'."
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Feijóo pide a los sindicatos que desconvoquen la huelga general por la tragedia de Urda: “69 muertos después es un grave error”",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-11-03/feijoo-pide-a-los-sindicatos-que-desconvoquen-la-huelga-general-por-la-tragedia-de-urda-69-muertos-despues-es-un-grave-error.html",
+          "position": 15,
+          "focus": "Usa 'desconvoquen' y cita literal con la cifra de 69 muertos, enfatizando la contundencia del reclamo"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Feijóo pide a los sindicatos desconvocar la huelga general: «Con 69 muertos es un grave error»",
+          "link": "https://www.abc.es/espana/feijoo-pide-sindicados-desconvocar-huelga-general-muertos-20261103100101-nt.html",
+          "position": 15,
+          "focus": "Replica la formulacion tajante con 'desconvocar' y la misma cita sobre los 69 muertos"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Feijóo reclama a los sindicatos que desconvoquen la huelga del 11N por el accidente de Urda: \"Es un grave error\"",
+          "link": "https://www.eldiario.es/politica/feijoo-reclama-sindicatos-desconvoquen-huelga-11n-accidente-urda-grave-error_1_13632870.html",
+          "position": 25,
+          "focus": "Usa 'reclama' y 'desconvoquen', mantiene tono firme pero omite la cifra de muertos"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Feijóo pide a los sindicatos desconvocar la huelga tras el accidente de Urda: \"Después de 69 muertos es un grave error\"",
+          "link": "https://www.elespanol.com/espana/politica/20261103/feijoo-advierte-sindicatos-no-hagan-huelga-oposicion-ligaran-imagen-sanchez-siempre/1003744443763_0.html",
+          "position": 20,
+          "focus": "Usa 'desconvocar' y conserva la cifra de 69 muertos en la cita, similar a El Pais y ABC"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Feijóo pide a los sindicatos que \"reconsideren\" la huelga del 11N tras el accidente ferroviario de Urda",
+          "link": "https://www.20minutos.es/nacional/feijoo-pide-los-sindicatos-que-reconsideren-huelga-11n-tras-accidente-ferroviario-urda_7056415_0.html",
+          "position": 80,
+          "focus": "Suaviza el verbo a 'reconsideren', omite la cifra de muertos y la frase 'grave error', presentando una peticion mas moderada"
+        }
+      ],
+      "rango": 65,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "El Mundo",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "Un aviso de bomba en un vuelo de Ryanair activa el protocolo de seguridad en el Aeropuerto de la Región de Murcia",
+      "section": "Sociedad",
+      "facts": [
+        "Se activó el protocolo de seguridad en el Aeropuerto de la Región de Murcia por un aviso de bomba en un vuelo de Ryanair",
+        "El avión aterrizó en Murcia",
+        "Según ABC, se movilizó el servicio de emergencias del aeropuerto",
+        "Según 20minutos, el vuelo procedía de Manchester"
       ],
       "tipo_divergencia": "ninguna",
       "eje": null,
       "frames": [
         {
-          "outlet": "El Pais",
-          "headline": "El primer ministro de Bélgica presenta su dimisión por el colapso de la negociación presupuestaria",
-          "link": "https://elpais.com/internacional/2026-11-02/crisis-en-el-gobierno-de-belgica-por-el-fracaso-de-la-negociacion-presupuestaria.html",
-          "position": 50,
-          "focus": "Se centra en la dimisión y su causa, sin mencionar la respuesta del Rey"
-        },
-        {
           "outlet": "El Mundo",
-          "headline": "El primer ministro de Bélgica presenta su dimisión tras \"el fracaso en la negociación de los presupuestos\" y el Rey la deja en suspenso hasta el viernes",
-          "link": "https://www.elmundo.es/internacional/2026/11/02/6ae85b41e9cf4abb738b4583.html",
+          "headline": "Un aviso de bomba en un vuelo de Ryanair activa el protocolo de seguridad en el aeropuerto de la Región de Murcia",
+          "link": "https://www.elmundo.es/murcia/2026/11/03/6ae9bde121efa01f238b4597.html",
           "position": 50,
-          "focus": "Añade el detalle de que el Rey ha dejado la dimisión en suspenso hasta el viernes"
+          "focus": "Describe el hecho central: aviso de bomba y activación del protocolo, sin detalles adicionales sobre origen o servicios movilizados"
         },
         {
           "outlet": "ABC",
-          "headline": "El primer ministro de Bélgica presenta su dimisión tras el fracaso de los presupuestos",
-          "link": "https://www.abc.es/internacional/primer-ministro-belgica-presenta-dimision-20261102101648-nt.html",
+          "headline": "Movilizado el servicio de emergencia el Aeropuerto de Murcia por un aviso de bomba en un vuelo de Ryanair",
+          "link": "https://www.abc.es/espana/murcia/servicios-emergencia-movilizan-aeropuerto-murcia-aviso-bomba-20261103115439-nt.html",
           "position": 50,
-          "focus": "Se centra en la dimisión y su causa, de forma similar a El País, sin mencionar al Rey"
+          "focus": "Pone el foco en la movilización del servicio de emergencias como respuesta concreta al aviso"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Activado el protocolo de seguridad por un aviso de bomba en un avión que ha aterrizado en Murcia",
+          "link": "https://www.lavanguardia.com/vida/20261103/11674914/activado-protocolo-seguridad-aviso-bomba-avion-manchester-aterrizado-murcia.html",
+          "position": 50,
+          "focus": "Enfatiza la activación del protocolo y el aterrizaje del avión en Murcia, sin mencionar la aerolínea en el titular"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Un aviso de bomba en un avión procedente de Manchester obliga a activar el protocolo de seguridad en el Aeropuerto de Murcia",
+          "link": "https://www.20minutos.es/murcia/un-aviso-bomba-un-avion-procedente-manchester-obliga-activar-protocolo-seguridad-aeropuerto-murcia_7056532_0.html",
+          "position": 50,
+          "focus": "Añade el dato del origen del vuelo (Manchester), aportando contexto adicional sobre la ruta"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "El Espanol",
+        "El Pais",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "El delegado del Gobierno en Cantabria denuncia una agresión de un concejal del PP en una feria ganadera",
+      "section": "Politica",
+      "facts": [
+        "El delegado del Gobierno en Cantabria denunció un incidente",
+        "El presunto agresor es un concejal del PP",
+        "El hecho ocurrió en una feria de ganado",
+        "El Español ubica el hecho en Arredondo",
+        "eldiario.es y El Español describen el hecho como una bofetada",
+        "La Vanguardia lo describe como agresión física y verbal",
+        "20minutos indica que el delegado denunció formalmente al edil"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "eldiario.es",
+          "headline": "El delegado del Gobierno en Cantabria denuncia que un concejal del PP le pegó una bofetada en una feria de ganado",
+          "link": "https://www.eldiario.es/cantabria/delegado-gobierno-cantabria-denuncia-concejal-pp-le-pego-bofetada-feria-ganado_1_13633065.html",
+          "position": 50,
+          "focus": "Describe el hecho como bofetada, sin mencionar ubicación específica"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "El delegado del Gobierno en Cantabria denuncia una agresión física y verbal de un edil del PP",
+          "link": "https://www.lavanguardia.com/politica/20261103/11674904/delegado-gobierno-cantabria-denuncia-agresion-fisica-verbal-edil-pp.html",
+          "position": 50,
+          "focus": "Generaliza el hecho como agresión física y verbal, sin detalles de ubicación"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "El delegado del Gobierno en Cantabria denuncia que un concejal del PP lo abofeteó en la feria de ganado de Arredondo",
+          "link": "https://www.elespanol.com/reportajes/20261103/delegado-gobierno-cantabria-denuncia-concejal-pp-abofeteo-feria-ganado-arredondo/1003744444040_0.html",
+          "position": 50,
+          "focus": "Añade el detalle de ubicación (Arredondo) y mantiene la descripción de bofetada"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "El Delegado del Gobierno en Cantabria denuncia a un edil del PP al que acusa de abofetearle en una feria ganadera",
+          "link": "https://www.20minutos.es/cantabria/delegado-gobierno-cantabria-denuncia-un-edil-pp-por-abofetearle-una-feria-ganadera_7056513_0.html",
+          "position": 50,
+          "focus": "Enfatiza la acción de denuncia formal contra el edil, mencionando la acusación de abofetear"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "ABC",
+        "El Mundo",
+        "El Pais"
+      ]
+    },
+    {
+      "neutral_headline": "EEUU anuncia nuevas negociaciones entre Rusia y Ucrania en Abu Dabi",
+      "section": "Internacional",
+      "facts": [
+        "Estados Unidos anuncia nuevas negociaciones entre Rusia y Ucrania",
+        "Las negociaciones se celebrarán en Abu Dabi",
+        "Estados Unidos actúa como mediador del proceso",
+        "El Español precisa que se negociará un alto el fuego a partir del 10 de noviembre"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "EEUU anuncia nuevas negociaciones entre Rusia y Ucrania",
+          "link": "https://www.elmundo.es/internacional/2026/11/03/6ae9a142e85ece5f1c8b456e.html",
+          "position": 50,
+          "focus": "Centra el titular en el anuncio de EEUU sobre nuevas negociaciones, sin detalles de lugar ni fecha concreta"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "EE.UU. vuelve a llevar a la mesa de negociaciones a Rusia y Ucrania en Abu Dabi",
+          "link": "https://www.lavanguardia.com/internacional/20261103/11674800/ee-uu-vuelve-a-llevar-a-la-mesa-de-negociaciones-a-rusia-y-ucrania-en-abu-dabi.html",
+          "position": 50,
+          "focus": "Añade el detalle del lugar (Abu Dabi) y enfatiza el rol de EEUU como impulsor del retorno a la mesa"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Ucrania y Rusia negociarán un alto el fuego a partir del 10 de noviembre en Abu Dabi bajo mediación de Estados Unidos",
+          "link": "https://www.elespanol.com/mundo/europa/20261103/ucrania-rusia-negociaran-alto-fuego-partir-noviembre-abu-dabi-mediacion-unidos/1003744443773_0.html",
+          "position": 50,
+          "focus": "Aporta mayor precisión: fecha de inicio (10 de noviembre), objetivo concreto (alto el fuego) y confirma la mediación de EEUU en Abu Dabi"
         }
       ],
       "rango": 0,
       "discrepancia": "baja",
       "silenciosos": [
         "20minutos",
-        "El Espanol",
+        "ABC",
+        "El Pais",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Varios mandatarios latinoamericanos no asistirán a la Cumbre Iberoamericana en Madrid",
+      "section": "Politica",
+      "facts": [
+        "Se celebra una Cumbre Iberoamericana en Madrid",
+        "Sheinbaum, presidenta de México, no asistirá a la cumbre",
+        "Lula, presidente de Brasil, no asistirá a la cumbre",
+        "El Espanol añade que Delcy Rodríguez tampoco participará",
+        "El Mundo señala que acudirán siete aliados de Trump, incluido Milei",
+        "El Pais menciona insultos previos de Milei como factor de tensión",
+        "ABC vincula la ausencia de Sheinbaum a un gesto previo del Rey en el Mundial"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "cobertura neutra de ausencias diplomáticas",
+        "polo_b": "crítica al aislamiento del Gobierno español",
+        "resumen": "Los medios difieren en si destacan simplemente quién falta a la cumbre o si enmarcan la situación como un fracaso o aislamiento de Sánchez/Felipe VI frente a los aliados de Trump."
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Felipe VI se enfrenta al reto de evitar que los insultos de Milei dinamiten la cumbre de Madrid",
+          "link": "https://elpais.com/espana/2026-11-03/felipe-vi-se-enfrenta-al-reto-de-evitar-que-los-insultos-de-milei-dinamiten-la-cumbre-de-madrid.html",
+          "position": 45,
+          "focus": "Centra el relato en Felipe VI como gestor del conflicto diplomático, destacando el riesgo que suponen las declaraciones de Milei para la cumbre, sin cargar directamente contra el Gobierno."
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Sheinbaum y Lula dejan solo a Sánchez en la Cumbre Iberoamericana con siete aliados de Trump, incluido Milei",
+          "link": "https://www.elmundo.es/espana/2026/11/03/6ae99e48fdddff59638b45a7.html",
+          "position": 85,
+          "focus": "Enfatiza el aislamiento de Sánchez frente a un bloque de aliados de Trump, incluido Milei, con un tono crítico hacia la posición debilitada del Gobierno español."
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Sheinbaum no acudirá a la Cumbre Iberoamericana pese al acercamiento del Rey en el Mundial",
+          "link": "https://www.abc.es/espana/presidenta-mexico-acudira-cumbre-iberoamericana-pese-acercamiento-20261103105703-nt.html",
+          "position": 60,
+          "focus": "Resalta el desaire de Sheinbaum pese al gesto conciliador del Rey, poniendo el foco en la relación bilateral México-España más que en el conjunto de la cumbre."
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Los presidentes Lula da Silva, Sheinbaum y Delcy Rodríguez no participarán en la cumbre iberoamericana de Madrid",
+          "link": "https://www.elespanol.com/espana/20261103/presidentes-lula-da-silva-sheinbaum-delcy-rodriguez-no-participaran-cumbre-iberoamericana-madrid/1003744443974_0.html",
+          "position": 50,
+          "focus": "Describe de forma neutra qué líderes no asistirán, sin atribuir causas ni cargar el relato hacia ningún actor político."
+        }
+      ],
+      "rango": 40,
+      "discrepancia": "media",
+      "silenciosos": [
+        "20minutos",
         "La Vanguardia",
         "eldiario.es"
       ]
     },
     {
-      "neutral_headline": "Un ciberataque afecta a los sistemas de refrigeración de supermercados en varios países europeos",
+      "neutral_headline": "Forbes publica la lista de las mayores fortunas de España, liderada por Amancio Ortega",
       "section": "Economia",
       "facts": [
-        "Un ciberataque afectó a sistemas de refrigeración de supermercados en Europa",
-        "El Pais señala pérdidas millonarias en decenas de supermercados de al menos siete países",
-        "eldiario.es señala pérdidas millonarias en supermercados de Bélgica, Suecia y Luxemburgo",
-        "ABC indica que el ciberataque alteró los sistemas de refrigeración sin especificar pérdidas económicas",
-        "El ataque provocó un aumento de la temperatura en las neveras según El Pais"
+        "Amancio Ortega lidera la lista Forbes de las mayores fortunas de España",
+        "Sandra Ortega aparece entre las principales fortunas según El Pais y La Vanguardia",
+        "Juan Roig figura en el podio de la lista según El Pais y La Vanguardia",
+        "ABC indica que Amancio Ortega aumento su patrimonio en 15.000 millones segun el ranking Forbes 2026",
+        "La Vanguardia se refiere a la lista como la de los cien espanoles mas ricos"
       ],
-      "tipo_divergencia": "cronologica",
+      "tipo_divergencia": "ninguna",
       "eje": null,
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "Un nuevo ciberataque causa pérdidas millonarias en decenas de supermercados de al menos siete países europeos tras disparar la temperatura de las neveras",
-          "link": "https://elpais.com/tecnologia/2026-11-02/un-ciberataque-causa-perdidas-millonarias-en-decenas-de-supermercados-en-belgica-y-suecia.html",
+          "headline": "Amancio Ortega, Sandra Ortega y Juan Roig lideran la lista Forbes de las mayores fortunas de España",
+          "link": "https://cincodias.elpais.com/fortunas/2026-11-03/amancio-ortega-sandra-ortega-y-juan-roig-lideran-la-lista-forbes-de-las-mayores-fortunas-de-espana.html",
           "position": 50,
-          "focus": "Detalla pérdidas millonarias y un alcance amplio de al menos siete países, con el efecto técnico concreto (subida de temperatura)"
+          "focus": "Destaca el trio de cabeza (Ortega, Sandra Ortega, Roig) sin detallar cifras de variacion patrimonial"
         },
         {
           "outlet": "ABC",
-          "headline": "Un nuevo ciberataque altera los sistemas de refrigeración de supermercados de varios países europeos",
-          "link": "https://www.abc.es/tecnologia/nuevo-ciberataque-altera-sistemas-refrigeracion-supermercados-suecia-20261102114132-nt.html",
+          "headline": "Amancio Ortega repite como el más rico de España y aumenta su patrimonio en 15.000 millones: el ránking de Forbes 2026",
+          "link": "https://www.abc.es/economia/amancio-ortega-repite-rico-espana-aumenta-patrimonio-20261103102426-nt.html",
           "position": 50,
-          "focus": "Describe el hecho de forma más general, centrado en la alteración de sistemas, sin cuantificar países ni pérdidas"
+          "focus": "Pone el foco en el incremento numerico del patrimonio de Amancio Ortega y en su repeticion como primero"
         },
         {
-          "outlet": "eldiario.es",
-          "headline": "Un nuevo ciberataque deja pérdidas millonarias en supermercados de Bélgica, Suecia y Luxemburgo",
-          "link": "https://www.eldiario.es/economia/nuevo-ciberataque-deja-perdidas-millonarias-supermercados-belgica-suecia_1_13631596.html",
+          "outlet": "La Vanguardia",
+          "headline": "Los cien españoles más ricos, según Forbes: los Ortega lideran de nuevo y Juan Roig vuelve al podio",
+          "link": "https://www.lavanguardia.com/economia/20261103/11669431/lista-forbes-espana-2026.html",
           "position": 50,
-          "focus": "Aporta pérdidas millonarias pero acota el alcance a tres países concretos"
+          "focus": "Enmarca la noticia en el conjunto de los cien mas ricos y resalta el regreso de Roig al podio"
         }
       ],
       "rango": 0,
@@ -259,182 +560,6 @@
         "20minutos",
         "El Espanol",
         "El Mundo",
-        "La Vanguardia"
-      ]
-    },
-    {
-      "neutral_headline": "Binance reanuda retiradas de fondos tras un robo informático y los usuarios sacan fondos",
-      "section": "Economia",
-      "facts": [
-        "Binance reanudó las retiradas de fondos tras un robo informático",
-        "El Pais indica que los clientes sacaron 4.700 millones de dólares",
-        "El Espanol indica que los usuarios retiraron mas de 3.640 millones de dólares",
-        "eldiario.es indica que el hackeo fue de 6.300 millones de dólares y que los inversores retiraron miles de millones de dólares"
-      ],
-      "tipo_divergencia": "cronologica",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "Binance reanuda las retiradas de fondos tras el histórico robo y los clientes sacan 4.700 millones de dólares",
-          "link": "https://cincodias.elpais.com/criptoactivos/2026-11-02/binance-reanuda-las-retiradas-de-fondos-tras-el-historico-robo-y-los-clientes-sacan-4700-millones-de-dolares.html",
-          "position": 50,
-          "focus": "Centra en la cifra de retiradas (4.700 millones) tras la reanudacion del servicio"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "Los inversores retiran miles de millones de dólares de Binance tras el 'hackeo' récord de 6.300 millones",
-          "link": "https://www.eldiario.es/economia/inversores-retiran-miles-millones-dolares-binance-hackeo-record-6-300-millones_1_13631115.html",
-          "position": 50,
-          "focus": "Destaca la magnitud del hackeo (6.300 millones) como marco principal y menciona retiradas sin cifra exacta"
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "Los usuarios de Binance retiran más de 3.640 millones de dólares tras el ciberrobo",
-          "link": "https://www.elespanol.com/invertia/mercados/20261102/usuarios-binance-retiran-millones-dolares-ciberrobo/1003744443032_0.html",
-          "position": 50,
-          "focus": "Reporta una cifra de retiradas mas baja (3.640 millones), posiblemente con corte temporal distinto"
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "20minutos",
-        "ABC",
-        "El Mundo",
-        "La Vanguardia"
-      ]
-    },
-    {
-      "neutral_headline": "Siete muertos en una patera o cayuco con destino a Lanzarote rescatada por Salvamento Marítimo",
-      "section": "Sociedad",
-      "facts": [
-        "Al menos siete personas murieron en una embarcación que se dirigía a Lanzarote",
-        "Salvamento Marítimo participó en el rescate",
-        "El Mundo cifra en casi 140 los ocupantes de la embarcación"
-      ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "Siete muertos en un cayuco rescatado por Salvamento Marítimo en Lanzarote",
-          "link": "https://elpais.com/espana/2026-11-02/siete-fallecidos-en-un-cayuco-rescatado-por-salvamento-maritimo-en-lanzarote.html",
-          "position": 50,
-          "focus": "Centra el titular en el rescate de Salvamento Marítimo y la cifra de fallecidos, sin mencionar el total de ocupantes"
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "Al menos siete muertos en una patera con casi 140 ocupantes que se dirigía a Lanzarote",
-          "link": "https://www.elmundo.es/espana/2026/11/02/6ae85328e85ece854c8b4585.html",
-          "position": 50,
-          "focus": "Añade el dato del número total de ocupantes (casi 140), ampliando la magnitud del suceso"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "Al menos siete muertos en una patera que se dirigía a Lanzarote",
-          "link": "https://www.eldiario.es/canariasahora/migraciones/siete-fallecidos-patera-dirigia-lanzarote_1_13631179.html",
-          "position": 50,
-          "focus": "Se limita a confirmar la cifra de fallecidos y el destino de la embarcación, sin detalles adicionales"
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "20minutos",
-        "ABC",
-        "El Espanol",
-        "La Vanguardia"
-      ]
-    },
-    {
-      "neutral_headline": "Detenido un hombre por la muerte de una mujer en Murcia",
-      "section": "Sociedad",
-      "facts": [
-        "Un hombre fue detenido en Murcia",
-        "La muerte de una mujer está relacionada con la detención",
-        "El Pais y eldiario.es especifican que la mujer murió apuñalada en la calle"
-      ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "Detenido un hombre por matar a puñaladas a una mujer en plena calle en Murcia",
-          "link": "https://elpais.com/espana/2026-11-02/detenido-un-hombre-por-matar-a-punaladas-a-una-mujer-en-plena-calle-en-murcia.html",
-          "position": 50,
-          "focus": "Incluye el metodo (puñaladas) y el lugar (plena calle)"
-        },
-        {
-          "outlet": "ABC",
-          "headline": "Detenido un hombre por la muerte de una mujer en Murcia",
-          "link": "https://www.abc.es/espana/murcia/detenido-hombre-muerte-mujer-anos-barrio-murciano-20261102115306-nt.html",
-          "position": 50,
-          "focus": "Version mas escueta, omite metodo y detalle del lugar"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "Detenido un hombre por matar a puñaladas a una mujer en una calle de Murcia",
-          "link": "https://www.eldiario.es/murcia/sociedad/mujer-33-anos-muere-apunalada-plena-luz-dia-barrio-fama-murcia_1_13631682.html",
-          "position": 50,
-          "focus": "Incluye el metodo (puñaladas) y especifica una calle de Murcia"
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "20minutos",
-        "El Espanol",
-        "El Mundo",
-        "La Vanguardia"
-      ]
-    },
-    {
-      "neutral_headline": "Perfiles de las víctimas y testimonios del accidente de tren en Urda",
-      "section": "Sociedad",
-      "facts": [
-        "Hubo un accidente de tren en Urda",
-        "Entre las víctimas hay una mujer que iba a la boda de su hija",
-        "Entre las víctimas hay una ejecutiva próxima a jubilarse",
-        "Entre las víctimas hay un hombre descrito como héroe que iba a ser padre",
-        "Entre las víctimas hay una científica",
-        "Entre las víctimas hay un trabajador portugués de Iryo",
-        "Entre las víctimas hay una premio nacional de música",
-        "Entre las víctimas hay una directiva",
-        "Álvaro era instructor de los maquinistas del AVE",
-        "Álvaro relató su última conversación antes del accidente, mencionando la frase 'a ver qué nos toca hoy en la ruleta rusa'"
-      ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "El Mundo",
-          "headline": "Las vidas rotas del accidente de Urda: la mujer que iba a la boda de su hija, la ejecutiva a punto de jubilarse, el héroe que iba a ser padre, la científica que iba a por un premio...",
-          "link": "https://www.elmundo.es/espana/2026/11/02/6ae79ce3fdddffdf6b8b4594.html",
-          "position": 50,
-          "focus": "Enumera varios perfiles de víctimas destacando sus planes vitales truncados, sin atribuir responsabilidades"
-        },
-        {
-          "outlet": "ABC",
-          "headline": "El trabajador portugués del Iryo, una premio nacional de música, una directiva de éxito... Las vidas que se perdieron en Urda",
-          "link": "https://www.abc.es/sociedad/antonio-jose-manuel-ana-historias-detras-tragedia-20261029012927-nt.html",
-          "position": 50,
-          "focus": "Similar a El Mundo, presenta perfiles de víctimas con énfasis en sus logros profesionales y personales"
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "\"A ver qué nos toca hoy en la ruleta rusa\": Álvaro, instructor de los maquinistas del AVE, revela su última conversación",
-          "link": "https://www.elespanol.com/espana/20261102/ver-toca-hoy-ruleta-rusa-alvaro-instructor-maquinistas-ave-revela-ultima-conversacion/1003744441503_0.html",
-          "position": 50,
-          "focus": "Se centra en el testimonio de un instructor superviviente, aportando una frase impactante sobre el riesgo laboral percibido"
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "20minutos",
-        "El Pais",
-        "La Vanguardia",
         "eldiario.es"
       ]
     }
