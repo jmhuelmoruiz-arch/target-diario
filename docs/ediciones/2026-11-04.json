@@ -1,0 +1,248 @@
+{
+  "fecha": "2026-11-04T12:26:12.376944+00:00",
+  "esquema": 2,
+  "historias": [
+    {
+      "neutral_headline": "Los demócratas obtienen una victoria amplia en las elecciones legislativas de mitad de mandato en EEUU",
+      "section": "Internacional",
+      "facts": [
+        "Los demócratas obtuvieron una victoria amplia en las elecciones de mitad de mandato (midterms) en EEUU",
+        "El Mundo, La Vanguardia y El Español afirman que los demócratas lograron el control tanto de la Cámara de Representantes como del Senado",
+        "El Mundo señala victorias demócratas en estados como Texas y Kansas",
+        "eldiario.es y El País enmarcan el resultado como un voto de castigo a la presidencia de Trump",
+        "20minutos señala que el resultado limitará la capacidad de acción de Trump el resto de su mandato"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Los demócratas arrasan en las ‘midterms’ a lomos del voto de castigo a la caótica presidencia de Trump",
+          "link": "https://elpais.com/us/2026-11-04/los-democratas-arrasan-en-las-midterms-a-lomos-del-voto-de-castigo-a-la-caotica-presidencia-de-trump.html",
+          "position": 50,
+          "focus": "Enfatiza el 'voto de castigo' a la presidencia de Trump calificada de caótica; no detalla qué cámaras se ganaron."
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "'Ola azul': los demócratas arrasan en las Midterms y recuperan el control total del Congreso triunfando en Texas o Kansas",
+          "link": "https://www.elmundo.es/internacional/2026/11/04/6aea9432e4d4d8701a8b45be.html",
+          "position": 50,
+          "focus": "Destaca el control total del Congreso y ejemplos geográficos concretos (Texas, Kansas) como prueba de la amplitud del triunfo."
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Tsunami demócrata en las 'midterms': Estados Unidos dice no a Donald Trump",
+          "link": "https://www.abc.es/internacional/tsunami-democrata-midterms-eeuu-dice-trump-20261104052925-nt.html",
+          "position": 50,
+          "focus": "Usa la metáfora de 'tsunami' y plantea el resultado como un rechazo directo del país a Trump, sin precisar cámaras."
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "EEUU empieza a enterrar el trumpismo con una rotunda victoria demócrata en el Congreso",
+          "link": "https://www.eldiario.es/internacional/eeuu-empieza-enterrar-trumpismo-rotunda-victoria-democrata-congreso_1_13636088.html",
+          "position": 50,
+          "focus": "Enmarca el resultado como el principio del fin del 'trumpismo', centrado en el Congreso sin mencionar el Senado."
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "EE.UU. suspende a Trump: una ola demócrata le arrebata la Cámara de Representantes y el Senado",
+          "link": "https://www.lavanguardia.com/internacional/20261104/11675604/escrutinio-ee-uu-da-senales-optimismo-democratas-encaminados-recuperar-congreso.html",
+          "position": 50,
+          "focus": "Resalta que Trump queda 'suspendido' al perder el control de ambas cámaras, House y Senado."
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "EEUU castiga a Trump con una victoria total de los demócratas: controlarán el Senado y la Cámara de Representantes",
+          "link": "https://www.elespanol.com/mundo/america/eeuu/20261104/eeuu-castiga-trump-victoria-total-democratas-controlaran-congreso-varios-bastiones-republicanos/1003744445289_0.html",
+          "position": 50,
+          "focus": "Enfatiza el castigo a Trump y afirma el control total de ambas cámaras por los demócratas."
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "EEUU cambia de rumbo y otorga un doble triunfo a los demócratas que maniatará a Trump el resto de su legislatura",
+          "link": "https://www.20minutos.es/internacional/ee-uu-cambia-rumbo-otorga-una-doble-victoria-los-democratas-las-midterms-que-maniatara-trump-resto-legislatura_7056871_0.html",
+          "position": 50,
+          "focus": "Se centra en las consecuencias futuras: el 'doble triunfo' que limitará la acción de Trump en su legislatura."
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": []
+    },
+    {
+      "neutral_headline": "Óscar Puente dimite como ministro de Transportes y Sánchez encarga su gestión a Carlos Cuerpo",
+      "section": "Politica",
+      "facts": [
+        "Óscar Puente dimitió como ministro de Transportes",
+        "Pedro Sánchez encargó a Carlos Cuerpo la gestión de Transportes",
+        "La Airef se ofreció a evaluar el estado de las infraestructuras",
+        "ABC recoge una declaración sobre 'falta de conservación' de las infraestructuras"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "gestión ordenada y decidida",
+        "polo_b": "crisis interna / cálculo electoral",
+        "resumen": "Los medios difieren en si presentan la dimisión y el relevo como un movimiento de confianza y normalidad institucional o como el resultado de dudas internas y una jugada política calculada."
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Sánchez encarga a Cuerpo la gestión de Transportes para dar “confianza, seguridad y certidumbre”",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-11-04/sanchez-encarga-a-cuerpo-la-gestion-de-transportes-para-dar-confianza-seguridad-y-certidumbre.html",
+          "position": 10,
+          "focus": "Reproduce casi literalmente el mensaje de Sánchez ('confianza, seguridad y certidumbre'), omitiendo cualquier tensión previa en Moncloa."
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "El sistema de señalización en el tramo Madrid-Sevilla, explicado en gráficos",
+          "link": "https://www.elmundo.es/espana/2026/10/28/6ae236b621efa012638b4600.html",
+          "position": 50,
+          "focus": "Se centra en un aspecto técnico (el sistema de señalización ferroviaria) ajeno al relato político de la dimisión."
+        },
+        {
+          "outlet": "ABC",
+          "headline": "La Airef se ofrece a evaluar el estado de las infraestructuras: «Se ha puesto de manifiesto falta de conservación»",
+          "link": "https://www.abc.es/economia/airef-ofrece-evaluar-estado-infraestructuras-puesto-manifiesto-20261104130227-nt.html",
+          "position": 50,
+          "focus": "Aborda la oferta de la Airef para evaluar infraestructuras y cita falta de conservación, sin entrar en la narrativa política del relevo."
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Sánchez encarga al vicepresidente Carlos Cuerpo la gestión de Transportes tras la dimisión de Óscar Puente",
+          "link": "https://www.eldiario.es/politica/sanchez-anuncia-carlos-cuerpo-asume-cartera-transportes-dimision-oscar-puente_1_13636399.html",
+          "position": 50,
+          "focus": "Informa de forma neutra sobre el encargo a Cuerpo tras la dimisión, sin valorar motivos ni consecuencias políticas."
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Carlos Cuerpo asumirá las funciones de Transportes en sustitución de Óscar Puente",
+          "link": "https://www.lavanguardia.com/politica/20261104/11675718/carlos-cuerpo-asumira-funciones-tranportes-sustitucion-oscar-puente.html",
+          "position": 50,
+          "focus": "Describe de manera factual la sustitución de funciones, sin enmarcar la dimisión como crisis ni como estrategia."
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Sánchez presenta la dimisión de Óscar Puente como ejemplo político y baza electoral: \"Él lo ha vuelto a hacer y nosotros lo volveremos a hacer\"",
+          "link": "https://www.elespanol.com/espana/politica/20261104/sanchez-presenta-dimision-oscar-puente-ejemplo-politico-baza-electoral-vuelto-hacer-volveremos/1003744445469_0.html",
+          "position": 90,
+          "focus": "Presenta la dimisión como una jugada política y electoral de Sánchez, citando sus propias palabras sobre repetir la estrategia."
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "La dimisión de Puente zanja una semana de dudas y división en Moncloa sobre su continuidad al frente del ministerio",
+          "link": "https://www.20minutos.es/nacional/puente-dimite-sede-parlamentaria-despues-dias-dudas-certezas-division-moncloa-sobre-su-continuidad_7056768_0.html",
+          "position": 65,
+          "focus": "Enmarca la dimisión como el cierre de una semana de dudas y división interna en Moncloa, sugiriendo inestabilidad previa."
+        }
+      ],
+      "rango": 80,
+      "discrepancia": "alta",
+      "silenciosos": []
+    },
+    {
+      "neutral_headline": "Cobertura de la tragedia del autobús en Urda y de la muerte del futbolista Jesús de Miguel tras un golpe del portero Owono",
+      "section": "Sociedad",
+      "facts": [
+        "Hay nuevas víctimas identificadas en la tragedia de Urda: Marie, Daniela, Carlos, Yassine, Fernando y Marta.",
+        "El portero Owono está relacionado con la muerte de Jesús de Miguel.",
+        "Óscar Puente lleva tres años publicando en redes como responsable de Transportes.",
+        "Se menciona una auditoría sobre Ábalos y 116 muertos vinculados a los sucesos de Adamuz y Urda.",
+        "Existe la posibilidad de una sanción penal o deportiva para el portero del Andorra tras la muerte de Jesús de Miguel."
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "La despedida a Marie, Daniela, Carlos, Yassine, Fernando o Marta, nuevos identificados en la tragedia de Urda: \"Vuestra marcha deja un vacío enorme\"",
+          "link": "https://www.elmundo.es/espana/2026/11/03/6ae8bb7ee9cf4aa8168b459c.html",
+          "position": 50,
+          "focus": "Se centra en las víctimas identificadas de la tragedia de Urda y en el homenaje a ellas, sin entrar en causas ni responsables."
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Owono o cómo superar la culpa tras la muerte de De Miguel: “Si se margina, la herida será más grande”",
+          "link": "https://www.lavanguardia.com/deportes/futbol/20261104/11675330/jesus-owono-como-superar-culpa-margina-herida-sera-mas-grande.html",
+          "position": 50,
+          "focus": "Aborda el impacto psicológico en Owono tras la muerte de De Miguel, centrado en la gestión emocional más que en responsabilidades."
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Los tres años de Óscar Puente tuiteando en Transportes: entre la auditoría sobre Ábalos y los 116 muertos de Adamuz y Urda",
+          "link": "https://www.elespanol.com/invertia/observatorios/movilidad/20261104/anos-oscar-puente-tuiteando-transportes-auditoria-abalos-muertos-adamuz-urda/1003744445201_0.html",
+          "position": 50,
+          "focus": "Relaciona la actividad en redes de Óscar Puente con la auditoría sobre Ábalos y las cifras de víctimas en Adamuz y Urda, situando el foco político."
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "¿Qué sanción, penal o deportiva, le espera al portero del Andorra tras la muerte de Jesús de Miguel?",
+          "link": "https://www.20minutos.es/deportes/que-sancion-penal-deportiva-le-espera-portero-andorra-jesus-owono-tras-muerte-jesus-miguel_7056518_0.html",
+          "position": 50,
+          "focus": "Plantea las posibles consecuencias legales o deportivas para el portero del Andorra, centrado en el futuro judicial/deportivo del jugador."
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "ABC",
+        "El Pais",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Rafael Nadal, propuesto para entrar en la Junta Directiva del Real Madrid",
+      "section": "Deportes",
+      "facts": [
+        "El Real Madrid ha propuesto a Rafael Nadal como nuevo miembro de su Junta Directiva, según El Pais y ABC",
+        "Rafa Nadal entrará en la Junta Directiva del Real Madrid, según El Mundo, El Espanol y 20minutos",
+        "El Espanol afirma que el Real Madrid ha anunciado el nombramiento de Nadal",
+        "20minutos atribuye la decisión a Florentino Pérez, presidente del club"
+      ],
+      "tipo_divergencia": "cronologica",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "El Real Madrid propone la entrada de Rafael Nadal como nuevo miembro de su Junta Directiva",
+          "link": "https://elpais.com/deportes/futbol/2026-11-04/el-real-madrid-propone-la-entrada-de-rafael-nadal-como-nuevo-miembro-de-su-junta-directiva.html",
+          "position": 50,
+          "focus": "Presenta la noticia como una propuesta aún no confirmada, centrando en el proceso institucional del club"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Rafa Nadal entrará en la Junta Directiva del  Real Madrid",
+          "link": "https://www.elmundo.es/deportes/futbol/2026/11/04/6aeb1c38e85ecea52b8b456e.html",
+          "position": 50,
+          "focus": "Da por hecho el nombramiento, sin mencionar que se trata de una propuesta"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Rafa Nadal, propuesto como miembro de la Junta Directiva del Real Madrid",
+          "link": "https://www.abc.es/deportes/real-madrid/rafa-nadal-propuesto-miembro-junta-directiva-real-20261104125527-nt.html",
+          "position": 50,
+          "focus": "Igual que El Pais, habla de propuesta, manteniendo cautela sobre si ya es definitivo"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "El Real Madrid anuncia el nombramiento de Rafa Nadal como nuevo miembro de la Junta Directiva del club",
+          "link": "https://www.elespanol.com/deportes/futbol/20261104/real-madrid-llevara-asamblea-propuesta-hacer-rafa-nadal-miembro-junta-directiva-club/1003744445793_0.html",
+          "position": 50,
+          "focus": "Afirma que el club ya ha anunciado oficialmente el nombramiento, dando el hecho por consumado"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Florentino Pérez 'ficha' a Rafa Nadal: entrará en la Junta Directiva del Real Madrid",
+          "link": "https://www.20minutos.es/deportes/futbol/comunicado-real-madrid-rafa-nadal-nuevo-miembro-junta-directiva-florentino-perez_7057105_0.html",
+          "position": 50,
+          "focus": "Enfatiza la figura de Florentino Pérez como artífice de la decisión y confirma la entrada de Nadal"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    }
+  ]
+}
