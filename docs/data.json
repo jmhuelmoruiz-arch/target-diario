@@ -1,245 +1,678 @@
 {
-  "fecha": "2026-11-04T12:26:12.376944+00:00",
+  "fecha": "2026-11-05T12:42:56.452572+00:00",
   "esquema": 2,
   "historias": [
     {
-      "neutral_headline": "Los demócratas obtienen una victoria amplia en las elecciones legislativas de mitad de mandato en EEUU",
+      "neutral_headline": "Nueva oleada de amenazas de bomba afecta a varios vuelos europeos",
       "section": "Internacional",
       "facts": [
-        "Los demócratas obtuvieron una victoria amplia en las elecciones de mitad de mandato (midterms) en EEUU",
-        "El Mundo, La Vanguardia y El Español afirman que los demócratas lograron el control tanto de la Cámara de Representantes como del Senado",
-        "El Mundo señala victorias demócratas en estados como Texas y Kansas",
-        "eldiario.es y El País enmarcan el resultado como un voto de castigo a la presidencia de Trump",
-        "20minutos señala que el resultado limitará la capacidad de acción de Trump el resto de su mandato"
-      ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "Los demócratas arrasan en las ‘midterms’ a lomos del voto de castigo a la caótica presidencia de Trump",
-          "link": "https://elpais.com/us/2026-11-04/los-democratas-arrasan-en-las-midterms-a-lomos-del-voto-de-castigo-a-la-caotica-presidencia-de-trump.html",
-          "position": 50,
-          "focus": "Enfatiza el 'voto de castigo' a la presidencia de Trump calificada de caótica; no detalla qué cámaras se ganaron."
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "'Ola azul': los demócratas arrasan en las Midterms y recuperan el control total del Congreso triunfando en Texas o Kansas",
-          "link": "https://www.elmundo.es/internacional/2026/11/04/6aea9432e4d4d8701a8b45be.html",
-          "position": 50,
-          "focus": "Destaca el control total del Congreso y ejemplos geográficos concretos (Texas, Kansas) como prueba de la amplitud del triunfo."
-        },
-        {
-          "outlet": "ABC",
-          "headline": "Tsunami demócrata en las 'midterms': Estados Unidos dice no a Donald Trump",
-          "link": "https://www.abc.es/internacional/tsunami-democrata-midterms-eeuu-dice-trump-20261104052925-nt.html",
-          "position": 50,
-          "focus": "Usa la metáfora de 'tsunami' y plantea el resultado como un rechazo directo del país a Trump, sin precisar cámaras."
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "EEUU empieza a enterrar el trumpismo con una rotunda victoria demócrata en el Congreso",
-          "link": "https://www.eldiario.es/internacional/eeuu-empieza-enterrar-trumpismo-rotunda-victoria-democrata-congreso_1_13636088.html",
-          "position": 50,
-          "focus": "Enmarca el resultado como el principio del fin del 'trumpismo', centrado en el Congreso sin mencionar el Senado."
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "EE.UU. suspende a Trump: una ola demócrata le arrebata la Cámara de Representantes y el Senado",
-          "link": "https://www.lavanguardia.com/internacional/20261104/11675604/escrutinio-ee-uu-da-senales-optimismo-democratas-encaminados-recuperar-congreso.html",
-          "position": 50,
-          "focus": "Resalta que Trump queda 'suspendido' al perder el control de ambas cámaras, House y Senado."
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "EEUU castiga a Trump con una victoria total de los demócratas: controlarán el Senado y la Cámara de Representantes",
-          "link": "https://www.elespanol.com/mundo/america/eeuu/20261104/eeuu-castiga-trump-victoria-total-democratas-controlaran-congreso-varios-bastiones-republicanos/1003744445289_0.html",
-          "position": 50,
-          "focus": "Enfatiza el castigo a Trump y afirma el control total de ambas cámaras por los demócratas."
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "EEUU cambia de rumbo y otorga un doble triunfo a los demócratas que maniatará a Trump el resto de su legislatura",
-          "link": "https://www.20minutos.es/internacional/ee-uu-cambia-rumbo-otorga-una-doble-victoria-los-democratas-las-midterms-que-maniatara-trump-resto-legislatura_7056871_0.html",
-          "position": 50,
-          "focus": "Se centra en las consecuencias futuras: el 'doble triunfo' que limitará la acción de Trump en su legislatura."
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": []
-    },
-    {
-      "neutral_headline": "Óscar Puente dimite como ministro de Transportes y Sánchez encarga su gestión a Carlos Cuerpo",
-      "section": "Politica",
-      "facts": [
-        "Óscar Puente dimitió como ministro de Transportes",
-        "Pedro Sánchez encargó a Carlos Cuerpo la gestión de Transportes",
-        "La Airef se ofreció a evaluar el estado de las infraestructuras",
-        "ABC recoge una declaración sobre 'falta de conservación' de las infraestructuras"
-      ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "gestión ordenada y decidida",
-        "polo_b": "crisis interna / cálculo electoral",
-        "resumen": "Los medios difieren en si presentan la dimisión y el relevo como un movimiento de confianza y normalidad institucional o como el resultado de dudas internas y una jugada política calculada."
-      },
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "Sánchez encarga a Cuerpo la gestión de Transportes para dar “confianza, seguridad y certidumbre”",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-11-04/sanchez-encarga-a-cuerpo-la-gestion-de-transportes-para-dar-confianza-seguridad-y-certidumbre.html",
-          "position": 10,
-          "focus": "Reproduce casi literalmente el mensaje de Sánchez ('confianza, seguridad y certidumbre'), omitiendo cualquier tensión previa en Moncloa."
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "El sistema de señalización en el tramo Madrid-Sevilla, explicado en gráficos",
-          "link": "https://www.elmundo.es/espana/2026/10/28/6ae236b621efa012638b4600.html",
-          "position": 50,
-          "focus": "Se centra en un aspecto técnico (el sistema de señalización ferroviaria) ajeno al relato político de la dimisión."
-        },
-        {
-          "outlet": "ABC",
-          "headline": "La Airef se ofrece a evaluar el estado de las infraestructuras: «Se ha puesto de manifiesto falta de conservación»",
-          "link": "https://www.abc.es/economia/airef-ofrece-evaluar-estado-infraestructuras-puesto-manifiesto-20261104130227-nt.html",
-          "position": 50,
-          "focus": "Aborda la oferta de la Airef para evaluar infraestructuras y cita falta de conservación, sin entrar en la narrativa política del relevo."
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "Sánchez encarga al vicepresidente Carlos Cuerpo la gestión de Transportes tras la dimisión de Óscar Puente",
-          "link": "https://www.eldiario.es/politica/sanchez-anuncia-carlos-cuerpo-asume-cartera-transportes-dimision-oscar-puente_1_13636399.html",
-          "position": 50,
-          "focus": "Informa de forma neutra sobre el encargo a Cuerpo tras la dimisión, sin valorar motivos ni consecuencias políticas."
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Carlos Cuerpo asumirá las funciones de Transportes en sustitución de Óscar Puente",
-          "link": "https://www.lavanguardia.com/politica/20261104/11675718/carlos-cuerpo-asumira-funciones-tranportes-sustitucion-oscar-puente.html",
-          "position": 50,
-          "focus": "Describe de manera factual la sustitución de funciones, sin enmarcar la dimisión como crisis ni como estrategia."
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "Sánchez presenta la dimisión de Óscar Puente como ejemplo político y baza electoral: \"Él lo ha vuelto a hacer y nosotros lo volveremos a hacer\"",
-          "link": "https://www.elespanol.com/espana/politica/20261104/sanchez-presenta-dimision-oscar-puente-ejemplo-politico-baza-electoral-vuelto-hacer-volveremos/1003744445469_0.html",
-          "position": 90,
-          "focus": "Presenta la dimisión como una jugada política y electoral de Sánchez, citando sus propias palabras sobre repetir la estrategia."
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "La dimisión de Puente zanja una semana de dudas y división en Moncloa sobre su continuidad al frente del ministerio",
-          "link": "https://www.20minutos.es/nacional/puente-dimite-sede-parlamentaria-despues-dias-dudas-certezas-division-moncloa-sobre-su-continuidad_7056768_0.html",
-          "position": 65,
-          "focus": "Enmarca la dimisión como el cierre de una semana de dudas y división interna en Moncloa, sugiriendo inestabilidad previa."
-        }
-      ],
-      "rango": 80,
-      "discrepancia": "alta",
-      "silenciosos": []
-    },
-    {
-      "neutral_headline": "Cobertura de la tragedia del autobús en Urda y de la muerte del futbolista Jesús de Miguel tras un golpe del portero Owono",
-      "section": "Sociedad",
-      "facts": [
-        "Hay nuevas víctimas identificadas en la tragedia de Urda: Marie, Daniela, Carlos, Yassine, Fernando y Marta.",
-        "El portero Owono está relacionado con la muerte de Jesús de Miguel.",
-        "Óscar Puente lleva tres años publicando en redes como responsable de Transportes.",
-        "Se menciona una auditoría sobre Ábalos y 116 muertos vinculados a los sucesos de Adamuz y Urda.",
-        "Existe la posibilidad de una sanción penal o deportiva para el portero del Andorra tras la muerte de Jesús de Miguel."
-      ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "El Mundo",
-          "headline": "La despedida a Marie, Daniela, Carlos, Yassine, Fernando o Marta, nuevos identificados en la tragedia de Urda: \"Vuestra marcha deja un vacío enorme\"",
-          "link": "https://www.elmundo.es/espana/2026/11/03/6ae8bb7ee9cf4aa8168b459c.html",
-          "position": 50,
-          "focus": "Se centra en las víctimas identificadas de la tragedia de Urda y en el homenaje a ellas, sin entrar en causas ni responsables."
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Owono o cómo superar la culpa tras la muerte de De Miguel: “Si se margina, la herida será más grande”",
-          "link": "https://www.lavanguardia.com/deportes/futbol/20261104/11675330/jesus-owono-como-superar-culpa-margina-herida-sera-mas-grande.html",
-          "position": 50,
-          "focus": "Aborda el impacto psicológico en Owono tras la muerte de De Miguel, centrado en la gestión emocional más que en responsabilidades."
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "Los tres años de Óscar Puente tuiteando en Transportes: entre la auditoría sobre Ábalos y los 116 muertos de Adamuz y Urda",
-          "link": "https://www.elespanol.com/invertia/observatorios/movilidad/20261104/anos-oscar-puente-tuiteando-transportes-auditoria-abalos-muertos-adamuz-urda/1003744445201_0.html",
-          "position": 50,
-          "focus": "Relaciona la actividad en redes de Óscar Puente con la auditoría sobre Ábalos y las cifras de víctimas en Adamuz y Urda, situando el foco político."
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "¿Qué sanción, penal o deportiva, le espera al portero del Andorra tras la muerte de Jesús de Miguel?",
-          "link": "https://www.20minutos.es/deportes/que-sancion-penal-deportiva-le-espera-portero-andorra-jesus-owono-tras-muerte-jesus-miguel_7056518_0.html",
-          "position": 50,
-          "focus": "Plantea las posibles consecuencias legales o deportivas para el portero del Andorra, centrado en el futuro judicial/deportivo del jugador."
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "ABC",
-        "El Pais",
-        "eldiario.es"
-      ]
-    },
-    {
-      "neutral_headline": "Rafael Nadal, propuesto para entrar en la Junta Directiva del Real Madrid",
-      "section": "Deportes",
-      "facts": [
-        "El Real Madrid ha propuesto a Rafael Nadal como nuevo miembro de su Junta Directiva, según El Pais y ABC",
-        "Rafa Nadal entrará en la Junta Directiva del Real Madrid, según El Mundo, El Espanol y 20minutos",
-        "El Espanol afirma que el Real Madrid ha anunciado el nombramiento de Nadal",
-        "20minutos atribuye la decisión a Florentino Pérez, presidente del club"
+        "Se ha producido una nueva oleada de amenazas de bomba contra aviones con destino o en territorio europeo",
+        "El Pais cifra en al menos 14 los aviones afectados",
+        "El Mundo habla de mas de una docena de vuelos con aterrizajes de emergencia",
+        "ABC habla de al menos una docena de vuelos que activaron un plan de emergencia",
+        "eldiario.es cifra en una decena los aviones obligados a aterrizar",
+        "La Vanguardia cifra en al menos doce los vuelos afectados, calificando las amenazas de infundadas",
+        "El Espanol habla de docenas de vuelos alterados y menciona que uno tenia origen en Madrid",
+        "20minutos cifra en al menos 15 los vuelos afectados y menciona que uno procedia de Madrid"
       ],
       "tipo_divergencia": "cronologica",
       "eje": null,
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "El Real Madrid propone la entrada de Rafael Nadal como nuevo miembro de su Junta Directiva",
-          "link": "https://elpais.com/deportes/futbol/2026-11-04/el-real-madrid-propone-la-entrada-de-rafael-nadal-como-nuevo-miembro-de-su-junta-directiva.html",
+          "headline": "Una nueva oleada de amenazas de bomba afecta al menos a 14 aviones con destino a ciudades europeas",
+          "link": "https://elpais.com/internacional/2026-11-05/cinco-aviones-con-destino-a-ciudades-europeas-realizan-aterrizajes-de-emergencia-tras-recibir-amenazas-de-bomba.html",
           "position": 50,
-          "focus": "Presenta la noticia como una propuesta aún no confirmada, centrando en el proceso institucional del club"
+          "focus": "Destaca la cifra de 14 aviones afectados con destino a ciudades europeas"
         },
         {
           "outlet": "El Mundo",
-          "headline": "Rafa Nadal entrará en la Junta Directiva del  Real Madrid",
-          "link": "https://www.elmundo.es/deportes/futbol/2026/11/04/6aeb1c38e85ecea52b8b456e.html",
+          "headline": "Una nueva oleada de amenazas de bomba obliga a más de una docena de vuelos a aterrizajes de emergencia en varios países europeos",
+          "link": "https://www.elmundo.es/economia/2026/11/05/6aec51cdfdddff8b218b4583.html",
           "position": 50,
-          "focus": "Da por hecho el nombramiento, sin mencionar que se trata de una propuesta"
+          "focus": "Pone el foco en los aterrizajes de emergencia y cifra mas de una docena de vuelos"
         },
         {
           "outlet": "ABC",
-          "headline": "Rafa Nadal, propuesto como miembro de la Junta Directiva del Real Madrid",
-          "link": "https://www.abc.es/deportes/real-madrid/rafa-nadal-propuesto-miembro-junta-directiva-real-20261104125527-nt.html",
+          "headline": "Al menos una docena de vuelos europeos activan un plan de emergencia por amenazas de bomba",
+          "link": "https://www.abc.es/internacional/avion-aterriza-emergencia-francia-tras-amenaza-bomba-20261105102629-nt.html",
           "position": 50,
-          "focus": "Igual que El Pais, habla de propuesta, manteniendo cautela sobre si ya es definitivo"
+          "focus": "Centra el titular en la activacion de un plan de emergencia en al menos una docena de vuelos"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Una nueva ola de falsas amenazas de bomba obliga a aterrizar a una decena de aviones en territorio europeo",
+          "link": "https://www.eldiario.es/internacional/tres-vuelos-destino-bulgaria-sufren-nuevas-amenazas-falsas-bomba-procedente-madrid_1_13640233.html",
+          "position": 50,
+          "focus": "Subraya que las amenazas son falsas y cifra en una decena los aviones obligados a aterrizar"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Nueva oleada de amenazas de bomba infundadas en al menos doce vuelos europeos",
+          "link": "https://www.lavanguardia.com/internacional/20261105/11676696/segunda-oleada-amenazas-bomba-infundadas-sobre-seis-vuelos-europeos.html",
+          "position": 50,
+          "focus": "Califica las amenazas de infundadas y cifra en al menos doce los vuelos afectados"
         },
         {
           "outlet": "El Espanol",
-          "headline": "El Real Madrid anuncia el nombramiento de Rafa Nadal como nuevo miembro de la Junta Directiva del club",
-          "link": "https://www.elespanol.com/deportes/futbol/20261104/real-madrid-llevara-asamblea-propuesta-hacer-rafa-nadal-miembro-junta-directiva-club/1003744445793_0.html",
+          "headline": "Una nueva oleada de avisos de bomba falsos altera docenas de vuelos en Europa, uno de ellos con origen en Madrid",
+          "link": "https://www.elespanol.com/mundo/europa/20261105/nueva-oleada-avisos-bomba-obliga-desviarse-vuelos-europa-origen-madrid/1003744447033_0.html",
           "position": 50,
-          "focus": "Afirma que el club ya ha anunciado oficialmente el nombramiento, dando el hecho por consumado"
+          "focus": "Habla de docenas de vuelos alterados y añade el dato de un vuelo con origen en Madrid"
         },
         {
           "outlet": "20minutos",
-          "headline": "Florentino Pérez 'ficha' a Rafa Nadal: entrará en la Junta Directiva del Real Madrid",
-          "link": "https://www.20minutos.es/deportes/futbol/comunicado-real-madrid-rafa-nadal-nuevo-miembro-junta-directiva-florentino-perez_7057105_0.html",
+          "headline": "Nuevas amenazas de bomba en aviones: al menos 15 se han visto afectados, uno procedente de Madrid",
+          "link": "https://www.20minutos.es/internacional/una-alerta-bomba-un-avion-dublin-roma-obliga-desviar-vuelo-una-base-aerea-francesa_7057501_0.html",
           "position": 50,
-          "focus": "Enfatiza la figura de Florentino Pérez como artífice de la decisión y confirma la entrada de Nadal"
+          "focus": "Cifra en al menos 15 los vuelos afectados y menciona el vuelo procedente de Madrid"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": []
+    },
+    {
+      "neutral_headline": "Tragedia de Urda: homenajes a las víctimas y avance de la investigación sobre el accidente",
+      "section": "Sociedad",
+      "facts": [
+        "Hubo víctimas mortales en un accidente en Urda",
+        "Se han identificado nuevas víctimas: Marie, Daniela, Carlos, Yassine, Fernando y Marta",
+        "Hubo un acto de despedida a las víctimas",
+        "Peritos han examinado el tramo de la carretera donde ocurrió el accidente (según ABC)",
+        "Según ABC, los peritos de Adamuz detectaron que persisten fallos en ese tramo"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "homenaje a las víctimas",
+        "polo_b": "investigación de responsabilidades técnicas",
+        "resumen": "Mientras El País y El Mundo centran la pieza en el duelo y la memoria de las víctimas, ABC desplaza el foco hacia los fallos técnicos del tramo donde ocurrió el accidente, apuntando a una posible responsabilidad en la infraestructura"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Las vidas que se pararon para siempre en Urda",
+          "link": "https://elpais.com/espana/2026-11-05/las-vidas-que-se-pararon-para-siempre-en-urda.html",
+          "position": 10,
+          "focus": "Pone el acento en las vidas truncadas y el impacto humano de la tragedia, sin mencionar causas técnicas"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "La despedida a Marie, Daniela, Carlos, Yassine, Fernando o Marta, nuevos identificados en la tragedia de Urda: \"Vuestra marcha deja un vacío enorme\"",
+          "link": "https://www.elmundo.es/espana/2026/11/03/6ae8bb7ee9cf4aa8168b459c.html",
+          "position": 15,
+          "focus": "Centra el relato en la despedida y la identificación de las víctimas, citando mensajes emotivos; no aborda causas del accidente"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Los peritos de Adamuz descubren que sigue habiendo fallos en el tramo del accidente",
+          "link": "https://www.abc.es/espana/andalucia/cordoba/peritos-accidente-adamuz-descubren-sigue-fallos-tramo-20261104181925-nts.html",
+          "position": 90,
+          "focus": "Destaca el hallazgo pericial de fallos persistentes en el tramo, apuntando a una causa estructural; omite el relato humano de las víctimas"
+        }
+      ],
+      "rango": 80,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "El Espanol",
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Milei equipara el socialismo con el fascismo durante un discurso ante Sánchez en la Cumbre Iberoamericana, tras un saludo frío entre ambos",
+      "section": "Politica",
+      "facts": [
+        "Milei afirmó que la equivalencia entre socialismo y fascismo no es casual",
+        "El saludo entre Milei y Sánchez fue descrito como frío/gélido",
+        "La Vanguardia señala que Milei había llamado previamente a Sánchez 'impresentable dictador'",
+        "El hecho ocurrió en el marco de la Cumbre Iberoamericana"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "cuestiona/critica la equiparación de Milei",
+        "polo_b": "legitima el discurso de Milei como defensa de la libertad",
+        "resumen": "Los medios se dividen entre presentar la comparación de Milei como una provocación cuestionable o como una defensa legítima de sus ideales"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Última hora de la Cumbre Iberoamericana, en directo | Milei homologa el socialismo democrático con el fascismo ante Pedro Sánchez",
+          "link": "https://elpais.com/espana/2026-11-05/ultima-hora-de-la-cumbre-iberoamericana-de-madrid-en-directo.html",
+          "position": 20,
+          "focus": "Usa el verbo 'homologa' con connotación crítica, enfatiza que equipara el 'socialismo democrático' con el fascismo, sugiriendo una equiparación extrema e injustificada"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Javier Milei, tras su frío saludo con Sánchez, eleva la tensión en la Cumbre Iberoamericana: \"La equivalencia entre socialistas y fascistas no es casual\"",
+          "link": "https://www.elmundo.es/espana/2026/11/05/6aec3c2821efa0b2518b4597.html",
+          "position": 45,
+          "focus": "Reporta la cita textual de Milei y el saludo frío, con foco en la tensión generada, sin juicio explícito sobre la validez de la comparación"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Milei enarbola la bandera de la libertad: «La equivalencia entre socialistas y fascistas no es casual»",
+          "link": "https://www.abc.es/espana/milei-enarbola-bandera-libertad-equivalencia-socialistas-fascistas-20261105104615-nt.html",
+          "position": 85,
+          "focus": "Enmarca a Milei como defensor de la libertad ('enarbola la bandera de la libertad'), legitimando su postura ideológica"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Milei y Sánchez protagonizan un frío saludo tras llamarle “impresentable dictador”",
+          "link": "https://www.lavanguardia.com/politica/20261105/11676636/miley-sanchez-protagonizan-frio-saludo-llamarle-impresentable-dictador.html",
+          "position": 50,
+          "focus": "Centra el relato en el conflicto personal previo (Milei llamó a Sánchez 'impresentable dictador') y el saludo frío, sin pronunciarse sobre la equiparación ideológica"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Milei equipara el socialismo con el fascismo ante Sánchez tras un gélido saludo en la Cumbre Iberoamericana",
+          "link": "https://www.elespanol.com/espana/politica/20261105/sanchez-recibe-milei-gelido-saludo-tension-cumbre-iberoamericana-insultos-lider-argentino/1003744446882_0.html",
+          "position": 50,
+          "focus": "Describe de forma neutral la equiparación y el gélido saludo, sin añadir juicio valorativo explícito"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Milei asemeja \"socialismo y fascismo\" ante Sánchez en la Cumbre Iberoamericana",
+          "link": "https://www.20minutos.es/internacional/milei-asemeja-socialismo-fascismo-delante-sanchez-cumbre-iberoamericana-es-expresion-extrema-intervencionismo_7057516_0.html",
+          "position": 50,
+          "focus": "Reporta la comparación entre comillas de forma neutral, centrado en el hecho declarativo sin calificarlo"
+        }
+      ],
+      "rango": 65,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "La UCO registra la casa de Ábalos en Valencia y detiene a seis personas en una nueva operación del 'caso Koldo'",
+      "section": "Politica",
+      "facts": [
+        "La UCO registró la casa de Ábalos en Valencia",
+        "El Pais, La Vanguardia, eldiario.es y 20minutos cifran en seis el número de detenidos",
+        "El Mundo y ABC no dan una cifra total pero identifican como detenidos al ex chófer de Sánchez y, según ABC, a la pareja de Ábalos",
+        "El Mundo señala que la UCO reclamó información a Adif",
+        "20minutos indica que la UCO se personó en Adif y que las detenciones se realizaron por orden del juez del caso Koldo",
+        "ABC atribuye la investigación a sospechas de amaños de obra pública",
+        "eldiario.es y La Vanguardia vinculan la operación a un presunto blanqueo de capitales",
+        "eldiario.es sitúa los hechos investigados en la época en que Ábalos era ministro"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "foco en Ábalos y el aparato Koldo",
+        "polo_b": "foco en la vinculación con Sánchez",
+        "resumen": "Algunos medios centran el relato en Ábalos y su entorno (casa, pareja, blanqueo del caso Koldo), mientras otros destacan que entre los detenidos figura el ex chófer de Sánchez, acercando la trama a la Presidencia del Gobierno"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "La UCO registra la casa de Ábalos en Valencia en un nuevo operativo del ‘caso Koldo’ con seis detenidos",
+          "link": "https://elpais.com/espana/2026-11-05/la-uco-despliega-un-nuevo-operativo-tras-entregar-un-informe-sobre-amanos-en-el-caso-koldo.html",
+          "position": 20,
+          "focus": "Destaca el registro de la casa de Ábalos y el número total de detenidos; no menciona a Sánchez ni detalla el tipo de delito."
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "La UCO lanza una nueva operación anticorrupción: se persona en casa de Ábalos, detiene al ex chófer de Sánchez y reclama información a Adif",
+          "link": "https://www.elmundo.es/espana/2026/11/05/6aec4851e9cf4ac94c8b459e.html",
+          "position": 65,
+          "focus": "Resalta la detención del ex chófer de Sánchez y la petición de información a Adif, vinculando explícitamente al entorno presidencial."
+        },
+        {
+          "outlet": "ABC",
+          "headline": "La UCO detiene a la pareja de Ábalos y al exchófer de Sánchez por la sospecha de amaños de obra pública",
+          "link": "https://www.abc.es/espana/uco-registra-casa-abalos-valencia-orden-juez-20261105102127-nt.html",
+          "position": 75,
+          "focus": "Pone el acento en la pareja de Ábalos y el ex chófer de Sánchez como detenidos, y atribuye la causa a amaños de obra pública, personalizando la trama."
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "La UCO detiene a seis personas en una investigación por amaño de contratos y blanqueo en la época de Ábalos",
+          "link": "https://www.eldiario.es/politica/uco-despliega-operacion-secreto-caso-koldo-investiga-audiencia-nacional_1_13639620.html",
+          "position": 15,
+          "focus": "Se centra en el número de detenidos y en los presuntos delitos (amaño de contratos y blanqueo) durante la etapa de Ábalos, sin mencionar a Sánchez."
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "La UCO registra la casa de Ábalos en una operación por blanqueo del caso Koldo con seis detenidos",
+          "link": "https://www.lavanguardia.com/politica/20261105/11676658/uco-despliega-nuevo-operativo-pieza-secreta-caso-koldo.html",
+          "position": 20,
+          "focus": "Enfatiza el registro de la casa de Ábalos y el blanqueo como motivo de la operación, sin citar a Sánchez."
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "La UCO detiene al exchófer de Sánchez y registra la casa de Ábalos en Valencia en una nueva operación del 'caso Koldo'",
+          "link": "https://www.elespanol.com/espana/tribunales/20261105/audiencia-nacional-ordena-uco-registrar-casa-abalos-valencia-nueva-operacion-caso-koldo/1003744446921_0.html",
+          "position": 55,
+          "focus": "Combina ambos elementos: menciona primero al ex chófer de Sánchez y luego el registro de la casa de Ábalos, sin inclinarse claramente hacia uno u otro."
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "La UCO registra la casa de Ábalos, se persona en Adif y realiza seis detenciones por orden del juez del caso Koldo",
+          "link": "https://www.20minutos.es/nacional/uco-registra-casa-abalos-valencia-un-nuevo-operativo-caso-koldo_7057519_0.html",
+          "position": 20,
+          "focus": "Describe el registro de la casa de Ábalos, la comparecencia en Adif y el respaldo judicial de las detenciones, sin mencionar a Sánchez."
+        }
+      ],
+      "rango": 60,
+      "discrepancia": "alta",
+      "silenciosos": []
+    },
+    {
+      "neutral_headline": "Koldo García declara que el abogado del PP le ofreció un millón de euros relacionado con información contra Sánchez",
+      "section": "Politica",
+      "facts": [
+        "Koldo García está en prisión con una condena firme",
+        "Koldo García afirma que el abogado del PP le ofreció/acordó un millón de euros",
+        "El Pais y eldiario.es señalan que la oferta buscaba perjudicar a Sánchez/su Gobierno",
+        "eldiario.es añade que la oferta era a cambio de que Koldo mintiera contra el Gobierno"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "acusación contra el PP tomada como hecho relevante",
+        "polo_b": "testimonio de Koldo presentado como interesado y poco fiable",
+        "resumen": "El Pais y eldiario.es centran el titular en la acusación de Koldo contra el abogado del PP, mientras La Vanguardia enmarca la declaración como una maniobra interesada de un condenado para congraciarse con el PSOE"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Koldo García asegura que acordó con el abogado del PP un millón de euros a cambio de información para hacer caer a Sánchez",
+          "link": "https://elpais.com/espana/2026-11-05/koldo-garcia-asegura-que-acordo-con-el-abogado-del-pp-un-millon-de-euros-a-cambio-de-informacion-para-hacer-caer-a-sanchez.html",
+          "position": 20,
+          "focus": "Destaca el acuerdo económico y su finalidad (hacer caer a Sánchez), sin cuestionar la motivación de Koldo"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Koldo García afirma que el abogado del PP le ofreció un millón por mentir contra el Gobierno de Sánchez",
+          "link": "https://www.eldiario.es/politica/koldo-garcia-afirma-abogado-pp-le-ofrecio-millon-informacion-gobierno-sanchez_1_13639592.html",
+          "position": 10,
+          "focus": "Enfatiza que la oferta era para 'mentir', reforzando la acusación contra el PP; omite el contexto de la situación penal de Koldo"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Koldo García desde la cárcel y con una condena firme busca congraciarse con el PSOE",
+          "link": "https://www.lavanguardia.com/politica/20261105/11676780/koldo-garcia-carcel-condena-firme-busca-resarcirse-psoe.html",
+          "position": 90,
+          "focus": "Pone el foco en la condición de condenado de Koldo y su interés en congraciarse con el PSOE, sugiriendo que su declaración busca un beneficio personal y resta valor a la acusación"
+        }
+      ],
+      "rango": 80,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Espanol",
+        "El Mundo"
+      ]
+    },
+    {
+      "neutral_headline": "El Asador Etxebarri, de Bittor Arginzoniz, elegido mejor restaurante del mundo 2026",
+      "section": "Cultura",
+      "facts": [
+        "El Asador Etxebarri fue elegido mejor restaurante del mundo",
+        "El restaurante esta liderado por el chef Bittor Arginzoniz",
+        "El restaurante se ubica en Vizcaya",
+        "Segun eldiario.es, otros cuatro restaurantes espanoles figuran entre los 50 destacados de la lista"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "El Asador Etxebarri, elegido el mejor restaurante del mundo",
+          "link": "https://elpais.com/gastronomia/2026-11-05/el-asador-etxebarri-elegido-el-mejor-restaurante-del-mundo.html",
+          "position": 50,
+          "focus": "Anuncio directo del premio sin detalles adicionales"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "El español Asador Etxebarri, mejor restaurante del mundo en 2026",
+          "link": "https://www.elmundo.es/metropoli/gastronomia/restaurantes/2026/11/05/6aec1d2be9cf4ae0398b45a7.html",
+          "position": 50,
+          "focus": "Enfatiza la nacionalidad espanola del restaurante y el ano del premio"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "El Asador Etxebarri, mejor restaurante del mundo 2026: otros cuatro españoles entre los 50 destacados",
+          "link": "https://www.eldiario.es/viajes/asador-etxebarri-lidera-50-mejores-restaurantes-11-latinoamerica-4-espana_1_13639632.html",
+          "position": 50,
+          "focus": "Anade contexto sobre otros restaurantes espanoles en el ranking"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "El Asador Etxebarri de Bittor Arginzoniz, nuevo mejor restaurante del mundo",
+          "link": "https://www.lavanguardia.com/comer/al-dia/20261105/11675246/asador-etxebarri-bittor-arginzoniz-nuevo-mejor-restaurante-mundo.html",
+          "position": 50,
+          "focus": "Nombra explicitamente al chef Bittor Arginzoniz junto al restaurante"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Asador Etxebarri, mejor restaurante del mundo: el chef Bittor Arginzoniz lleva su aldea de Vizcaya a la cima de la gastronomía",
+          "link": "https://www.elespanol.com/viajes/cocinillas-gastro/actualidad-gastronomica/20261105/asador-etxebarri-mejor-restaurante-mundo-chef-bittor-arginzoniz-lleva-aldea-vizcaya-cima-gastronomia/1003744446783_0.html",
+          "position": 50,
+          "focus": "Destaca el origen rural del chef y su aldea en Vizcaya como parte del logro"
         }
       ],
       "rango": 0,
       "discrepancia": "baja",
       "silenciosos": [
+        "20minutos",
+        "ABC"
+      ]
+    },
+    {
+      "neutral_headline": "El Gobierno fija una subida del SMI del 5,3% hasta 1.286 euros mensuales en 2027",
+      "section": "Economia",
+      "facts": [
+        "El salario mínimo interprofesional subirá un 5,3%",
+        "La nueva cuantía será de 1.286 euros al mes",
+        "La subida se aplicará en 2027",
+        "Según El Mundo, ABC y El Español, la cifra fijada por Díaz/Trabajo está por encima de la recomendación de los expertos consultados"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "cobertura centrada solo en la cifra",
+        "polo_b": "cobertura que destaca el desacuerdo con los expertos",
+        "resumen": "Algunos medios subrayan que la subida se aparta de la recomendación de los expertos, mientras otros solo informan de la cifra sin ese matiz."
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "El salario mínimo subirá un 5,3% en 2027, hasta 1.286 euros al mes",
+          "link": "https://elpais.com/economia/2026-11-05/el-salario-minimo-subira-un-53-en-2027-hasta-1286-euros-al-mes.html",
+          "position": 40,
+          "focus": "Informa de la cifra de subida sin mencionar la recomendación de los expertos"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Díaz se salta la recomendación de sus expertos y fija una subida del SMI del 5,3%, hasta los 1.286 euros",
+          "link": "https://www.elmundo.es/economia/2026/11/05/6aec1d10fc6c8369448b4582.html",
+          "position": 75,
+          "focus": "Enfatiza que Díaz 'se salta' la recomendación de sus propios expertos, sugiriendo una decisión unilateral"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Yolanda Díaz subirá el salario mínimo un 5,3%, por encima de la recomendación de los expertos, hasta los 1.286 euros al mes",
+          "link": "https://www.abc.es/economia/yolanda-diaz-subira-salario-minimo-encima-recomendacion-20261105083045-nt.html",
+          "position": 65,
+          "focus": "Señala que la cifra está por encima de la recomendación de los expertos, con tono informativo pero marcando el contraste"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "El salario mínimo subirá un 5,3% hasta los 1.286 euros al mes",
+          "link": "https://www.eldiario.es/economia/salario-minimo-subira-5-3-1-286-euros-mes_1_13639220.html",
+          "position": 40,
+          "focus": "Informa de la cifra de subida sin mencionar la recomendación de los expertos"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Trabajo fija un aumento del 5,3% del SMI, hasta 1.286 euros al mes",
+          "link": "https://www.lavanguardia.com/economia/20261105/11676571/trabajo-fija-aumento-5-3-smi-1-286-euros-mes.html",
+          "position": 40,
+          "focus": "Informa de la cifra de subida sin mencionar la recomendación de los expertos"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "El Gobierno subirá el SMI un 5,3%, hasta los 1.286 euros mensuales, por encima de la recomendación de los expertos",
+          "link": "https://www.elespanol.com/invertia/economia/empleo/20261105/gobierno-subira-smi-euros-mensuales-encima-recomendacion-expertos/1003744446832_0.html",
+          "position": 65,
+          "focus": "Señala que la cifra está por encima de la recomendación de los expertos, con tono informativo pero marcando el contraste"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "El Gobierno aprobará una subida del salario mínimo del 5,3% para 2027: esta será la nueva cuantía",
+          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/gobierno-aprobara-una-subida-salario-minimo-5-3-para-ano-que-viene-hasta-los-1-286-euros_7057442_0.html",
+          "position": 40,
+          "focus": "Informa de la cifra de subida sin mencionar la recomendación de los expertos"
+        }
+      ],
+      "rango": 35,
+      "discrepancia": "media",
+      "silenciosos": []
+    },
+    {
+      "neutral_headline": "Tras las elecciones de medio mandato, Trump enfrenta un nuevo escenario político y el Congreso demócrata define su agenda",
+      "section": "Politica",
+      "facts": [
+        "El nuevo Congreso con mayoria democrata debe decidir sus prioridades, entre ellas economia e investigaciones de corrupcion (El Pais)",
+        "Trump atraviesa el final de su mandato tras una derrota electoral, con division interna en su partido (eldiario.es)",
+        "Trump atribuye la derrota en las elecciones de medio mandato a la guerra (La Vanguardia)",
+        "Tras las elecciones 'midterm', Trump queda aislado en la Casa Blanca y advierte que Estados Unidos puede ser ingobernable sin acuerdos (20minutos)"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "causa externa (la guerra)",
+        "polo_b": "crisis interna/aislamiento de Trump",
+        "resumen": "los medios dividen entre atribuir la derrota a un factor externo citado por Trump o a una fractura interna que lo deja aislado"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "¿Impulsar la economía? ¿Investigar la corrupción? ¿Todo junto? El nuevo Congreso demócrata en Estados Unidos decide sus primeros pasos",
+          "link": "https://elpais.com/us/2026-11-05/impulsar-la-economia-investigar-la-corrupcion-todo-junto-el-nuevo-congreso-democrata-en-estados-unidos-decide-sus-primeros-pasos.html",
+          "position": 50,
+          "focus": "se centra en el Congreso democrata y sus prioridades legislativas, sin entrar en las causas de la derrota de Trump"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Trump afronta el final de su mandato vapuleado en las urnas y con un cisma interno",
+          "link": "https://www.eldiario.es/internacional/trump-afronta-final-mandato-vapuleado-urnas-cisma-interno_1_13638827.html",
+          "position": 85,
+          "focus": "destaca el fin de mandato 'vapuleado' y el cisma interno del partido, omitiendo la explicacion de Trump sobre la guerra"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Trump culpa a la guerra de la humillación histórica en las elecciones de medio mandato",
+          "link": "https://www.lavanguardia.com/internacional/20261104/11676158/trumpismo-sufre-humillacion-historica-elecciones-medio-mandato.html",
+          "position": 15,
+          "focus": "recoge la explicacion de Trump que culpa a la guerra, poniendo el foco en su version de los hechos antes que en la division interna"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Las elecciones 'midterm' dejan a Trump aislado en la Casa Blanca: \"Estados Unidos puede ser ingobernable si no hay acuerdos\"",
+          "link": "https://www.20minutos.es/internacional/las-elecciones-midterm-dejan-trump-aislado-casa-blanca-estados-unidos-puede-ser-ingobernable-si-no-hay-acuerdos_7056953_0.html",
+          "position": 80,
+          "focus": "enfatiza el aislamiento de Trump en la Casa Blanca y el riesgo de ingobernabilidad, sin mencionar la atribucion a la guerra"
+        }
+      ],
+      "rango": 70,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "ABC",
+        "El Espanol",
+        "El Mundo"
+      ]
+    },
+    {
+      "neutral_headline": "Dimisión de Puente y su impacto en la campaña electoral",
+      "section": "Politica",
+      "facts": [
+        "Puente ha dimitido",
+        "El PSOE utiliza la dimisión como argumento de campaña con el lema 'no todos somos iguales'",
+        "Cuerpo asume el frente ferroviario tras la dimisión",
+        "Las encuestas se están moviendo tras el accidente, según El País",
+        "La dimisión cambia el ritmo de la campaña, según eldiario.es"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "enfoque electoral neutro (sondeos/campaña)",
+        "polo_b": "enfoque partidista (uso estratégico del hecho)",
+        "resumen": "Los medios difieren entre tratar la dimisión como un dato que afecta a las encuestas o como una maniobra política explotada por el PSOE"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "¿Cómo se están moviendo las encuestas tras el accidente?",
+          "link": "https://elpais.com/podcasts/2026-11-05/como-estan-cambiando-las-encuestas-tras-el-accidente.html",
+          "position": 20,
+          "focus": "Centra el hecho en su efecto medible sobre las encuestas, sin mencionar actores políticos ni estrategias"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "La dimisión de Puente vuelve a cambiar el paso de la campaña",
+          "link": "https://www.eldiario.es/politica/dimision-puente-vuelve-cambiar-paso-campana_1_13638923.html",
+          "position": 40,
+          "focus": "Describe el impacto en el ritmo de la campaña de forma general, sin atribuir intención partidista explícita"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "El PSOE utiliza la dimisión de Puente como bandera con el \"no todos somos iguales\" y carga a Cuerpo con el frente ferroviario",
+          "link": "https://www.20minutos.es/nacional/psoe-utiliza-dimision-puente-como-bandera-con-no-todos-somos-iguales-carga-cuerpo-con-frente-ferroviario_7057313_0.html",
+          "position": 85,
+          "focus": "Enfatiza el uso estratégico del PSOE de la dimisión como bandera política y señala a Cuerpo como nuevo responsable del frente ferroviario"
+        }
+      ],
+      "rango": 65,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "ABC",
+        "El Espanol",
+        "El Mundo",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "Colau presenta una propuesta de reforma fiscal para recaudar 10.000 millones de euros",
+      "section": "Politica",
+      "facts": [
+        "Colau propone subir impuestos a grandes patrimonios y empresas",
+        "El Pais y El Mundo cifran la recaudacion prevista en 10.000 millones de euros",
+        "El Mundo anade que la propuesta tambien afecta a banca y vivienda",
+        "eldiario.es señala que el impuesto, llamado 'tax the rich', gravaria patrimonios superiores a un millon de euros",
+        "ABC recoge unas declaraciones de Colau acusando a Pedro Sanchez de apropiarse de los logros de los ministros de Sumar en su campaña"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "foco en la propuesta fiscal",
+        "polo_b": "foco en el conflicto político interno",
+        "resumen": "Tres medios centran la noticia en el contenido de la reforma fiscal de Colau, mientras ABC elige destacar sus declaraciones críticas hacia Sánchez, desplazando el eje hacia la tensión política dentro de la coalición."
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Colau propone aumentar los impuestos a ultrarricos y grandes empresas para recaudar 10.000 millones de euros",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-11-05/colau-propone-aumentar-los-impuestos-a-ultrarricos-y-grandes-empresas-para-recaudar-10000-millones-de-euros.html",
+          "position": 15,
+          "focus": "Describe la propuesta fiscal y su objetivo recaudatorio, sin mencionar tensiones políticas"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Colau propone más impuestos a la banca, empresas, grandes patrimonios y vivienda para recaudar 10.000 millones",
+          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/05/6aec580ce4d4d88e5c8b45a6.html",
+          "position": 20,
+          "focus": "Detalla los sectores afectados por la subida de impuestos, con enfoque economico"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Ada Colau acusa a Pedro Sánchez de apropiarse de los logros de los ministros de Sumar en su campaña",
+          "link": "https://www.abc.es/espana/ada-colau-acusa-pedro-sanchez-apropiarse-logros-20261105111908-nt.html",
+          "position": 95,
+          "focus": "Destaca la disputa política entre Colau y Sánchez, omitiendo el contenido de la propuesta fiscal"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Colau propone el impuesto \"tax the rich\" para gravar a patrimonios de más de un millón de euros",
+          "link": "https://www.eldiario.es/politica/colau-propone-impuesto-tax-the-rich-gravar-patrimonios-millon-euros_1_13639759.html",
+          "position": 25,
+          "focus": "Resalta el concepto 'tax the rich' y el umbral patrimonial, centrado en el contenido de la medida"
+        }
+      ],
+      "rango": 80,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "El Espanol",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "El Supremo resuelve dos causas distintas: amnistía a Clara Ponsatí y archivo de la causa contra Alvise",
+      "section": "Politica",
+      "facts": [
+        "El Supremo aplicó la amnistía a la exconsejera catalana Clara Ponsatí",
+        "El procedimiento por desobediencia contra Ponsatí ha sido cerrado/archivado",
+        "El Supremo archivó la causa contra Alvise",
+        "Esa causa se refería a una presunta falsa prueba PCR relacionada con Salvador Illa"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "El Supremo amnistía a la exconsejera catalana Clara Ponsatí y cierra su procedimiento por desobediencia",
+          "link": "https://elpais.com/espana/2026-11-05/el-supremo-amnistia-a-la-exconsejera-catalana-clara-ponsati-y-cierra-su-procedimiento-por-desobediencia.html",
+          "position": 50,
+          "focus": "Centra en la amnistía a Ponsatí y el cierre del procedimiento por desobediencia, sin mencionar el caso Alvise."
+        },
+        {
+          "outlet": "ABC",
+          "headline": "El Supremo amnistía a la exconsejera Clara Ponsatí y archiva la acusación de desobediencia",
+          "link": "https://www.abc.es/espana/cataluna/supremo-amnistia-exconsejera-clara-ponsati-archiva-acusacion-20261105120429-nt.html",
+          "position": 50,
+          "focus": "Igual que El País, destaca la amnistía y el archivo de la acusación de desobediencia contra Ponsatí."
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "El Supremo archiva la causa contra Alvise por la falsa prueba PCR de Salvador Illa",
+          "link": "https://www.eldiario.es/politica/supremo-archiva-causa-alvise-falsa-prueba-pcr-salvador-illa_1_13640305.html",
+          "position": 50,
+          "focus": "Trata un asunto distinto: el archivo de la causa contra Alvise por una presunta prueba PCR falsa vinculada a Salvador Illa, sin relación directa con el caso Ponsatí."
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "El Espanol",
+        "El Mundo",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "Cristiano Ronaldo anuncia su retirada de la selección de Portugal",
+      "section": "Deportes",
+      "facts": [
+        "Cristiano Ronaldo anuncia su retirada de la selección de Portugal",
+        "Ronaldo hace declaraciones sobre la camiseta número 7",
+        "El anuncio se produce de forma inesperada según El Español"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "Cristiano Ronaldo anuncia su retirada de la Selección de Portugal: \"Llegó el día de devolver la camiseta del 7\"",
+          "link": "https://www.elmundo.es/deportes/futbol/2026/11/05/6aec5d26e85ececb778b459a.html",
+          "position": 50,
+          "focus": "Cita textual de Ronaldo sobre devolver la camiseta del 7"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Cristiano Ronaldo se despide de Portugal: «La camiseta 7 se queda, el orgullo será siempre mío»",
+          "link": "https://www.abc.es/deportes/futbol/cristiano-ronaldo-dice-adios-seleccion-portuguesa-20261105113203-nt.html",
+          "position": 50,
+          "focus": "Cita textual de Ronaldo destacando que el orgullo será siempre suyo"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Cristiano Ronaldo anuncia por sorpresa su retirada de la selección de Portugal",
+          "link": "https://www.elespanol.com/deportes/futbol/20261105/cristiano-ronaldo-anuncia-sorpresa-retirada-seleccion-portugal/1003744447046_0.html",
+          "position": 50,
+          "focus": "Enfatiza el carácter sorpresivo del anuncio"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Cristiano Ronaldo anuncia que se retira de la selección de Portugal",
+          "link": "https://www.20minutos.es/deportes/futbol/cristiano-ronaldo-anuncia-que-se-retira-seleccion-portugal_7057558_0.html",
+          "position": 50,
+          "focus": "Anuncio directo del hecho sin matices adicionales"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "El Pais",
         "La Vanguardia",
         "eldiario.es"
       ]
