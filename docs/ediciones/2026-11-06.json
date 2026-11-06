@@ -1,0 +1,712 @@
+{
+  "fecha": "2026-11-06T12:24:48.726358+00:00",
+  "esquema": 2,
+  "historias": [
+    {
+      "neutral_headline": "La Fiscalía Europea abre una investigación sobre el AVE Madrid-Sevilla tras el accidente de Urda",
+      "section": "Sociedad",
+      "facts": [
+        "La Fiscalía Europea ha abierto una investigación relacionada con el accidente de Urda en la línea de alta velocidad",
+        "La investigación se centra en un posible fraude en obras o contratos de la línea del AVE Madrid-Sevilla",
+        "El Mundo señala que la Fiscalía Europea actúa junto a la UCO y ha reclamado documentación a Adif",
+        "ABC indica que la investigación abarca irregularidades en el mantenimiento y el cambio del sistema LZB de la línea",
+        "El Español vincula la investigación a un posible fraude de fondos de la UE destinados a la seguridad del AVE",
+        "eldiario.es señala que se trata de 'otra' investigación por fraude en la alta velocidad"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "fraude en contratos/fondos",
+        "polo_b": "fallo técnico/mantenimiento",
+        "resumen": "Los medios difieren en si el foco de la investigación es un presunto fraude económico en los contratos o fondos de la obra, o bien irregularidades técnicas en el mantenimiento y los sistemas de seguridad de la línea."
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "La Fiscalía Europea investiga un presunto fraude en las obras de la alta velocidad tras el accidente de Urda",
+          "link": "https://elpais.com/espana/2026-11-06/la-fiscalia-europea-investiga-un-presunto-fraude-en-las-obras-de-la-alta-velocidad-tras-el-accidente-de-urda.html",
+          "position": 15,
+          "focus": "Centra el titular en el fraude en las obras, sin mencionar aspectos técnicos del accidente"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "La Fiscalía Europea pone en marcha una operación con la UCO por la tragedia de Urda y reclama documentación a Adif",
+          "link": "https://www.elmundo.es/espana/2026/11/06/6aed98e121efa0477c8b457d.html",
+          "position": 55,
+          "focus": "Destaca la operación conjunta con la UCO y la petición de documentación a Adif, sin precisar si el motivo es fraude o fallo técnico"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "La Fiscalía Europea investiga irregularidades en el mantenimiento y el cambio del sistema LZB de la línea de Urda",
+          "link": "https://www.abc.es/espana/fiscalia-europea-abre-investigacion-posible-fraude-fondos-20261106102105-nt.html",
+          "position": 90,
+          "focus": "Pone el acento en irregularidades de mantenimiento y el cambio del sistema LZB, un enfoque técnico más que económico"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "La Fiscalía Europea abre otra investigación por fraude en la alta velocidad tras el accidente de Urda",
+          "link": "https://www.eldiario.es/politica/fiscalia-europea-abre-investigacion-fraude-alta-velocidad-accidente-urda_1_13643016.html",
+          "position": 15,
+          "focus": "Enfatiza que es 'otra' investigación por fraude, situando el caso en un patrón de corrupción en la alta velocidad"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Operación de la Fiscalía Europea por “posible fraude” en los contratos del AVE Madrid-Sevilla",
+          "link": "https://www.lavanguardia.com/vida/20261106/11677722/fiscalia-europea-lanza-operacion-uco-contratos-adif-accidente-urda.html",
+          "position": 20,
+          "focus": "Habla de 'posible fraude' en los contratos del AVE, con cautela pero centrado en lo económico"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "La Fiscalía Europea abre una investigación por fraude de fondos UE en la seguridad del AVE tras el accidente de Urda",
+          "link": "https://www.elespanol.com/espana/20261106/fiscalia-europea-abre-investigacion-posible-fraude-fondos-ue-seguridad-ave-madrid-sevilla/1003744448473_0.html",
+          "position": 20,
+          "focus": "Vincula el fraude directamente a fondos europeos destinados a la seguridad, mezclando lo económico con lo técnico pero con énfasis en el fraude"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "La Fiscalía Europea abre una investigación por un posible fraude en el AVE tras la tragedia de Urda",
+          "link": "https://www.20minutos.es/nacional/fiscalia-europea-abre-una-segunda-investigacion-por-posible-fraude-mantenimiento-ave_7058052_0.html",
+          "position": 15,
+          "focus": "Resume la noticia como apertura de investigación por posible fraude, sin detalles técnicos"
+        }
+      ],
+      "rango": 75,
+      "discrepancia": "alta",
+      "silenciosos": []
+    },
+    {
+      "neutral_headline": "Nueva oleada de amenazas de bomba afecta a vuelos europeos",
+      "section": "Internacional",
+      "facts": [
+        "Varios aviones en vuelos europeos han recibido nuevas amenazas de bomba",
+        "Aviones procedentes de Praga y Lisboa fueron obligados a desviarse por las alertas, segun ABC",
+        "Segun eldiario.es, 30 vuelos europeos se han visto afectados por las amenazas esta semana",
+        "Segun 20minutos, es el tercer dia consecutivo de amenazas de bomba en aviones",
+        "Varios paises europeos han elevado la alerta, segun 20minutos"
+      ],
+      "tipo_divergencia": "cronologica",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Varios aviones en vuelos europeos reciben nuevas amenazas de bomba",
+          "link": "https://elpais.com/internacional/2026-11-06/varios-aviones-en-vuelos-europeos-reciben-nuevas-alertas-de-bomba.html",
+          "position": 50,
+          "focus": "Informa de nuevas amenazas de bomba en vuelos europeos sin precisar numero de dias ni vuelos afectados"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Nueva jornada de amenazas de bomba en varios vuelos europeos",
+          "link": "https://www.elmundo.es/economia/2026/11/06/6aedaed4e4d4d8902a8b457e.html",
+          "position": 50,
+          "focus": "Describe una nueva jornada de amenazas, situando el hecho en el dia en curso"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Nuevas amenazas de bomba contra vuelos europeos: aviones de Praga y Lisboa, obligados a desviarse por las alertas",
+          "link": "https://www.abc.es/internacional/amenaza-bomba-obliga-desviar-venecia-vuelo-praga-20261106114549-nt.html",
+          "position": 50,
+          "focus": "Anade detalle concreto: aviones de Praga y Lisboa desviados por las alertas"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Qué sabemos de los 30 vuelos europeos afectados por las amenazas de bomba esta semana",
+          "link": "https://www.eldiario.es/internacional/theguardian/30-vuelos-europeos-afectados-amenazas-bomba-semana_1_13642318.html",
+          "position": 50,
+          "focus": "Ofrece un balance acumulado de la semana: 30 vuelos afectados"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "El tercer día de amenazas de bomba en aviones eleva la alerta en varios países europeos",
+          "link": "https://www.20minutos.es/internacional/varios-aviones-europa-reciben-nuevas-amenazas-bomba_7058170_0.html",
+          "position": 50,
+          "focus": "Senala que es el tercer dia de amenazas y que varios paises han elevado la alerta"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "El Espanol",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "La UCO investiga a Andrea de la Torre, pareja de Ábalos, en el caso Koldo por presunto blanqueo ligado a compras inmobiliarias",
+      "section": "Politica",
+      "facts": [
+        "El Pais indica que la UCO investiga como presunto blanqueo la compra de un local y una plaza de garaje por la novia de Abalos",
+        "El Espanol indica que el juez investiga a Andrea, pareja de Abalos, por blanqueo de comisiones de contratos de Adif con la compra de su piso",
+        "20minutos informa que Andrea de la Torre, novia de Abalos, ha sido detenida por la UCO en Valencia en el caso Koldo"
+      ],
+      "tipo_divergencia": "cronologica",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "La UCO investiga como presunto blanqueo la compra de un local y una plaza de garaje por la novia de Ábalos",
+          "link": "https://elpais.com/espana/2026-11-06/la-uco-investiga-como-presunto-blanqueo-la-compra-de-un-local-y-una-plaza-de-garaje-por-la-novia-de-abalos.html",
+          "position": 50,
+          "focus": "Centra en el objeto investigado (local y garaje) como presunto blanqueo, en fase de investigacion"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "El juez investiga a Andrea, pareja de Ábalos, por blanqueo de comisiones de contratos de Adif con la compra de su piso",
+          "link": "https://www.elespanol.com/espana/tribunales/20261106/juez-investiga-andrea-pareja-abalos-blanqueo-comisiones-contratos-adif-compra-piso/1003744448176_0.html",
+          "position": 50,
+          "focus": "Vincula la compra del piso con comisiones de Adif, en fase de investigacion judicial"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Quién es Andrea de la Torre, la novia de Ábalos que ha sido detenida por la UCO en Valencia en el caso Koldo",
+          "link": "https://www.20minutos.es/nacional/quien-es-andrea-torre-novia-abalos-detenida-uco-valencia-nueva-operacion-caso-koldo_7058136_0.html",
+          "position": 50,
+          "focus": "Reporta un paso procesal posterior, la detencion, y perfila a la protagonista"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "ABC",
+        "El Mundo",
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "El juez Calama rechaza imputar a Zapatero por malversación en el caso de las joyas",
+      "section": "Politica",
+      "facts": [
+        "El juez Calama rechaza imputar a Zapatero por un delito de malversación",
+        "La causa está relacionada con joyas halladas en el despacho de Zapatero",
+        "Las joyas supuestamente fueron regaladas por el rey saudí, según El Español",
+        "Anticorrupción pretendía la imputación por malversación, según eldiario.es"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "El juez rechaza imputar a Zapatero un nuevo delito de malversación por las joyas",
+          "link": "https://elpais.com/espana/2026-11-06/el-juez-calama-rechaza-imputar-a-zapatero-un-nuevo-delito-de-malversacion-por-las-joyas.html",
+          "position": 50,
+          "focus": "Centra en el rechazo judicial a imputar un nuevo delito, sin detalles adicionales sobre el origen de las joyas"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Calama libra a Zapatero de la imputación por malversación",
+          "link": "https://www.elmundo.es/espana/2026/11/06/6aedbe35e4d4d8ac478b45a8.html",
+          "position": 50,
+          "focus": "Usa el apellido del juez como sujeto activo, destaca que Zapatero queda libre de la imputación"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "El juez descarta imputar a Zapatero la malversación por las joyas de su despacho",
+          "link": "https://www.abc.es/espana/juez-descarta-imputar-zapatero-malversacion-joyas-despacho-20261106124530-nt.html",
+          "position": 50,
+          "focus": "Menciona el despacho como ubicación de las joyas, similar al resto"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "El juez Calama rechaza imputar a Zapatero malversación en el caso de las joyas como pretendía Anticorrupción",
+          "link": "https://www.eldiario.es/politica/juez-calama-rechaza-imputar-zapatero-malversacion-fondos-publicos-joyas-pretendia-anticorrupcion_1_13643682.html",
+          "position": 50,
+          "focus": "Añade que la decisión contradice lo que pedía Anticorrupción, dando contexto del conflicto procesal"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "El juez Calama rechaza investigar a Zapatero por malversación por quedarse con las joyas supuestamente regaladas por el rey saudí",
+          "link": "https://www.elespanol.com/espana/tribunales/20261106/juez-calama-rechaza-investigar-zapatero-malversacion-quedarse-joyas-supuestamente-regaladas-rey-saudi/1003744448812_0.html",
+          "position": 50,
+          "focus": "Detalla el origen supuesto de las joyas (rey saudí) y usa el verbo 'investigar' en vez de 'imputar'"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Calama rechaza imputar a Zapatero un delito de malversación por las joyas halladas en su despacho",
+          "link": "https://www.20minutos.es/nacional/calama-rechaza-imputar-zapatero-un-delito-malversacion-por-las-joyas-halladas-su-despacho_7058172_0.html",
+          "position": 50,
+          "focus": "Especifica que las joyas fueron halladas en el despacho, dato descriptivo adicional"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "Un autobús se estrella contra un árbol en el este de Francia y deja dos muertos y 16 heridos",
+      "section": "Sociedad",
+      "facts": [
+        "Un autobús interurbano se salió de la carretera y se estrelló contra un árbol en el este de Francia",
+        "El accidente ocurrió en la localidad de Lent",
+        "Hay al menos dos personas muertas, una de ellas menor de edad",
+        "El autobús transportaba escolares",
+        "El Pais informa de 'numerosos heridos' sin precisar cifra",
+        "El Mundo, ABC, La Vanguardia, El Espanol y 20minutos coinciden en 16 heridos"
+      ],
+      "tipo_divergencia": "cronologica",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Un autobús interurbano se estrella contra un árbol en el este de Francia y causa dos muertos y numerosos heridos",
+          "link": "https://elpais.com/internacional/2026-11-06/un-autobus-interurbano-se-estrella-contra-un-arbol-en-el-este-de-francia-y-causa-dos-muertos-y-numerosos-heridos.html",
+          "position": 50,
+          "focus": "Version mas temprana, sin cifra exacta de heridos ni mencion a escolares"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Al menos dos jóvenes muertos y 16 heridos tras un accidente de autobús con escolares en el este de Francia",
+          "link": "https://www.elmundo.es/internacional/2026/11/06/6aed954bfdddff65498b457f.html",
+          "position": 50,
+          "focus": "Incluye cifra exacta de heridos y menciona que eran escolares"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Al menos dos muertos y 16 heridos en un accidente de autobús al este de Francia",
+          "link": "https://www.abc.es/internacional/dos-muertos-heridos-accidente-autobus-francia-20261106113158-nt.html",
+          "position": 50,
+          "focus": "Cifra exacta de heridos, sin detalle de escolares"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Mueren dos personas, una menor, y 16 resultan heridas en un accidente de autobús en Lent",
+          "link": "https://www.lavanguardia.com/internacional/20261106/11677789/mueren-dos-menores-16-personas-resultan-heridas-accidente-autobus-francia.html",
+          "position": 50,
+          "focus": "Anade localizacion precisa (Lent) y edad de una victima"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Un autobús escolar se sale de la carretera y se estrella contra un árbol en el este de Francia: dos muertos y 16 heridos",
+          "link": "https://www.elespanol.com/mundo/europa/20261106/autobus-escolar-sale-carretera-estrella-arbol-francia-muertos/1003744448456_0.html",
+          "position": 50,
+          "focus": "Detalla que era autobus escolar y la causa (se salio de la carretera)"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Un autobús se estrella contra un árbol en Francia: hay dos muertos, entre ellos un menor, y 16 heridos",
+          "link": "https://www.20minutos.es/internacional/dos-muertos-uno-ellos-menor-edad-16-heridos-salirse-carretera-un-autobus-francia_7058102_0.html",
+          "position": 50,
+          "focus": "Precisa que entre los muertos hay un menor"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "The New Yorker critica la película 'La bola negra' y la califica de fracaso",
+      "section": "Cultura",
+      "facts": [
+        "The New Yorker publicó una crítica negativa sobre 'La bola negra'",
+        "La revista afirma que la obra 'no es un monumento; es un fracaso'"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "La revista ‘The New Yorker’ arremete contra ‘La bola negra’: “No es un monumento; es un fracaso”",
+          "link": "https://elpais.com/us/entretenimiento/2026-11-05/la-revista-the-new-yorker-arremete-contra-la-bola-negra-no-es-un-monumento-es-un-fracaso.html",
+          "position": 50,
+          "focus": "Reproduce la crítica de The New Yorker citando textualmente su juicio negativo"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "A la revista 'The New Yorker' no le convence La bola negra: \"No es un monumento, es un fracaso\"",
+          "link": "https://www.elmundo.es/cultura/cine/2026/11/06/6aed9553fdddff5d458b456d.html",
+          "position": 50,
+          "focus": "Reproduce la crítica de The New Yorker citando textualmente su juicio negativo"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "'La bola negra' no convence a la revista 'The New Yorker': “Es un fracaso”",
+          "link": "https://www.lavanguardia.com/cultura/cine/20261106/11677620/bola-negra-convence-revista-the-new-yorker-monumento-fracaso.html",
+          "position": 50,
+          "focus": "Reproduce la crítica de The New Yorker citando textualmente su juicio negativo"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Espanol",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "La Policía realiza una operación contra el grupo neonazi Núcleo Nacional con detenciones y registro de su sede",
+      "section": "Sociedad",
+      "facts": [
+        "La Policía Nacional llevó a cabo una operación contra el grupo neonazi Núcleo Nacional",
+        "El Pais informa de 14 detenidos",
+        "ABC, El Espanol y 20minutos informan de 12 detenidos (20minutos precisa 'al menos 12')",
+        "eldiario.es informa de 12 detenidos, señalando los delitos de asociación ilícita, tenencia de armas y delito de odio",
+        "ABC, El Espanol y 20minutos mencionan el registro de la sede del grupo en Madrid",
+        "La Vanguardia y El Pais no precisan el numero de detenidos ni mencionan explicitamente el registro de la sede"
+      ],
+      "tipo_divergencia": "cronologica",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "14 detenidos en una operación de la Policía contra el grupo neonazi Núcleo Nacional",
+          "link": "https://elpais.com/espana/2026-11-06/varios-detenidos-en-una-operacion-de-la-policia-contra-el-grupo-nucleo-nacional.html",
+          "position": 50,
+          "focus": "Destaca el numero de detenidos (14) sin mencionar el registro de la sede ni los delitos imputados"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "La Policía registra la sede de Núcleo Nacional y practica 12 detenciones",
+          "link": "https://www.abc.es/espana/policia-registra-sede-nucleo-nacional-practica-varias-20261106094011-nt.html",
+          "position": 50,
+          "focus": "Combina el registro de la sede con la cifra de 12 detenidos, sin detallar los delitos"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "La Policía detiene a 12 miembros de Núcleo Nacional por asociación ilícita, tenencia de armas y delito de odio",
+          "link": "https://www.eldiario.es/politica/policia-detiene-decena-miembros-nucleo-nacional-distintos-puntos-espana_1_13643279.html",
+          "position": 50,
+          "focus": "Detalla los delitos imputados (asociacion ilicita, tenencia de armas, delito de odio) junto a la cifra de 12 detenidos, sin mencionar el registro"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "La Policía lanza una operación contra el grupo neonazi Núcleo Nacional",
+          "link": "https://www.lavanguardia.com/politica/20261106/11677777/policia-lanza-operacion-grupo-neonazi-nucleo-nacional.html",
+          "position": 50,
+          "focus": "Se centra en el lanzamiento de la operacion sin precisar cifras ni registro"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "La Policía Nacional detiene a 12 miembros del grupo neonazi Núcleo Nacional y registra su sede en Madrid",
+          "link": "https://www.elespanol.com/espana/politica/20261106/policia-nacional-detiene-varios-miembros-grupo-neonazi-nucleo-registra-sede-central/1003744448595_0.html",
+          "position": 50,
+          "focus": "Combina la cifra de 12 detenidos con el registro de la sede en Madrid"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Operación contra Núcleo Nacional: al menos 12 detenidos y el registro de su sede central en Madrid",
+          "link": "https://www.20minutos.es/nacional/policia-lanza-una-operacion-contra-nucleo-nacional-que-deja-nueve-detenidos_7058085_0.html",
+          "position": 50,
+          "focus": "Usa la formula 'al menos 12' detenidos junto al registro de la sede central en Madrid, sugiriendo posible actualizacion de la cifra"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "El Mundo"
+      ]
+    },
+    {
+      "neutral_headline": "La Lotería de Navidad 2026 presenta su anuncio centrado en la donación de órganos",
+      "section": "Sociedad",
+      "facts": [
+        "El anuncio de la Lotería de Navidad 2026 se titula 'Corazonada'",
+        "La historia del anuncio tiene como protagonista a un personaje llamado Edu",
+        "El anuncio aborda el tema de la donación de órganos",
+        "Una frase del anuncio es 'Me ha dado otra vida'"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "El anuncio de la Lotería de Navidad 2026: la esperanza de las segundas oportunidades y de compartir",
+          "link": "https://elpais.com/loteria-de-navidad/2026-11-06/el-anuncio-de-la-loteria-de-navidad-2026-la-esperanza-de-las-segundas-oportunidades-y-de-compartir.html",
+          "position": 50,
+          "focus": "Destaca el tema de las segundas oportunidades y el valor de compartir, sin mencionar el nombre del anuncio"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "'Corazonada', el anuncio de la Lotería de Navidad 2026",
+          "link": "https://www.abc.es/loteria-de-navidad/anuncio-loteria-navidad-2026-directo-video-donde-grabado-presentacion-hoy-20261106094928-di.html",
+          "position": 50,
+          "focus": "Se centra en identificar el título oficial del anuncio, 'Corazonada', sin detallar la trama"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "El anuncio de la Lotería de Navidad 2026 emociona con la historia de Edu y un corazón que une dos vidas",
+          "link": "https://www.lavanguardia.com/gente/20261106/11677844/anuncio-loteria-navidad-2026-emociona-historia-edu-corazon-une-dos-vidas.html",
+          "position": 50,
+          "focus": "Resalta la emoción generada por la historia y nombra al protagonista, Edu, y el elemento del corazón"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "El anuncio de la Lotería de Navidad 2026 desvela su historia más emotiva: \"Me ha dado otra vida\"",
+          "link": "https://www.elespanol.com/corazon/bluper/20261106/anuncio-loteria-navidad-desvela-historia-emotiva-dado-vida/1003744448690_0.html",
+          "position": 50,
+          "focus": "Enfatiza la emotividad de la historia citando una frase textual del anuncio"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "La Lotería de Navidad lanza su anuncio bajo el lema de la donación de órganos",
+          "link": "https://www.20minutos.es/television/loteria-navidad-lanza-su-anuncio-bajo-lema-corazonada-centrado-donacion-organos_7058150_0.html",
+          "position": 50,
+          "focus": "Pone el foco en el lema institucional del anuncio: la donación de órganos, sin detalles narrativos"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "El Mundo",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "La borrasca Bruna provocará lluvias, viento y mal tiempo en los próximos días",
+      "section": "Sociedad",
+      "facts": [
+        "La borrasca se llama Bruna",
+        "El Pais indica que las lluvias serán abundantes hasta el miércoles, sobre todo en el oeste peninsular",
+        "La Vanguardia indica que el temporal de lluvia, viento y mala mar se producirá este fin de semana",
+        "20minutos indica que habrá un cambio importante de tiempo con lluvias, vientos y riesgo de inundaciones"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "La borrasca ‘Bruna’ dejará lluvias muy abundantes hasta el miércoles, sobre todo en el oeste peninsular",
+          "link": "https://elpais.com/el-tiempo/2026-11-06/la-borrasca-bruna-dejara-lluvias-muy-abundantes-hasta-el-miercoles-sobre-todo-en-el-oeste-peninsular.html",
+          "position": 50,
+          "focus": "Destaca la duración de las lluvias hasta el miércoles y su localización en el oeste peninsular, sin mencionar viento ni inundaciones"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "La borrasca Bruna trae un temporal de lluvia, viento y mala mar este fin de semana",
+          "link": "https://www.lavanguardia.com/natural/20261106/11677739/borrasca-bruna-regala-temporal-lluvia-viento-mala-mar-fin-de-semana.html",
+          "position": 50,
+          "focus": "Destaca el conjunto del temporal (lluvia, viento, mala mar) y lo sitúa en el fin de semana, sin precisar duración posterior"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "La borrasca Bruna traerá un \"cambio importante de tiempo\" con lluvias, vientos y riesgo de inundaciones",
+          "link": "https://www.20minutos.es/nacional/borrasca-bruna-traera-este-fin-semana-un-cambio-importante-tiempo-con-fuertes-lluvias-viento-riesgo-inundacion_7058135_0.html",
+          "position": 50,
+          "focus": "Destaca el riesgo de inundaciones y el cambio general de tiempo, citando textualmente una fuente oficial"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "ABC",
+        "El Espanol",
+        "El Mundo",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "El Gobierno ordena retirar o almacenar el 12% de la producción de aceite de oliva para estabilizar el mercado",
+      "section": "Economia",
+      "facts": [
+        "El Gobierno ordena la retirada del 12% de la producción de aceite de oliva (El Mundo, ABC)",
+        "La medida busca estabilizar el mercado ante el exceso de cosecha (ABC)",
+        "eldiario.es señala que es la primera vez que se decreta la retirada de aceite de oliva del mercado",
+        "El objetivo declarado es evitar un desplome o caída de los precios (eldiario.es, La Vanguardia)",
+        "20minutos describe la medida como almacenamiento obligatorio del 12% de la producción",
+        "La Vanguardia caracteriza la acción como una intervención del Gobierno en el mercado del aceite de oliva"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "El Gobierno ordena la retirada del 12% de la producción de aceite de oliva",
+          "link": "https://www.elmundo.es/economia/2026/11/06/6aed8762e9cf4a994c8b45a5.html",
+          "position": 50,
+          "focus": "Centra en la cifra del 12% retirado, sin detallar la causa ni el objetivo final"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "El Gobierno ordena retirar el 12% de la producción del aceite de oliva para estabilizar el mercado ante el exceso de cosecha",
+          "link": "https://www.abc.es/economia/gobierno-ordena-retirar-produccion-aceite-oliva-estabilizar-20261106100553-nt.html",
+          "position": 50,
+          "focus": "Añade el motivo (exceso de cosecha) y el fin (estabilizar el mercado)"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "El Gobierno decreta la retirada de aceite de oliva del mercado por primera vez para evitar un desplome de precios",
+          "link": "https://www.eldiario.es/economia/gobierno-decreta-retirada-aceite-oliva-mercado-primera-vez-evitar-desplome-precios_1_13642909.html",
+          "position": 50,
+          "focus": "Destaca el carácter histórico de la medida y su finalidad de evitar el desplome de precios"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "El Gobierno interviene el mercado del aceite de oliva para evitar la caída de los precios",
+          "link": "https://www.lavanguardia.com/economia/20261106/11677658/gobierno-interviene-mercado-aceite-oliva-estabilizar-precios.html",
+          "position": 50,
+          "focus": "Enfatiza la acción de intervención gubernamental en el mercado"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "El Gobierno decreta el almacenamiento obligatorio del 12% de la producción de aceite de oliva en España",
+          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/gobierno-decreta-almacenamiento-obligatorio-12-produccion-aceite-oliva_7057987_0.html",
+          "position": 50,
+          "focus": "Pone el foco en el almacenamiento obligatorio como mecanismo concreto de la medida"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "El Espanol",
+        "El Pais"
+      ]
+    },
+    {
+      "neutral_headline": "La Comisión Europea pide a TikTok que modifique el sistema de recomendaciones de su app por fomentar comportamientos adictivos",
+      "section": "Internacional",
+      "facts": [
+        "La Comisión Europea se ha dirigido a TikTok sobre su sistema de recomendaciones de contenido",
+        "La UE vincula el diseño del algoritmo con comportamientos adictivos, especialmente en menores",
+        "El Espanol habla de una 'multa millonaria' en preparación",
+        "La Vanguardia menciona una amenaza de multa como posible consecuencia"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "solicitud de cambios",
+        "polo_b": "amenaza de sanción económica",
+        "resumen": "los medios varían entre presentar la acción de Bruselas como una petición de reforma o como una amenaza de castigo económico inminente"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Bruselas exige cambios en el sistema de recomendaciones de TikTok para combatir la adicción",
+          "link": "https://elpais.com/tecnologia/2026-11-06/bruselas-alerta-sobre-el-diseno-adictivo-del-sistema-de-recomendaciones-de-tiktok.html",
+          "position": 25,
+          "focus": "Pone el foco en la exigencia de cambios técnicos para combatir la adicción, sin mencionar sanciones"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "La UE pide a TikTok que modifique su feed por ser «perjudicial» para el usuario",
+          "link": "https://www.abc.es/tecnologia/redes/ue-amenaza-tiktok-importantes-multas-modifica-algoritmo-20261106121111-nt.html",
+          "position": 15,
+          "focus": "Describe la acción como una petición, usando comillas para matizar el juicio ('perjudicial'), tono más neutro"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Bruselas amenaza con multar a TikTok por inducir a los menores a un comportamiento adictivo",
+          "link": "https://www.lavanguardia.com/vida/20261106/11677799/bruselas-amenaza-multar-tiktok-inducir-comportamiento-adictivo-menores.html",
+          "position": 80,
+          "focus": "Introduce la amenaza de multa como consecuencia posible, resaltando la dimensión sancionadora"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Bruselas prepara una multa millonaria contra TikTok por el \"efecto madriguera\" de su algoritmo adictivo",
+          "link": "https://www.elespanol.com/invertia/observatorios/digital/20261106/bruselas-prepara-multa-millonaria-tiktok-efecto-madriguera-algoritmo-adictivo/1003744448482_0.html",
+          "position": 90,
+          "focus": "Anticipa una multa millonaria ya en preparación, enfatizando la gravedad económica y el 'efecto madriguera' del algoritmo"
+        }
+      ],
+      "rango": 75,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "El Mundo",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Las bolsas mundiales registran fuertes caídas vinculadas a las acciones de empresas de inteligencia artificial",
+      "section": "Economia",
+      "facts": [
+        "Las bolsas sufren caídas generalizadas relacionadas con compañías de inteligencia artificial",
+        "Las acciones de grandes tecnológicas pierden valor de forma notable",
+        "Asia vive, segun El Espanol, su peor sesión desde 2020",
+        "El Ibex cae un 1%, segun El Espanol",
+        "eldiario.es vincula la caída a un posible freno a los centros de datos tras las elecciones de medio mandato (midterms) en EEUU",
+        "El Mundo senala que los 'tecnoligarcas' y los 7 grandes valores bursatiles pierden billones de dolares en horas"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "caida de mercado sin causa politica explicita",
+        "polo_b": "caida atribuida a una causa politico-regulatoria concreta",
+        "resumen": "Los medios coinciden en la caida bursatil pero difieren en si senalan una causa politica especifica (freno regulatorio tras las midterms) o la presentan como un fenomeno de mercado generico"
+      },
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "¿Ha estallado la 'burbuja' de la IA? Los 'tecnoligarcas' y los 7 gigantes de la bolsa ven esfumarse billones de dólares en horas",
+          "link": "https://www.elmundo.es/economia/dinero-inversion/2026/11/06/6aed88f4fdddffcd0c8b45a2.html",
+          "position": 25,
+          "focus": "Pone el foco en los grandes nombres tecnologicos ('tecnoligarcas') y la magnitud economica de la perdida, sin atribuir una causa politica concreta"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Caída masiva global en la burbuja de la IA ante el posible freno a los centros de datos tras las 'midterms'",
+          "link": "https://www.eldiario.es/tecnologia/caida-masiva-global-burbuja-ia-posible-freno-centros-datos-midterms_1_13642992.html",
+          "position": 90,
+          "focus": "Atribuye la caida a una causa politica-regulatoria especifica: el posible freno a los centros de datos tras las midterms"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Nueva jornada de fuertes caídas en las bolsas arrastradas por el terremoto en la IA",
+          "link": "https://www.lavanguardia.com/economia/20261106/11677641/nueva-jornada-fuertes-caidas-bolsas-arrastradas-ia.html",
+          "position": 50,
+          "focus": "Describe la caida como 'terremoto' sin especificar causa, centrandose en el efecto bursatil generalizado"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Las bolsas se desploman por el lastre de la IA: Asia vive su peor sesión desde 2020, Europa se tiñe de rojo y el Ibex cae un 1%",
+          "link": "https://www.elespanol.com/invertia/mercados/20261106/bolsas-asia-sufren-peor-desplome-lastradas-sector-ia/1003744448339_0.html",
+          "position": 45,
+          "focus": "Detalla el alcance geografico y las cifras de caida (Asia, Europa, Ibex) sin atribuir una causa politica concreta"
+        }
+      ],
+      "rango": 65,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Pais"
+      ]
+    },
+    {
+      "neutral_headline": "Flávio Bolsonaro reaparece en un acto conservador en la mansión de Trump en Mar-a-Lago",
+      "section": "Politica",
+      "facts": [
+        "Flávio Bolsonaro reapareció en la Conferencia de Acción Política Conservadora (CPAC)",
+        "El evento se celebró en la mansión de Donald Trump en Mar-a-Lago, Florida",
+        "Según El Espanol, Bolsonaro declaró que se llevará 'a la tumba' los secretos de su fuga"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "aparición social/política neutra",
+        "polo_b": "huida o fuga judicial de Brasil"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Flávio Bolsonaro reaparece en la mansión de Trump en Mar-a-Lago en una gala de la Conferencia de Acción Política Conservadora",
+          "link": "https://elpais.com/america/2026-11-06/flavio-bolsonaro-reaparece-en-la-mansion-de-trump-en-mar-a-lago-en-una-gala-de-la-conferencia-de-accion-politica-conservadora.html",
+          "position": 20,
+          "focus": "Describe el hecho como una reaparición pública en un evento conservador, sin mencionar motivos de salida de Brasil"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Flávio Bolsonaro reaparece en la conferencia ultrancoservadora de Florida tras huir de Brasil",
+          "link": "https://www.eldiario.es/internacional/flavio-bolsonaro-reaparece-conferencia-ultrancoservadora-florida-huir-brasil_1_13642973.html",
+          "position": 85,
+          "focus": "Enmarca la reaparición explícitamente como consecuencia de haber huido de Brasil, subrayando la connotación de fuga"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Bolsonaro reaparece en un acto conservador en la mansión de Trump y dice que se llevará \"a la tumba\" los secretos de su fuga",
+          "link": "https://www.elespanol.com/mundo/america/20261106/bolsonaro-reaparece-acto-conservador-mansion-trump-dice-llevara-tumba-secretos-fuga/1003744448333_0.html",
+          "position": 55,
+          "focus": "Recoge el mismo evento pero incorpora una cita directa de Bolsonaro sobre 'los secretos de su fuga', mezclando el dato factual con su propia declaración"
+        }
+      ],
+      "rango": 65,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Mundo",
+        "La Vanguardia"
+      ]
+    }
+  ]
+}
