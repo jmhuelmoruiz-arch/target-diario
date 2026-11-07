@@ -1,0 +1,377 @@
+{
+  "fecha": "2026-11-07T11:18:12.512896+00:00",
+  "esquema": 2,
+  "historias": [
+    {
+      "neutral_headline": "Impacto político y judicial de los accidentes ferroviarios y la gestión de Adif",
+      "section": "Politica",
+      "facts": [
+        "Las encuestas políticas podrían haberse movido desde la convocatoria electoral y tras un accidente de tren",
+        "Adif aprobó un bonus para su cúpula directiva horas antes de que su presidente dimitiera",
+        "La Fiscalía europea ha alertado de posibles fraudes en contratos de Adif tras los accidentes de Adamuz y Urda"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "¿Se mueven las encuestas? Desde la convocatoria y tras el accidente de tren",
+          "link": "https://elpais.com/espana/2026-11-07/se-mueven-las-encuestas-que-ha-cambiado-desde-la-convocatoria-y-tras-el-accidente-de-tren.html",
+          "position": 50,
+          "focus": "Se centra en el efecto electoral de los accidentes, sin entrar en responsabilidades internas de Adif"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Adif blindó el bonus a su cúpula horas antes de dimitir su presidente",
+          "link": "https://www.elmundo.es/economia/2026/11/06/6aee494321efa0477c8b45b8.html",
+          "position": 50,
+          "focus": "Destaca la decisión interna de Adif sobre bonus y su coincidencia temporal con la dimisión del presidente"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "La Fiscalía europea alerta de posibles fraudes en los contratos de Adif tras los accidentes de Adamuz y Urda",
+          "link": "https://www.lavanguardia.com/vida/20261107/11678322/fiscalia-europea-alerta-posibles-fraudes-contratos-adif-accidentes-adamuz-urda.html",
+          "position": 50,
+          "focus": "Pone el foco en la investigación judicial europea sobre posibles irregularidades en los contratos de Adif"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Espanol",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Trump designa a Stephen Miller como nuevo jefe de gabinete de la Casa Blanca",
+      "section": "Politica",
+      "facts": [
+        "Donald Trump ha nombrado a Stephen Miller nuevo jefe de gabinete.",
+        "Stephen Miller fue el arquitecto de la campaña de deportaciones masivas de Trump, según El Español.",
+        "eldiario.es describe a Miller como 'ideólogo ultra' y 'hombre fuerte de Trump'.",
+        "La Vanguardia califica a Miller de 'extremista'.",
+        "Un profesor buscado por la Audiencia Nacional recluta soldados y espías españoles para Rusia, según El País (hecho no relacionado con el nombramiento de Miller)."
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "retrato como ideólogo extremista",
+        "polo_b": "retrato como artífice técnico de políticas",
+        "resumen": "Los medios que cubren el nombramiento de Miller difieren entre resaltar su perfil ideológico radical o su papel como ejecutor de políticas migratorias concretas."
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Un profesor buscado por la Audiencia Nacional recluta soldados y espías españoles para Rusia",
+          "link": "https://elpais.com/espana/2026-11-07/un-profesor-buscado-por-la-audiencia-nacional-recluta-soldados-y-espias-espanoles-para-rusia.html",
+          "position": 50,
+          "focus": "Pieza sobre un caso de espionaje para Rusia en España, sin relación temática con el nombramiento de Stephen Miller; no participa del eje editorial definido."
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "\"Patriotas al mando\": Stephen Miller, el ideólogo ultra que se ha convertido en el hombre fuerte de Trump",
+          "link": "https://www.eldiario.es/internacional/patriotas-mando-stephen-miller-ideologo-ultra-convertido-hombre-fuerte-trump_1_13645759.html",
+          "position": 10,
+          "focus": "Enfatiza la ideología ultra de Miller y lo presenta como el verdadero poder detrás de Trump, con fuerte carga crítica hacia su perfil extremista."
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Trump nombra al extremista Stephen Miller como nuevo jefe de Gabinete",
+          "link": "https://www.lavanguardia.com/internacional/20261106/11678324/trump-nombra-extremista-stephen-miller-nuevo-jefe-gabinete-primera-rotacion-midterms.html",
+          "position": 15,
+          "focus": "Usa directamente el término 'extremista' para calificar a Miller, centrando el titular en su perfil ideológico más que en su función administrativa."
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Trump elige como nuevo jefe de gabinete a Stephen Miller, el arquitecto de su campaña de deportaciones masivas",
+          "link": "https://www.elespanol.com/mundo/america/eeuu/20261106/trump-elige-nuevo-jefe-gabinete-stephen-miller-arquitecto-campana-deportaciones-masivas/1003744449735_0.html",
+          "position": 60,
+          "focus": "Describe a Miller principalmente por su rol operativo como 'arquitecto' de las deportaciones, un enfoque más centrado en política migratoria que en etiquetas ideológicas."
+        }
+      ],
+      "rango": 50,
+      "discrepancia": "media",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Mundo"
+      ]
+    },
+    {
+      "neutral_headline": "El presidente de Paraguay, Santiago Peña, es destituido y detenido en relación con un escándalo bancario",
+      "section": "Internacional",
+      "facts": [
+        "Santiago Peña era presidente de Paraguay",
+        "Fue destituido",
+        "Fue detenido tras su destitución",
+        "El Espanol precisa que la detención ocurrió dos horas después de la destitución",
+        "El caso está vinculado a un escándalo bancario relacionado con Ueno Bank, según El Espanol y eldiario.es",
+        "El Pais señala que la destitución y detención se produjeron por presunta corrupción"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "El presidente de Paraguay, Santiago Peña, destituido y detenido por presunta corrupción",
+          "link": "https://elpais.com/america/2026-11-06/santiago-pena-destituido-por-el-congreso-como-presidente-de-paraguay.html",
+          "position": 50,
+          "focus": "Enfatiza la causa general: presunta corrupción, sin entrar en detalles del escándalo bancario"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "En qué consiste el escándalo bancario que ha acabado con el presidente de Paraguay",
+          "link": "https://www.eldiario.es/internacional/consiste-escandalo-bancario-acabado-presidente-paraguay_1_13645310.html",
+          "position": 50,
+          "focus": "Explica en profundidad el escándalo bancario que originó la caída del presidente"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Detenido el presidente de Paraguay, Santiago Peña, tras su destitución",
+          "link": "https://www.lavanguardia.com/internacional/20261107/11678622/detenido-expresidente-paraguay-destitucion.html",
+          "position": 50,
+          "focus": "Reporta de forma escueta la secuencia destitución-detención sin añadir contexto causal"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Detenido el expresidente de Paraguay dos horas después de su destitución por el escándalo bancario de Ueno Bank",
+          "link": "https://www.elespanol.com/mundo/america/20261106/senado-paraguay-destituye-pena-escandalo-bancario-pierde-inmunidad-garantizaba-renuncia/1003744449852_0.html",
+          "position": 50,
+          "focus": "Añade detalle temporal preciso (dos horas) y nombra explícitamente el banco implicado, Ueno Bank"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Mundo"
+      ]
+    },
+    {
+      "neutral_headline": "Incidentes cibernéticos y amenazas en Europa generan debate sobre su origen y motivación",
+      "section": "Internacional",
+      "facts": [
+        "El Pais menciona burlas con inteligencia artificial, injerencias rusas y extremismo como elementos de campañas que explotan algoritmos",
+        "La Vanguardia señala amenazas contra aviones y canales de television en Europa vinculadas a una posible influencia rusa",
+        "20minutos menciona ataques a neveras, desvios de vuelos y vulneraciones electorales como hechos recientes",
+        "20minutos plantea la duda entre si son bromas ciberneticas o una guerra hibrida contra Europa"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "fenomeno algoritmico/difuso sin atribucion clara",
+        "polo_b": "operacion de guerra hibrida orquestada por Rusia",
+        "resumen": "Los medios difieren en si atribuyen los incidentes a una dinamica algoritmica y de multiples actores o a una campaña rusa deliberada"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Burlas con IA, injerencias rusas y extremismo: campañas tóxicas al servicio de los algoritmos",
+          "link": "https://elpais.com/ideas/2026-11-07/burlas-con-ia-injerencias-rusas-y-extremismo-campanas-toxicas-al-servicio-de-los-algoritmos.html",
+          "position": 58,
+          "focus": "Destaca el papel de los algoritmos y combina varios factores (IA, Rusia, extremismo) sin situar a Rusia como causa unica; omite si hay certeza sobre autoria estatal"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "La sombra rusa planea sobre las amenazas contra aviones y canales de televisión en Europa",
+          "link": "https://www.lavanguardia.com/internacional/20261107/11678310/sombra-rusa-planea-sobre-amenazas-aviones-canales-television-europa.html",
+          "position": 85,
+          "focus": "Atribuye explicitamente una 'sombra rusa' a las amenazas, centrando el relato en la responsabilidad estatal rusa; omite otros factores como algoritmos o IA"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Atacar neveras, desviar vuelos, vulnerar elecciones... ¿Bromas cibernéticas o guerra híbrida para desestabilizar Europa?",
+          "link": "https://www.20minutos.es/internacional/atacar-frigorificos-desviar-vuelos-vulnerar-fronteras-elecciones-bromas-ciberneticas-guerra-hibrida-para-desestabilizar-europa_7058124_0.html",
+          "position": 50,
+          "focus": "Presenta los hechos como ambiguos, planteando la duda entre bromas ciberneticas y guerra hibrida, sin inclinarse por una atribucion concreta"
+        }
+      ],
+      "rango": 35,
+      "discrepancia": "media",
+      "silenciosos": [
+        "ABC",
+        "El Espanol",
+        "El Mundo",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Israel negocia formación de nuevo gobierno con participación de partidos árabes, mientras Venezuela vive tensión por presos políticos",
+      "section": "Internacional",
+      "facts": [
+        "Yusef Yabarín lidera la principal lista árabe de Israel",
+        "La lista árabe ha decidido apoyar a Eisenkot en las negociaciones de gobierno",
+        "Existe racismo contra ciudadanos palestinos de Israel según eldiario.es",
+        "Ese racismo amenaza la formación de un nuevo gobierno en Israel",
+        "María Corina Machado visitó a familias de presos políticos en Venezuela",
+        "La visita se realizó a las puertas de la cárcel de El Rodeo"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Yusef Yabarín, líder de la principal lista árabe de Israel: “Al apoyar a Eisenkot, hemos elegido lo menos malo”",
+          "link": "https://elpais.com/internacional/2026-11-07/yusef-yabarin-lider-de-la-principal-lista-arabe-de-israel-al-apoyar-a-eisenkot-hemos-elegido-lo-menos-malo.html",
+          "position": 50,
+          "focus": "Centra el foco en la decisión estratégica de la lista árabe de apoyar a Eisenkot como mal menor, dando voz a su líder."
+        },
+        {
+          "outlet": "ABC",
+          "headline": "María Corina Machado visita a las familias de presos políticos a las puertas de la cárcel de El Rodeo",
+          "link": "https://www.abc.es/internacional/maria-corina-machado-visita-familias-presos-politicos-20261106203007-nt.html",
+          "position": 50,
+          "focus": "Centra el foco en la acción de Machado como gesto de solidaridad con familias de presos políticos en Venezuela, tema ajeno a Israel."
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "El racismo contra los ciudadanos palestinos de Israel amenaza la formación de un nuevo gobierno",
+          "link": "https://www.eldiario.es/internacional/racismo-ciudadanos-palestinos-israel-amenaza-formacion-nuevo-gobierno_1_13645658.html",
+          "position": 50,
+          "focus": "Centra el foco en el racismo estructural contra ciudadanos palestinos como obstáculo para la gobernabilidad en Israel."
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "El Espanol",
+        "El Mundo",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "Alcaraz remonta ante Fritz y clasifica a semifinales de París",
+      "section": "Deportes",
+      "facts": [
+        "Alcaraz jugó un partido ante Fritz en París",
+        "Alcaraz remontó el partido",
+        "Alcaraz avanzó a semifinales",
+        "Según ABC, Alcaraz levantó dos bolas de partido en el encuentro"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Alcaraz pone a París en pie y premia a Jódar, ya maestro",
+          "link": "https://elpais.com/deportes/tenis/2026-11-06/alcaraz-pone-a-paris-en-pie-y-premia-a-jodar-ya-maestro.html",
+          "position": 50,
+          "focus": "Destaca el ambiente del público en París y menciona a Jódar, posiblemente su entrenador, sin detallar el marcador"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Alcaraz construye a golpe de felicidad una remontada épica ante Fritz y alcanza las semifinales de París",
+          "link": "https://www.elmundo.es/deportes/tenis/2026/11/06/6aee3d96e85ece0d1e8b4574.html",
+          "position": 50,
+          "focus": "Enfatiza el carácter épico de la remontada y el resultado final de clasificación"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Alcaraz destroza su límite a lo grande: a semifinales tras levantar dos bolas de partido",
+          "link": "https://www.abc.es/deportes/tenis/alcaraz-destroza-limite-grande-semifinales-tras-levantar-20261106225818-nt.html",
+          "position": 50,
+          "focus": "Resalta el dato concreto de las dos bolas de partido salvadas, dando dramatismo a la hazaña deportiva"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "El Espanol",
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "El Gobierno retira/almacena aceite de oliva por excedente y se debate su efecto en el precio al consumidor",
+      "section": "Economia",
+      "facts": [
+        "El Gobierno ha retirado del mercado aceite de oliva por existir un excedente",
+        "El Mundo cifra la cantidad almacenada en 188.000 toneladas",
+        "El Mundo senala que la medida genera alivio entre los olivareros",
+        "El Mundo apunta a un temor a que suba el precio de la botella de aceite",
+        "20minutos indica que la retirada tiene impacto sobre el precio pagado en los supermercados, sin precisar la cantidad retirada",
+        "El Pais senala que algunos vecinos dependen de una calefaccion contaminante cuyo coste subira este invierno",
+        "El Pais menciona que existen alternativas de calefaccion disponibles en el mercado"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Vecinos anclados en una calefacción contaminante que este invierno saldrá muy cara: qué alternativas hay en el mercado",
+          "link": "https://elpais.com/economia/negocios/2026-11-07/vecinos-anclados-en-una-calefaccion-contaminante-que-este-invierno-saldra-muy-cara-que-alternativas-hay-en-el-mercado.html",
+          "position": 50,
+          "focus": "Se centra en el encarecimiento de la calefaccion contaminante y ofrece alternativas de mercado; no trata el asunto del aceite de oliva, por lo que no es comparable con las otras dos piezas."
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "El Gobierno guarda bajo llave 188.000 toneladas de aceite por el excedente: alivio entre los olivareros y temor a que suba el precio de la botella",
+          "link": "https://www.elmundo.es/economia/2026/11/07/6aedff3ce4d4d8c9738b4582.html",
+          "position": 50,
+          "focus": "Aporta la cifra exacta almacenada (188.000 toneladas), resalta el alivio de los olivareros y el riesgo de subida de precio para el consumidor."
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Por qué el Gobierno retira aceite de oliva y qué impacto tiene sobre el precio que se paga en los supermercados",
+          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/retirada-obligatoria-aceite-oliva-impacto-precios-claves-decision-historica_7058138_0.html",
+          "position": 50,
+          "focus": "Explica el porque de la retirada del aceite y se concentra en el impacto sobre el precio en supermercados, sin ofrecer la cifra de toneladas retiradas."
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "ABC",
+        "El Espanol",
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Consumo abre expediente sancionador a una empresa de autobuses por prácticas engañosas en el precio",
+      "section": "Sociedad",
+      "facts": [
+        "Consumo abre un expediente sancionador a una empresa de autobuses",
+        "El expediente se abre por prácticas engañosas en el precio de los billetes",
+        "ABC y eldiario.es añaden que el expediente también incluye cláusulas abusivas",
+        "20minutos circunscribe el motivo al precio de los billetes sin mencionar cláusulas abusivas"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "ABC",
+          "headline": "Consumo abre expediente sancionador a una empresa de autobuses por prácticas engañosas en el precio y cláusulas abusivas",
+          "link": "https://www.abc.es/economia/consumo-abre-expediente-sancionador-empresa-autobuses-practicas-20261107085106-nt.html",
+          "position": 50,
+          "focus": "Recoge ambos motivos del expediente: precio engañoso y cláusulas abusivas"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Consumo abre expediente a una empresa de autobuses por prácticas engañosas en el precio y cláusulas abusivas",
+          "link": "https://www.eldiario.es/economia/consumo-abre-expediente-empresa-autobuses-practicas-enganosas-precio-clausulas-abusivas_1_13646041.html",
+          "position": 50,
+          "focus": "Igual que ABC, menciona precio engañoso y cláusulas abusivas"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Consumo abre un expediente sancionador a una empresa de autobuses por prácticas engañosas en el precio de sus billetes",
+          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/consumo-abre-un-expediente-sancionador-una-empresa-autobuses-por-practicas-enganosas-precio-sus-billetes_7058316_0.html",
+          "position": 50,
+          "focus": "Se centra solo en el precio de los billetes, omite la mención a cláusulas abusivas"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "El Espanol",
+        "El Mundo",
+        "El Pais",
+        "La Vanguardia"
+      ]
+    }
+  ]
+}
