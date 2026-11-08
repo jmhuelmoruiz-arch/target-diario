@@ -1,0 +1,413 @@
+{
+  "fecha": "2026-11-08T11:29:27.009199+00:00",
+  "esquema": 2,
+  "historias": [
+    {
+      "neutral_headline": "Muere un soldado durante un ejercicio de instrucción en el campo de maniobras de San Gregorio (Zaragoza)",
+      "section": "Sociedad",
+      "facts": [
+        "Un soldado/militar ha muerto",
+        "El suceso ocurrió durante un ejercicio o actividad de instrucción militar",
+        "El hecho tuvo lugar en el campo de maniobras/Centro de Adiestramiento de San Gregorio, en Zaragoza"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Muere un soldado durante unos ejercicios en el campo de maniobras de San Gregorio (Zaragoza)",
+          "link": "https://elpais.com/espana/2026-11-08/muere-un-soldado-durante-unos-ejercicios-en-el-campo-de-maniobras-de-san-gregorio.html",
+          "position": 50,
+          "focus": "Identifica la ubicación exacta (San Gregorio, Zaragoza) y el contexto de ejercicios militares"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Muere un soldado del Ejército de Tierra durante una instrucción militar en Zaragoza",
+          "link": "https://www.elmundo.es/espana/2026/11/08/6af038e8e85ececa1c8b456f.html",
+          "position": 50,
+          "focus": "Especifica que pertenece al Ejército de Tierra, menciona Zaragoza sin detallar el campo concreto"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Muere un militar durante un ejercicio de instrucción en el campo de maniobras de San Gregorio (Zaragoza)",
+          "link": "https://www.abc.es/espana/aragon/muere-militar-ejercicio-instruccion-campo-maniobras-san-20261108092912-nt.html",
+          "position": 50,
+          "focus": "Usa el término 'militar' en lugar de 'soldado', especifica ejercicio de instrucción y ubicación completa"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Muere un soldado durante una actividad de instrucción en el Centro de Adiestramiento de San Gregorio (Zaragoza)",
+          "link": "https://www.elespanol.com/observatorio-defensa/20261108/muere-soldado-actividad-instruccion-centro-adiestramiento-san-gregorio-zaragoza/1003744450501_0.html",
+          "position": 50,
+          "focus": "Detalla el nombre oficial del centro (Centro de Adiestramiento de San Gregorio) y la actividad de instrucción"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Muere un soldado durante una instrucción militar en Zaragoza",
+          "link": "https://www.20minutos.es/aragon/muere-un-soldado-durante-una-instruccion-militar-zaragoza_7058614_0.html",
+          "position": 50,
+          "focus": "Versión más escueta, menciona instrucción militar y Zaragoza sin detallar el campo específico"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Tiroteo en el centro de Cracovia deja varios muertos y heridos; el autor también habría matado a tres familiares en su domicilio",
+      "section": "Internacional",
+      "facts": [
+        "El Pais: al menos seis muertos y una quincena de heridos en un atentado en la plaza mayor de Cracovia",
+        "El Mundo: un hombre mato a nueve personas, entre ellas sus padres y su hermana, y se investiga como terrorismo",
+        "ABC: el atacante mato a sus padres y su hermana antes del tiroteo, que dejo seis muertos y 16 heridos",
+        "eldiario.es: un ultraderechista asesino a nueve personas y dejo 15 heridos en un ataque calificado como terrorista",
+        "La Vanguardia: se hallaron tres cadaveres en la casa del autor del tiroteo mortal en el centro de Cracovia",
+        "El Espanol: al menos 9 muertos y 15 heridos en el tiroteo; el atacante estaba fascinado con la ultraderecha",
+        "20minutos: seis muertos en el tiroteo y otros tres en la casa del autor, de 24 anos, con ideas de ultraderecha"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "enfoque factual en cifras del tiroteo",
+        "polo_b": "enfoque en motivacion ideologica ultraderechista del atacante",
+        "resumen": "los medios difieren en cuanto protagonismo dan en el titular a la ideologia de ultraderecha del atacante frente a limitarse a las cifras del ataque"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Al menos seis muertos y una quincena de heridos en un atentado en la plaza mayor de Cracovia",
+          "link": "https://elpais.com/internacional/2026-11-07/varios-muertos-y-heridos-en-un-atentado-en-la-plaza-mayor-de-cracovia.html",
+          "position": 15,
+          "focus": "El Pais se centra solo en cifras de muertos y heridos del atentado, sin mencionar motivacion ni al autor"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Pánico en el corazón de Europa tras matar un hombre en Cracovia a nueve personas, entre ellos sus padres y su hermana: se investiga como \"terrorismo\"",
+          "link": "https://www.elmundo.es/internacional/2026/11/08/6aef98c7fdddffb6288b45b0.html",
+          "position": 38,
+          "focus": "El Mundo destaca el vinculo familiar de las victimas y menciona terrorismo entre comillas como hipotesis en investigacion"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "El atacante de Cracovia mató a sus padres y su hermana antes del tiroteo que dejó seis muertos y 16 heridos",
+          "link": "https://www.abc.es/internacional/atacante-cracovia-mato-padres-hermana-tiroteo-dejo-20261108113654-nt.html",
+          "position": 15,
+          "focus": "ABC ordena cronologicamente los hechos (familia primero, tiroteo despues) sin mencionar ideologia del atacante"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Un ultraderechista asesina a nueve personas y deja 15 heridos en un ataque terrorista en Cracovia",
+          "link": "https://www.eldiario.es/internacional/cinco-muertos-docena-heridos-tiroteo-ciudad-polaca-cracovia_1_13646897.html",
+          "position": 90,
+          "focus": "eldiario.es abre con la etiqueta ultraderechista y califica el hecho directamente como ataque terrorista"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Hallados tres cadáveres en casa del autor del tiroteo mortal en el centro de Cracovia",
+          "link": "https://www.lavanguardia.com/internacional/20261107/11678781/tiroteo-cracovia-deja-cinco-personas-muertas.html",
+          "position": 15,
+          "focus": "La Vanguardia se centra en el hallazgo de los cadaveres en la vivienda, sin mencionar ideologia"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Al menos 9 muertos y 15 heridos en un tiroteo en Cracovia: el atacante estaba \"fascinado con la ultraderecha\"",
+          "link": "https://www.elespanol.com/mundo/europa/20261107/muertos-heridos-tiroteo-cracovia-policia-investiga-circunstancias-atentado/1003744450075_0.html",
+          "position": 75,
+          "focus": "El Espanol incluye cifras y ademas cita que el atacante estaba fascinado con la ultraderecha"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Qué se sabe del ataque de Cracovia: seis muertos en el tiroteo y otros tres en casa del autor, de 24 años y con ideas de ultraderecha",
+          "link": "https://www.20minutos.es/internacional/que-se-sabe-ataque-cracovia-seis-muertos-tiroteo-otros-tres-casa-autor-24-anos-con-ideas-ultraderecha_7058599_0.html",
+          "position": 55,
+          "focus": "20minutos da un resumen con cifras, edad del autor y menciona sus ideas de ultraderecha como dato mas"
+        }
+      ],
+      "rango": 75,
+      "discrepancia": "alta",
+      "silenciosos": []
+    },
+    {
+      "neutral_headline": "Un proyectil disparado por los hutíes causa daños en un edificio de Aramco en Riad",
+      "section": "Internacional",
+      "facts": [
+        "Hubo un ataque con misiles/proyectiles dirigido hacia Riad",
+        "Los hutíes son señalados como responsables del lanzamiento",
+        "Las oficinas o un edificio de la petrolera Aramco resultaron dañadas",
+        "ABC afirma que Arabia Saudí interceptó cinco misiles sobre Riad y el sur del país",
+        "La Vanguardia indica que el edificio fue alcanzado por restos de un proyectil, no por un impacto directo",
+        "20minutos y El País/eldiario.es describen un impacto o daño sin especificar intercepción"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "defensa saudí eficaz (interceptación)",
+        "polo_b": "ataque exitoso con daños directos",
+        "resumen": "Los medios difieren en si enfatizan la capacidad de intercepción de Arabia Saudí o el daño efectivo causado por el ataque"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Un ataque contra Riad provoca daños en las oficinas de la mayor petrolera del mundo, Saudi Aramco",
+          "link": "https://elpais.com/internacional/2026-11-08/un-ataque-a-riad-provoca-danos-en-las-oficinas-de-la-mayor-petrolera-del-mundo-saudi-aramco.html",
+          "position": 70,
+          "focus": "Destaca el daño a las oficinas de Aramco sin mencionar intercepción, enfatizando la vulnerabilidad saudí"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Arabia Saudí intercepta cinco misiles disparados por los hutíes sobre Riad y el sur del país",
+          "link": "https://www.abc.es/internacional/arabia-saudi-intercepta-cinco-misiles-disparados-huties-20261108110216-nt.html",
+          "position": 10,
+          "focus": "Resalta la interceptación exitosa de cinco misiles, poniendo el foco en la eficacia defensiva saudí"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Un ataque de los hutíes contra Riad provoca daños en el edificio de la petrolera saudí Aramco, la mayor del mundo",
+          "link": "https://www.eldiario.es/internacional/arabia-saudi-intercepta-misiles-disparados-huties-riad_1_13647534.html",
+          "position": 65,
+          "focus": "Atribuye explícitamente el ataque a los hutíes y describe el daño en el edificio de Aramco, similar a El País pero con autoría clara"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Alcanzadas las oficinas de Aramco en Riad por restos de un proyectil lanzado por los hutíes",
+          "link": "https://www.lavanguardia.com/internacional/20261108/11679156/oalicion-liderada-arabia-saudi-intercepta-dos-misiles-huties-lanzados-riad.html",
+          "position": 45,
+          "focus": "Matiza que fueron restos de un proyectil los que alcanzaron el edificio, sugiriendo una intercepción parcial"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Un misil lanzado por los hutíes impacta en un edificio del distrito financiero de Riad",
+          "link": "https://www.20minutos.es/internacional/un-misil-lanzado-por-los-huties-impacta-sobre-un-edificio-distrito-financiero-riad_7058618_0.html",
+          "position": 75,
+          "focus": "Describe un impacto directo de un misil en el distrito financiero, sin mencionar intercepción alguna"
+        }
+      ],
+      "rango": 65,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "El Espanol",
+        "El Mundo"
+      ]
+    },
+    {
+      "neutral_headline": "El presidente de Israel encarga a Gadi Eisenkot formar gobierno",
+      "section": "Internacional",
+      "facts": [
+        "El presidente de Israel encargó a Gadi Eisenkot, líder opositor, formar gobierno",
+        "Según eldiario.es, Eisenkot recibió el apoyo de los partidos árabes antes del encargo",
+        "Según La Vanguardia, el encargo se hizo en lugar de encomendárselo a Netanyahu"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "proceso de coalición (apoyo de partidos árabes)",
+        "polo_b": "relevo personal frente a Netanyahu",
+        "resumen": "Los medios difieren en si enmarcan el nombramiento como resultado de una coalición parlamentaria o como la caída/sustitución de Netanyahu"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "El presidente de Israel encarga formar Gobierno al líder opositor Gadi Eisenkot",
+          "link": "https://elpais.com/internacional/2026-11-07/el-presidente-de-israel-encarga-formar-gobierno-al-lider-opositor-gadi-eisenkot.html",
+          "position": 50,
+          "focus": "Relata el hecho institucional sin añadir causa ni contraste con Netanyahu"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "El presidente de Israel encarga formar gobierno al opositor Eisenkot tras recibir el apoyo de los partidos árabes",
+          "link": "https://www.eldiario.es/internacional/presidente-israel-pide-eisenkot-formar-gobierno-recibir-apoyo-partidos-arabes_1_13647220.html",
+          "position": 35,
+          "focus": "Enfatiza el apoyo de los partidos árabes como factor clave del encargo, omite mención a Netanyahu"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "El presidente de Israel pide al opositor Eisenkot formar gobierno en lugar de Netanyahu",
+          "link": "https://www.lavanguardia.com/internacional/20261107/11678848/presidente-israel-pide-gadi-eisenkot-forme-gobierno-sustituya-netanyahu.html",
+          "position": 65,
+          "focus": "Enmarca el encargo como sustitución directa de Netanyahu, personalizando la disputa política"
+        }
+      ],
+      "rango": 30,
+      "discrepancia": "media",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Espanol",
+        "El Mundo"
+      ]
+    },
+    {
+      "neutral_headline": "Tres noticias distintas sobre la actualidad política en EEUU: nombramientos de Trump, su posición tras las elecciones y resultados demócratas en Texas",
+      "section": "Politica",
+      "facts": [
+        "Trump ofreció la portavocía de la Casa Blanca al presidente de UFC",
+        "Trump ha sido debilitado en las urnas internas según El Mundo",
+        "Texas ha tenido un resultado favorable para los demócratas según eldiario.es"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Trump ofrece la portavocía de la Casa Blanca al presidente de la competición de lucha UFC",
+          "link": "https://elpais.com/internacional/2026-11-07/trump-ofrece-su-portavocia-a-un-exluchador-profesional.html",
+          "position": 50,
+          "focus": "Informa sobre una oferta de cargo en la Casa Blanca al presidente de UFC, sin relación directa con los otros dos titulares"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Debilitado en casa por las urnas, desatado fuera: \"Trump herido es más peligroso\"",
+          "link": "https://www.elmundo.es/internacional/2026/11/07/6aef36e9fdddff5d338b4588.html",
+          "position": 50,
+          "focus": "Analiza la posición política de Trump tras resultados electorales internos, un enfoque interpretativo distinto"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Texas, el sueño demócrata que se acaba de cumplir y puede cambiar la política de EEUU para siempre",
+          "link": "https://www.eldiario.es/internacional/texas-sueno-democrata-acaba-cumplir-cambiar-politica-eeuu_1_13643644.html",
+          "position": 50,
+          "focus": "Se centra en un resultado electoral en Texas favorable a los demócratas, sin relación con los temas de las otras piezas"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Espanol",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "La inteligencia artificial genera nuevos riesgos: ciberataques a infraestructuras cotidianas y dudas sobre una posible burbuja bursátil",
+      "section": "Sociedad",
+      "facts": [
+        "Los ciberataques ya afectan a elementos de la vida cotidiana como la nevera, el agua del grifo o la luz, segun El Pais",
+        "La inteligencia artificial esta generando una percepcion de vulnerabilidad cibernetica a nivel mundial, segun La Vanguardia",
+        "Se ha producido un desplome en las bolsas que se vincula a la inteligencia artificial, segun eldiario.es"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "De la nevera al agua del grifo o la luz: los ciberataques ya impactan en la vida cotidiana",
+          "link": "https://elpais.com/tecnologia/2026-11-08/de-la-nevera-al-agua-del-grifo-o-la-luz-los-ciberataques-ya-impactan-en-la-vida-cotidiana.html",
+          "position": 50,
+          "focus": "Se centra en el impacto practico de los ciberataques sobre dispositivos y servicios domesticos cotidianos, sin vincularlo explicitamente a la IA ni a los mercados financieros"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "¿Ha empezado ya el estallido de la burbuja de la IA? Esto es lo que nos dice el desplome de las bolsas",
+          "link": "https://www.eldiario.es/tecnologia/empezado-estallido-burbuja-ia-dice-desplome-bolsas_1_13646581.html",
+          "position": 50,
+          "focus": "Aborda el desplome bursatil como posible senal de una burbuja de la IA, un angulo economico-financiero distinto al de la ciberseguridad domestica"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "El mundo se descubre cibervulnerable a causa de la inteligencia artificial",
+          "link": "https://www.lavanguardia.com/dinero/20261108/11678242/mundo-descubre-cibervulnerable-causa-inteligencia-artificial.html",
+          "position": 50,
+          "focus": "Relaciona la inteligencia artificial con una vulnerabilidad cibernetica global, en un enfoque mas amplio que el de los dispositivos cotidianos"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Espanol",
+        "El Mundo"
+      ]
+    },
+    {
+      "neutral_headline": "Sánchez hace declaraciones sobre el contexto político ante el ascenso o declive de fuerzas progresistas y ultraderechistas",
+      "section": "Politica",
+      "facts": [
+        "Sánchez relaciona su posición con una 'ola de resistencia progresista americana' según El País",
+        "Sánchez pide una mayoría 'amplia y progresista' según eldiario.es",
+        "eldiario.es atribuye a Sánchez la afirmación de un 'desmoronamiento de la ola ultraderechista'",
+        "La Vanguardia recoge una cita textual de Sánchez: 'El partido lo vamos a ganar, pero aún no está ganado'"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "narrativa de impulso progresista imparable",
+        "polo_b": "narrativa de incertidumbre electoral",
+        "resumen": "Los medios difieren entre presentar a Sánchez como parte de una ola progresista en ascenso o como un líder cauteloso ante una contienda aún abierta"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Sánchez se sube a la ola de resistencia progresista americana",
+          "link": "https://elpais.com/espana/2026-11-08/sanchez-se-sube-a-la-ola-de-resistencia-progresista-americana.html",
+          "position": 15,
+          "focus": "Enmarca a Sánchez dentro de un movimiento internacional de resistencia progresista, vinculándolo a una tendencia global; omite matices de cautela electoral"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Sánchez pide una mayoría \"amplia y progresista\" ante el desmoronamiento de la ola ultraderechista",
+          "link": "https://www.eldiario.es/politica/sanchez-pide-mayoria-amplia-progresista-desmoronamiento-ola-ultraderechista_1_13646333.html",
+          "position": 30,
+          "focus": "Destaca el declive de la ultraderecha y la petición de una mayoría amplia, con tono de confianza pero centrado en el adversario más que en Sánchez mismo"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Pedro Sánchez: “El partido lo vamos a ganar, pero aún no está ganado”",
+          "link": "https://www.lavanguardia.com/politica/20261108/11678804/pedro-sanchez-partido-ganar-aun-esta-ganado.html",
+          "position": 75,
+          "focus": "Usa una cita textual que subraya la incertidumbre y el esfuerzo aún pendiente, alejándose de cualquier triunfalismo"
+        }
+      ],
+      "rango": 60,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Espanol",
+        "El Mundo"
+      ]
+    },
+    {
+      "neutral_headline": "Tres piezas distintas sobre el sistema ferroviario: caja negra del Iryo, auditoria de Adif y huelga de maquinistas",
+      "section": "Sociedad",
+      "facts": [
+        "La caja negra del tren de Iryo registro que la maquinista intento reportar a Atocha entre 3 y 4 veces sin obtener respuesta antes del choque, segun El Mundo",
+        "Adif lleva diez meses sin aportar documentos solicitados para una auditoria sobre fallos en la red ferroviaria, segun ABC",
+        "Renfe ha fijado servicios minimos para la huelga de maquinistas convocada el 10 y el 12 de noviembre, segun eldiario.es"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "La caja negra del Iryo revela que la maquinista intentó \"reportar a Atocha en 3-4 ocasiones sin contestación\" antes del choque",
+          "link": "https://www.elmundo.es/economia/2026/11/07/6aef1a7ffdddff8b688b45a0.html",
+          "position": 50,
+          "focus": "Se centra en la investigacion tecnica del choque mediante la caja negra y los intentos fallidos de comunicacion de la maquinista con Atocha"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Adif lleva diez meses sin aportar documentos para una auditoría sobre los fallos en la red ferroviaria",
+          "link": "https://www.abc.es/espana/adif-lleva-nueve-meses-aportar-documentacion-auditoria-20261026012301-nt.html",
+          "position": 50,
+          "focus": "Se centra en la falta de transparencia de Adif ante una auditoria sobre fallos en la red, sin relacionar esto con un incidente concreto"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Estos son los servicios mínimos de Renfe para la huelga de maquinistas del 10 y 12 de noviembre",
+          "link": "https://www.eldiario.es/economia/son-servicios-minimos-renfe-huelga-maquinistas-10-12-noviembre_1_13647598.html",
+          "position": 50,
+          "focus": "Se centra en informar sobre los servicios minimos establecidos para una huelga convocada, un hecho administrativo distinto"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "El Espanol",
+        "El Pais",
+        "La Vanguardia"
+      ]
+    }
+  ]
+}
