@@ -1,0 +1,370 @@
+{
+  "fecha": "2026-11-09T13:16:32.418429+00:00",
+  "esquema": 2,
+  "historias": [
+    {
+      "neutral_headline": "El Supremo rechaza suspender el derecho al voto de los hijos de nacionalizados por la ley de nietos",
+      "section": "Politica",
+      "facts": [
+        "El Supremo rechaza suspender el derecho al voto de los hijos de los nacionalizados por la 'ley de nietos'",
+        "El Pais cifra en 189.000 los afectados por esta decision"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "El Supremo rechaza suspender también el derecho al voto de los 189.000 hijos de los nacionalizados por la ‘ley de nietos’",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-11-09/el-supremo-rechaza-suspender-tambien-el-derecho-al-voto-de-los-hijos-de-los-nacionalizados-por-la-ley-de-nietos.html",
+          "position": 50,
+          "focus": "Incluye la cifra de afectados (189.000) y enmarca la decision como extension de una suspension previa"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "El Supremo rechaza suspender el voto a los hijos de los nacionalizados en la ley de nietos",
+          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/09/6af1c361e9cf4ab4658b4571.html",
+          "position": 50,
+          "focus": "Describe el hecho de forma directa sin cifras adicionales"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "El Supremo no suspende el voto de los que se nacionalizaron españoles por ser hijos de los favorecidos por la 'ley de nietos'",
+          "link": "https://www.elespanol.com/espana/tribunales/20261109/supremo-no-suspende-voto-nacionalizaron-espanoles-hijos-favorecidos-ley-nietos/1003744444287_0.html",
+          "position": 50,
+          "focus": "Explica el origen del voto de estos ciudadanos, vinculandolo a la nacionalizacion por ser hijos de beneficiarios"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Nvidia investiga a su CEO Jensen Huang por su relación con una presunta espía china",
+      "section": "Economia",
+      "facts": [
+        "Nvidia ha abierto una investigación a su consejero delegado, Jensen Huang",
+        "La investigación se relaciona con su vínculo romántico con una mujer señalada como presunta espía china",
+        "eldiario.es identifica a esta mujer como Alice Huang",
+        "La Vanguardia informa de que las acciones de Nvidia cayeron tras conocerse la investigación"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "enfoque corporativo/serio",
+        "polo_b": "enfoque sensacionalista/personal",
+        "resumen": "Los medios se dividen entre tratar el caso como una cuestión corporativa y de mercado o como un relato de intriga y vida privada"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Nvidia abre una investigación a su consejero delegado sobre su relación con una presunta espía china",
+          "link": "https://elpais.com/us/2026-11-08/nvidia-abre-una-investigacion-a-su-ceo-sobre-posible-espionaje.html",
+          "position": 20,
+          "focus": "Centra el titular en la apertura de investigación corporativa por parte de Nvidia, sin detalles personales"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Los secretos de alcoba del espionaje chino: de la amante del jefe de Nvidia al engaño de M. Butterfly",
+          "link": "https://www.elmundo.es/economia/empresas/2026/11/09/6af1397ee85eceed388b4570.html",
+          "position": 90,
+          "focus": "Enmarca el hecho como un relato de espionaje romántico, con referencias culturales (M. Butterfly) que aportan tono narrativo y morboso"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Quién es Alice Huang, la presunta espía china que ha puesto contra las cuerdas al CEO de Nvidia",
+          "link": "https://www.eldiario.es/tecnologia/alice-huang-presunta-espia-china-puesto-cuerdas-ceo-nvidia_1_13648764.html",
+          "position": 70,
+          "focus": "Pone el foco en la identidad y perfil de la presunta espía, con un lenguaje que sugiere presión sobre el CEO"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Las acciones de Nvidia caen tras la investigación a su CEO por su relación romántica con una espía china",
+          "link": "https://www.lavanguardia.com/economia/20261109/11679643/acciones-nvidia-caen-plataformas-investigacion-huang-supuesta-relacion-espia-china.html",
+          "position": 15,
+          "focus": "Prioriza la consecuencia bursátil (caída de acciones) como hecho central, con la investigación como causa"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Nvidia pone bajo investigación a su CEO, Jensen Huang, por mantener una relación amorosa con una espía china",
+          "link": "https://www.elespanol.com/mundo/20261108/nvidia-pone-investigacion-ceo-jensen-huang-mantener-relacion-amorosa-espia-china/1003744450802_0.html",
+          "position": 25,
+          "focus": "Describe la medida corporativa contra el CEO citando el motivo romántico, en tono informativo"
+        }
+      ],
+      "rango": 75,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "ABC"
+      ]
+    },
+    {
+      "neutral_headline": "Muere el autor del tiroteo de Cracovia tras ser hospitalizado",
+      "section": "Internacional",
+      "facts": [
+        "El tiroteo tuvo lugar en Cracovia",
+        "El autor del tiroteo falleció en el hospital",
+        "Según El Mundo, ABC y La Vanguardia, el tiroteo dejó seis muertos",
+        "Según eldiario.es y El Español, el tiroteo dejó nueve muertos",
+        "El Mundo y El Español coinciden en que hubo quince heridos",
+        "El Español afirma que el atacante fue abatido por la Policía",
+        "eldiario.es califica al autor como ultraderechista"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "identificación neutra del autor (autor/pistolero)",
+        "polo_b": "identificación ideológica del autor (ultraderechista)",
+        "resumen": "Los medios difieren en si atribuyen una identidad política al autor del tiroteo o lo describen de forma neutra"
+      },
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "Muere en el hospital el autor del tiroteo de Cracovia que dejó seis muertos y quince heridos",
+          "link": "https://www.elmundo.es/internacional/2026/11/09/6af167b221efa0ff1f8b458e.html",
+          "position": 10,
+          "focus": "Se centra en el balance de víctimas (seis muertos, quince heridos) sin calificar ideológicamente al autor"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Muere en el hospital el autor del tiroteo que mató a seis personas en Cracovia",
+          "link": "https://www.abc.es/internacional/muere-hospital-autor-tiroteo-dejo-seis-muertos-20261109075621-nt.html",
+          "position": 10,
+          "focus": "Reporta la muerte del autor y el número de víctimas mortales sin atribuirle motivación política"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Muere en el hospital el ultraderechista que mató a nueve personas en Cracovia",
+          "link": "https://www.eldiario.es/internacional/muere-hospital-ultraderechista-mato-nueve-personas-cracovia-abatido-policia_1_13648696.html",
+          "position": 90,
+          "focus": "Destaca la identidad ideológica del atacante como 'ultraderechista' y eleva el número de muertos a nueve"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Muere el pistolero de Cracovia que asesinó a seis personas",
+          "link": "https://www.lavanguardia.com/internacional/20261109/11679578/muere-pistolero-cracovia-asesino-seis-personas.html",
+          "position": 15,
+          "focus": "Usa el término 'pistolero' y 'asesinó', manteniendo un tono neutro respecto a la ideología"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Muere en el hospital el presunto autor del tiroteo en Cracovia que dejó 9 muertos y 15 heridos: fue abatido por la Policía",
+          "link": "https://www.elespanol.com/mundo/europa/20261109/muere-hospital-presunto-autor-tiroteo-cracovia-dejo-muertos-heridos-abatido-policia/1003744450865_0.html",
+          "position": 10,
+          "focus": "Detalla el balance de víctimas (nueve muertos, quince heridos) y añade que fue abatido por la Policía, sin mención ideológica"
+        }
+      ],
+      "rango": 80,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "El Pais"
+      ]
+    },
+    {
+      "neutral_headline": "Una investigación detecta miles de contenidos de abuso sexual infantil en TikTok y el Gobierno pide a la Fiscalía valorar medidas contra la plataforma",
+      "section": "Sociedad",
+      "facts": [
+        "Una investigación española descubrió miles de nuevos vídeos y perfiles pedófilos en TikTok (El País)",
+        "La investigación halló miles de contenidos de abusos sexuales a niños, incluyendo ofertas de vídeos de hijas y sobrinos (eldiario.es)",
+        "El Gobierno pidió a la Fiscalía estudiar la paralización de TikTok en España por 'vulneración de derechos de la infancia' (El Mundo)",
+        "El Gobierno se plantea paralizar los servicios de TikTok en España por permitir vídeos de abuso sexual infantil (ABC)",
+        "El Gobierno plantea paralizar TikTok ante denuncias por posibles vídeos de abuso sexual infantil (El Español)",
+        "El Gobierno pide a la Fiscalía cerrar TikTok para investigar presuntos casos de abuso sexual infantil (20minutos)"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "foco en la investigación periodística y el hallazgo de contenidos",
+        "polo_b": "foco en la respuesta y acción del Gobierno",
+        "resumen": "Unos medios centran el titular en lo que descubrió la investigación sobre TikTok, mientras otros centran el titular en la reacción institucional del Gobierno ante esos hallazgos"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Una investigación española descubre miles de nuevos vídeos y perfiles pedófilos en TikTok",
+          "link": "https://elpais.com/tecnologia/2026-11-09/una-investigacion-espanola-descubre-miles-de-nuevos-videos-y-perfiles-pedofilos-en-tiktok.html",
+          "position": 5,
+          "focus": "Destaca el hallazgo de la investigación (miles de vídeos y perfiles pedófilos) sin mencionar la acción del Gobierno"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "El Gobierno pide a la Fiscalía estudiar la paralización de TikTok en España por \"vulneración de derechos de la infancia\" tras detectarse abuso sexual infantil",
+          "link": "https://www.elmundo.es/espana/2026/11/09/6af1a1d1e9cf4a0d5f8b4583.html",
+          "position": 85,
+          "focus": "Centra el titular en la petición del Gobierno a la Fiscalía, con matiz cauteloso ('estudiar la paralización'); menciona el abuso como causa pero no detalla la investigación"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "El Gobierno se plantea paralizar los servicios de TikTok en España por permitir vídeos de abuso sexual infantil",
+          "link": "https://www.abc.es/sociedad/gobierno-plantea-paralizar-servicios-tiktok-espana-permitir-20261109113857-nt.html",
+          "position": 90,
+          "focus": "Pone el foco en que el Gobierno 'se plantea paralizar' TikTok, atribuyendo una postura más decidida; omite detalles de la investigación"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Una investigación halla en TikTok miles de contenidos de abusos sexuales a niños: \"Ofrecen vídeos de sus hijas y sobrinos\"",
+          "link": "https://www.eldiario.es/sociedad/investigacion-halla-tiktok-miles-contenidos-abusos-sexuales-ninos-ofrecen-videos-hijas-sobrinos_1_13644637.html",
+          "position": 10,
+          "focus": "Prioriza los hallazgos concretos de la investigación, incluyendo una cita que ilustra la gravedad; no menciona al Gobierno"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "El Gobierno plantea paralizar TikTok ante denuncias por posibles videos de abuso sexual infantil en la plataforma",
+          "link": "https://www.elespanol.com/invertia/observatorios/digital/20261109/gobierno-plantea-paralizar-tiktok-denuncias-posibles-videos-abuso-sexual-infantil-plataforma/1003744451087_0.html",
+          "position": 80,
+          "focus": "Enfatiza que el Gobierno 'plantea paralizar' TikTok, usando el término 'posibles' vídeos, lo que matiza la certeza del hallazgo"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "El Gobierno pide a la Fiscalía cerrar Tiktok para investigar presuntos casos de abuso sexual infantil en la plataforma",
+          "link": "https://www.20minutos.es/nacional/gobierno-pide-fiscalia-cerrar-tiktok-para-investigar-presuntos-casos-abuso-sexual-infantil-plataforma_7058845_0.html",
+          "position": 90,
+          "focus": "Resalta que el Gobierno pide directamente 'cerrar' TikTok, el verbo más contundente del grupo, centrado en la acción institucional"
+        }
+      ],
+      "rango": 85,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "PP y Vox mantienen mayoría mientras el PSOE mejora sus resultados",
+      "section": "Politica",
+      "facts": [
+        "PP y Vox suman 199 diputados con el 50,4% de los votos (El Mundo)",
+        "PP y Vox mantienen la mayoría absoluta (eldiario.es)",
+        "El bloque de la derecha mantiene su ventaja (El País)",
+        "El PSOE se acerca al PP (El País)",
+        "El PSOE crece (eldiario.es)",
+        "Óscar Puente dimitió (eldiario.es)"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "Sánchez/PSOE no supera la crisis",
+        "polo_b": "PSOE avanza pese a la crisis",
+        "resumen": "Los medios difieren en si el relato central es el fracaso de Sánchez para remontar o el avance del PSOE tras la dimisión de Puente"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "El bloque de la derecha mantiene su ventaja pero el PSOE se acerca al PP",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-11-09/el-bloque-de-la-derecha-mantiene-su-ventaja-pero-el-psoe-se-acerca-al-pp.html",
+          "position": 50,
+          "focus": "Describe el resultado como un acercamiento numérico del PSOE al PP sin atribuir causa ni juicio sobre Sánchez o Puente"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "PP y Vox suman 199 diputados con un 50,4% de los  votos y Sánchez no remonta la tragedia de los trenes",
+          "link": "https://www.elmundo.es/espana/encuestas/2026/11/08/6af066bee85eceae5a8b4598.html",
+          "position": 15,
+          "focus": "Destaca la mayoría de PP y Vox con cifras precisas y enmarca el resultado como el fracaso de Sánchez para superar la 'tragedia de los trenes', omitiendo la dimisión de Puente"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "El PSOE crece tras la dimisión de Óscar Puente pero PP y Vox mantienen la mayoría absoluta",
+          "link": "https://www.eldiario.es/politica/psoe-crece-dimision-oscar-puente-pp-vox-mantienen-mayoria-absoluta_1_13643551.html",
+          "position": 80,
+          "focus": "Enfatiza el crecimiento del PSOE como consecuencia de la dimisión de Puente, presentándolo como un gesto de responsabilidad que mejora su posición, aunque PP y Vox retienen la mayoría"
+        }
+      ],
+      "rango": 65,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Espanol",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "Las borrascas Charles y Bruna traerán lluvias, viento y mal estado de la mar a gran parte de España hasta el jueves",
+      "section": "Sociedad",
+      "facts": [
+        "La borrasca Charles entrará el miércoles",
+        "La borrasca Bruna también afecta a España en las próximas horas",
+        "Se esperan lluvias, viento y mal estado de la mar",
+        "El fenómeno se extenderá hasta el jueves según El Pais",
+        "Hay zonas en alerta según 20minutos"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "La borrasca ‘Charles’ provocará un fuerte temporal de lluvia, viento y mala mar junto con ‘Bruna’ hasta el jueves",
+          "link": "https://elpais.com/el-tiempo/2026-11-09/la-borrasca-bruna-azota-hoy-a-todo-el-pais-sobre-todo-al-suroeste-peninsular-y-a-canarias.html",
+          "position": 50,
+          "focus": "Menciona ambas borrascas (Charles y Bruna) y da un marco temporal hasta el jueves"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Charles, la nueva borrasca que entrará el miércoles y dejará lluvias, vientos y mal estado de la mar en gran parte de España",
+          "link": "https://www.elmundo.es/espana/2026/11/09/6af1b023fdddff2a4f8b4575.html",
+          "position": 50,
+          "focus": "Se centra en Charles como la borrasca entrante, detalla su llegada el miércoles"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "La borrasca Bruna trae fuertes lluvias y viento en las próximas horas a buena parte de España: estas son las zonas en alerta",
+          "link": "https://www.20minutos.es/nacional/borrasca-bruna-trae-fuertes-lluvias-viento-las-proximas-horas-buena-parte-espana-estas-son-las-zonas-alerta_7058731_0.html",
+          "position": 50,
+          "focus": "Se centra en Bruna y en las zonas en alerta, con foco inmediato en las próximas horas"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "ABC",
+        "El Espanol",
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Carlos Cuerpo se muestra optimista sobre la candidatura de España (Hernández de Cos) a la presidencia del BCE",
+      "section": "Economia",
+      "facts": [
+        "Carlos Cuerpo declara optimismo sobre la opción española a presidir el BCE",
+        "Hernández de Cos es mencionado como candidato por El Español",
+        "Cuerpo espera una decisión 'lo antes posible' según El Español"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "Oliver Blanco, ministro de Exteriores de Venezuela: \"Todas las fuerzas políticas podrán participar en las elecciones y el resultado deben respetarlo todos\"",
+          "link": "https://www.elmundo.es/internacional/2026/11/08/6af0bd93fdddff8e098b4582.html",
+          "position": 50,
+          "focus": "Esta pieza trata un hecho distinto (declaraciones del ministro de Exteriores de Venezuela sobre elecciones) y no guarda relación temática con las otras dos, centradas en la candidatura española al BCE; no se puede comparar como mismo hecho."
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Carlos Cuerpo: \"Somos optimistas. Por primera vez, España puede tener a alguien al frente del BCE\"",
+          "link": "https://www.eldiario.es/economia/carlos-cuerpo-optimistas-primera-vez-espana-alguien-frente-bce_1_13648662.html",
+          "position": 50,
+          "focus": "Recoge la declaración de Cuerpo sobre el optimismo español para liderar el BCE, citando textualmente su frase sobre ser 'la primera vez' que España podría lograrlo."
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Cuerpo se ve \"optimista\" sobre la candidatura de Hernández de Cos al BCE y espera una decisión \"lo antes posible\"",
+          "link": "https://www.elespanol.com/invertia/economia/bancos-centrales/20261109/cuerpo-ve-optimista-candidatura-hernandez-cos-bce-espera-decision-posible/1003744450890_0.html",
+          "position": 50,
+          "focus": "Añade el nombre concreto del candidato (Hernández de Cos) y menciona la expectativa de una decisión próxima, con el mismo tono optimista que la otra pieza."
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Pais",
+        "La Vanguardia"
+      ]
+    }
+  ]
+}
