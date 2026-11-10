@@ -1,0 +1,436 @@
+{
+  "fecha": "2026-11-10T12:56:25.054679+00:00",
+  "esquema": 2,
+  "historias": [
+    {
+      "neutral_headline": "Santiago Abascal es entrevistado por David Broncano en 'La Revuelta' y genera reacciones políticas y mediáticas",
+      "section": "Politica",
+      "facts": [
+        "Santiago Abascal fue entrevistado por David Broncano en 'La Revuelta' (TVE)",
+        "Según La Vanguardia y 20minutos, la audiencia del programa superó la de la entrevista a Pedro Sánchez",
+        "20minutos cifra la audiencia en casi 5 millones de espectadores y lo señala como récord del programa",
+        "La Vanguardia lo describe como 'otro dato histórico de audiencia'",
+        "Según El Español, Abascal llamó 'dictador' a Sánchez y le atribuyó responsabilidad en el 'crimen de Urda'",
+        "El Español afirma que el público aplaudió esas declaraciones",
+        "El Español señala que Broncano se arrepintió de haber dejado participar al público",
+        "eldiario.es afirma que Abascal dijo mentiras durante la entrevista",
+        "El Pais recoge una critica a TVE por dar espacio a Abascal",
+        "ABC recoge una opinión de Pedro Ruiz sobre el cambio de rol de Broncano de anfitrión a examinador"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "critica a Abascal/TVE por legitimar su discurso",
+        "polo_b": "normalización o defensa de Abascal frente a las críticas",
+        "resumen": "los medios difieren entre denunciar la entrevista como una plataforma peligrosa para Abascal o presentarla como un hito de audiencia/figura injustamente atacada"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Tormenta política tras la visita de Abascal a Broncano en ‘La revuelta’: “Es terrible que TVE le diera espacio”",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-11-10/tormenta-politica-tras-la-visita-de-abascal-a-broncano-en-la-revuelta-es-terrible-que-tve-le-diera-espacio.html",
+          "position": 15,
+          "focus": "destaca la indignación por que TVE diera espacio a Abascal, enmarcando la entrevista como un error institucional"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "La angustia de probar que Abascal no es un monstruo",
+          "link": "https://www.elmundo.es/espana/2026/11/09/6af2456bfc6c8308488b458a.html",
+          "position": 75,
+          "focus": "plantea la dificultad de demostrar que Abascal no es un 'monstruo', lo que defiende implícitamente su imagen frente a críticas externas"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Pedro Ruiz, sobre David Broncano tras su entrevista a Abascal: «No es buena idea pasar de anfitrión a examinador»",
+          "link": "https://www.abc.es/play/television/noticias/pedro-ruiz-pone-voz-espanoles-piensan-sobre-20261110131657-nt.html",
+          "position": 55,
+          "focus": "se centra en el debate sobre el rol de Broncano como entrevistador, sin entrar en el contenido político de Abascal"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Las mentiras de Abascal en 'La Revuelta'",
+          "link": "https://www.eldiario.es/politica/mentiras-abascal-revuelta_1_13651203.html",
+          "position": 10,
+          "focus": "acusa directamente a Abascal de mentir, encuadre fuertemente crítico sobre el contenido de sus declaraciones"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Santiago Abascal supera a Pedro Sánchez en 'La Revuelta': Broncano firma otro dato histórico de audiencia",
+          "link": "https://www.lavanguardia.com/television/20261110/11680535/abascal-supera-pedro-sanchez-audiencia-revuelta-broncano-firma-dato-historico-lider-vox.html",
+          "position": 50,
+          "focus": "se centra en datos de audiencia comparados con la entrevista a Sánchez, sin valorar el contenido político"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Abascal llama a Sánchez 'dictador' y le culpa del \"crimen de Urda\" entre aplausos: Broncano se arrepiente de haberle dejado llevar al público",
+          "link": "https://www.elespanol.com/espana/politica/20261110/abascal-llama-sanchez-dictador-culpa-crimen-urda-aplausos-broncano-arrepiente-haberle-dejado-llevar-publico/1003744451899_0.html",
+          "position": 40,
+          "focus": "detalla declaraciones polémicas de Abascal y la reacción del público, mostrando el arrepentimiento de Broncano por permitir esa dinámica"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Abascal supera a Sánchez en 'La Revuelta' y bate el récord del programa con casi 5 millones de espectadores",
+          "link": "https://www.20minutos.es/television/abascal-supera-sanchez-revuelta-bate-record-programa-con-casi-5-millones-espectadores_7059073_0.html",
+          "position": 50,
+          "focus": "informa sobre el récord de audiencia sin entrar en valoraciones políticas"
+        }
+      ],
+      "rango": 65,
+      "discrepancia": "alta",
+      "silenciosos": []
+    },
+    {
+      "neutral_headline": "Huelga de maquinistas afecta a Cercanías y Rodalies mientras el Gobierno anuncia medidas en el sector ferroviario",
+      "section": "Sociedad",
+      "facts": [
+        "Hubo una huelga de maquinistas que afectó a Cercanías de Madrid y Rodalies de Barcelona",
+        "Según La Vanguardia y 20minutos, los maquinistas incumplieron los servicios mínimos establecidos",
+        "Según ABC, el Gobierno extendió la jubilación anticipada en el sector ferroviario y limitó los tiempos de conducción",
+        "Según El Español, el Gobierno aprobó nuevas medidas para frenar la huelga y creó el Defensor de Víctimas de Accidentes",
+        "Según El País, un policía murió y otro resultó gravemente herido en una explosión en Oviedo, hecho distinto a la huelga ferroviaria"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "Responsabilidad en los maquinistas/huelguistas",
+        "polo_b": "Foco en la respuesta del Gobierno",
+        "resumen": "Los medios se dividen entre atribuir el caos al incumplimiento de los maquinistas y destacar la acción reguladora del Gobierno frente a la huelga."
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Muere un policía y otro resulta gravemente herido en una explosión en Oviedo",
+          "link": "https://elpais.com/espana/2026-11-10/un-policia-muerto-y-otro-herido-tras-una-explosion-en-oviedo.html",
+          "position": 50,
+          "focus": "Cubre un hecho distinto (explosión en Oviedo con víctimas policiales), sin relación con la huelga ferroviaria ni con el eje editorial de esta cobertura"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "El Gobierno extiende la jubilación anticipada en el sector ferroviario y limita los tiempos de conducción",
+          "link": "https://www.abc.es/economia/gobierno-extiende-jubilacion-anticipada-sector-ferroviario-limita-20261110121250-nt.html",
+          "position": 65,
+          "focus": "Destaca las medidas laborales del Gobierno (jubilación anticipada, límites de conducción) sin mencionar el caos ni a los maquinistas como responsables"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "La huelga de maquinistas paraliza líneas de Cercanías en Madrid y Rodalies de Barcelona",
+          "link": "https://www.eldiario.es/economia/huelga-maquinistas-paraliza-lineas-cercanias-madrid-rodalies-barcelona_1_13651204.html",
+          "position": 50,
+          "focus": "Describe el impacto de la huelga en Cercanías y Rodalies de forma descriptiva, sin atribuir responsabilidad explícita"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Los maquinistas incumplen los servicios mínimos en otra jornada de caos en Rodalies",
+          "link": "https://www.lavanguardia.com/local/catalunya/20261110/11680068/trafico-carreteras-cortes-huelga-renfe-maquinistas-trenes-rodalies-accesos-barcelona-cataluna-lunes-10-noviembre-en-directo.html",
+          "position": 15,
+          "focus": "Atribuye directamente el caos al incumplimiento de los servicios mínimos por parte de los maquinistas"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "El Gobierno aprueba nuevas medidas para frenar la huelga ferroviaria y crea el Defensor de Víctimas de Accidentes",
+          "link": "https://www.elespanol.com/invertia/observatorios/movilidad/20261110/gobierno-aprueba-nuevas-medidas-frenar-huelga-ferroviaria-crea-defensor-victimas-accidentes/1003744452155_0.html",
+          "position": 80,
+          "focus": "Centra el relato en la respuesta institucional del Gobierno, con nuevas medidas y la creación del Defensor de Víctimas"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Los maquinistas incumplen el plan de servicios mínimos y llevan al caos a Madrid: \"La huelga está justificada, pero afecta a todos\"",
+          "link": "https://www.20minutos.es/nacional/huelga-trenes-directo-ultima-hora-maquinistas-incidencias-retrasos-servicios-minimos_7059072_6.html",
+          "position": 30,
+          "focus": "Señala el incumplimiento de los maquinistas y el caos, pero matiza con una cita que legitima la huelga"
+        }
+      ],
+      "rango": 65,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "El Mundo"
+      ]
+    },
+    {
+      "neutral_headline": "Un policía muere y otro resulta herido tras una explosión en Oviedo",
+      "section": "Sociedad",
+      "facts": [
+        "Un policía ha muerto en Oviedo",
+        "Otro policía ha resultado herido",
+        "El Mundo y La Vanguardia afirman que el herido sufrió la amputación de una pierna",
+        "El Pais, ABC y El Espanol describen al herido como grave sin mencionar amputación",
+        "ABC, El Espanol y 20minutos identifican el artefacto como una mochila bomba",
+        "eldiario.es habla de un artefacto sin precisar si es una mochila",
+        "El Mundo, El Espanol y 20minutos mencionan un tiroteo previo a la explosión",
+        "El Mundo añade que el autor del tiroteo permanece huido y armado"
+      ],
+      "tipo_divergencia": "cronologica",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Muere un policía y otro resulta gravemente herido en una explosión en Oviedo",
+          "link": "https://elpais.com/espana/2026-11-10/un-policia-muerto-y-otro-herido-tras-una-explosion-en-oviedo.html",
+          "position": 50,
+          "focus": "Versión más temprana, sin detalles del tiroteo ni de la amputación"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Muere un policía y otro resulta herido con la amputación de una pierna por la explosión de una mochila en Oviedo tras un tiroteo cuyo autor permanece huido y armado",
+          "link": "https://www.elmundo.es/espana/2026/11/10/6af2d90ae85ecebb328b459d.html",
+          "position": 50,
+          "focus": "Versión más completa, incluye tiroteo, amputación y autor huido armado"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Muere un policía y otro resulta herido de gravedad al explotar una mochila bomba en Oviedo",
+          "link": "https://www.abc.es/espana/asturias/muere-policia-resulta-herido-grave-explosion-oviedo-20261110093550-nt.html",
+          "position": 50,
+          "focus": "Incluye mochila bomba pero no menciona tiroteo ni amputación"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Un policía muerto y otro herido tras una explosión de un artefacto en Oviedo",
+          "link": "https://www.eldiario.es/asturias/policia-muerto-herido-explosion-artefacto-oviedo_1_13651200.html",
+          "position": 50,
+          "focus": "Versión más genérica, habla de artefacto sin especificar tipo ni contexto previo"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Muere un policía y otro pierde una pierna en una explosión en Oviedo",
+          "link": "https://www.lavanguardia.com/sucesos/20261110/11680608/muere-policia-especialista-guias-caninos-resulta-gravemente-herido-explosion-oviedo.html",
+          "position": 50,
+          "focus": "Menciona amputación pero omite tiroteo y tipo de artefacto"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Muere un policía y otro resulta herido grave en Oviedo tras un tiroteo y la explosión de una mochila bomba",
+          "link": "https://www.elespanol.com/sociedad/20261110/muere-policia-resulta-herido-grave-oviedo-tiroteo-explosion-mochila/1003744452011_0.html",
+          "position": 50,
+          "focus": "Incluye tiroteo y mochila bomba pero no menciona amputación"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Un policía muere y otro resulta herido tras explotar una mochila-bomba después de un tiroteo en Oviedo",
+          "link": "https://www.20minutos.es/asturias/un-policia-muere-otro-resulta-herido-grave-tras-un-tiroteo-una-explosion-oviedo_7059132_0.html",
+          "position": 50,
+          "focus": "Incluye tiroteo y mochila bomba, sin mencionar amputación ni fuga del autor"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": []
+    },
+    {
+      "neutral_headline": "Ordenan la evacuación de Piedralaves (Ávila) por riesgo de rebosamiento de la presa del Horcajo",
+      "section": "Sociedad",
+      "facts": [
+        "Se ordena la evacuación del municipio de Piedralaves (Ávila)",
+        "El motivo es el riesgo de rebosamiento/desbordamiento de la presa del Horcajo",
+        "El Mundo y El Español cifran en 2.200 los vecinos afectados",
+        "El Mundo, eldiario.es y El Español atribuyen la situación a las lluvias de la borrasca Bruna",
+        "eldiario.es señala que Protección Civil envió un Es-Alert para comunicar la evacuación"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Ordenan la evacuación del municipio de Piedralaves (Ávila) ante el “posible rebosamiento” de la presa del Horcajo",
+          "link": "https://elpais.com/espana/2026-11-10/ordenan-la-evacuacion-del-municipio-de-piedralaves-avila-ante-el-posible-rebosamiento-de-la-presa-del-horcajo.html",
+          "position": 50,
+          "focus": "Centra en la orden de evacuación y el riesgo de rebosamiento, sin mencionar cifra de vecinos ni borrasca"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Ordenan evacuar Piedralaves (Ávila), con 2.200 vecinos, por riesgo de rebosamiento de la presa de Horcajo por las lluvias de la borrasca Bruna",
+          "link": "https://www.elmundo.es/espana/2026/11/10/6af2c4acfc6c83526d8b457f.html",
+          "position": 50,
+          "focus": "Añade la cifra de 2.200 vecinos y atribuye el riesgo a la borrasca Bruna"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Evacúan la localidad abulense de Piedralaves por posible rebosamiento de una presa",
+          "link": "https://www.abc.es/espana/castilla-leon/evacuan-localidad-abulense-piedralaves-posible-rebosamiento-presa-20261110111839-nt.html",
+          "position": 50,
+          "focus": "Versión más escueta, centrada solo en la evacuación y el riesgo de rebosamiento"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Protección Civil envía un Es-Alert por la evacuación de Piedralaves por el riesgo de inundación de la borrasca Bruna en Ávila",
+          "link": "https://www.eldiario.es/castilla-y-leon/sociedad/borrasca-bruna-deja-76-4-litros-metro-cuadrado-martes-puerto-pico-avila_1_13651190.html",
+          "position": 50,
+          "focus": "Destaca el mecanismo de alerta (Es-Alert) y menciona la borrasca Bruna como causa"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Evacuan a los 2.200 vecinos de Piedralaves (Ávila) por riesgo de desbordamiento de la presa por la borrasca Bruna",
+          "link": "https://www.elespanol.com/castilla-y-leon/region/avila/20261110/alerta-maxima-avila-evacuan-piedralaves-vecinos-riesgo-desborde-presa/1003744452296_0.html",
+          "position": 50,
+          "focus": "Incluye cifra de 2.200 vecinos y atribuye el riesgo a la borrasca Bruna"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Ordenan la evacuación del Piedralaves por el riesgo de desbordamiento de su presa",
+          "link": "https://www.20minutos.es/castilla-y-leon/avila/desalojan-piedralaves-avila-por-riesgo-desbordamiento-una-presa-plena-alerta-roja-ante-las-fuertes-lluvias_7059180_0.html",
+          "position": 50,
+          "focus": "Versión breve centrada en la orden de evacuación y el riesgo de desbordamiento"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "El Gobierno aprueba medidas de seguridad ferroviaria y crea el Defensor de víctimas de accidentes",
+      "section": "Politica",
+      "facts": [
+        "El Gobierno aprueba un refuerzo de la seguridad ferroviaria con más inspecciones de trenes",
+        "Los maquinistas podrán parar si advierten riesgos",
+        "Se crea un Defensor de víctimas de accidentes ferroviarios",
+        "El Espanol vincula las medidas aprobadas con el objetivo de frenar una huelga ferroviaria"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "medidas como refuerzo de seguridad",
+        "polo_b": "medidas como respuesta a la huelga",
+        "resumen": "Los medios difieren en si el paquete de medidas se presenta como una mejora de seguridad tras accidentes o como una maniobra para frenar la huelga ferroviaria"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "El Gobierno aprueba el refuerzo en la seguridad ferroviaria: más inspecciones de trenes y los maquinistas podrán parar si advierten riesgos",
+          "link": "https://elpais.com/espana/2026-11-10/el-gobierno-lanza-el-refuerzo-en-la-seguridad-ferroviaria-mas-inspecciones-y-los-maquinistas-podran-parar-si-advierten-riesgos.html",
+          "position": 15,
+          "focus": "Destaca exclusivamente el refuerzo de seguridad (inspecciones, poder de los maquinistas); omite la mencion a la huelga y al Defensor de victimas"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "El Gobierno crea un Defensor de víctimas de accidentes y aprueba nuevas medidas de refuerzo de la seguridad ferroviaria",
+          "link": "https://www.eldiario.es/economia/gobierno-crea-defensor-victimas-accidentes-aprueba-nuevas-medidas-refuerzo-seguridad-ferroviaria_1_13651432.html",
+          "position": 20,
+          "focus": "Combina la creacion del Defensor de victimas con las medidas de seguridad; no menciona la huelga ferroviaria"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "El Gobierno aprueba nuevas medidas para frenar la huelga ferroviaria y crea el Defensor de Víctimas de Accidentes",
+          "link": "https://www.elespanol.com/invertia/observatorios/movilidad/20261110/gobierno-aprueba-nuevas-medidas-frenar-huelga-ferroviaria-crea-defensor-victimas-accidentes/1003744452155_0.html",
+          "position": 85,
+          "focus": "Enmarca las medidas como una respuesta para frenar la huelga ferroviaria, ademas de mencionar el Defensor de victimas; minimiza el enfoque en la seguridad en si"
+        }
+      ],
+      "rango": 70,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Mundo",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "El FBI investiga al jefe de Nvidia, Jensen Huang, por su relación con una presunta espía china",
+      "section": "Internacional",
+      "facts": [
+        "El FBI investiga a Jensen Huang, consejero delegado de Nvidia, en relación con una mujer señalada como espía china (La Vanguardia, El Español)",
+        "Donald Trump hizo declaraciones públicas sobre el caso, confirmando la investigación y defendiendo a Huang (La Vanguardia, El Español)",
+        "El Pais describe el episodio como una operación de seducción orquestada por China para engañar a Huang",
+        "El Mundo califica el episodio como un 'culebrón' vinculado a China que ahora investiga el FBI"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "Huang como víctima engañada",
+        "polo_b": "Huang como sospechoso bajo investigación",
+        "resumen": "Los medios varían entre presentar a Huang como objeto de una trampa china o como figura bajo sospecha investigada por el FBI, con Trump interviniendo para defenderlo."
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Así logró China engañar al empresario más poderoso de la IA con una operación de seducción",
+          "link": "https://elpais.com/tecnologia/2026-11-10/asi-logro-china-enganar-al-empresario-mas-poderoso-de-la-ia-con-una-operacion-de-seduccion.html",
+          "position": 15,
+          "focus": "Enfatiza la manipulación china y presenta a Huang como víctima de una operación de seducción, omitiendo detalles de la investigación del FBI"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "El culebrón chino de Jensen Huang, el jefe de Nvidia (que ahora investiga el FBI)",
+          "link": "https://www.elmundo.es/economia/empresas/2026/11/10/6af2bf08e85eceb1288b457d.html",
+          "position": 45,
+          "focus": "Usa un tono narrativo ('culebrón') que mezcla el relato personal con la mención de la investigación del FBI, sin tomar partido claro"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Trump desvela que el FBI investiga a Huang por el affaire con la espía china",
+          "link": "https://www.lavanguardia.com/economia/20261110/11680512/trump-desvela-fbi-investiga-jensen-huang-affaire-supuesta-espia-china.html",
+          "position": 65,
+          "focus": "Centra el foco en la revelación de Trump sobre la investigación del FBI, resaltando el aspecto judicial y de sospecha sobre Huang"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Trump defiende al director de Nvidia investigado por su relación con una espía china: \"Creo que saldrá bien parado\"",
+          "link": "https://www.elespanol.com/mundo/america/20261110/trump-defiende-director-nvidia-investigado-relacion-espia-china-creo-saldra-bien-parado/1003744451917_0.html",
+          "position": 25,
+          "focus": "Destaca la defensa pública de Trump hacia Huang, minimizando la gravedad de la investigación y presentándolo como previsiblemente exculpado"
+        }
+      ],
+      "rango": 50,
+      "discrepancia": "media",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Sánchez no asiste al funeral por las víctimas del accidente de Urda, generando reacciones divididas",
+      "section": "Politica",
+      "facts": [
+        "Hubo un accidente en Urda con víctimas mortales",
+        "Se celebró un funeral/misa en Toledo por las víctimas",
+        "Sánchez no asistió al funeral",
+        "Page (PSOE) hizo declaraciones sobre la ausencia de Sánchez, mostrando 'respeto' pero señalando que él mismo está 'obligado a acudir' por su responsabilidad, según El Mundo",
+        "Según ABC, Sánchez alegó su laicismo como motivo para no asistir a la misa",
+        "Según ABC, Sánchez ha acudido a al menos seis actos religiosos previamente",
+        "Según eldiario.es, una encuesta muestra que la mayoría de los votantes del PSOE respalda la gestión del Gobierno sobre el accidente"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "crítica a la ausencia de Sánchez",
+        "polo_b": "defensa de la gestión de Sánchez",
+        "resumen": "Los medios se dividen entre presentar la ausencia de Sánchez como una falta grave o hipócrita, y señalar que su base electoral respalda su gestión del suceso"
+      },
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "Page muestra su \"respeto\" ante la ausencia de Sánchez en el funeral de las víctimas de Urda, pero advierte: \"Por mi responsabilidad, estoy obligado a acudir\"",
+          "link": "https://www.elmundo.es/espana/2026/11/10/6af30a2be85ecebb328b45b7.html",
+          "position": 25,
+          "focus": "Destaca las palabras medidas de Page, que combina 'respeto' con una velada crítica implícita sobre la obligación de acudir; omite el contexto de la encuesta favorable a Sánchez"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Sánchez se escuda en su laicismo para no ir a la misa de Urda, pese a haber acudido a al menos seis actos religiosos",
+          "link": "https://www.abc.es/espana/sanchez-escuda-laicismo-misa-urda-pese-haber-20261110101502-nt.html",
+          "position": 10,
+          "focus": "Enfatiza la supuesta incoherencia de Sánchez al usar el laicismo como excusa, aportando el dato de sus asistencias previas a actos religiosos; omite cualquier apoyo popular a su decisión"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "La mayoría de los votantes del PSOE respalda la gestión del Gobierno del accidente de Urda",
+          "link": "https://www.eldiario.es/politica/mayoria-votantes-psoe-respalda-gestion-gobierno-accidente-urda_1_13649244.html",
+          "position": 90,
+          "focus": "Centra la narrativa en el respaldo de los votantes socialistas a la gestión del Gobierno, dejando en segundo plano la polémica por la ausencia al funeral"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Sánchez, único gobernante de una democracia que boicotea funerales como el de Toledo por las víctimas de Urda",
+          "link": "https://www.elespanol.com/mundo/europa/20261110/sanchez-unico-gobernante-democracia-boicotea-funerales-toledo-victimas-urda/1003744450895_0.html",
+          "position": 5,
+          "focus": "Presenta a Sánchez como una anomalía democrática por no asistir a funerales, maximizando la crítica sin mencionar el respaldo de su electorado"
+        }
+      ],
+      "rango": 85,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "El Pais",
+        "La Vanguardia"
+      ]
+    }
+  ]
+}
