@@ -1,75 +1,327 @@
 {
-  "fecha": "2026-11-11T12:05:03.404760+00:00",
+  "fecha": "2026-11-12T13:09:44.998810+00:00",
   "esquema": 2,
   "historias": [
     {
-      "neutral_headline": "Huelga general del 11N: sindicatos y patronal discrepan sobre el seguimiento mientras se registran detenciones y cortes de tráfico",
+      "neutral_headline": "El Congreso convalida el decreto de vivienda pero rechaza la prórroga automática e indefinida de los alquileres",
       "section": "Politica",
       "facts": [
-        "Los sindicatos calificaron el seguimiento de 'éxito' y 'muy relevante' (El País)",
-        "La patronal calificó el seguimiento de 'bajo' (El País, La Vanguardia, El Español)",
-        "ABC reporta al menos una veintena de detenidos y enfrentamientos de piquetes con la Policía",
-        "eldiario.es reporta al menos 27 detenidos y un seguimiento estimado entre el 75% y el 40% según las fuentes",
-        "El Mundo señala que es la primera huelga general en 14 años, motivada por vivienda y salarios, en plena precampaña electoral",
-        "La Vanguardia y 20minutos describen el seguimiento como 'dispar'",
-        "20minutos menciona mayor incidencia en la costa, varios detenidos y cortes de carreteras",
-        "El Español recoge que Unai Sordo anticipa un 'pinchazo' por lo 'desigual' de los paros"
+        "La Diputación Permanente del Congreso convalidó el decreto de vivienda del Gobierno",
+        "El decreto incluye la prohibición de desahucios",
+        "Se rechazó la prórroga automática e indefinida de los alquileres",
+        "El Español señala que se mantienen rebajas fiscales dentro del decreto"
       ],
       "tipo_divergencia": "editorial",
       "eje": {
-        "polo_a": "Enfoque en el éxito reivindicativo de la huelga",
-        "polo_b": "Enfoque en el desorden público y los enfrentamientos",
-        "resumen": "Los medios se dividen entre destacar la narrativa de éxito/fracaso del paro según sindicatos y patronal, y poner el foco en los incidentes, detenciones y alteraciones del orden público."
+        "polo_a": "fracaso del Gobierno (prórroga rechazada)",
+        "polo_b": "éxito del Gobierno (decreto convalidado)",
+        "resumen": "Los medios dividen el foco entre el revés que supone el rechazo de la prórroga indefinida y la victoria que supone la convalidación del decreto con sus medidas de protección"
       },
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "Última hora de la huelga general y la actualidad política, en directo | “Los sindicatos hablan “éxito” y de un seguimiento “muy relevante” de la huelga, mientras que las patronales lo ven “bajo”",
-          "link": "https://elpais.com/espana/2026-11-11/ultima-hora-de-la-huelga-general-y-la-actualidad-politica-en-directo.html",
-          "position": 40,
-          "focus": "Contrapone las valoraciones de sindicatos ('éxito') y patronal ('bajo'), dando voz a ambas partes sin inclinarse claramente."
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "La primera huelga general en 14 años por la vivienda y los salarios en plena precampaña: \"Van a petar las calles de España\"",
-          "link": "https://www.elmundo.es/economia/2026/11/11/6af4223ee4d4d8787d8b4593.html",
-          "position": 45,
-          "focus": "Resalta el contexto histórico y las causas (vivienda, salarios) y el momento político (precampaña), con énfasis en la magnitud de la protesta."
+          "headline": "Última hora de la actualidad política, en directo | La Diputación Permanente del Congreso convalida el decreto que prohíbe los desahucios pero rechaza la prórroga automática e indefinida de los alquileres",
+          "link": "https://elpais.com/espana/2026-11-12/ultima-hora-de-la-actualidad-politica-en-directo.html",
+          "position": 50,
+          "focus": "Equilibra ambos resultados: convalidación del decreto y rechazo de la prórroga, sin inclinarse hacia ninguno"
         },
         {
           "outlet": "ABC",
-          "headline": "Enfrentamientos de piquetes con la Policía y al menos una veintena de detenidos en todo el país",
-          "link": "https://www.abc.es/economia/huelga-general-noviembre-espana-directo-situacion-cercanias-20261111234148-di.html",
-          "position": 85,
-          "focus": "Centra la noticia en los enfrentamientos entre piquetes y policía y en el número de detenidos, dejando en segundo plano el debate sobre el seguimiento."
+          "headline": "Adiós a las prórrogas indefinidas del alquiler: qué pasa ahora tras la caída del decreto",
+          "link": "https://www.abc.es/economia/cuentas-corrientes/pasa-alquiler-inquilino-propietario-sale-adelante-decreto-20261112123915-nt.html",
+          "position": 10,
+          "focus": "Centra todo el titular en la caída de la prórroga indefinida, presentándolo como el hecho principal y negativo"
         },
         {
           "outlet": "eldiario.es",
-          "headline": "Huelga general 11N, última hora en directo: al menos 27 detenidos en las primeras horas de huelga, que registra un seguimiento de entre el 75% y el 40%",
-          "link": "https://www.eldiario.es/economia/huelga-general-11-noviembre-ultima-hora-directo-arranca-gran-paro-vivienda_133_13653845.html",
-          "position": 55,
-          "focus": "Ofrece datos concretos de detenidos y rangos de seguimiento, equilibrando cifras sin tomar partido explícito pero incluyendo el dato de detenciones de forma destacada."
+          "headline": "El Gobierno saca adelante el decreto que prorroga los alquileres y prohíbe desahucios en la Diputación Permanente",
+          "link": "https://www.eldiario.es/politica/gobierno-sortea-rechazo-pp-vox-junts-logra-prohibir-desahucios-2031-horas-iniciarse-campana_1_13657109.html",
+          "position": 85,
+          "focus": "Destaca que el Gobierno logra sacar adelante el decreto con prórroga de alquileres y prohibición de desahucios, omite la parte rechazada sobre la prórroga indefinida"
         },
         {
           "outlet": "La Vanguardia",
-          "headline": "Los sindicatos reconocen un seguimiento “dispar” de la huelga y la CEOE lo estima “bajo”",
-          "link": "https://www.lavanguardia.com/economia/20261111/11681447/sindicatos-reconocen-seguimiento-dispar-huelga.html",
-          "position": 50,
-          "focus": "Describe el seguimiento como 'dispar' y recoge la valoración 'bajo' de la CEOE, sin inclinarse hacia ninguna narrativa."
+          "headline": "La Diputación Permanente salva el decreto principal de vivienda pero tumba la prórroga de los alquileres",
+          "link": "https://www.lavanguardia.com/politica/20261112/11682472/diputacion-permanente-salva-decreto-principal-vivienda-tumba-prorroga-alquileres.html",
+          "position": 45,
+          "focus": "Reconoce ambos resultados pero ordena primero el éxito ('salva') antes que el revés ('tumba')"
         },
         {
           "outlet": "El Espanol",
-          "headline": "CEOE ve un \"bajo seguimiento\" de la huelga general y Unai Sordo anticipa el 'pinchazo' por lo \"desigual\" de los paros",
-          "link": "https://www.elespanol.com/invertia/economia/empleo/20261111/unai-sordo-ccoo-anticipa-pinchazo-huelga-admite-movilizacion-desigual-trabajadores/1003744453579_0.html",
-          "position": 65,
-          "focus": "Pone en primer plano la visión de la CEOE ('bajo seguimiento') y la previsión de 'pinchazo' de Sordo, matizando el relato sindical."
+          "headline": "El Congreso convalida el decreto de vivienda de Sánchez y se conservan la suspensión de desahucios y las rebajas fiscales",
+          "link": "https://www.elespanol.com/invertia/observatorios/vivienda/20261112/medidas-vivienda-sanchez-salva-segunda-desahucios-suspendidos-rebaja-fiscal/1003744454936_0.html",
+          "position": 75,
+          "focus": "Enfatiza la convalidación y la conservación de medidas (desahucios, rebajas fiscales), sin mencionar el rechazo de la prórroga automática"
+        }
+      ],
+      "rango": 75,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "El Mundo"
+      ]
+    },
+    {
+      "neutral_headline": "Nvidia estudia destituir a su consejero delegado, Jensen Huang, tras conocerse una relación con una ejecutiva de la compañía",
+      "section": "Economia",
+      "facts": [
+        "Nvidia valora o prepara la destitución de su consejero delegado, Jensen Huang",
+        "Se ha revelado una relación extramarital de Huang con una ejecutiva o vicepresidenta de la empresa",
+        "ABC, eldiario.es y La Vanguardia mencionan que Huang mantuvo antes una relación con una presunta espía china",
+        "El Pais, El Mundo, El Espanol y 20minutos no mencionan el episodio de la espía china",
+        "Los medios usan distintos verbos para describir el estado del proceso: 'ultima', 'prepara', 'evalua' y 'se plantea'"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Nvidia ultima la destitución de su consejero delegado tras la revelación de una relación con una ejecutiva de la compañía",
+          "link": "https://elpais.com/us/2026-11-11/la-revelacion-de-una-nueva-relacion-extramarital-del-consejero-delegado-de-nvidia-compromete-su-futuro-en-la-compania.html",
+          "position": 50,
+          "focus": "Centra en la decision de Nvidia y la ejecutiva implicada, sin mencionar el antecedente de la espia china"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Nvidia se prepara para destituir a Jensen Huang tras conocerse una nueva infidelidad con una vicepresidenta de la empresa",
+          "link": "https://www.elmundo.es/economia/empresas/2026/11/12/6af51bd1e4d4d815458b45b0.html",
+          "position": 50,
+          "focus": "Senala que se trata de una 'nueva' infidelidad, implicando un caso previo, sin detallarlo"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Jensen Huang al borde del despido: además de la espía china, tuvo un segundo romance con una ejecutiva",
+          "link": "https://www.abc.es/internacional/jensen-huang-ceo-nvidia-punto-despido-ademas-20261112010319-nt.html",
+          "position": 50,
+          "focus": "Incluye explicitamente el antecedente de la espia china junto al segundo romance"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Nvidia se plantea el despido de Jensen Huang por su relación con una espía china y con otra ejecutiva de la empresa",
+          "link": "https://www.eldiario.es/tecnologia/nvidia-plantea-despido-jensen-huang-relacion-espia-china-ejecutiva-empresa_1_13656864.html",
+          "position": 50,
+          "focus": "Detalla ambas relaciones: la espia china y la ejecutiva, usando un verbo mas cauto ('se plantea')"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Nvidia prepara el despido de Huang al descubrirse que tenía otra amante, además de la espía china",
+          "link": "https://www.lavanguardia.com/economia/20261112/11682155/nvidia-prepara-despido-jensen-huang-descubrirse-tenia-amante-espia.html",
+          "position": 50,
+          "focus": "Menciona la amante adicional y reitera el caso de la espia china"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Nvidia ultima el despido de su CEO tras revelarse que tuvo otra relación extramarital con una alta directiva de la compañía",
+          "link": "https://www.elespanol.com/mundo/america/eeuu/20261112/nvidia-ultima-despido-ceo-revelarse-relacion-extramarital-alta-directiva-compania/1003744455060_0.html",
+          "position": 50,
+          "focus": "Se centra solo en la relacion con la alta directiva, sin referencia a la espia"
         },
         {
           "outlet": "20minutos",
-          "headline": "La huelga general transcurre con seguimiento \"dispar\", más incidencia en la costa, varios detenidos y cortes de carreteras",
-          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/huelga-general-transcurre-con-seguimiento-dispar-mas-incidencia-costa-varios-detenidos-cortes-carreteras-barcelona-madrid_7059648_0.html",
-          "position": 60,
-          "focus": "Combina el seguimiento 'dispar' con menciones a incidentes, detenidos y cortes de carretera, mezclando ambos encuadres sin priorizar uno."
+          "headline": "Nvidia evalúa cesar a Huang tras conocerse una posible segunda relación extramarital del CEO",
+          "link": "https://www.20minutos.es/internacional/nvidia-evalua-cesar-su-ceo-jensen-huang-tras-una-segunda-acusacion-infidelidad_7060021_0.html",
+          "position": 50,
+          "focus": "Usa un tono mas condicional ('posible segunda relacion'), sin mencionar la espia china"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": []
+    },
+    {
+      "neutral_headline": "La Fiscalía Europea investiga un presunto fraude en la compra de pulseras antimaltrato financiadas con fondos de la UE",
+      "section": "Politica",
+      "facts": [
+        "La Fiscalía Europea ha abierto una investigación por un presunto fraude relacionado con las pulseras antimaltrato",
+        "El fraude investigado afecta a fondos comunitarios/de la UE usados en la compra de las pulseras",
+        "El Mundo afirma que la Fiscalía Europea ha enviado a la UCO al Ministerio de Igualdad",
+        "El Mundo y 20minutos señalan al Ministerio de Igualdad como objeto de la investigación",
+        "ABC sitúa la investigación en España sin mencionar al Ministerio",
+        "El Espanol vincula las pulseras con Igualdad usando un posesivo, sin acusar directamente al Ministerio de ser investigado"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "foco en el fraude/programa sin senalar al Ministerio",
+        "polo_b": "foco en el Ministerio de Igualdad como investigado",
+        "resumen": "Los medios difieren en si presentan al Ministerio de Igualdad como el sujeto directamente investigado o si centran el titular en el fraude/las pulseras sin atribuir responsabilidad institucional explicita"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "La Fiscalía Europea investiga un posible fraude en las pulseras antimaltrato con fondos comunitarios",
+          "link": "https://elpais.com/sociedad/2026-11-12/la-fiscalia-europea-investiga-en-espana-un-posible-fraude-en-las-pulseras-antimaltrato-con-fondos-comunitarios.html",
+          "position": 10,
+          "focus": "El Pais centra el titular en el fraude y los fondos comunitarios, sin mencionar al Ministerio de Igualdad como investigado"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "La Fiscalía Europea envía a la UCO al Ministerio de Igualdad por un presunto fraude en la compra de pulseras antimaltrato",
+          "link": "https://www.elmundo.es/espana/2026/11/12/6af59511e85ecef6528b457a.html",
+          "position": 95,
+          "focus": "El Mundo anade el dato de la UCO y nombra explicitamente al Ministerio de Igualdad como destinatario de la accion de la Fiscalia"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "La Fiscalía Europea investiga un presunto fraude en las pulseras antimaltrato en España",
+          "link": "https://www.abc.es/espana/fiscalia-europea-investiga-presunto-fraude-fondos-ue-20261112114442-nt.html",
+          "position": 10,
+          "focus": "ABC ubica el hecho en Espana y habla del fraude en las pulseras, sin citar al Ministerio"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "La Fiscalía Europea lanza una operación por fraude por las pulseras antimaltrato",
+          "link": "https://www.lavanguardia.com/vida/20261112/11682362/fiscalia-europea-lanza-operacion-fraude-pulseras-telematicas.html",
+          "position": 10,
+          "focus": "La Vanguardia describe una 'operacion' por fraude centrada en las pulseras, sin mencionar al Ministerio"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "La Fiscalía Europea abre una investigación por fraude de fondos UE en las pulseras antimaltrato de Igualdad",
+          "link": "https://www.elespanol.com/mundo/europa/20261112/fiscalia-europea-lanza-investigacion-presunto-fraude-fondos-europeos-destinados-pulseras-antimaltrato/1003744455422_0.html",
+          "position": 40,
+          "focus": "El Espanol menciona a Igualdad de forma posesiva ('de Igualdad') vinculando el programa pero sin presentarlo como investigado directo"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "La Fiscalía Europea investiga al Ministerio de Igualdad por posible fraude en la compra de las pulseras antimaltrato con fondos de la UE",
+          "link": "https://www.20minutos.es/nacional/fiscalia-europea-investiga-ministerio-igualdad-por-posible-fraude-compra-las-pulseras-antimaltrato-con-fondos-ue_7060180_0.html",
+          "position": 85,
+          "focus": "20minutos nombra directamente al Ministerio de Igualdad como objeto de la investigacion de la Fiscalia"
+        }
+      ],
+      "rango": 85,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "La jueza Tardón imputa al exdelegado del Gobierno en Ceuta y le cita a declarar el 18 de noviembre",
+      "section": "Politica",
+      "facts": [
+        "La jueza imputa al exdelegado del Gobierno en Ceuta",
+        "La citación como investigado se fija para el 18 de noviembre",
+        "La jueza que lleva el caso es Tardón",
+        "El exdelegado se llama Pérez Triano",
+        "La imputación está relacionada con la entrada de migrantes en Ceuta"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "crisis humanitaria",
+        "polo_b": "invasión/amenaza",
+        "resumen": "Los medios difieren levemente en el término usado para calificar el episodio migratorio de Ceuta, desde 'crisis migratoria' hasta 'invasión'"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "La jueza imputa al exdelegado del Gobierno en Ceuta por la entrada masiva",
+          "link": "https://elpais.com/espana/2026-11-12/la-jueza-imputa-al-exdelegado-del-gobierno-en-ceuta-por-la-entrada-masiva.html",
+          "position": 45,
+          "focus": "Usa el término neutro-descriptivo 'entrada masiva', centrado en la acción judicial sin cargar el fenómeno migratorio"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "La juez Tardón cita al ex delegado del Gobierno en Ceuta como imputado el próximo 18 de noviembre",
+          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/12/6af5afbbfdddff8d358b4574.html",
+          "position": 50,
+          "focus": "Omite cualquier calificación del fenómeno migratorio, se centra exclusivamente en el procedimiento judicial y la fecha de citación"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "La jueza que investiga la invasión de Ceuta imputa al exdelegado del Gobierno y le cita el 18 de noviembre",
+          "link": "https://www.abc.es/espana/jueza-investiga-invasion-ceuta-imputa-exdelegado-gobierno-20261112133303-nt.html",
+          "position": 85,
+          "focus": "Emplea 'invasión', término que enmarca el fenómeno migratorio como amenaza o ataque"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "La jueza Tardón imputa al exdelegado del Gobierno en Ceuta por la crisis migratoria",
+          "link": "https://www.eldiario.es/politica/jueza-tardon-imputa-exdelegado-gobierno-ceuta-crisis-migratoria_1_13658231.html",
+          "position": 25,
+          "focus": "Usa 'crisis migratoria', término que enmarca el fenómeno desde una perspectiva humanitaria o social"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "La juez cita a declarar como investigado el día 18 a Pérez Triano, delegado del Gobierno en Ceuta durante la invasión",
+          "link": "https://www.elespanol.com/espana/tribunales/20261112/juez-caso-ceuta-cita-investigado-exdelegado-gobierno-semana-previa-elecciones/1003744455723_0.html",
+          "position": 85,
+          "focus": "Emplea 'invasión' y añade el nombre propio del delegado, reforzando el marco securitario del suceso"
+        }
+      ],
+      "rango": 60,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "La UCO solicita información al Tribunal de Cuentas sobre la financiación del PSOE",
+      "section": "Politica",
+      "facts": [
+        "La UCO acudió al Tribunal de Cuentas para solicitar información",
+        "La solicitud se relaciona con la investigación sobre la financiación del PSOE",
+        "El Pais menciona pagos en efectivo como objeto de la solicitud",
+        "El Mundo atribuye la petición a presuntas irregularidades en donaciones al PSOE",
+        "El Espanol cita 'discrepancias' detectadas en la documentación sobre donaciones",
+        "20minutos señala que la solicitud fue ordenada por el juez del caso Koldo",
+        "ABC, eldiario.es y La Vanguardia describen la solicitud como un requerimiento de información sobre la financiación o cuentas del PSOE"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "trámite neutral de solicitud de información",
+        "polo_b": "indicio explícito de irregularidad en la financiación",
+        "resumen": "Los medios varían en si presentan la petición de la UCO como un paso procesal rutinario o como la constatación de anomalías/irregularidades en las donaciones al PSOE."
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "La UCO acude al Tribunal de Cuentas por la investigación sobre los pagos en efectivo en el PSOE",
+          "link": "https://elpais.com/espana/2026-11-12/la-uco-acude-al-tribunal-de-cuentas-por-la-investigacion-sobre-los-pagos-en-efectivo-en-el-psoe.html",
+          "position": 50,
+          "focus": "Destaca el dato concreto de 'pagos en efectivo', sin calificar la acción como irregular, aportando un detalle factual neutro."
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "La UCO acude al Tribunal de Cuentas a por información sobre presuntas irregularidades en donaciones al PSOE",
+          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/12/6af5a9e2fdddff03488b459e.html",
+          "position": 80,
+          "focus": "Usa explícitamente 'presuntas irregularidades', enmarcando la solicitud como indicio de posible fraude."
+        },
+        {
+          "outlet": "ABC",
+          "headline": "La UCO requiere más información al Tribunal de Cuentas sobre la financiación del PSOE",
+          "link": "https://www.abc.es/espana/uco-requiere-informacion-tribunal-cuentas-sobre-pieza-20261112115444-nt.html",
+          "position": 35,
+          "focus": "Presenta la petición como un requerimiento adicional rutinario sobre financiación, sin connotación de irregularidad."
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "La UCO requiere información al Tribunal de Cuentas sobre las cuentas del PSOE",
+          "link": "https://www.eldiario.es/politica/uco-requiere-informacion-tribunal-cuentas-cuentas-psoe_1_13658082.html",
+          "position": 35,
+          "focus": "Habla de 'cuentas del PSOE' de forma neutra, sin sugerir anomalías."
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Agentes de la UCO acuden al Tribunal de Cuentas por la pieza de financiación del PSOE",
+          "link": "https://www.lavanguardia.com/politica/20261112/11682461/agentes-uco-acuden-tribunal-cuentas-pieza-financiacion-poe.html",
+          "position": 35,
+          "focus": "Describe la acción como parte de la pieza de financiación, en tono procesal y neutro."
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "La UCO acude al Tribunal de Cuentas al notar \"discrepancias\" en la documentación sobre las donaciones al PSOE",
+          "link": "https://www.elespanol.com/espana/tribunales/20261112/uco-pide-tribunal-cuentas-informacion-donaciones-psoe-detectar-discrepancias/1003744455572_0.html",
+          "position": 75,
+          "focus": "Cita directamente 'discrepancias', subrayando que la UCO detectó algo anómalo en la documentación."
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "La UCO acude al Tribunal de Cuentas para requerir información sobre las donaciones del PSOE por orden del juez del caso Koldo",
+          "link": "https://www.20minutos.es/nacional/uco-accede-tribunal-cuentas-busca-informacion-donaciones-psoe_7060209_0.html",
+          "position": 55,
+          "focus": "Enfatiza que la petición fue ordenada por el juez del caso Koldo, vinculando la acción a una instrucción judicial más amplia, sin acusar directamente de irregularidad pero insinuando conexión con el caso de corrupción."
         }
       ],
       "rango": 45,
@@ -77,339 +329,219 @@
       "silenciosos": []
     },
     {
-      "neutral_headline": "Un piquete irrumpe en el plató del programa de Gemma Nierga en TVE y corta la emisión",
-      "section": "Sociedad",
+      "neutral_headline": "Feijóo acude a El Hormiguero y es entrevistado por Pablo Motos",
+      "section": "Politica",
       "facts": [
-        "Un piquete o grupo de manifestantes irrumpió en el plató del programa de Gemma Nierga en TVE",
-        "La emisión del programa fue cortada o impedida en directo",
-        "El Español señala que los programas de Intxaurrondo y Cintora se emitieron con normalidad",
-        "El Español señala que Canal Sur se fue a negro durante la jornada"
+        "Feijóo fue entrevistado en El Hormiguero",
+        "Pablo Motos realizó un discurso durante el programa",
+        "El Pais destaca el momento '¿cuál es mi cámara?' como uno de los destacados",
+        "El Espanol afirma que Feijóo desactivó una 'campaña del miedo' atribuida a Sánchez, al que califica de 'cobarde'"
       ],
       "tipo_divergencia": "editorial",
       "eje": {
-        "polo_a": "protesta espontánea/piquete anónimo",
-        "polo_b": "acción sindical organizada y selectiva",
-        "resumen": "La mayoría de medios describe un piquete genérico irrumpiendo en un plató, mientras El Español enmarca el hecho como una decisión selectiva de los sindicatos que afectó de forma distinta a cada cadena/programa."
+        "polo_a": "cobertura neutral/evaluativa",
+        "polo_b": "elogio explicito a Feijoo",
+        "resumen": "Los medios difieren en si presentan la entrevista como un hecho a evaluar o como un triunfo claro de Feijóo frente a Sánchez"
       },
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "Un piquete irrumpe en el plató y corta en directo la emisión del programa de Gemma Nierga en TVE",
-          "link": "https://elpais.com/espana/catalunya/2026-11-11/un-piquete-irrumpe-en-el-plato-y-corta-en-directo-la-emision-del-programa-de-gemma-nierga-en-tve.html",
+          "headline": "El discurso de Pablo Motos y “¿cuál es mi cámara?”: los momentos destacados de Feijóo en ‘El hormiguero’",
+          "link": "https://elpais.com/television/2026-11-11/el-discurso-de-pablo-motos-y-cual-es-mi-camara-los-momentos-destacados-de-feijoo-en-el-hormiguero.html",
           "position": 45,
-          "focus": "Describe el hecho como irrupción de un piquete que corta la emisión, sin entrar en la lógica o selectividad de la acción"
-        },
-        {
-          "outlet": "ABC",
-          "headline": "Un piquete irrumpe en el plató del programa de Gemma Nierga en TVE y obliga a cortar la emisión",
-          "link": "https://www.abc.es/espana/cataluna/piquete-irrumpe-plato-programa-gemma-nierga-tve-20261111100659-nt.html",
-          "position": 45,
-          "focus": "Igual que El País, centra el relato en la irrupción y el corte forzado de la emisión"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "Los piquetes irrumpen en el plató de Gemma Nierga",
-          "link": "https://www.eldiario.es/catalunya/piquetes-irrumpen-plato-gemma-nierga_1_13654416.html",
-          "position": 40,
-          "focus": "Usa el plural 'piquetes', reforzando la idea de acción colectiva pero sin atribuir intencionalidad sindical explícita"
+          "focus": "Enumera momentos destacados del programa sin emitir juicio sobre el desempeño de Feijóo, tono descriptivo"
         },
         {
           "outlet": "La Vanguardia",
-          "headline": "Un piquete irrumpe en directo en el programa de Gemma Nierga e impide la emisión",
-          "link": "https://www.lavanguardia.com/television/20261111/11681379/piquete-ocupa-plato-cafe-d-idees-e-impide-emision-2-cat.html",
-          "position": 45,
-          "focus": "Destaca que el piquete impide la emisión, foco en la interrupción, no en la organización detrás"
+          "headline": "Feijóo se examina en “El Hormiguero”",
+          "link": "https://www.lavanguardia.com/politica/20261111/11681968/feijoo-examina-hormiguero.html",
+          "position": 50,
+          "focus": "Usa el verbo 'examinarse', sugiriendo una prueba cuyo resultado queda abierto, sin valorar explícitamente el desempeño"
         },
         {
           "outlet": "El Espanol",
-          "headline": "Los sindicatos dejan emitir con normalidad a Intxaurrondo y Cintora en TVE mientras que Canal Sur se va a negro",
-          "link": "https://www.elespanol.com/invertia/medios/20261111/sindicatos-dejan-emitir-normalidad-intxaurrondo-cintora-tve-canal-sur-va-negro/1003744453764_0.html",
-          "position": 85,
-          "focus": "Cambia el protagonismo a 'los sindicatos' como actores que deciden qué programas afectar, contrastando programas normales con Canal Sur a negro, sugiriendo selectividad deliberada"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "Un grupo de manifestantes irrumpe en RTVE e impide la emisión del programa de Gemma Nierga",
-          "link": "https://www.20minutos.es/television/una-cuarenta-manifestantes-irrumpen-rtve-catalunya-impiden-emision-programa-cafe-d-idees-gemma-nierga_7059604_0.html",
-          "position": 50,
-          "focus": "Opta por el término más neutro 'grupo de manifestantes', foco en la interrupción sin atribuir agencia organizativa"
+          "headline": "Feijóo sale sobrado de 'El Hormiguero' y desactiva la campaña del miedo de Sánchez \"el cobarde\"",
+          "link": "https://www.elespanol.com/opinion/columnas/20261112/feijoo-sale-sobrado-hormiguero-desactiva-campana-miedo-sanchez-cobarde/1003744455025_12.html",
+          "position": 90,
+          "focus": "Juicio explícito favorable a Feijóo ('sale sobrado') y ataque directo a Sánchez, calificándolo de 'cobarde' y atribuyéndole una 'campaña del miedo'"
         }
       ],
       "rango": 45,
       "discrepancia": "media",
       "silenciosos": [
-        "El Mundo"
-      ]
-    },
-    {
-      "neutral_headline": "Vox cancela la entrevista de Abascal con Jordi Wild por desacuerdo sobre la emisión de la entrevista en 'La Revuelta'",
-      "section": "Politica",
-      "facts": [
-        "Vox canceló la entrevista de Santiago Abascal con Jordi Wild",
-        "La cancelación se produjo tras un desacuerdo entre Vox y RTVE/La Revuelta sobre la edición o emisión de la entrevista de Abascal con Broncano",
-        "El Pais y 20minutos mencionan que se trata de 40 minutos de la entrevista no emitidos",
-        "20minutos recoge que Vox acusa a TVE y La Revuelta de 'secuestrar' esos 40 minutos y exige su emisión completa",
-        "ABC indica que Vox denuncia que RTVE no cumplió lo acordado sobre la entrevista"
-      ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "Vox cancela la entrevista de Abascal con Jordi Wild tras las exigencias sobre los 40 minutos inéditos de ‘La revuelta’",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-11-11/vox-cancela-la-entrevista-de-abascal-con-jordi-wild-tras-la-polemica-por-los-40-minutos-ineditos-de-la-revuelta.html",
-          "position": 50,
-          "focus": "Centra en la cancelación y menciona las exigencias de Vox sobre los 40 minutos inéditos"
-        },
-        {
-          "outlet": "ABC",
-          "headline": "Abascal no irá al podcast de Jordi Wild tras denunciar Vox que RTVE no ha cumplido lo acordado con la entrevista de Broncano",
-          "link": "https://www.abc.es/espana/vox-denuncia-rtve-cumplido-acordado-entrevista-broncano-20261111111831-nt.html",
-          "position": 50,
-          "focus": "Pone el foco en la denuncia de Vox contra RTVE por incumplimiento de lo acordado"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Abascal cancela su entrevista con Jordi Wild tras el descontento de Vox con 'La Revuelta'",
-          "link": "https://www.lavanguardia.com/politica/20261111/11681528/abascal-cancela-entrevista-jordi-wild-descontento-vox-revuelta.html",
-          "position": 50,
-          "focus": "Resalta el descontento general de Vox con el programa La Revuelta como causa"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "Vox acusa a TVE y 'La Revuelta' de \"secuestrar\" 40 minutos del programa con Abascal y exige la emisión de la entrevista completa",
-          "link": "https://www.20minutos.es/nacional/vox-acusa-tve-revuelta-secuestrar-40-minutos-programa-con-abascal-exige-emision-entrevista-completa_7059703_0.html",
-          "position": 50,
-          "focus": "Detalla la acusación de 'secuestro' de contenido y la exigencia de emisión completa"
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "El Espanol",
+        "20minutos",
+        "ABC",
         "El Mundo",
         "eldiario.es"
       ]
     },
     {
-      "neutral_headline": "Continúa la búsqueda de 'El Ruso', sospechoso de la explosión que mató a un policía en Oviedo",
-      "section": "Sociedad",
+      "neutral_headline": "Abascal no acude a la entrevista con Jordi Wild tras participar en 'La Revuelta', generando reacciones divididas",
+      "section": "Politica",
       "facts": [
-        "Un policía murió a causa de una explosión en Oviedo",
-        "El principal sospechoso es conocido como 'El Ruso'",
-        "La Vanguardia y El País describen el artefacto como una mochila bomba",
-        "El Español y 20minutos cifran en más de 300 los agentes desplegados en la búsqueda",
-        "El Español afirma que el sospechoso huyó con una escopeta y un revólver",
-        "ABC señala que el sospechoso diseñó la bomba aprovechando sus conocimientos como calderero",
-        "20minutos identifica la operación policial con el nombre 'Operación Jaula'",
-        "El País menciona pistas falsas y controles de carretera en el operativo de búsqueda"
+        "Abascal no acudió a la entrevista programada con Jordi Wild",
+        "Abascal sí participó previamente en el programa 'La Revuelta'",
+        "Abascal declaró que su decisión fue 'estratégica' y que asume 'las críticas y las consecuencias'",
+        "Abascal afirmó 'ni soy un héroe después de La Revuelta ni soy un villano tras no ir con Jordi Wild'",
+        "Jordi Wild denunció que Abascal canceló la entrevista para 'minimizar riesgos'",
+        "Varios youtubers e influencers criticaron públicamente a Abascal por la cancelación",
+        "Según El País, la órbita de Vox lanzó teorías conspiranoicas sobre el episodio",
+        "La Vanguardia señala que la negativa podría tener consecuencias negativas para Abascal"
       ],
       "tipo_divergencia": "editorial",
       "eje": {
-        "polo_a": "crónica operativa/policial",
-        "polo_b": "perfil criminal/relato de terror",
-        "resumen": "Unos medios centran el titular en el despliegue y la operación de búsqueda, mientras otros ponen el foco en el perfil del sospechoso y el carácter premeditado o aterrador del atentado."
+        "polo_a": "decisión legítima/estratégica de Abascal",
+        "polo_b": "cobardía o cálculo electoral criticable",
+        "resumen": "Los medios se dividen entre presentar la ausencia de Abascal como una decisión estratégica defendible o como un gesto cobarde y calculador que merece crítica"
       },
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "Pistas falsas y controles en carreteras: continúa la búsqueda del fugitivo responsable del explosivo que mató a un policía en Oviedo",
-          "link": "https://elpais.com/espana/2026-11-11/pistas-falsas-y-controles-en-carreteras-continua-la-busqueda-del-fugitivo-responsable-del-explosivo-que-mato-a-un-policia-en-oviedo.html",
-          "position": 20,
-          "focus": "Destaca el operativo policial (controles, pistas falsas) y omite detalles sobre el perfil del sospechoso"
+          "headline": "“Se ha cagado”: los ‘youtubers’ reaccionan al plantón de Abascal con Jordi Wild y la órbita de Vox lanza teorías conspiranoicas",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-11-12/se-ha-cagado-los-youtubers-reaccionan-al-planton-de-abascal-con-jordi-wild-y-la-orbita-de-vox-lanza-teorias-conspiranoicas.html",
+          "position": 90,
+          "focus": "Destaca las burlas de youtubers ('se ha cagado') y acusa a Vox de generar teorías conspiranoicas para justificar la ausencia; omite la versión de Abascal"
         },
         {
           "outlet": "El Mundo",
-          "headline": "El 'Ruso' aterroriza Oviedo: \"Nadie se despierta una mañana y pone una bomba\"",
-          "link": "https://www.elmundo.es/espana/2026/11/10/6af36bc8e85ece27768b4575.html",
-          "position": 75,
-          "focus": "Enfatiza el impacto emocional ('aterroriza') y cita que resalta la premeditación del acto"
+          "headline": "Abascal enmarca su 'plantón' a Jordi Wild en una \"decisión estratégica\": \"Asumo las críticas y las consecuencias\"",
+          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/12/6af579c8fdddff1f1a8b456e.html",
+          "position": 20,
+          "focus": "Da voz directa a Abascal, presentando su decisión como estratégica y asumida con responsabilidad; omite las críticas externas"
         },
         {
           "outlet": "ABC",
-          "headline": "El «Ruso» buscaba una tragedia en Oviedo: diseñó la bomba con sus conocimientos de calderero para hacer volar el edificio",
-          "link": "https://www.abc.es/espana/asturias/ruso-buscaba-tragedia-oviedo-diseno-bomba-conocimientos-20261111101740-nt.html",
-          "position": 85,
-          "focus": "Se centra en el perfil técnico y la intención del sospechoso, detallando cómo diseñó el explosivo"
+          "headline": "Abascal: «Ni soy un héroe después de 'La Revuelta' ni soy un villano tras no ir con Jordi Wild»",
+          "link": "https://www.abc.es/espana/abascal-heroe-despues-salir-revuelta-villano-tras-20261112105235-nt.html",
+          "position": 25,
+          "focus": "Recoge la autodefensa de Abascal con un tono equilibrado ('ni héroe ni villano'), matizando sin profundizar en las críticas recibidas"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Jordi Wild denuncia que Abascal cancele su entrevista para \"minimizar riesgos\" tras su participación en 'La Revuelta'",
+          "link": "https://www.eldiario.es/politica/jordi-wild-denuncia-abascal-cancele-entrevista-minimizar-riesgos-salir-reforzado-revuelta_1_13656948.html",
+          "position": 75,
+          "focus": "Centra el foco en la denuncia de Jordi Wild, usando el verbo 'denuncia' y la expresión 'minimizar riesgos' como acusación implícita de cálculo"
         },
         {
           "outlet": "La Vanguardia",
-          "headline": "A la caza de 'El Ruso', el sospechoso de colocar la mochila bomba que mató a un policía en Oviedo",
-          "link": "https://www.lavanguardia.com/vida/20261111/11681431/caza-ruso-sospechoso-colocar-mochila-bomba-mato-policia-oviedo.html",
-          "position": 15,
-          "focus": "Describe la persecución policial y el objeto del delito (mochila bomba) sin entrar en el perfil del autor"
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "Terror en Oviedo por 'El Ruso': 300 agentes a la caza del asesino de un policía que huyó con \"una escopeta y un revólver\"",
-          "link": "https://www.elespanol.com/reportajes/20261111/terror-oviedo-ruso-agentes-caza-asesino-policia-huyo-escopeta-revolver/1003744453738_0.html",
-          "position": 55,
-          "focus": "Combina el tono de terror con datos operativos (300 agentes) y detalles del armamento del fugitivo"
+          "headline": "La negativa de Vox a acudir al programa de Jordi Wild amenaza con volverse contra Abascal",
+          "link": "https://www.lavanguardia.com/politica/20261112/11682469/negativa-vox-acudir-progama-jordi-wild-amenaza-volverse-abascal.html",
+          "position": 60,
+          "focus": "Analiza las consecuencias políticas negativas de la decisión sin atacar directamente a Abascal, con tono de advertencia prospectiva"
         },
         {
           "outlet": "20minutos",
-          "headline": "Operación Jaula en busca de 'El Ruso': más de 300 policías intentan atrapar al autor de la explosión en Oviedo",
-          "link": "https://www.20minutos.es/asturias/operacion-jaula-busca-ruso-mas-300-policias-intentan-atrapar-fugado-autor-explosion-mortal-oviedo_7059595_0.html",
-          "position": 15,
-          "focus": "Resalta el nombre y magnitud del operativo policial, con foco procedimental"
+          "headline": "Los grandes 'influencers' cargan contra Abascal por dejar tirado a Jordi Wild: \"No va porque tenía más que perder que de ganar\"",
+          "link": "https://www.20minutos.es/television/opinion-ibai-llanos-sobre-planton-abascal-jordi-wild-no-va-porque-tenia-mas-que-perder-que-ganar_7060102_0.html",
+          "position": 85,
+          "focus": "Amplifica las críticas de influencers con cita textual que acusa a Abascal de cálculo interesado ('tenía más que perder que de ganar')"
         }
       ],
       "rango": 70,
       "discrepancia": "alta",
       "silenciosos": [
-        "eldiario.es"
+        "El Espanol"
       ]
     },
     {
-      "neutral_headline": "Las borrascas Bruna y Charles provocan alertas, suspensión de clases y vientos de hasta 120 km/h en varias regiones de España",
-      "section": "Sociedad",
+      "neutral_headline": "Marlaska ordena investigar las cargas policiales de la huelga general y prohíbe el uso de gas lacrimógeno",
+      "section": "Politica",
       "facts": [
-        "Canarias se suma al aviso rojo por las borrascas Bruna y Charles",
-        "Charles persiste en Extremadura y Castilla y León",
-        "El Mundo señala rachas de viento de hasta 120 km/h y lluvias torrenciales en la Península",
-        "Andalucía suspende las clases en el litoral de Cádiz y Huelva por riesgo de lluvias y viento",
-        "La Vanguardia cifra en 30 los municipios andaluces sin clases",
-        "La Vanguardia también señala vientos de hasta 120 km/h en Andalucía",
-        "20minutos indica alerta máxima por lluvias en Ávila y Extremadura, con vientos huracanados"
+        "Marlaska ha ordenado una investigación sobre las cargas policiales registradas durante las manifestaciones de la huelga general",
+        "Marlaska ha prohibido a la Policía el uso de gas lacrimógeno en las manifestaciones (El Mundo, eldiario.es)",
+        "La izquierda pide la dimisión de Marlaska (El País)",
+        "Miembros del Gobierno cuestionan las cargas policiales (El Mundo)"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "crisis política y responsabilidad de Marlaska",
+        "polo_b": "respuesta administrativa/medidas tomadas",
+        "resumen": "Los medios difieren en si destacan la presión política y las críticas al ministro o se centran en describir las medidas correctivas que ha adoptado"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Marlaska promete investigar las cargas policiales mientras la izquierda le pide la dimisión",
+          "link": "https://elpais.com/espana/2026-11-12/marlaska-ordena-una-investigacion-sobre-las-cargas-policiales-en-las-manifestaciones-y-pide-que-no-se-use-gas-lacrimogeno.html",
+          "position": 25,
+          "focus": "Pone el foco en la crisis política: la izquierda exige la dimisión de Marlaska, enmarcando la investigación como una respuesta insuficiente ante la presión"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Miembros del Gobierno cuestionan las cargas policiales mientras Marlaska abre una investigación y prohíbe a la Policía el uso de gas lacrimógeno",
+          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/12/6af57ca521efa059588b457e.html",
+          "position": 35,
+          "focus": "Resalta que miembros del propio Gobierno cuestionan las cargas, sumando la investigación y la prohibición del gas como parte de una gestión bajo presión interna"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Marlaska ordena dejar de usar gas lacrimógeno en las manifestaciones y una investigación sobre las \"incidencias\" en el día de la huelga",
+          "link": "https://www.eldiario.es/politica/interior-ordena-gas-lacrimogeno-manifestaciones-investigacion-incidencias-dia-huelga_1_13657122.html",
+          "position": 65,
+          "focus": "Describe de forma neutral las dos medidas concretas tomadas por Marlaska (prohibición del gas y apertura de investigación) sin mencionar críticas políticas"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Marlaska ordena una investigación sobre las cargas policiales en las manifestaciones de la huelga general",
+          "link": "https://www.lavanguardia.com/politica/20261112/11682251/marlaska-ordena-investigacion-sobre-cargas-policiales-manifestaciones-huelga-general.html",
+          "position": 65,
+          "focus": "Se limita a informar sobre la orden de investigación sin incluir reacciones políticas ni mencionar la prohibición del gas"
+        }
+      ],
+      "rango": 40,
+      "discrepancia": "media",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Espanol"
+      ]
+    },
+    {
+      "neutral_headline": "Francia se inclinaría por apoyar a Hernández de Cos para la presidencia del BCE",
+      "section": "Economia",
+      "facts": [
+        "Francia mostraría apoyo o preferencia por la candidatura de Hernández de Cos",
+        "Ese apoyo facilitaría su camino hacia la presidencia del BCE"
       ],
       "tipo_divergencia": "ninguna",
       "eje": null,
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "Canarias se suma al aviso rojo por ‘Bruna’ y ‘Charles’, que persiste en Extremadura y Castilla y León",
-          "link": "https://elpais.com/el-tiempo/2026-11-11/canarias-se-suma-al-aviso-rojo-que-persiste-en-extremadura-y-castilla-y-leon-por-bruna-y-charles.html",
+          "headline": "Francia se inclina por apoyar al español Hernández de Cos para la presidencia del BCE",
+          "link": "https://elpais.com/economia/2026-11-12/francia-se-inclina-por-apoyar-al-espanol-hernandez-de-cos-para-la-presidencia-del-bce.html",
           "position": 50,
-          "focus": "Pone el foco en la extensión geográfica del aviso rojo, mencionando Canarias, Extremadura y Castilla y León"
+          "focus": "Centra el foco en la posicion de Francia como pais que decide inclinarse por el candidato español"
         },
         {
-          "outlet": "El Mundo",
-          "headline": "Charles amenaza con lluvias torrenciales y rachas de hasta 120 km/h en una jornada muy adversa en la Península",
-          "link": "https://www.elmundo.es/espana/2026/11/11/6af419f0fc6c83465a8b457a.html",
+          "outlet": "ABC",
+          "headline": "Francia apoyaría la candidatura de Hernández de Cos como presidente del BCE",
+          "link": "https://www.abc.es/economia/hernandez-cos-apoyo-francia-presidente-bce-20261112112114-nt.html",
           "position": 50,
-          "focus": "Centra la atención en la intensidad meteorológica (lluvias torrenciales, rachas de 120 km/h) a nivel peninsular"
+          "focus": "Igual que El Pais, pone el acento en el apoyo frances a la candidatura"
         },
         {
           "outlet": "eldiario.es",
-          "headline": "Andalucía suspende las clases en el litoral de Cádiz y Huelva por el riesgo de fuertes lluvias y viento de la borrasca Charles",
-          "link": "https://www.eldiario.es/andalucia/andalucia-suspende-clases-litoral-cadiz-huelva-riesgo-fuertes-lluvias-viento-borrasca-charles_1_13653921.html",
+          "headline": "El posible apoyo de Francia a Hernández de Cos allana el camino para conseguir la presidencia del BCE",
+          "link": "https://www.eldiario.es/economia/posible-apoyo-francia-hernandez-cos-allana-camino-presidencia-bce_1_13657460.html",
           "position": 50,
-          "focus": "Destaca la consecuencia concreta en Andalucía: suspensión de clases en Cádiz y Huelva"
+          "focus": "Enfatiza la consecuencia practica: ese apoyo allana el camino hacia la presidencia"
         },
         {
           "outlet": "La Vanguardia",
-          "headline": "Andalucía, en jaque por dos borrascas: 30 municipios sin clases y vientos de hasta 120 km/h",
-          "link": "https://www.lavanguardia.com/local/andalucia/20261111/11681463/andalucia-jaque-dos-borrascas-30-municipios-clases-vientos-120-km-h.html",
+          "headline": "La preferencia de Francia por De Cos le allana el camino hacia la presidencia del BCE",
+          "link": "https://www.lavanguardia.com/economia/20261112/11682328/preferencia-francia-allana-camino-cos-presidencia-bce.html",
           "position": 50,
-          "focus": "Enfatiza el impacto educativo en Andalucía (30 municipios) junto con los datos de viento"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "La borrasca Charles amenaza a media España: alerta máxima por lluvias en Ávila y Extremadura y vientos huracanados",
-          "link": "https://www.20minutos.es/nacional/borrasca-charles-amenaza-media-espana-alerta-maxima-por-lluvias-avila-extremadura-vientos-huracanados_7059619_0.html",
-          "position": 50,
-          "focus": "Amplía el foco a 'media España' y detalla alertas específicas en Ávila y Extremadura"
+          "focus": "Tambien resalta el efecto del apoyo frances en el camino hacia la presidencia, igual que eldiario.es"
         }
       ],
       "rango": 0,
       "discrepancia": "baja",
       "silenciosos": [
-        "ABC",
-        "El Espanol"
-      ]
-    },
-    {
-      "neutral_headline": "Octavi Vilà, obispo de Girona, nombrado arzobispo de Barcelona en sustitución de Omella",
-      "section": "Sociedad",
-      "facts": [
-        "Octavi Vilà ha sido nombrado arzobispo de Barcelona",
-        "Octavi Vilà era obispo de Girona/Gerona",
-        "Vilà sustituye al cardenal Omella como arzobispo de Barcelona",
-        "El Mundo señala que Vilà es amigo de Puigdemont",
-        "ABC atribuye el nombramiento al Papa"
-      ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "enfoque en vínculo político con Puigdemont",
-        "polo_b": "enfoque neutro en el nombramiento eclesiástico",
-        "resumen": "El Mundo elige destacar la relación personal del nuevo arzobispo con Puigdemont, mientras ABC y La Vanguardia se centran exclusivamente en el hecho institucional del nombramiento."
-      },
-      "frames": [
-        {
-          "outlet": "El Mundo",
-          "headline": "Octavi Vilà, el amigo de Puigdemont, nombrado nuevo arzobispo de Barcelona",
-          "link": "https://www.elmundo.es/cataluna/2026/11/11/6af45055e85ece4d6f8b4592.html",
-          "position": 10,
-          "focus": "Destaca la amistad de Vilà con Puigdemont como dato principal del titular, omitiendo mencionar al Papa o el proceso formal de nombramiento"
-        },
-        {
-          "outlet": "ABC",
-          "headline": "El Papa nombra a Octavi Vilà, obispo de Gerona, nuevo arzobispo de Barcelona en sustitución del cardenal Omella",
-          "link": "https://www.abc.es/sociedad/papa-nombra-octavi-vila-obispo-gerona-nuevo-20261111104740-nt.html",
-          "position": 85,
-          "focus": "Centra el titular en el nombramiento papal y la sustitución de Omella, sin mencionar vínculos políticos del nuevo arzobispo"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Octavi Vilà, obispo de Girona, reemplazará a Omella como arzobispo de Barcelona",
-          "link": "https://www.lavanguardia.com/politica/20261111/11681408/octavi-vila-obispo-girona-reemplazara-omella-arzobispo-barcelona.html",
-          "position": 85,
-          "focus": "Se enfoca en el cambio institucional (reemplazo de Omella), sin referencias a relaciones políticas de Vilà"
-        }
-      ],
-      "rango": 75,
-      "discrepancia": "alta",
-      "silenciosos": [
         "20minutos",
         "El Espanol",
-        "El Pais",
-        "eldiario.es"
-      ]
-    },
-    {
-      "neutral_headline": "La Cámara de Representantes de EEUU rechaza el intento de 'impeachment' contra el secretario de Defensa Pete Hegseth",
-      "section": "Internacional",
-      "facts": [
-        "La Cámara de Representantes de EEUU votó en contra de iniciar el juicio político (impeachment) contra Pete Hegseth, secretario de Defensa",
-        "Los legisladores republicanos bloquearon el avance del impeachment (El Mundo)",
-        "eldiario.es vincula el intento de impeachment con presuntas ilegalidades cometidas en ataques a Irán y Venezuela"
-      ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "relato procedimental neutro",
-        "polo_b": "relato que subraya ilegalidades de fondo",
-        "resumen": "El Pais y El Mundo narran el bloqueo parlamentario como un hecho procesal, mientras eldiario.es enmarca el impeachment como respuesta a 'ilegalidades' concretas en los ataques a Irán y Venezuela"
-      },
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "La Cámara de Representantes da carpetazo al juicio político a Hegseth",
-          "link": "https://elpais.com/us/2026-11-10/la-camara-de-representantes-da-carpetazo-al-juicio-politico-a-hegseth.html",
-          "position": 15,
-          "focus": "Describe el resultado institucional (archivo del juicio) sin entrar en las causas o acusaciones concretas"
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "Los Republicanos logran parar en el Congreso el intento de 'impeachment' al secretario de Defensa",
-          "link": "https://www.elmundo.es/internacional/2026/11/11/6af3ab53e4d4d851418b45b0.html",
-          "position": 20,
-          "focus": "Pone el foco en el papel de los republicanos como bloqueadores del proceso, sin detallar el motivo del impeachment"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "El Congreso de EEUU \"mata\" el 'impeachment' contra Pete Hegseth por las ilegalidades cometidas en los ataques a Irán y Venezuela",
-          "link": "https://www.eldiario.es/internacional/congreso-eeuu-vota-impeachment-pete-hegseth-ilegalidades-cometidas-ataques-iran-venezuela_1_13653792.html",
-          "position": 90,
-          "focus": "Explicita el motivo del impeachment: presuntas ilegalidades en los ataques a Irán y Venezuela, usando el verbo 'matar' para enfatizar el cierre forzado del proceso"
-        }
-      ],
-      "rango": 75,
-      "discrepancia": "alta",
-      "silenciosos": [
-        "20minutos",
-        "ABC",
-        "El Espanol",
-        "La Vanguardia"
+        "El Mundo"
       ]
     }
   ]
