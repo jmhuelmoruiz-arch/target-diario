@@ -1,70 +1,76 @@
 {
-  "fecha": "2026-11-13T12:33:55.599714+00:00",
+  "fecha": "2026-11-14T11:42:15.110264+00:00",
   "esquema": 2,
   "historias": [
     {
-      "neutral_headline": "Caída global de servicios de Microsoft (Outlook, Teams, Copilot) se extiende por varias horas",
-      "section": "Economia",
+      "neutral_headline": "Estados Unidos paraliza y luego reanuda el tráfico aéreo tras un fallo técnico en el sistema de control",
+      "section": "Sociedad",
       "facts": [
-        "El Pais reporta mas de 12 horas de caida",
-        "El Mundo reporta mas de 17 horas de caida y menciona Outlook, Teams y Copilot",
-        "ABC reporta mas de 15 horas de caida y senala afectacion al servicio de salud britanico",
-        "eldiario.es aborda causas, motivo de la no recuperacion y cuando volveran Outlook y Teams",
-        "La Vanguardia indica que la caida de Outlook, Teams y Copilot sigue sin resolverse",
-        "El Espanol habla de una caida durante varias horas que deja Outlook inoperativo",
-        "20minutos indica que la caida de Microsoft 365 afecta a Outlook y Teams y provoca fallos en administraciones publicas"
+        "El tráfico aéreo en EE.UU. se interrumpió durante varias horas",
+        "El Pais y ABC señalan una duración de más de cuatro horas",
+        "El Mundo señala una duración de cinco horas",
+        "La Vanguardia señala una duración de cuatro horas",
+        "El Pais indica 6.000 vuelos cancelados",
+        "La Vanguardia indica más de 10.000 vuelos afectados",
+        "El Mundo y eldiario.es hablan de miles de vuelos cancelados o suspendidos",
+        "ABC indica que todos los vuelos fueron cancelados",
+        "El Pais, eldiario.es y ABC atribuyen la causa a un fallo o saturación del sistema de control",
+        "El Mundo y eldiario.es atribuyen la causa a un fallo de comunicaciones",
+        "El Espanol atribuye la causa a fallos en las telecomunicaciones",
+        "20minutos muestra un mapa de la paralización de aeropuertos sin precisar causa ni cifras",
+        "El tráfico aéreo fue reanudado posteriormente según todas las piezas"
       ],
       "tipo_divergencia": "cronologica",
       "eje": null,
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "Microsoft no logra recuperar la normalidad de sus servicios tras una caída global de más de 12 horas",
-          "link": "https://elpais.com/tecnologia/2026-11-13/microsoft-no-logra-recuperar-sus-servicios-tras-una-caida-global-de-mas-de-12-horas.html",
+          "headline": "Estados Unidos reanuda el tráfico aéreo después de un parón de más de cuatro horas y 6.000 vuelos cancelados",
+          "link": "https://elpais.com/us/2026-11-14/estados-unidos-reanuda-el-trafico-aereo-despues-de-un-paron-de-mas-de-cuatro-horas-y-6000-vuelos-cancelados.html",
           "position": 50,
-          "focus": "Destaca la duracion acumulada (mas de 12 horas) sin normalizacion del servicio"
+          "focus": "Destaca la reanudación del tráfico y cifra en 6.000 los vuelos cancelados tras más de cuatro horas"
         },
         {
           "outlet": "El Mundo",
-          "headline": "Microsoft sufre una caída mundial: Outlook, Teams y Copilot llevan más de 17 horas sin funcionar. ¿Qué puedo hacer?",
-          "link": "https://www.elmundo.es/economia/empresas/2026/11/13/6af6b987fdddfff22c8b4587.html",
+          "headline": "Estados Unidos reabre sus aeropuertos cinco horas después tras cancelar miles de vuelos  por un fallo en los sistemas de control",
+          "link": "https://www.elmundo.es/economia/2026/11/13/6af7806bfc6c83c8238b456e.html",
           "position": 50,
-          "focus": "Actualiza la cifra a mas de 17 horas y ofrece consejos practicos al usuario"
+          "focus": "Destaca la reapertura tras cinco horas y atribuye la causa a un fallo en los sistemas de control"
         },
         {
           "outlet": "ABC",
-          "headline": "La caída global de Microsoft dura ya más de 15 horas y empieza a afectar al servicio de salud británico",
-          "link": "https://www.abc.es/tecnologia/outlook-sufre-caida-global-servicios-microsoft-consigue-20261113081104-nt.html",
+          "headline": "Caos aéreo en EE.UU.: todos los vuelos cancelados durante más de cuatro horas por la saturación del sistema de control",
+          "link": "https://www.abc.es/internacional/suspendidos-vuelos-eeuu-debido-circunstancias-extraordinarias-motivos-20261113222039-nt.html",
           "position": 50,
-          "focus": "Marca 15 horas de caida y anade el impacto en el servicio de salud britanico"
+          "focus": "Enfatiza el caos y la cancelación total de vuelos por saturación del sistema"
         },
         {
           "outlet": "eldiario.es",
-          "headline": "Caída global de Microsoft: qué ha pasado, por qué no se recupera y cuándo podrían volver a funcionar Outlook y Teams",
-          "link": "https://www.eldiario.es/tecnologia/caida-global-microsoft-pasado-no-recupera-volver-funcionar-outlook-teams_1_13660769.html",
+          "headline": "EEUU reabre el tráfico aéreo después de más de cuatro horas y miles de vuelos suspendidos por un fallo de comunicaciones",
+          "link": "https://www.eldiario.es/internacional/eeuu-reabre-trafico-aereo-despues-cuatro-horas-miles-vuelos-suspendidos-fallo-comunicaciones_1_13663572.html",
           "position": 50,
-          "focus": "Se centra en explicar causas y plazos de recuperacion mas que en la duracion exacta"
+          "focus": "Destaca la reapertura tras más de cuatro horas y miles de vuelos suspendidos por fallo de comunicaciones"
         },
         {
           "outlet": "La Vanguardia",
-          "headline": "Microsoft sigue sin resolver la caída mundial de Outlook, Teams y Copilot",
-          "link": "https://www.lavanguardia.com/vida/20261113/11683225/microsoft-dificultades-reparar-caida-mundial-outlook.html",
+          "headline": "Caos y más de 10.000 vuelos afectados en EE.UU. por el cierre de operaciones durante cuatro horas",
+          "link": "https://www.lavanguardia.com/internacional/20261113/11683874/estados-unidos-suspende-operaciones-aereas-caida-sistemas-comunicacion.html",
           "position": 50,
-          "focus": "Senala que la caida persiste sin dar una cifra horaria concreta"
+          "focus": "Resalta la magnitud con más de 10.000 vuelos afectados y cuatro horas de cierre"
         },
         {
           "outlet": "El Espanol",
-          "headline": "Microsoft experimenta una caída mundial durante varias horas que deja Outlook y otros servicios inoperativos",
-          "link": "https://www.elespanol.com/omicrono/software/20261113/outlook-teams-no-funcionan-microsoft-experimenta-caida-mundial-servicios-consigue-solucionar/1003744456695_0.html",
+          "headline": "EEUU reanuda los despegues de vuelos en todo su territorio tras horas de interrupción por fallos en las telecomunicaciones",
+          "link": "https://www.elespanol.com/mundo/america/eeuu/20261113/unidos-ordena-suspender-despegues-aviones-pais-razones-seguridad/1003744458255_0.html",
           "position": 50,
-          "focus": "Describe la caida como de 'varias horas' sin precisar un numero exacto"
+          "focus": "Destaca la reanudación de despegues y atribuye la interrupción a fallos en telecomunicaciones"
         },
         {
           "outlet": "20minutos",
-          "headline": "Caída mundial de Microsoft 365: afecta a Outlook y Teams y provoca fallos en administraciones públicas",
-          "link": "https://www.20minutos.es/tecnologia/actualidad/caida-outlook-usuarios-reportan-problemas-enviar-correos-nivel-mundial_7060470_0.html",
+          "headline": "Un mapa muestra cómo se vio desde la paralización de aeropuertos en todo EEUU: cientos de aviones van 'desapareciendo'",
+          "link": "https://www.20minutos.es/internacional/un-mapa-muestra-como-se-vio-desde-aire-paralizacion-aeropuertos-todo-eeuu-cientos-aviones-van-desapareciendo_7061078_0.html",
           "position": 50,
-          "focus": "Enfoca el impacto en administraciones publicas ademas de Outlook y Teams"
+          "focus": "Ofrece una visualización gráfica del impacto sin detallar causas ni cifras concretas"
         }
       ],
       "rango": 0,
@@ -72,551 +78,200 @@
       "silenciosos": []
     },
     {
-      "neutral_headline": "Arranca la campaña electoral del 29-N con mítines de Sánchez, Feijóo y otros candidatos",
+      "neutral_headline": "Cobertura de la campaña electoral del 29-N desde distintos ángulos",
       "section": "Politica",
       "facts": [
-        "Las encuestas sitúan a la derecha cerca de los 190 escaños",
-        "Según la media de encuestas, el PSOE crece pero la derecha mantiene una amplia ventaja",
-        "Se celebran los primeros mítines de Sánchez, Feijóo y otros candidatos",
-        "Feijóo acusó al Gobierno de Sánchez de 'robar dinero, seguridad y esperanza'",
-        "La campaña está marcada por el caso Urda y la crisis de vivienda",
-        "Sánchez y Feijóo vuelven a enfrentarse en esta campaña"
+        "El PSOE identifica 18 provincias como prioritarias para la disputa electoral (El Pais)",
+        "PSOE y Vox compiten por el voto de nuevos electores (ABC)",
+        "Sánchez busca una movilización de la izquierda frente a PP y Vox (eldiario.es)",
+        "Aitor Esteban declara que anticipa una ofensiva contra el PNV si gobiernan PP y Vox (La Vanguardia)",
+        "Pedro Sánchez celebra un mitin en Palma de Mallorca (El Espanol)",
+        "20minutos realiza una consulta a sus lectores sobre quién ganará las elecciones del 29N (20minutos)"
       ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "Fortaleza y avance de la derecha",
-        "polo_b": "Resistencia o avance del PSOE",
-        "resumen": "Los medios difieren en si subrayan la ventaja de la derecha en las encuestas y sus ataques al Gobierno, o si matizan esa ventaja destacando el crecimiento del PSOE."
-      },
+      "tipo_divergencia": "ninguna",
+      "eje": null,
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "La campaña arranca con la derecha en el horizonte de los 190 escaños",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-11-13/la-campana-arranca-con-la-derecha-en-el-horizonte-de-los-190-escanos.html",
-          "position": 35,
-          "focus": "Destaca que la derecha está cerca de la mayoría absoluta según las encuestas, sin mencionar el crecimiento del PSOE"
+          "headline": "El PSOE pelea las elecciones en 18 provincias que tiene identificadas como prioritarias",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-11-14/el-psoe-pelea-las-elecciones-en-18-provincias-que-tiene-identificadas-como-prioritarias.html",
+          "position": 50,
+          "focus": "Se centra en la estrategia territorial del PSOE, sin valorar causas ni responsables."
+        },
+        {
+          "outlet": "ABC",
+          "headline": "PSOE y Vox se disputan el favor de los nuevos votantes",
+          "link": "https://www.abc.es/espana/psoe-vox-entran-empate-tecnico-millones-nuevos-20261114024935-nt.html",
+          "position": 50,
+          "focus": "Describe la competencia entre PSOE y Vox por el nuevo electorado, sin inclinarse hacia ninguno."
         },
         {
           "outlet": "eldiario.es",
-          "headline": "La media de encuestas en el arranque de la campaña: el PSOE crece, pero la derecha mantiene una amplia ventaja",
-          "link": "https://www.eldiario.es/politica/media-encuestas-arranque-campana-psoe-crece-derecha-mantiene-amplia-ventaja_1_13660672.html",
-          "position": 60,
-          "focus": "Encabeza con el crecimiento del PSOE y matiza después la ventaja de la derecha"
+          "headline": "Sánchez busca una movilización histórica de la izquierda contra el PP y Vox que vuelva a echar por tierra los sondeos",
+          "link": "https://www.eldiario.es/politica/sanchez-busca-movilizacion-historica-izquierda-pp-vox-vuelva-echar-tierra-sondeos_1_13662791.html",
+          "position": 50,
+          "focus": "Resalta el objetivo de movilización de la izquierda según fuentes cercanas a Sánchez."
         },
         {
           "outlet": "La Vanguardia",
-          "headline": "Elecciones generales del 29N, en directo: última hora del arranque de la campaña electoral con los primeros mítines de Sánchez, Feijóo y otros candidatos",
-          "link": "https://www.lavanguardia.com/politica/20261113/11682241/elecciones-generales-campana-electoral-candidatos-ultima-hora-en-directo.html",
+          "headline": "Aitor Esteban: “Con el PP y Vox, los primeros meses serán una ofensiva total, en especial contra el PNV”",
+          "link": "https://www.lavanguardia.com/politica/20261114/11683730/aitor-esteban-pp-vox-primeros-meses-seran-ofensiva-total-especial-pnv.html",
           "position": 50,
-          "focus": "Cobertura en directo que menciona por igual a Sánchez y Feijóo sin inclinarse hacia ninguno"
+          "focus": "Recoge una declaración directa de Aitor Esteban sobre un posible escenario futuro."
         },
         {
           "outlet": "El Espanol",
-          "headline": "Elecciones generales 29-N, en directo | Feijóo: \"El Gobierno de Sánchez nos ha robado dinero, nos ha robado la seguridad y nos ha robado la esperanza\"",
-          "link": "https://www.elespanol.com/espana/20261113/elecciones-generales-directo-ultima-hora-campana-electoral-pedro-sanchez-encuestas-sondeos-voto-correo-espana-partidos-2026/1003744456597_10.html",
-          "position": 20,
-          "focus": "Da voz literal y sin contrapunto al ataque de Feijóo contra el Gobierno de Sánchez"
+          "headline": "Elecciones generales del 29-N, en directo | Siga el mitin de Pedro Sánchez en Palma de Mallorca",
+          "link": "https://www.elespanol.com/espana/20261114/elecciones-generales-directo-ultima-hora-campana-pedro-sanchez-encuestas-actos-pp-psoe-vox-sondeos-voto-correo-espana-partidos-2026-frente-amplio-electoral/1003744458244_10.html",
+          "position": 50,
+          "focus": "Cobertura en directo de un acto de campaña, sin interpretación añadida."
         },
         {
           "outlet": "20minutos",
-          "headline": "Sánchez y Feijóo vuelven a verse las caras en la campaña más polarizada de la historia marcada por Urda y la crisis de vivienda",
-          "link": "https://www.20minutos.es/nacional/arranca-campana-electoral-mas-polarizada-marcada-por-tragedia-urda-las-protestas-por-crisis-vivienda_7060306_0.html",
+          "headline": "¿Quién crees que ganará las elecciones del 29N?",
+          "link": "https://www.20minutos.es/nacional/sanchez-pide-participacion-mayoria-progresista-mofa-feijoo-jordi-wild_7060966_0.html",
           "position": 50,
-          "focus": "Enfatiza la polarización general y temas como el caso Urda y la vivienda sin atribuir responsabilidad clara a un bando"
+          "focus": "Encuesta participativa a lectores sobre el resultado electoral, sin contenido informativo propio."
         }
       ],
-      "rango": 40,
-      "discrepancia": "media",
+      "rango": 0,
+      "discrepancia": "baja",
       "silenciosos": [
-        "ABC",
         "El Mundo"
       ]
     },
     {
-      "neutral_headline": "Feijóo concede una entrevista a Jordi Wild y habla de impuestos, idiomas y relaciones con la UE",
+      "neutral_headline": "Vox y PP presentan sus programas electorales de cara a un posible acuerdo de gobierno",
       "section": "Politica",
       "facts": [
-        "Feijóo participó en una entrevista con el youtuber Jordi Wild",
-        "Feijóo afirmó 'No me creo los datos' sobre la posibilidad de bajar impuestos",
-        "Feijóo dijo 'Yo no sé inglés, pero sé gobernar'",
-        "Feijóo afirmó que no 'encabronaría' a sus aliados europeos para parecer progresista",
-        "Feijóo declaró 'yo no insulto en ningún idioma' y admitió no haber hecho esfuerzos por aprender inglés"
+        "Vox propone revisar la nacionalización de 300.000 españoles de origen marroquí (El Pais)",
+        "Vox modera sus posiciones en aborto, eutanasia, autonomias y LGTBI (El Mundo)",
+        "Los programas electorales de PP y Vox facilitan un futuro acuerdo de Gobierno (ABC)"
       ],
       "tipo_divergencia": "editorial",
       "eje": {
-        "polo_a": "foco en contenido político serio/crítico",
-        "polo_b": "foco en la estrategia de imagen y conexión generacional",
-        "resumen": "Los medios eligen citas distintas de la misma entrevista: unos subrayan el fondo político (impuestos, Europa) con tono crítico, otros el componente de espectáculo mediático dirigido a la Generación Z"
+        "polo_a": "alerta sobre radicalismo de Vox",
+        "polo_b": "normalizacion del pacto PP-Vox",
+        "resumen": "Los medios difieren en si enfatizan propuestas controvertidas de Vox, su moderacion hacia el centro, o la viabilidad practica de un acuerdo de gobierno con el PP"
       },
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "Feijóo pone en duda que pueda bajar los impuestos por el estado de las cuentas públicas: “No me creo los datos”",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-11-13/feijoo-pone-en-duda-que-pueda-bajar-los-impuestos-por-el-estado-de-las-cuentas-publicas-no-me-creo-los-datos.html",
+          "headline": "Vox quiere revisar la nacionalización de 300.000 españoles de origen marroquí",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-11-14/vox-considera-fraudulenta-la-nacionalizacion-de-mas-de-300000-espanoles-originarios-de-marruecos.html",
           "position": 15,
-          "focus": "Destaca la duda de Feijóo sobre la viabilidad fiscal de bajar impuestos, omitiendo el contexto de la entrevista con Jordi Wild como show mediático"
+          "focus": "Destaca una medida especifica y polemica de Vox sobre nacionalizaciones, enmarcandola como amenaza a derechos adquiridos; omite el contexto de moderacion general"
         },
         {
           "outlet": "El Mundo",
-          "headline": "Feijóo se pone la capa de 'Anotop At' frente a Jordi Wild para conquistar a la Generación Z: \"Yo no sé inglés, pero sé gobernar\"",
-          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/13/6af6e315fdddff705e8b4593.html",
-          "position": 80,
-          "focus": "Resalta el aspecto de puesta en escena y la estrategia de Feijóo para conectar con la Generación Z, citando su frase sobre el inglés de forma anecdótica"
+          "headline": "Vox también se quiere parecer al PP: modera sus metas en aborto, eutanasia, autonomías y LGTBI",
+          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/14/6af72340e4d4d8ce338b459d.html",
+          "position": 35,
+          "focus": "Señala que Vox suaviza posturas en temas sociales para parecerse al PP, sugiriendo estrategia electoral mas que radicalismo, aunque mantiene el foco critico en Vox"
         },
         {
           "outlet": "ABC",
-          "headline": "Feijóo, con Jordi Wild: «Yo no encabronaría a mis aliados europeos para decir en mi país lo progresista que soy»",
-          "link": "https://www.abc.es/espana/feijoo-jordi-wild-encabronaria-aliados-europeos-decir-20261113121544-nt.html",
-          "position": 35,
-          "focus": "Pone el acento en una declaración política seria sobre la relación con los aliados europeos, dentro del marco de la entrevista"
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "Feijóo se gusta con Jordi Wild: \"El inglés es importante. Admito que no he hecho esfuerzos, pero yo no insulto en ningún idioma\"",
-          "link": "https://www.elespanol.com/espana/politica/20261113/feijoo-gusta-jordi-wild-ingles-importante-admito-no-hecho-esfuerzos-insulto-ningun-idioma/1003744456829_0.html",
-          "position": 65,
-          "focus": "Combina el tono desenfadado ('se gusta') con una cita que mezcla autocrítica sobre el inglés y una defensa de su forma de hablar frente a otros políticos"
-        }
-      ],
-      "rango": 65,
-      "discrepancia": "alta",
-      "silenciosos": [
-        "20minutos",
-        "La Vanguardia",
-        "eldiario.es"
-      ]
-    },
-    {
-      "neutral_headline": "Rosalía gana álbum y canción del año en los Latin Grammy 2026 y abre la gala con una actuación",
-      "section": "Cultura",
-      "facts": [
-        "Rosalía gana el premio a disco del año por 'Lux'",
-        "Rosalía gana el premio a canción del año por 'La Perla'",
-        "Rosalía realizó la actuación de apertura de la gala de los Latin Grammy 2026"
-      ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "Rosalía, reina de los Latin Grammy: gana el premio a disco del año por ‘Lux’ y a canción del año por ‘La Perla’",
-          "link": "https://elpais.com/us/entretenimiento/2026-11-13/rosalia-reina-de-los-latin-grammy-gana-el-premio-a-disco-del-ano-por-lux-y-a-cancion-del-ano-por-la-perla.html",
-          "position": 50,
-          "focus": "Se centra en los dos premios obtenidos por Rosalía, sin mencionar la actuación de apertura"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Rosalía estalla de emoción en los Latin Grammy: 'Lux', álbum del año, y 'La Perla', mejor canción",
-          "link": "https://www.lavanguardia.com/cultura/20261113/11683217/rosalia-sube-cielo-latin-grammy-ganar-album-ano-lux-mejor-cancion-perla.html",
-          "position": 50,
-          "focus": "Destaca la reacción emocional de Rosalía al ganar los premios, sin mencionar la actuación de apertura"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "La 'celestial' actuación de Rosalía para abrir la gala de los Latin Grammy de 2026",
-          "link": "https://www.20minutos.es/musica/asi-ha-sido-actuacion-rosalia-para-abrir-gala-los-latin-grammy-2026_7060614_0.html",
-          "position": 50,
-          "focus": "Se centra en la actuación de apertura de la gala, sin mencionar los premios ganados"
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "ABC",
-        "El Espanol",
-        "El Mundo",
-        "eldiario.es"
-      ]
-    },
-    {
-      "neutral_headline": "El Tribunal de Cuentas aprecia indicios irregulares en la compra del ático de la Comunidad de Madrid y abre investigación",
-      "section": "Politica",
-      "facts": [
-        "El Tribunal de Cuentas aprecia indicios de uso indebido de fondos en la compra de un ático en Chamberí por el Gobierno de la Comunidad de Madrid",
-        "El Tribunal de Cuentas nombra un instructor para investigar el caso",
-        "eldiario.es cifra el gasto de la compra en 6,3 millones de euros",
-        "eldiario.es recoge que el Tribunal de Cuentas senala falta de 'justificacion legal' en la operacion"
-      ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "El Tribunal de Cuentas aprecia indicios de indebido uso de fondos en la compra del ático de la Comunidad de Madrid y nombra un instructor",
-          "link": "https://elpais.com/espana/madrid/2026-11-13/el-tribunal-de-cuentas-aprecia-indicios-de-indebido-uso-de-fondos-en-la-compra-del-atico-de-la-comunidad-de-madrid-y-nombra-un-instructor.html",
-          "position": 50,
-          "focus": "Describe el hallazgo de indicios y el nombramiento de instructor, sin cifra concreta"
-        },
-        {
-          "outlet": "ABC",
-          "headline": "El Tribunal de Cuentas ordena investigar la compra del ático de Chamberí por el Gobierno de Ayuso",
-          "link": "https://www.abc.es/espana/madrid/tribunal-cuentas-ordena-investigar-atico-detectar-indicios-20261113125828-nt.html",
-          "position": 50,
-          "focus": "Enfatiza la orden de investigar, vinculando directamente el hecho al Gobierno de Ayuso"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "El Tribunal de Cuentas ve indicios de que el ático del Gobierno de Ayuso supuso un gasto de 6,3 millones sin “justificación legal”",
-          "link": "https://www.eldiario.es/politica/tribunal-cuentas-ve-indicios-atico-gobierno-ayuso-supuso-gasto-6-3-millones-justificacion-legal_1_13661572.html",
-          "position": 50,
-          "focus": "Anade el dato cuantitativo del gasto (6,3 millones) y la cita textual sobre falta de justificacion legal"
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "20minutos",
-        "El Espanol",
-        "El Mundo",
-        "La Vanguardia"
-      ]
-    },
-    {
-      "neutral_headline": "Informaciones divergentes sobre la trama Koldo-Ábalos y los contactos de Sánchez con sus integrantes",
-      "section": "Politica",
-      "facts": [
-        "La UCO ha desvelado mensajes relacionados con una reunión de Pedro Sánchez con el chófer de la trama",
-        "Óscar López aparece mencionado como impulsor de dicha reunión según El Mundo",
-        "La abogada de Koldo García declaró ante el juez Pedraz que Okdiario pagó la totalidad de su minuta, según eldiario.es",
-        "Sánchez mantuvo una cita calificada de 'privada' con Corvillo en 2023, según El Español",
-        "El Español sostiene que esa cita prueba que Sánchez mantuvo lazos con la trama hasta las detenciones"
-      ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "Sánchez ajeno o distante de la trama",
-        "polo_b": "Sánchez directamente implicado con la trama",
-        "resumen": "Los medios difieren en si los hechos apuntan a la implicación directa de Sánchez con la banda o si el foco debe situarse en otros actores (Óscar López, Okdiario) que lo distancian del núcleo del escándalo."
-      },
-      "frames": [
-        {
-          "outlet": "El Mundo",
-          "headline": "Los mensajes desvelados por la UCO sitúan a Óscar López como impulsor de la reunión de Sánchez con el chófer de la trama: \"Todo es raro\"",
-          "link": "https://www.elmundo.es/espana/2026/11/12/6af61ead21efa0bb048b458b.html",
-          "position": 35,
-          "focus": "Destaca el papel de Óscar López como gestor de la reunión, dejando a Sánchez en un rol más pasivo o mediado"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "La abogada de Koldo García responde al juez Pedraz que Okdiario pagó la totalidad de su minuta",
-          "link": "https://www.eldiario.es/politica/abogada-koldo-garcia-responde-juez-pedraz-okdiario-pago-totalidad-minuta_1_13657715.html",
-          "position": 15,
-          "focus": "Desplaza el foco hacia Okdiario y la financiación de la defensa de Koldo, sin mencionar a Sánchez"
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "La cita \"privada\" de Sánchez con Corvillo en 2023 prueba que mantuvo lazos con la 'banda del Peugeot' hasta las detenciones",
-          "link": "https://www.elespanol.com/espana/20261113/cita-privada-sanchez-corvillo-prueba-mantuvo-lazos-banda-peugeot-detenciones/1003744456540_0.html",
-          "position": 90,
-          "focus": "Presenta la cita como prueba directa de que Sánchez mantuvo vínculos personales con la trama hasta el final"
-        }
-      ],
-      "rango": 75,
-      "discrepancia": "alta",
-      "silenciosos": [
-        "20minutos",
-        "ABC",
-        "El Pais",
-        "La Vanguardia"
-      ]
-    },
-    {
-      "neutral_headline": "Jensen Huang dimite como CEO de Nvidia tras revelarse varias relaciones extramatrimoniales",
-      "section": "Economia",
-      "facts": [
-        "Jensen Huang dejo de ser CEO de Nvidia",
-        "La salida se vincula a un escandalo de infidelidades",
-        "Una de las relaciones fue con una persona senalada como espia china, segun La Vanguardia",
-        "Segun eldiario.es, el caso incluye ademas elementos de contrabando",
-        "Segun 20minutos, se revelo una tercera relacion extramarital con una empleada de la firma"
-      ],
-      "tipo_divergencia": "cronologica",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "eldiario.es",
-          "headline": "Espías, contrabando e infidelidades: las cloacas de la IA tumban a Jensen Huang, creador del imperio Nvidia",
-          "link": "https://www.eldiario.es/tecnologia/espias-contrabando-e-infidelidades-cloacas-ia-tumban-jensen-huang-creador-imperio-nvidia_1_13658846.html",
-          "position": 50,
-          "focus": "Enfatiza el conjunto de elementos del escandalo (espionaje, contrabando, infidelidades) como causa de la caida de Huang"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Jensen Huang dimite como jefe de Nvidia tras sus infidelidades con una espía china y una compañera",
-          "link": "https://www.lavanguardia.com/economia/20261112/11682618/ceo-nvidia-jensen-huang-dimite-escandalos-relacion-espia-china-companera-trabajo.html",
-          "position": 50,
-          "focus": "Centra el hecho en la dimision y dos infidelidades, una con una presunta espia china"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "El escándalo crece: el exCEO de Nvidia tuvo una tercera relación extramarital con una empleada de la firma",
-          "link": "https://www.20minutos.es/internacional/escandalo-sobre-jensen-huang-crece-exceo-nvidia-tuvo-una-tercera-relacion-extramarital-con-una-empleada-empresa_7060670_0.html",
-          "position": 50,
-          "focus": "Actualiza la informacion anadiendo una tercera relacion extramarital revelada posteriormente"
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "ABC",
-        "El Espanol",
-        "El Mundo",
-        "El Pais"
-      ]
-    },
-    {
-      "neutral_headline": "Colau participa en el pódcast de Jordi Wild y critica a Abascal y a Sánchez, mientras se difunden imágenes de un episodio pasado de Abascal en Cataluña",
-      "section": "Politica",
-      "facts": [
-        "Abascal gritó '¡Visca Catalunya!' rodeado de senyeras en un episodio pasado",
-        "Colau acudió al pódcast de Jordi Wild buscando el voto joven",
-        "Abascal estuvo ausente en el pódcast de Jordi Wild",
-        "Colau calificó de 'cruel' a Abascal durante su intervención",
-        "Colau afirmó que 'las izquierdas hemos sido demasiado moralistas'",
-        "Colau reprochó a Sánchez su gestión inicial de la crisis de Ceuta en el mismo pódcast"
-      ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "crítica frontal a Abascal (cobardía/ausencia)",
-        "polo_b": "foco neutral en Colau sin juzgar a Abascal",
-        "resumen": "Los medios difieren en si centran la noticia en una crítica explícita a Abascal o en el discurso de Colau sin cargar las tintas contra él."
-      },
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "El día que Abascal gritó “¡Visca Catalunya!\" y se rodeó de senyeras",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-11-13/el-dia-que-abascal-grito-visca-catalunya-y-se-rodeo-de-senyeras.html",
-          "position": 30,
-          "focus": "Recupera un episodio pasado de Abascal con tono irónico, sin opinar explícitamente pero resaltando la contradicción nacionalista"
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "Colau tacha de \"cruel\" al ausente Abascal en su paso por el pódcast de Jordi Wild para buscar el voto joven: \"Las izquierdas hemos sido demasiado moralistas\"",
-          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/13/6af6ef66e9cf4ad4438b4588.html",
-          "position": 55,
-          "focus": "Informa sobre la aparición de Colau y cita su crítica a Abascal, pero mantiene tono informativo sobre la estrategia electoral"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "Abascal o la valentía de salir corriendo muerto de miedo",
-          "link": "https://www.eldiario.es/politica/abascal-jordi-wild-entrevista_129_13658176.html",
-          "position": 10,
-          "focus": "Juicio directo y burlón sobre la cobardía de Abascal, sin matices informativos"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Colau, ante Jordi Wild, reprocha a Sánchez su gestión inicial de la crisis de Ceuta",
-          "link": "https://www.lavanguardia.com/politica/20261113/11683358/colau-jordi-wild-reprocha-sanchez-gestion-inicial-crisis-ceuta.html",
-          "position": 70,
-          "focus": "Desplaza el foco de Abascal hacia la crítica de Colau a Sánchez, evitando cualquier juicio sobre Vox"
+          "headline": "Los programas electorales de PP y Vox allanan el futuro acuerdo de Gobierno",
+          "link": "https://www.abc.es/espana/programas-electorales-pp-vox-allanan-futuro-acuerdo-20261114025204-nt.html",
+          "position": 75,
+          "focus": "Enfatiza la compatibilidad y viabilidad del pacto de gobierno, presentando los programas como convergentes sin detallar puntos de friccion"
         }
       ],
       "rango": 60,
       "discrepancia": "alta",
       "silenciosos": [
         "20minutos",
-        "ABC",
-        "El Espanol"
+        "El Espanol",
+        "La Vanguardia",
+        "eldiario.es"
       ]
     },
     {
-      "neutral_headline": "La inflación interanual se mantuvo en el 4,9% en octubre, impulsada por el gas y los precios turísticos",
+      "neutral_headline": "Crisis en torno a Nvidia genera tensión política y dudas sobre el futuro de la empresa",
       "section": "Economia",
       "facts": [
-        "La inflación se situó en el 4,9% en octubre",
-        "Los precios del gas subieron",
-        "Los paquetes turísticos encarecieron",
-        "El Español señala que los combustibles se contuvieron mientras el gas se disparó"
+        "El Pais afirma que Nvidia atraviesa un periodo dificil tras la perdida de una figura clave para su exito",
+        "El Mundo afirma que existe tension en la administracion Trump vinculada a la crisis de Nvidia y a la exportacion de chips",
+        "La Vanguardia afirma que hay un reparto de culpas en la Casa Blanca por un caso de espionaje relacionado con Nvidia"
       ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "foco en la empresa Nvidia y su liderazgo",
+        "polo_b": "foco en la responsabilidad politica del gobierno de EEUU",
+        "resumen": "los medios difieren en si el protagonista de la crisis es la propia Nvidia o la administracion Trump, y dentro de esta ultima, en la causa senalada (exportacion de chips vs espionaje)"
+      },
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "La inflación se mantiene en el 4,9% en octubre por la presión del turismo y el gas",
-          "link": "https://elpais.com/economia/2026-11-13/la-inflacion-se-mantiene-en-el-49-en-octubre-por-la-presion-del-turismo-y-el-gas.html",
-          "position": 50,
-          "focus": "Destaca la presión del turismo y el gas como causas del mantenimiento de la inflación"
+          "headline": "El fulgor de Nvidia se oscurece sin su rey Midas: así es el tortuoso camino que le espera a la empresa clave para la IA",
+          "link": "https://elpais.com/economia/negocios/2026-11-14/el-fulgor-de-nvidia-se-oscurece-sin-su-rey-midas.html",
+          "position": 10,
+          "focus": "centra la noticia en el declive interno de Nvidia y la perdida de una figura clave, sin mencionar al gobierno"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "En busca del chivo: tensión en la administración Trump  por la crisis de Nvidia y la exportación de chips",
+          "link": "https://www.elmundo.es/economia/empresas/2026/11/14/6af76498fdddffc5458b4575.html",
+          "position": 85,
+          "focus": "pone el foco en la tension dentro de la administracion Trump, atribuyendo la crisis a la politica de exportacion de chips"
         },
         {
           "outlet": "La Vanguardia",
-          "headline": "La inflación se mantuvo en el 4,9% en octubre por el alza de los precios del gas y el turismo",
-          "link": "https://www.lavanguardia.com/economia/20261113/11683251/inflacion-mantuvo-4-9-octubre.html",
+          "headline": "Juego de culpas en la Casa Blanca ante el caso de espionaje en Nvidia",
+          "link": "https://www.lavanguardia.com/economia/20261114/11684109/juego-culpas-casa-blanca-caso-espionaje-nvidia.html",
+          "position": 88,
+          "focus": "pone el foco en la Casa Blanca y el reparto de culpas, atribuyendo la crisis a un caso de espionaje"
+        }
+      ],
+      "rango": 78,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Espanol",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Varios accidentes de camiones cortan la AP-7 en Tarragona durante diez horas con un muerto",
+      "section": "Sociedad",
+      "facts": [
+        "El Mundo informa de cuatro accidentes de camiones con un muerto",
+        "La Vanguardia informa de dos accidentes con camiones y un muerto, situando el hecho en Mont-roig",
+        "20minutos informa de cuatro accidentes con cinco camiones implicados y un muerto",
+        "Los tres medios coinciden en que la AP-7 permaneció cortada unas diez horas"
+      ],
+      "tipo_divergencia": "cronologica",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "Cuatro accidente de camiones con un muerto cortan la autopista AP-7 en Tarragona y Barcelona que permanecerá cerrada unas 10 horas",
+          "link": "https://www.elmundo.es/cataluna/2026/11/14/6af80f2afc6c83bc0f8b45a5.html",
           "position": 50,
-          "focus": "Igual que El País, atribuye la estabilidad a la subida del gas y el turismo"
+          "focus": "Destaca el corte de la autopista y el número de accidentes (cuatro) con un muerto, sin precisar camiones implicados"
         },
         {
-          "outlet": "El Espanol",
-          "headline": "La inflación se mantiene en el 4,9% en octubre: se contiene el precio de los combustibles pero se dispara el del gas",
-          "link": "https://www.elespanol.com/invertia/economia/20261113/inflacion-mantiene-octubre-contenerse-combustible-alimentos/1003744456702_0.html",
+          "outlet": "La Vanguardia",
+          "headline": "Dos accidentes con camiones causan un muerto y cortan la AP-7 diez horas en Mont-roig",
+          "link": "https://www.lavanguardia.com/local/tarragona/20261114/11684130/ap-7-cortada-mont-roig-camp-dos-accidentes-tres-camiones.html",
           "position": 50,
-          "focus": "Añade el matiz de que los combustibles se contuvieron, mientras el gas se disparó"
+          "focus": "Reporta dos accidentes y localiza el hecho en Mont-roig, posiblemente con datos de un momento anterior de la cobertura"
         },
         {
           "outlet": "20minutos",
-          "headline": "La inflación se mantuvo en el 4,9% en octubre a pesar de la subida de los paquetes turísticos y el gas",
-          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/inflacion-se-mantuvo-4-9-octubre-por-subida-gas-los-paquetes-turisticos_7060583_0.html",
+          "headline": "Cuatro accidentes con cinco camiones implicados en la AP-7 dejan un muerto y cortes durante diez horas",
+          "link": "https://www.20minutos.es/cataluna/tarragona/muerto-choque-camiones-ap7-obliga-cortar-autopista-direccion-barcelona-horas_7061042_0.html",
           "position": 50,
-          "focus": "Enfatiza que la inflación se mantuvo pese a la subida de paquetes turísticos y gas"
+          "focus": "Ofrece el dato más detallado, con cuatro accidentes y cinco camiones implicados, probablemente tras actualizar la información"
         }
       ],
       "rango": 0,
       "discrepancia": "baja",
       "silenciosos": [
         "ABC",
-        "El Mundo",
-        "eldiario.es"
-      ]
-    },
-    {
-      "neutral_headline": "Miembros del entorno de Pedro Sánchez protagonizan distintas apariciones públicas el mismo día",
-      "section": "Politica",
-      "facts": [
-        "Pedro Sánchez visitó a Manu Sánchez",
-        "La visita incluyó referencias a perros",
-        "Sánchez declaró en una entrevista que no se fue de vacaciones tras los sucesos de Ceuta",
-        "Afirmó trabajar 24 horas, siete días a la semana",
-        "Begoña Gómez habló en un acto público antes de un juicio",
-        "Está acusada de valerse de Moncloa",
-        "Dijo la frase 'Hemos sido señoras de durante años'",
-        "Sánchez habló con Jordi Wild sobre cómo los insultos afectan a sus hijas",
-        "Contó que se fueron de un local porque el DJ pinchó una canción que lo insultaba"
-      ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "Y el marido de Begoña Gómez visitó a Manu Sánchez:  perros al cuadrado (y en todas partes)",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-11-12/y-el-marido-de-begona-gomez-visito-a-manu-sanchez-perros-al-cuadrado-y-en-todas-partes.html",
-          "position": 50,
-          "focus": "Centra el relato en una anécdota ligera y personal (la visita y los perros), sin contexto político."
-        },
-        {
-          "outlet": "ABC",
-          "headline": "Sánchez: «Yo no me fui de vacaciones tras Ceuta, yo estoy 24 horas, siete días a la semana trabajando»",
-          "link": "https://www.abc.es/espana/campana-elecciones-generales-espana-29n-directo-sanchez-feijoo-abascal-20261113162908-di.html",
-          "position": 50,
-          "focus": "Recoge la declaración directa de Sánchez sobre su dedicación laboral tras Ceuta, sin cuestionarla."
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "Begoña Gómez sube al atril antes de pasar por el banquillo por valerse de Moncloa: \"Hemos sido 'señoras de' durante años\"",
-          "link": "https://www.elespanol.com/espana/andalucia/20261112/begona-gomez-sube-atril-pasar-banquillo-valerse-moncloa-senoras-anos/1003744456389_0.html",
-          "position": 50,
-          "focus": "Enmarca la aparición de Begoña Gómez en el contexto judicial que enfrenta, citando su defensa pública."
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "Sánchez cuenta a Jordi Wild cómo afectan los insultos a sus hijas: \"Se fueron de un local porque el DJ pinchaba \"Sánchez, hijo de puta\"",
-          "link": "https://www.20minutos.es/nacional/entrevistas-jordi-wild-directo-youtuber-publica-esta-manana-forma-sucesiva-las-entrevistas-colau-feijoo-sanchez_7060536_6.html",
-          "position": 50,
-          "focus": "Destaca el testimonio personal de Sánchez sobre el impacto de los insultos en su familia."
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "El Mundo",
-        "La Vanguardia",
-        "eldiario.es"
-      ]
-    },
-    {
-      "neutral_headline": "Distintos avances y desacuerdos en el proceso de negociación de paz sobre Ucrania",
-      "section": "Internacional",
-      "facts": [
-        "El enviado de Trump afirma que Putin acepta que Europa participe en las negociaciones de paz sobre Ucrania",
-        "El Mundo plantea quién debe liderar a Europa en las conversaciones con Putin",
-        "Bulgaria firma la base europea de negociación para la paz en Ucrania, aunque con reservas",
-        "Stephen Miller asciende a jefe de Gabinete de Trump",
-        "La UE no logra designar un negociador único para Rusia pese a la petición de Ucrania y EEUU",
-        "Kallas y Costa no fueron elegidos como negociadores únicos"
-      ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "El enviado de Trump asegura que Putin acepta que Europa se sume a las negociaciones de paz sobre Ucrania",
-          "link": "https://elpais.com/internacional/2026-11-13/el-enviado-de-trump-asegura-que-putin-acepta-que-europa-se-sume-a-las-negociaciones-de-paz-sobre-ucrania.html",
-          "position": 50,
-          "focus": "Destaca la declaración del enviado de Trump sobre la aceptación de Putin a la participación europea; no aborda el liderazgo interno de la UE ni las reservas búlgaras."
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "¿Quién debe liderar a Europa en las conversaciones de paz en Ucrania y negociar con Putin?",
-          "link": "https://www.elmundo.es/internacional/2026/11/12/6af5f4ae21efa0af778b459f.html",
-          "position": 50,
-          "focus": "Plantea una pregunta abierta sobre el liderazgo europeo en las negociaciones, sin afirmar hechos concretos sobre la postura de Putin."
-        },
-        {
-          "outlet": "ABC",
-          "headline": "Bulgaria firma con reservas la base europea de negociación para la paz en Ucrania",
-          "link": "https://www.abc.es/internacional/bulgaria-firma-reservas-base-europea-negociacion-paz-20261113105844-nt.html",
-          "position": 50,
-          "focus": "Se centra en la firma condicionada de Bulgaria a la base de negociación europea, un detalle nacional específico."
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "El presidente en la sombra: qué supone el ascenso del ultraderechista Stephen Miller a jefe de Gabinete de Trump",
-          "link": "https://www.eldiario.es/internacional/presidente-sombra-supone-ascenso-ultraderechista-stephen-miller-jefe-gabinete-trump_129_13657576.html",
-          "position": 50,
-          "focus": "Trata un tema completamente distinto: el ascenso de Stephen Miller en la Casa Blanca, sin relación directa con las negociaciones de Ucrania."
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "La UE fracasa en designar un negociador único para Rusia como piden Ucrania y EEUU: Kallas y Costa no pasan el corte",
-          "link": "https://www.elespanol.com/mundo/europa/20261113/ue-fracasa-designar-negociador-unico-rusia-piden-ucrania-eeuu-kallas-costa-no-pasan-corte/1003744455976_0.html",
-          "position": 50,
-          "focus": "Resalta el fracaso de la UE en nombrar un negociador único, citando explícitamente a Kallas y Costa como candidatos descartados."
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "20minutos",
-        "La Vanguardia"
-      ]
-    },
-    {
-      "neutral_headline": "Tres informaciones distintas sin relación temática directa entre sí",
-      "section": "Politica",
-      "facts": [
-        "Aznar recibe una retribución del grupo de medios de Murdoch que supera los cinco millones de dólares, según El País",
-        "El PSOE muestra desconfianza hacia Marlaska por la percepción de falta de control sobre sectores de las Fuerzas de Seguridad, según El Mundo",
-        "El apoyo a la independencia se reduce, mientras Sánchez habría debilitado capacidades del Estado para responder a un eventual nuevo 1-O, según El Español"
-      ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "Aznar percibe una retribución récord del grupo de medios de Murdoch y supera ya los cinco millones de dólares",
-          "link": "https://elpais.com/economia/2026-11-13/aznar-percibe-una-retribucion-record-del-grupo-de-medios-de-murdoch-y-supera-ya-los-cinco-millones-de-dolares.html",
-          "position": 50,
-          "focus": "Se centra en la cifra de ingresos de Aznar procedentes de medios de Murdoch, sin relación con los otros dos temas."
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "La desconfianza con Marlaska crece en el PSOE por la sensación de que no controla sectores de las Fuerzas de Seguridad",
-          "link": "https://www.elmundo.es/espana/2026/11/13/6af617bee4d4d8845c8b457f.html",
-          "position": 50,
-          "focus": "Se centra en la relación interna del PSOE con Marlaska y el control de las Fuerzas de Seguridad, un asunto distinto a los otros dos."
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "El apoyo a la independencia se desinfla, pero Sánchez desarma al Estado para responder ante un nuevo golpe como el 1-O",
-          "link": "https://www.elespanol.com/espana/politica/20261113/apoyo-independencia-desinfla-sanchez-desarma-responder-nuevo-golpe/1003744453885_0.html",
-          "position": 50,
-          "focus": "Se centra en la evolución del apoyo independentista y en la capacidad del Estado ante un hipotético nuevo 1-O, sin vínculo con los otros temas."
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "20minutos",
-        "ABC",
-        "La Vanguardia",
+        "El Espanol",
+        "El Pais",
         "eldiario.es"
       ]
     }
