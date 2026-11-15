@@ -1,276 +1,284 @@
 {
-  "fecha": "2026-11-14T11:42:15.110264+00:00",
+  "fecha": "2026-11-15T12:11:22.775040+00:00",
   "esquema": 2,
   "historias": [
     {
-      "neutral_headline": "Estados Unidos paraliza y luego reanuda el tráfico aéreo tras un fallo técnico en el sistema de control",
-      "section": "Sociedad",
+      "neutral_headline": "Encuestas y tensión política marcan la recta final hacia las elecciones del 29-N entre PSOE y PP",
+      "section": "Politica",
       "facts": [
-        "El tráfico aéreo en EE.UU. se interrumpió durante varias horas",
-        "El Pais y ABC señalan una duración de más de cuatro horas",
-        "El Mundo señala una duración de cinco horas",
-        "La Vanguardia señala una duración de cuatro horas",
-        "El Pais indica 6.000 vuelos cancelados",
-        "La Vanguardia indica más de 10.000 vuelos afectados",
-        "El Mundo y eldiario.es hablan de miles de vuelos cancelados o suspendidos",
-        "ABC indica que todos los vuelos fueron cancelados",
-        "El Pais, eldiario.es y ABC atribuyen la causa a un fallo o saturación del sistema de control",
-        "El Mundo y eldiario.es atribuyen la causa a un fallo de comunicaciones",
-        "El Espanol atribuye la causa a fallos en las telecomunicaciones",
-        "20minutos muestra un mapa de la paralización de aeropuertos sin precisar causa ni cifras",
-        "El tráfico aéreo fue reanudado posteriormente según todas las piezas"
+        "Hay una campaña electoral en curso con fecha de votación el 29 de noviembre (29-N)",
+        "El Mundo cita una encuesta que otorga a PP y Vox el 51% de los votos y hasta 199 escaños, con el PSOE estancado",
+        "ABC menciona la existencia de un 'voto oculto' atribuido al PSOE",
+        "La Vanguardia señala que PSOE y PP se acusan mutuamente de un escándalo pero mantienen acuerdos en el ámbito europeo",
+        "El País describe una disputa entre PSOE y PP por el primer puesto en las encuestas"
       ],
-      "tipo_divergencia": "cronologica",
-      "eje": null,
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "Ascenso y fortaleza de PP/Vox",
+        "polo_b": "Resiliencia oculta del PSOE",
+        "resumen": "Los medios difieren en si el relato dominante es el avance de PP/Vox según las encuestas o la posibilidad de un apoyo oculto al PSOE que las cifras no reflejan"
+      },
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "Estados Unidos reanuda el tráfico aéreo después de un parón de más de cuatro horas y 6.000 vuelos cancelados",
-          "link": "https://elpais.com/us/2026-11-14/estados-unidos-reanuda-el-trafico-aereo-despues-de-un-paron-de-mas-de-cuatro-horas-y-6000-vuelos-cancelados.html",
+          "headline": "PSOE y PP recrudecen la pelea por el primer puesto en la recta final hacia el 29-N",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-11-15/psoe-y-pp-recrudecen-la-pelea-por-el-primer-puesto-en-la-recta-final-hacia-el-29-n.html",
           "position": 50,
-          "focus": "Destaca la reanudación del tráfico y cifra en 6.000 los vuelos cancelados tras más de cuatro horas"
+          "focus": "Presenta la contienda como una pelea equilibrada por el primer puesto, sin inclinarse hacia ninguno de los dos partidos ni mencionar cifras concretas"
         },
         {
           "outlet": "El Mundo",
-          "headline": "Estados Unidos reabre sus aeropuertos cinco horas después tras cancelar miles de vuelos  por un fallo en los sistemas de control",
-          "link": "https://www.elmundo.es/economia/2026/11/13/6af7806bfc6c83c8238b456e.html",
-          "position": 50,
-          "focus": "Destaca la reapertura tras cinco horas y atribuye la causa a un fallo en los sistemas de control"
+          "headline": "PP y Vox se aferran al 51% de los votos y hasta 199 escaños con un PSOE estancado",
+          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/15/6af8afeae9cf4ab47b8b4586.html",
+          "position": 15,
+          "focus": "Destaca cifras concretas que muestran a PP y Vox en una posición dominante y al PSOE estancado, enfatizando el avance de la derecha"
         },
         {
           "outlet": "ABC",
-          "headline": "Caos aéreo en EE.UU.: todos los vuelos cancelados durante más de cuatro horas por la saturación del sistema de control",
-          "link": "https://www.abc.es/internacional/suspendidos-vuelos-eeuu-debido-circunstancias-extraordinarias-motivos-20261113222039-nt.html",
-          "position": 50,
-          "focus": "Enfatiza el caos y la cancelación total de vuelos por saturación del sistema"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "EEUU reabre el tráfico aéreo después de más de cuatro horas y miles de vuelos suspendidos por un fallo de comunicaciones",
-          "link": "https://www.eldiario.es/internacional/eeuu-reabre-trafico-aereo-despues-cuatro-horas-miles-vuelos-suspendidos-fallo-comunicaciones_1_13663572.html",
-          "position": 50,
-          "focus": "Destaca la reapertura tras más de cuatro horas y miles de vuelos suspendidos por fallo de comunicaciones"
+          "headline": "El secreto del voto oculto del PSOE",
+          "link": "https://www.abc.es/espana/secreto-voto-oculto-psoe-20261115020114-nt.html",
+          "position": 85,
+          "focus": "Centra la atención en un supuesto voto oculto del PSOE, sugiriendo que su apoyo real podría ser mayor de lo que indican las encuestas visibles"
         },
         {
           "outlet": "La Vanguardia",
-          "headline": "Caos y más de 10.000 vuelos afectados en EE.UU. por el cierre de operaciones durante cuatro horas",
-          "link": "https://www.lavanguardia.com/internacional/20261113/11683874/estados-unidos-suspende-operaciones-aereas-caida-sistemas-comunicacion.html",
-          "position": 50,
-          "focus": "Resalta la magnitud con más de 10.000 vuelos afectados y cuatro horas de cierre"
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "EEUU reanuda los despegues de vuelos en todo su territorio tras horas de interrupción por fallos en las telecomunicaciones",
-          "link": "https://www.elespanol.com/mundo/america/eeuu/20261113/unidos-ordena-suspender-despegues-aviones-pais-razones-seguridad/1003744458255_0.html",
-          "position": 50,
-          "focus": "Destaca la reanudación de despegues y atribuye la interrupción a fallos en telecomunicaciones"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "Un mapa muestra cómo se vio desde la paralización de aeropuertos en todo EEUU: cientos de aviones van 'desapareciendo'",
-          "link": "https://www.20minutos.es/internacional/un-mapa-muestra-como-se-vio-desde-aire-paralizacion-aeropuertos-todo-eeuu-cientos-aviones-van-desapareciendo_7061078_0.html",
-          "position": 50,
-          "focus": "Ofrece una visualización gráfica del impacto sin detallar causas ni cifras concretas"
+          "headline": "PSOE y PP se amenazan mutuamente con el escándalo, pero aún pactan en Europa",
+          "link": "https://www.lavanguardia.com/politica/20261115/11684467/boton-rojo-boton-azul.html",
+          "position": 55,
+          "focus": "Combina el conflicto por el escándalo con la cooperación en Europa, matizando la confrontación con un elemento de entendimiento entre ambos partidos"
         }
       ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": []
+      "rango": 70,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "El Espanol",
+        "eldiario.es"
+      ]
     },
     {
-      "neutral_headline": "Cobertura de la campaña electoral del 29-N desde distintos ángulos",
+      "neutral_headline": "Tres dirigentes políticos opinan sobre el papel de los partidos en el apoyo al Gobierno de Sánchez",
       "section": "Politica",
       "facts": [
-        "El PSOE identifica 18 provincias como prioritarias para la disputa electoral (El Pais)",
-        "PSOE y Vox compiten por el voto de nuevos electores (ABC)",
-        "Sánchez busca una movilización de la izquierda frente a PP y Vox (eldiario.es)",
-        "Aitor Esteban declara que anticipa una ofensiva contra el PNV si gobiernan PP y Vox (La Vanguardia)",
-        "Pedro Sánchez celebra un mitin en Palma de Mallorca (El Espanol)",
-        "20minutos realiza una consulta a sus lectores sobre quién ganará las elecciones del 29N (20minutos)"
+        "Miriam Nogueras, candidata de Junts, afirmó: 'No me presento para poner o quitar presidentes españoles'",
+        "Irene Montero declaró: 'Si los votos de izquierdas sirven para que no cambie nada, el PP y Vox han ganado igual'",
+        "Ada Colau dijo: 'Pedro Sánchez nos ha fallado en vivienda, ha suspendido'"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "crítica explícita al Gobierno de Sánchez",
+        "polo_b": "respaldo o relativización de las críticas al Gobierno",
+        "resumen": "Los medios reflejan posturas distintas de líderes políticos respecto al desempeño del Gobierno de Sánchez, desde la crítica directa hasta la defensa de su labor."
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Miriam Nogueras, candidata de Junts: “No me presento para poner o quitar presidentes españoles”",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-11-15/miriam-nogueras-candidata-de-junts-no-me-presento-para-poner-o-quitar-presidentes-espanoles.html",
+          "position": 50,
+          "focus": "Destaca la independencia de Junts respecto al apoyo o retirada de apoyo al Gobierno, sin posicionarse claramente a favor o en contra"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Irene Montero: \"Si los votos de izquierdas sirven para que no cambie nada, el PP y Vox han ganado igual\"",
+          "link": "https://www.eldiario.es/politica/irene-montero-si-votos-izquierdas-sirven-no-cambie-pp-vox-han-ganado-igual_1_13661608.html",
+          "position": 65,
+          "focus": "Enfatiza la importancia de los votos de izquierda para evitar el avance de PP y Vox, implicando un respaldo indirecto al Gobierno"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Ada Colau: “Pedro Sánchez nos ha fallado en vivienda, ha suspendido”",
+          "link": "https://www.lavanguardia.com/politica/20261115/11684357/ada-colau-pedro-sanchez-fallado-vivienda-suspendido.html",
+          "position": 15,
+          "focus": "Señala directamente el fracaso del Gobierno de Sánchez en política de vivienda, atribuyendo responsabilidad explícita"
+        }
+      ],
+      "rango": 50,
+      "discrepancia": "media",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Espanol",
+        "El Mundo"
+      ]
+    },
+    {
+      "neutral_headline": "Rescatan a 1.488 inmigrantes en un día en Canarias, cifra récord en 32 años",
+      "section": "Sociedad",
+      "facts": [
+        "Se rescataron 1.488 personas en un día en la Ruta Canaria",
+        "Es la cifra más alta registrada en 32 años (El Mundo, El Español)",
+        "ABC precisa que fueron 14 cayucos los que transportaban a los rescatados",
+        "El hecho ocurrió un sábado"
       ],
       "tipo_divergencia": "ninguna",
       "eje": null,
       "frames": [
         {
-          "outlet": "El Pais",
-          "headline": "El PSOE pelea las elecciones en 18 provincias que tiene identificadas como prioritarias",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-11-14/el-psoe-pelea-las-elecciones-en-18-provincias-que-tiene-identificadas-como-prioritarias.html",
+          "outlet": "El Mundo",
+          "headline": "Un sábado de rescates sin pausa hace historia en la Ruta Canaria: 1.488 personas en un día, la cifra más alta en 32 años",
+          "link": "https://www.elmundo.es/espana/2026/11/15/6af97162fdddff6c338b4599.html",
           "position": 50,
-          "focus": "Se centra en la estrategia territorial del PSOE, sin valorar causas ni responsables."
+          "focus": "Enfatiza el carácter histórico del dato y la ausencia de pausa en los rescates durante el día"
         },
         {
           "outlet": "ABC",
-          "headline": "PSOE y Vox se disputan el favor de los nuevos votantes",
-          "link": "https://www.abc.es/espana/psoe-vox-entran-empate-tecnico-millones-nuevos-20261114024935-nt.html",
+          "headline": "Sábado de récord histórico en Canarias: 14 cayucos con 1.488 inmigrantes rescatados",
+          "link": "https://www.abc.es/espana/canarias/hierro-recibe-790-migrantes-dos-dias-rescate-20261114152734-nt.html",
           "position": 50,
-          "focus": "Describe la competencia entre PSOE y Vox por el nuevo electorado, sin inclinarse hacia ninguno."
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "Sánchez busca una movilización histórica de la izquierda contra el PP y Vox que vuelva a echar por tierra los sondeos",
-          "link": "https://www.eldiario.es/politica/sanchez-busca-movilizacion-historica-izquierda-pp-vox-vuelva-echar-tierra-sondeos_1_13662791.html",
-          "position": 50,
-          "focus": "Resalta el objetivo de movilización de la izquierda según fuentes cercanas a Sánchez."
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Aitor Esteban: “Con el PP y Vox, los primeros meses serán una ofensiva total, en especial contra el PNV”",
-          "link": "https://www.lavanguardia.com/politica/20261114/11683730/aitor-esteban-pp-vox-primeros-meses-seran-ofensiva-total-especial-pnv.html",
-          "position": 50,
-          "focus": "Recoge una declaración directa de Aitor Esteban sobre un posible escenario futuro."
+          "focus": "Añade el detalle del número de cayucos (14) implicados en el rescate"
         },
         {
           "outlet": "El Espanol",
-          "headline": "Elecciones generales del 29-N, en directo | Siga el mitin de Pedro Sánchez en Palma de Mallorca",
-          "link": "https://www.elespanol.com/espana/20261114/elecciones-generales-directo-ultima-hora-campana-pedro-sanchez-encuestas-actos-pp-psoe-vox-sondeos-voto-correo-espana-partidos-2026-frente-amplio-electoral/1003744458244_10.html",
+          "headline": "1.488 inmigrantes rescatados en 24 horas en plena oleada de cayucos: la Ruta Canaria bate su récord histórico en 32 años",
+          "link": "https://www.elespanol.com/espana/20261115/inmigrantes-rescatados-horas-plena-oleada-cayucos-ruta-canaria-bate-record-historico-anos/1003744458857_0.html",
           "position": 50,
-          "focus": "Cobertura en directo de un acto de campaña, sin interpretación añadida."
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "¿Quién crees que ganará las elecciones del 29N?",
-          "link": "https://www.20minutos.es/nacional/sanchez-pide-participacion-mayoria-progresista-mofa-feijoo-jordi-wild_7060966_0.html",
-          "position": 50,
-          "focus": "Encuesta participativa a lectores sobre el resultado electoral, sin contenido informativo propio."
+          "focus": "Contextualiza la cifra dentro de una 'oleada' migratoria más amplia"
         }
       ],
       "rango": 0,
       "discrepancia": "baja",
       "silenciosos": [
-        "El Mundo"
-      ]
-    },
-    {
-      "neutral_headline": "Vox y PP presentan sus programas electorales de cara a un posible acuerdo de gobierno",
-      "section": "Politica",
-      "facts": [
-        "Vox propone revisar la nacionalización de 300.000 españoles de origen marroquí (El Pais)",
-        "Vox modera sus posiciones en aborto, eutanasia, autonomias y LGTBI (El Mundo)",
-        "Los programas electorales de PP y Vox facilitan un futuro acuerdo de Gobierno (ABC)"
-      ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "alerta sobre radicalismo de Vox",
-        "polo_b": "normalizacion del pacto PP-Vox",
-        "resumen": "Los medios difieren en si enfatizan propuestas controvertidas de Vox, su moderacion hacia el centro, o la viabilidad practica de un acuerdo de gobierno con el PP"
-      },
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "Vox quiere revisar la nacionalización de 300.000 españoles de origen marroquí",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-11-14/vox-considera-fraudulenta-la-nacionalizacion-de-mas-de-300000-espanoles-originarios-de-marruecos.html",
-          "position": 15,
-          "focus": "Destaca una medida especifica y polemica de Vox sobre nacionalizaciones, enmarcandola como amenaza a derechos adquiridos; omite el contexto de moderacion general"
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "Vox también se quiere parecer al PP: modera sus metas en aborto, eutanasia, autonomías y LGTBI",
-          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/14/6af72340e4d4d8ce338b459d.html",
-          "position": 35,
-          "focus": "Señala que Vox suaviza posturas en temas sociales para parecerse al PP, sugiriendo estrategia electoral mas que radicalismo, aunque mantiene el foco critico en Vox"
-        },
-        {
-          "outlet": "ABC",
-          "headline": "Los programas electorales de PP y Vox allanan el futuro acuerdo de Gobierno",
-          "link": "https://www.abc.es/espana/programas-electorales-pp-vox-allanan-futuro-acuerdo-20261114025204-nt.html",
-          "position": 75,
-          "focus": "Enfatiza la compatibilidad y viabilidad del pacto de gobierno, presentando los programas como convergentes sin detallar puntos de friccion"
-        }
-      ],
-      "rango": 60,
-      "discrepancia": "alta",
-      "silenciosos": [
         "20minutos",
-        "El Espanol",
+        "El Pais",
         "La Vanguardia",
         "eldiario.es"
       ]
     },
     {
-      "neutral_headline": "Crisis en torno a Nvidia genera tensión política y dudas sobre el futuro de la empresa",
-      "section": "Economia",
-      "facts": [
-        "El Pais afirma que Nvidia atraviesa un periodo dificil tras la perdida de una figura clave para su exito",
-        "El Mundo afirma que existe tension en la administracion Trump vinculada a la crisis de Nvidia y a la exportacion de chips",
-        "La Vanguardia afirma que hay un reparto de culpas en la Casa Blanca por un caso de espionaje relacionado con Nvidia"
-      ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "foco en la empresa Nvidia y su liderazgo",
-        "polo_b": "foco en la responsabilidad politica del gobierno de EEUU",
-        "resumen": "los medios difieren en si el protagonista de la crisis es la propia Nvidia o la administracion Trump, y dentro de esta ultima, en la causa senalada (exportacion de chips vs espionaje)"
-      },
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "El fulgor de Nvidia se oscurece sin su rey Midas: así es el tortuoso camino que le espera a la empresa clave para la IA",
-          "link": "https://elpais.com/economia/negocios/2026-11-14/el-fulgor-de-nvidia-se-oscurece-sin-su-rey-midas.html",
-          "position": 10,
-          "focus": "centra la noticia en el declive interno de Nvidia y la perdida de una figura clave, sin mencionar al gobierno"
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "En busca del chivo: tensión en la administración Trump  por la crisis de Nvidia y la exportación de chips",
-          "link": "https://www.elmundo.es/economia/empresas/2026/11/14/6af76498fdddffc5458b4575.html",
-          "position": 85,
-          "focus": "pone el foco en la tension dentro de la administracion Trump, atribuyendo la crisis a la politica de exportacion de chips"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Juego de culpas en la Casa Blanca ante el caso de espionaje en Nvidia",
-          "link": "https://www.lavanguardia.com/economia/20261114/11684109/juego-culpas-casa-blanca-caso-espionaje-nvidia.html",
-          "position": 88,
-          "focus": "pone el foco en la Casa Blanca y el reparto de culpas, atribuyendo la crisis a un caso de espionaje"
-        }
-      ],
-      "rango": 78,
-      "discrepancia": "alta",
-      "silenciosos": [
-        "20minutos",
-        "ABC",
-        "El Espanol",
-        "eldiario.es"
-      ]
-    },
-    {
-      "neutral_headline": "Varios accidentes de camiones cortan la AP-7 en Tarragona durante diez horas con un muerto",
+      "neutral_headline": "Un tren de mercancías descarrila en Madrid y deja al maquinista herido leve, con la línea a Ávila cortada",
       "section": "Sociedad",
       "facts": [
-        "El Mundo informa de cuatro accidentes de camiones con un muerto",
-        "La Vanguardia informa de dos accidentes con camiones y un muerto, situando el hecho en Mont-roig",
-        "20minutos informa de cuatro accidentes con cinco camiones implicados y un muerto",
-        "Los tres medios coinciden en que la AP-7 permaneció cortada unas diez horas"
+        "Un tren de mercancías descarriló en Madrid",
+        "El maquinista resultó herido leve",
+        "La conexión/línea con Ávila quedó cortada"
       ],
-      "tipo_divergencia": "cronologica",
+      "tipo_divergencia": "ninguna",
       "eje": null,
       "frames": [
         {
-          "outlet": "El Mundo",
-          "headline": "Cuatro accidente de camiones con un muerto cortan la autopista AP-7 en Tarragona y Barcelona que permanecerá cerrada unas 10 horas",
-          "link": "https://www.elmundo.es/cataluna/2026/11/14/6af80f2afc6c83bc0f8b45a5.html",
+          "outlet": "La Vanguardia",
+          "headline": "Descarrila un tren de mercancías en Madrid y resulta herido leve el maquinista",
+          "link": "https://www.lavanguardia.com/vida/20261115/11684721/descarrila-tren-mercancias-madrid-resulta-herido-leve-maquinista.html",
           "position": 50,
-          "focus": "Destaca el corte de la autopista y el número de accidentes (cuatro) con un muerto, sin precisar camiones implicados"
+          "focus": "Destaca el descarrilamiento y el estado del maquinista; no menciona la línea cortada"
         },
         {
-          "outlet": "La Vanguardia",
-          "headline": "Dos accidentes con camiones causan un muerto y cortan la AP-7 diez horas en Mont-roig",
-          "link": "https://www.lavanguardia.com/local/tarragona/20261114/11684130/ap-7-cortada-mont-roig-camp-dos-accidentes-tres-camiones.html",
+          "outlet": "El Espanol",
+          "headline": "Herido leve un maquinista al descarrilar un tren de mercancías en Madrid: cortada la conexión con Ávila",
+          "link": "https://www.elespanol.com/invertia/observatorios/movilidad/20261115/herido-leve-maquinista-descarrilar-tren-mercancias-madrid-cortada-conexion-avila/1003744458961_0.html",
           "position": 50,
-          "focus": "Reporta dos accidentes y localiza el hecho en Mont-roig, posiblemente con datos de un momento anterior de la cobertura"
+          "focus": "Incluye el herido leve y el corte de la conexión con Ávila"
         },
         {
           "outlet": "20minutos",
-          "headline": "Cuatro accidentes con cinco camiones implicados en la AP-7 dejan un muerto y cortes durante diez horas",
-          "link": "https://www.20minutos.es/cataluna/tarragona/muerto-choque-camiones-ap7-obliga-cortar-autopista-direccion-barcelona-horas_7061042_0.html",
+          "headline": "Un tren de mercancías descarrila en Madrid y corta la línea con Ávila: el maquinista está herido leve",
+          "link": "https://www.20minutos.es/madrid/descarrila-un-tren-mercancias-madrid-maquinista-resulta-herido-leve_7061225_0.html",
           "position": 50,
-          "focus": "Ofrece el dato más detallado, con cuatro accidentes y cinco camiones implicados, probablemente tras actualizar la información"
+          "focus": "Combina descarrilamiento, corte de línea y estado del maquinista"
         }
       ],
       "rango": 0,
       "discrepancia": "baja",
       "silenciosos": [
         "ABC",
+        "El Mundo",
+        "El Pais",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Investigaciones periodísticas revelan estructura, líderes y métodos de reclutamiento del grupo ultra Núcleo Nacional",
+      "section": "Sociedad",
+      "facts": [
+        "Isabel Peralta es mencionada como figura visible de Núcleo Nacional",
+        "El Mundo cifra en 1.000 los afiliados del grupo",
+        "ABC describe episodios de peleas con cuchillo y presencia de militares y ultras en la organización",
+        "La Vanguardia describe un método de reclutamiento de jóvenes ('cachorros') liderado por una figura llamada 'El Jefe'",
+        "La Vanguardia menciona que el grupo preparaba algo descrito como un 'alzamiento'"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "retrato de liderazgo e imagen pública",
+        "polo_b": "amenaza violenta y radicalización organizada",
+        "resumen": "Los medios difieren en si el foco de la historia es la figura pública y la estructura del grupo o la violencia y el peligro de radicalización que representa"
+      },
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "Los ultras de Núcleo Nacional: Isabel Peralta como \"cara bonita, pero sin peso real\", 1.000 afiliados y la \"antesala de la radicalización\"",
+          "link": "https://www.elmundo.es/espana/2026/11/14/6af75bd2fdddffb36c8b45ad.html",
+          "position": 20,
+          "focus": "Centra el relato en Isabel Peralta como rostro público, minimizando su peso real, y aporta cifras de afiliados; menciona la radicalización como telón de fondo pero no como eje central"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "ABC se infiltra en Núcleo Nacional (II): peleas con cuchillo, militares y ultras",
+          "link": "https://www.abc.es/espana/peleas-cuchillo-militares-ultras-20261115020208-nt.html",
+          "position": 85,
+          "focus": "Destaca episodios de violencia física (peleas con cuchillo) y la presencia de militares, enfatizando el peligro y la infiltración como prueba de amenaza concreta"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Así reclutaba cachorros neonazis 'El Jefe' de Núcleo Nacional para preparar el “alzamiento”",
+          "link": "https://www.lavanguardia.com/politica/20261115/11684323/asi-reclutaba-cachorros-neonazis-jefe-nucleo-nacional-preparar-alzamiento.html",
+          "position": 65,
+          "focus": "Pone el acento en el reclutamiento sistemático de jóvenes y en la preparación de un 'alzamiento', mostrando una organización con plan a largo plazo más que hechos violentos puntuales"
+        }
+      ],
+      "rango": 65,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
         "El Espanol",
+        "El Pais",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Controversia personal en torno al fundador de Nvidia, Jensen Huang, y repercusiones en la empresa",
+      "section": "Economia",
+      "facts": [
+        "El Mundo relaciona a Jensen Huang, fundador de Nvidia, con un club de élite en Shanghái frecuentado por magnates de la IA",
+        "El Mundo señala que una amante del fundador y su marido se relacionaban allí con esos magnates",
+        "La Vanguardia informa de más de 120.000 firmas, encabezadas por Elon Musk, pidiendo a Nvidia que devuelva a Huang al mando",
+        "El Español identifica a Lori Huang como ingeniera y esposa de Jensen Huang",
+        "El Español afirma que Lori Huang podría recibir 75.000 millones tras dos infidelidades del fundador"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "Foco en el fundador y su entorno de élite/amante",
+        "polo_b": "Foco en la esposa como figura central y afectada",
+        "resumen": "Los medios eligen protagonistas distintos del mismo escándalo: unos centran la narrativa en el fundador y su amante en círculos de élite, otros en la esposa como víctima y posible beneficiaria económica"
+      },
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "El club de la élite de Shanghái donde la amante del fundador de Nvidia (y su marido) se ganaban a los magnates de la IA",
+          "link": "https://www.elmundo.es/cronica/2026/11/14/6af766b8fc6c836b0f8b45b7.html",
+          "position": 15,
+          "focus": "Destaca el entorno de lujo y la red social de élite en Shanghái vinculada a la amante del fundador; omite a la esposa y las consecuencias corporativas"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Más de 120.000 firmas encabezadas por Musk piden a Nvidia que devuelva a Huang al mando",
+          "link": "https://www.lavanguardia.com/economia/20261115/11684688/mas-120-000-firmas-encabezadas-musk-piden-nvidia-devuelva-huang-mando.html",
+          "position": 50,
+          "focus": "Centra el relato en la reacción corporativa y de accionistas (firmas, Musk) pidiendo el regreso de Huang; no aborda el aspecto personal/familiar"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Lori Huang: la ingeniera que dejó todo por el fundador de Nvidia y podría recibir 75.000 millones tras dos infidelidades",
+          "link": "https://www.elespanol.com/corazon/celebrities/20261114/lori-huang-ingeniera-dejo-fundador-nvidia-podria-recibir-millones-infidelidades/1003744458543_0.html",
+          "position": 85,
+          "focus": "Pone el foco en Lori Huang como esposa afectada por las infidelidades y su posible compensación millonaria, presentándola como protagonista moral de la historia"
+        }
+      ],
+      "rango": 70,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
         "El Pais",
         "eldiario.es"
       ]
