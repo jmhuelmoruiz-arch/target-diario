@@ -1,96 +1,161 @@
 {
-  "fecha": "2026-11-15T12:11:22.775040+00:00",
+  "fecha": "2026-11-16T13:06:25.166164+00:00",
   "esquema": 2,
   "historias": [
     {
-      "neutral_headline": "Encuestas y tensión política marcan la recta final hacia las elecciones del 29-N entre PSOE y PP",
+      "neutral_headline": "El PP plantea una 'ley de nietos' para que los exiliados por el terrorismo de ETA puedan votar en elecciones autonómicas",
       "section": "Politica",
       "facts": [
-        "Hay una campaña electoral en curso con fecha de votación el 29 de noviembre (29-N)",
-        "El Mundo cita una encuesta que otorga a PP y Vox el 51% de los votos y hasta 199 escaños, con el PSOE estancado",
-        "ABC menciona la existencia de un 'voto oculto' atribuido al PSOE",
-        "La Vanguardia señala que PSOE y PP se acusan mutuamente de un escándalo pero mantienen acuerdos en el ámbito europeo",
-        "El País describe una disputa entre PSOE y PP por el primer puesto en las encuestas"
+        "El PP (o Feijóo) propone/promete una 'ley de nietos'",
+        "La medida busca que los exiliados por el terrorismo de ETA puedan votar",
+        "Se menciona el País Vasco como ámbito de aplicación",
+        "Algunas piezas incluyen también Navarra como ámbito de aplicación",
+        "El Español sitúa el anuncio en Pamplona",
+        "La Vanguardia recoge el término 'expulsados' entre comillas"
       ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "Ascenso y fortaleza de PP/Vox",
-        "polo_b": "Resiliencia oculta del PSOE",
-        "resumen": "Los medios difieren en si el relato dominante es el avance de PP/Vox según las encuestas o la posibilidad de un apoyo oculto al PSOE que las cifras no reflejan"
-      },
+      "tipo_divergencia": "cronologica",
+      "eje": null,
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "PSOE y PP recrudecen la pelea por el primer puesto en la recta final hacia el 29-N",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-11-15/psoe-y-pp-recrudecen-la-pelea-por-el-primer-puesto-en-la-recta-final-hacia-el-29-n.html",
+          "headline": "El PP propone una ‘ley de nietos’ para que los exiliados vascos por terrorismo de ETA puedan votar en las elecciones autonómicas",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-11-16/el-pp-propone-una-ley-de-nietos-para-que-los-exiliados-vascos-por-terrorismo-de-eta-puedan-votar-en-las-elecciones-autonomicas.html",
           "position": 50,
-          "focus": "Presenta la contienda como una pelea equilibrada por el primer puesto, sin inclinarse hacia ninguno de los dos partidos ni mencionar cifras concretas"
+          "focus": "Usa 'exiliados vascos' y habla en presente ('propone'), centrado en el País Vasco"
         },
         {
           "outlet": "El Mundo",
-          "headline": "PP y Vox se aferran al 51% de los votos y hasta 199 escaños con un PSOE estancado",
-          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/15/6af8afeae9cf4ab47b8b4586.html",
-          "position": 15,
-          "focus": "Destaca cifras concretas que muestran a PP y Vox en una posición dominante y al PSOE estancado, enfatizando el avance de la derecha"
-        },
-        {
-          "outlet": "ABC",
-          "headline": "El secreto del voto oculto del PSOE",
-          "link": "https://www.abc.es/espana/secreto-voto-oculto-psoe-20261115020114-nt.html",
-          "position": 85,
-          "focus": "Centra la atención en un supuesto voto oculto del PSOE, sugiriendo que su apoyo real podría ser mayor de lo que indican las encuestas visibles"
+          "headline": "El PP promete una 'ley de nietos' para que los exiliados por el terrorismo de ETA puedan votar en el País Vasco y en Navarra",
+          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/16/6afac98afdddffc5528b457c.html",
+          "position": 50,
+          "focus": "Usa 'promete' y añade Navarra como ámbito, más completo en alcance territorial"
         },
         {
           "outlet": "La Vanguardia",
-          "headline": "PSOE y PP se amenazan mutuamente con el escándalo, pero aún pactan en Europa",
-          "link": "https://www.lavanguardia.com/politica/20261115/11684467/boton-rojo-boton-azul.html",
-          "position": 55,
-          "focus": "Combina el conflicto por el escándalo con la cooperación en Europa, matizando la confrontación con un elemento de entendimiento entre ambos partidos"
+          "headline": "Feijóo propondrá una ley de nietos vasca para reparar a los “expulsados” por ETA",
+          "link": "https://www.lavanguardia.com/politica/20261116/11685266/feijoo-propondra-pamplona-ley-nietos-vasca.html",
+          "position": 50,
+          "focus": "Futuro ('propondrá'), atribuye la acción a Feijóo personalmente y cita 'expulsados'"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Feijóo propondrá en Pamplona una 'ley de nietos' para que los exiliados por ETA puedan votar en el País Vasco",
+          "link": "https://www.elespanol.com/espana/politica/20261116/feijoo-propondra-pamplona-ley-nietos-exiliados-eta-puedan-votar-pais-vasco/1003744459467_0.html",
+          "position": 50,
+          "focus": "Futuro ('propondrá'), añade el dato del lugar del anuncio (Pamplona), solo menciona País Vasco"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Feijóo propone una 'ley de nietos' para que los exiliados por el terrorismo de ETA puedan votar en el País Vasco y Navarra",
+          "link": "https://www.20minutos.es/nacional/feijoo-propone-una-ley-nietos-vasca-para-que-puedan-votar-los-exiliados-por-eta_7061515_0.html",
+          "position": 50,
+          "focus": "Presente ('propone'), atribuye a Feijóo, incluye Navarra como ámbito"
         }
       ],
-      "rango": 70,
-      "discrepancia": "alta",
+      "rango": 0,
+      "discrepancia": "baja",
       "silenciosos": [
-        "20minutos",
-        "El Espanol",
+        "ABC",
         "eldiario.es"
       ]
     },
     {
-      "neutral_headline": "Tres dirigentes políticos opinan sobre el papel de los partidos en el apoyo al Gobierno de Sánchez",
+      "neutral_headline": "Frente Amplio presenta un paquete de propuestas economicas y sociales: jornada laboral, herencias y jubilacion",
       "section": "Politica",
       "facts": [
-        "Miriam Nogueras, candidata de Junts, afirmó: 'No me presento para poner o quitar presidentes españoles'",
-        "Irene Montero declaró: 'Si los votos de izquierdas sirven para que no cambie nada, el PP y Vox han ganado igual'",
-        "Ada Colau dijo: 'Pedro Sánchez nos ha fallado en vivienda, ha suspendido'"
+        "Frente Amplio propone una jornada laboral de 32 horas",
+        "Frente Amplio propone la jubilacion a los 65 anos (segun El Pais)",
+        "Frente Amplio propone limitar las herencias a un maximo de 10 millones de euros por persona (segun El Mundo y eldiario.es)",
+        "Frente Amplio propone limitar las herencias de los llamados 'ultrarricos' (segun 20minutos)",
+        "Frente Amplio propone impulsar las bajas autojustificadas (segun ABC)",
+        "Frente Amplio propone comedores gratuitos (segun 20minutos)"
       ],
       "tipo_divergencia": "editorial",
       "eje": {
-        "polo_a": "crítica explícita al Gobierno de Sánchez",
-        "polo_b": "respaldo o relativización de las críticas al Gobierno",
-        "resumen": "Los medios reflejan posturas distintas de líderes políticos respecto al desempeño del Gobierno de Sánchez, desde la crítica directa hasta la defensa de su labor."
+        "polo_a": "enfasis en medidas laborales y sociales (jornada, jubilacion, comedores)",
+        "polo_b": "enfasis en medidas patrimoniales o mas controvertidas (limite a herencias, bajas autojustificadas)",
+        "resumen": "Los medios seleccionan distintas propuestas del mismo paquete del Frente Amplio, unos centrandose en medidas laborales/sociales y otros en las patrimoniales o mas polemicas"
       },
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "Miriam Nogueras, candidata de Junts: “No me presento para poner o quitar presidentes españoles”",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-11-15/miriam-nogueras-candidata-de-junts-no-me-presento-para-poner-o-quitar-presidentes-espanoles.html",
-          "position": 50,
-          "focus": "Destaca la independencia de Junts respecto al apoyo o retirada de apoyo al Gobierno, sin posicionarse claramente a favor o en contra"
+          "headline": "Frente Amplio apuesta por una jornada laboral de 32 horas y jubilación a los 65 años",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-11-16/frente-amplio-apuesta-por-una-jornada-laboral-de-32-horas-y-jubilacion-a-los-65-anos.html",
+          "position": 10,
+          "focus": "Destaca exclusivamente jornada de 32 horas y jubilacion a los 65; omite la propuesta sobre herencias"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "El Frente Amplio propone limitar las herencias a un máximo de 10 millones por persona",
+          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/16/6afac0a8fc6c8389748b4597.html",
+          "position": 90,
+          "focus": "Centra el titular unicamente en el limite a las herencias de 10 millones; omite jornada laboral y jubilacion"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Frente Amplio plantea limitar las herencias, recortar la jornada laboral e impulsar las bajas autojustificadas",
+          "link": "https://www.abc.es/espana/frente-amplio-plantea-limitar-herencias-rebajar-anos-20261116122400-nt.html",
+          "position": 70,
+          "focus": "Combina herencias y jornada laboral pero anade 'bajas autojustificadas', un termino con connotacion critica que otros medios no incluyen"
         },
         {
           "outlet": "eldiario.es",
-          "headline": "Irene Montero: \"Si los votos de izquierdas sirven para que no cambie nada, el PP y Vox han ganado igual\"",
-          "link": "https://www.eldiario.es/politica/irene-montero-si-votos-izquierdas-sirven-no-cambie-pp-vox-han-ganado-igual_1_13661608.html",
-          "position": 65,
-          "focus": "Enfatiza la importancia de los votos de izquierda para evitar el avance de PP y Vox, implicando un respaldo indirecto al Gobierno"
+          "headline": "El Frente Amplio propone un límite de 10 millones de euros a las herencias",
+          "link": "https://www.eldiario.es/politica/frente-amplio-propone-limite-10-millones-euros-herencias_1_13666594.html",
+          "position": 90,
+          "focus": "Se centra exclusivamente en el limite de 10 millones a las herencias, igual que El Mundo, sin mencionar otras medidas"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Frente Amplio propone limitar las herencias de los \"ultrarricos\", una jornada laboral de 32 horas y comedores gratuitos",
+          "link": "https://www.20minutos.es/nacional/frente-propone-limitar-las-herencias-los-ultrarricos-una-prestacion-universal-por-crianza-200-euros-comedores-gratuitos_7061498_0.html",
+          "position": 50,
+          "focus": "Recoge varias medidas (herencias, jornada, comedores) de forma equilibrada, usando la cita textual 'ultrarricos'"
+        }
+      ],
+      "rango": 80,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "El Espanol",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "Lula visita Madrid y se reúne con Sánchez en medio de la coyuntura política española",
+      "section": "Politica",
+      "facts": [
+        "Lula da Silva viajó a Madrid y se reunió con Pedro Sánchez.",
+        "Sánchez utiliza la recuperación electoral de Lula en Brasil como ejemplo político (El País).",
+        "Sánchez y Lula pidieron defender las instituciones frente a lo que llamaron 'amenaza ultraderechista' (La Vanguardia).",
+        "Las encuestas muestran que la izquierda crece y la derecha cae, aunque esta última mantiene la mayoría (eldiario.es)."
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "uso político-electoral de la visita (ejemplo de remontada)",
+        "polo_b": "llamado conjunto a la defensa institucional frente a la ultraderecha",
+        "resumen": "Los medios difieren en si la visita de Lula se presenta como una estrategia electoral de Sánchez o como un mensaje conjunto de defensa democrática."
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Lula da en Madrid un respaldo político a Sánchez, que trata de usar la remontada brasileña como ejemplo",
+          "link": "https://elpais.com/espana/2026-11-16/lula-visita-a-sanchez-durante-la-campana-electoral.html",
+          "position": 25,
+          "focus": "Destaca el aprovechamiento político de Sánchez de la figura de Lula como ejemplo de remontada electoral, centrando el relato en la estrategia interna española."
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "La media de encuestas: la izquierda crece y la derecha cae, pero mantiene la mayoría",
+          "link": "https://www.eldiario.es/politica/media-encuestas-izquierda-crece-derecha-cae-mantiene-mayoria_1_13666796.html",
+          "position": 50,
+          "focus": "Se centra en datos de encuestas sobre la evolución de izquierda y derecha, sin relacionar directamente la visita de Lula ni el mensaje institucional."
         },
         {
           "outlet": "La Vanguardia",
-          "headline": "Ada Colau: “Pedro Sánchez nos ha fallado en vivienda, ha suspendido”",
-          "link": "https://www.lavanguardia.com/politica/20261115/11684357/ada-colau-pedro-sanchez-fallado-vivienda-suspendido.html",
-          "position": 15,
-          "focus": "Señala directamente el fracaso del Gobierno de Sánchez en política de vivienda, atribuyendo responsabilidad explícita"
+          "headline": "Sánchez y Lula piden defender las instituciones ante la “amenaza ultraderechista”",
+          "link": "https://www.lavanguardia.com/politica/20261116/11685403/sanchez-exhibe-sintonia-politica-lula-visita-moncloa-plena-campana-electoral.html",
+          "position": 75,
+          "focus": "Resalta el mensaje conjunto de ambos líderes sobre la defensa de las instituciones frente a la ultraderecha, enmarcando el encuentro en términos ideológicos más amplios."
         }
       ],
       "rango": 50,
@@ -103,182 +168,448 @@
       ]
     },
     {
-      "neutral_headline": "Rescatan a 1.488 inmigrantes en un día en Canarias, cifra récord en 32 años",
-      "section": "Sociedad",
+      "neutral_headline": "Yolanda Díaz retira su candidatura a la dirección general de la OIT",
+      "section": "Politica",
       "facts": [
-        "Se rescataron 1.488 personas en un día en la Ruta Canaria",
-        "Es la cifra más alta registrada en 32 años (El Mundo, El Español)",
-        "ABC precisa que fueron 14 cayucos los que transportaban a los rescatados",
-        "El hecho ocurrió un sábado"
-      ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "El Mundo",
-          "headline": "Un sábado de rescates sin pausa hace historia en la Ruta Canaria: 1.488 personas en un día, la cifra más alta en 32 años",
-          "link": "https://www.elmundo.es/espana/2026/11/15/6af97162fdddff6c338b4599.html",
-          "position": 50,
-          "focus": "Enfatiza el carácter histórico del dato y la ausencia de pausa en los rescates durante el día"
-        },
-        {
-          "outlet": "ABC",
-          "headline": "Sábado de récord histórico en Canarias: 14 cayucos con 1.488 inmigrantes rescatados",
-          "link": "https://www.abc.es/espana/canarias/hierro-recibe-790-migrantes-dos-dias-rescate-20261114152734-nt.html",
-          "position": 50,
-          "focus": "Añade el detalle del número de cayucos (14) implicados en el rescate"
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "1.488 inmigrantes rescatados en 24 horas en plena oleada de cayucos: la Ruta Canaria bate su récord histórico en 32 años",
-          "link": "https://www.elespanol.com/espana/20261115/inmigrantes-rescatados-horas-plena-oleada-cayucos-ruta-canaria-bate-record-historico-anos/1003744458857_0.html",
-          "position": 50,
-          "focus": "Contextualiza la cifra dentro de una 'oleada' migratoria más amplia"
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "20minutos",
-        "El Pais",
-        "La Vanguardia",
-        "eldiario.es"
-      ]
-    },
-    {
-      "neutral_headline": "Un tren de mercancías descarrila en Madrid y deja al maquinista herido leve, con la línea a Ávila cortada",
-      "section": "Sociedad",
-      "facts": [
-        "Un tren de mercancías descarriló en Madrid",
-        "El maquinista resultó herido leve",
-        "La conexión/línea con Ávila quedó cortada"
-      ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Descarrila un tren de mercancías en Madrid y resulta herido leve el maquinista",
-          "link": "https://www.lavanguardia.com/vida/20261115/11684721/descarrila-tren-mercancias-madrid-resulta-herido-leve-maquinista.html",
-          "position": 50,
-          "focus": "Destaca el descarrilamiento y el estado del maquinista; no menciona la línea cortada"
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "Herido leve un maquinista al descarrilar un tren de mercancías en Madrid: cortada la conexión con Ávila",
-          "link": "https://www.elespanol.com/invertia/observatorios/movilidad/20261115/herido-leve-maquinista-descarrilar-tren-mercancias-madrid-cortada-conexion-avila/1003744458961_0.html",
-          "position": 50,
-          "focus": "Incluye el herido leve y el corte de la conexión con Ávila"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "Un tren de mercancías descarrila en Madrid y corta la línea con Ávila: el maquinista está herido leve",
-          "link": "https://www.20minutos.es/madrid/descarrila-un-tren-mercancias-madrid-maquinista-resulta-herido-leve_7061225_0.html",
-          "position": 50,
-          "focus": "Combina descarrilamiento, corte de línea y estado del maquinista"
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "ABC",
-        "El Mundo",
-        "El Pais",
-        "eldiario.es"
-      ]
-    },
-    {
-      "neutral_headline": "Investigaciones periodísticas revelan estructura, líderes y métodos de reclutamiento del grupo ultra Núcleo Nacional",
-      "section": "Sociedad",
-      "facts": [
-        "Isabel Peralta es mencionada como figura visible de Núcleo Nacional",
-        "El Mundo cifra en 1.000 los afiliados del grupo",
-        "ABC describe episodios de peleas con cuchillo y presencia de militares y ultras en la organización",
-        "La Vanguardia describe un método de reclutamiento de jóvenes ('cachorros') liderado por una figura llamada 'El Jefe'",
-        "La Vanguardia menciona que el grupo preparaba algo descrito como un 'alzamiento'"
+        "Yolanda Díaz retira su candidatura a la dirección general de la Organización Internacional del Trabajo (OIT).",
+        "La retirada se produce horas antes de la votación de las elecciones (según eldiario.es).",
+        "El Mundo atribuye la retirada a la intención de 'no dividir' al movimiento sindical.",
+        "El Español recoge que Díaz advierte del 'declive' de la organización."
       ],
       "tipo_divergencia": "editorial",
       "eje": {
-        "polo_a": "retrato de liderazgo e imagen pública",
-        "polo_b": "amenaza violenta y radicalización organizada",
-        "resumen": "Los medios difieren en si el foco de la historia es la figura pública y la estructura del grupo o la violencia y el peligro de radicalización que representa"
+        "polo_a": "énfasis en unidad del movimiento sindical",
+        "polo_b": "énfasis en crítica al declive de la OIT",
+        "resumen": "Algunos medios subrayan que Díaz actúa para preservar la cohesión sindical, mientras otro destaca su crítica a la propia organización."
       },
       "frames": [
         {
-          "outlet": "El Mundo",
-          "headline": "Los ultras de Núcleo Nacional: Isabel Peralta como \"cara bonita, pero sin peso real\", 1.000 afiliados y la \"antesala de la radicalización\"",
-          "link": "https://www.elmundo.es/espana/2026/11/14/6af75bd2fdddffb36c8b45ad.html",
-          "position": 20,
-          "focus": "Centra el relato en Isabel Peralta como rostro público, minimizando su peso real, y aporta cifras de afiliados; menciona la radicalización como telón de fondo pero no como eje central"
+          "outlet": "El Pais",
+          "headline": "Yolanda Díaz retira su candidatura a la dirección general de la OIT",
+          "link": "https://elpais.com/economia/2026-11-16/yolanda-diaz-retira-su-candidatura-a-la-direccion-general-de-la-oit.html",
+          "position": 50,
+          "focus": "Informa solo el hecho de la retirada sin añadir motivo ni valoración."
         },
         {
-          "outlet": "ABC",
-          "headline": "ABC se infiltra en Núcleo Nacional (II): peleas con cuchillo, militares y ultras",
-          "link": "https://www.abc.es/espana/peleas-cuchillo-militares-ultras-20261115020208-nt.html",
-          "position": 85,
-          "focus": "Destaca episodios de violencia física (peleas con cuchillo) y la presencia de militares, enfatizando el peligro y la infiltración como prueba de amenaza concreta"
+          "outlet": "El Mundo",
+          "headline": "Yolanda Díaz retira su candidatura a la Organización Internacional del Trabajo (OIT) para \"no dividir\" al movimiento sindical",
+          "link": "https://www.elmundo.es/economia/2026/11/16/6afaae0021efa0532e8b4579.html",
+          "position": 30,
+          "focus": "Explica la retirada como gesto de unidad sindical, citando la frase 'no dividir' al movimiento."
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Yolanda Díaz retira su candidatura a presidir la OIT a unas horas de las elecciones",
+          "link": "https://www.eldiario.es/economia/yolanda-diaz-retira-candidatura-presidir-oit-horas-elecciones_1_13666457.html",
+          "position": 50,
+          "focus": "Añade el dato temporal (horas antes de las elecciones) sin interpretar causas, enfoque cronológico más que editorial."
         },
         {
           "outlet": "La Vanguardia",
-          "headline": "Así reclutaba cachorros neonazis 'El Jefe' de Núcleo Nacional para preparar el “alzamiento”",
-          "link": "https://www.lavanguardia.com/politica/20261115/11684323/asi-reclutaba-cachorros-neonazis-jefe-nucleo-nacional-preparar-alzamiento.html",
-          "position": 65,
-          "focus": "Pone el acento en el reclutamiento sistemático de jóvenes y en la preparación de un 'alzamiento', mostrando una organización con plan a largo plazo más que hechos violentos puntuales"
+          "headline": "Yolanda Díaz retira su candidatura para dirigir la Organización Internacional del Trabajo",
+          "link": "https://www.lavanguardia.com/economia/20261116/11685118/yolanda-diaz-retira-candidatura-dirigir-organizacion-internacional-trabajo.html",
+          "position": 50,
+          "focus": "Reporta el hecho de forma neutra, sin mencionar motivos ni críticas."
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Yolanda Díaz anuncia la retirada de su candidatura a la OIT y advierte del \"declive\" de la organización",
+          "link": "https://www.elespanol.com/invertia/economia/empleo/20261116/yolanda-diaz-anuncia-retirada-candidatura-oit-advierte-declive-organizacion/1003744459388_0.html",
+          "position": 70,
+          "focus": "Resalta la crítica de Díaz al 'declive' de la OIT, dando un giro más institucional/crítico a la noticia."
+        }
+      ],
+      "rango": 40,
+      "discrepancia": "media",
+      "silenciosos": [
+        "20minutos",
+        "ABC"
+      ]
+    },
+    {
+      "neutral_headline": "Investigaciones y versiones cruzadas sobre el papel del CNI en la crisis de Ceuta",
+      "section": "Politica",
+      "facts": [
+        "El CNI informó a la jueza que no ha hallado 'evidencias' de que Marruecos esté detrás de la crisis de Ceuta (eldiario.es)",
+        "La Guardia Civil rechaza que los avisos del CNI alertaran de la dimensión del asalto a Ceuta (La Vanguardia)",
+        "La Guardia Civil calificó de 'insuficiente' para 'dimensionar' el asalto a Ceuta la información que le dio el CNI (El Español)",
+        "Una investigación identificó a los 'topos' del CNI a través de pistas como un parking, un viaje a Portugal y los cordones de un zapato (El País)"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "La Guardia Civil es responsable de no anticipar el asalto",
+        "polo_b": "El CNI es responsable por no advertir suficientemente",
+        "resumen": "Los medios difieren en si la falta de previsión del asalto a Ceuta recae en la insuficiencia de los avisos del CNI o en la interpretación que hizo la Guardia Civil de esos avisos"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Un parking, un viaje a Portugal y los cordones de un zapato: la investigación que dio con los ‘topos’ del CNI",
+          "link": "https://elpais.com/espana/2026-11-16/un-parking-un-viaje-a-portugal-y-los-cordones-de-un-zapato-la-investigacion-que-dio-con-los-topos-del-cni.html",
+          "position": 50,
+          "focus": "Se centra en los detalles de la investigación interna que destapó a espías infiltrados en el CNI, sin relacionar directamente el hecho con la crisis de Ceuta ni con el reparto de responsabilidades entre CNI y Guardia Civil."
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "El CNI informa a la jueza de que no ha encontrado \"evidencias\" de que Marruecos esté detrás de la crisis de Ceuta",
+          "link": "https://www.eldiario.es/politica/cni-informa-jueza-no-encontrado-evidencias-rabat-detras-crisis-ceuta_1_13667222.html",
+          "position": 35,
+          "focus": "Destaca que el CNI, ante la jueza, descarta que Marruecos orquestara la crisis, lo que indirectamente exime al CNI de haber fallado en detectar una operación marroquí planificada."
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "La Guardia Civil rechaza que los avisos del CNI alertaran de la dimensión del asalto a Ceuta",
+          "link": "https://www.lavanguardia.com/politica/20261116/11685418/guardia-civil-rechaza-avisos-cni-alertaran-dimension-asalto-ceuta.html",
+          "position": 75,
+          "focus": "Pone el foco en la versión de la Guardia Civil, que niega que los avisos del CNI reflejaran la magnitud real del asalto, trasladando la responsabilidad informativa al CNI."
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "La Guardia Civil tilda de \"insuficiente\" para \"dimensionar\" el asalto a Ceuta la información que le dio el CNI",
+          "link": "https://www.elespanol.com/espana/tribunales/20261116/guardia-civil-tilda-insuficiente-informacion-dio-cni-dimensionar-asalto-ceuta/1003744459662_0.html",
+          "position": 80,
+          "focus": "Recoge literalmente la calificación de 'insuficiente' que usa la Guardia Civil para describir la información del CNI, reforzando la idea de que el fallo fue del CNI al no dimensionar la amenaza."
+        }
+      ],
+      "rango": 45,
+      "discrepancia": "media",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Mundo"
+      ]
+    },
+    {
+      "neutral_headline": "Detenida una mujer tras la muerte por apuñalamiento de su pareja en un apartahotel de San Blas, Madrid",
+      "section": "Sociedad",
+      "facts": [
+        "El Pais: mujer de 24 años detenida; víctima de 22 años",
+        "El Mundo, ABC, El Espanol, 20minutos: mujer de 22 años detenida",
+        "El Mundo: la muerte se produjo durante una discusión",
+        "ABC: el suceso ocurrio tras una noche de consumo de alcohol y en presencia de la hija de la pareja",
+        "Hecho ocurrido en un apartahotel del distrito de San Blas, Madrid",
+        "La víctima murió apuñalada"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "discusión como detonante",
+        "polo_b": "alcohol/entorno como detonante",
+        "resumen": "Los medios difieren en si atribuyen el hecho a una discusión puntual o a un contexto de consumo de alcohol y presencia de la hija, lo que matiza la lectura de la tragedia"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Una mujer de 24 años, detenida por matar a su pareja de 22 en un apartahotel en Madrid",
+          "link": "https://elpais.com/espana/madrid/2026-11-16/una-mujer-de-22-anos-detenida-por-matar-a-su-pareja-de-la-misma-edad-en-un-apartahotel-en-madrid.html",
+          "position": 50,
+          "focus": "Se centra en las edades de ambos implicados sin atribuir causa concreta al suceso"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Muere un joven de 22 años apuñalado por su novia durante una discusión en un apartahotel en San Blas (Madrid)",
+          "link": "https://www.elmundo.es/madrid/2026/11/16/6afab12ce9cf4a301c8b459d.html",
+          "position": 20,
+          "focus": "Atribuye el hecho a una discusión previa, enmarcándolo como conflicto de pareja"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Una noche de alcohol acaba con un joven asesinado por su novia delante de su hija en un apartahotel en San Blas",
+          "link": "https://www.abc.es/espana/madrid/muere-joven-anos-tras-sufrir-varias-punaladas-20261116083117-nt.html",
+          "position": 85,
+          "focus": "Enfatiza el consumo de alcohol y la presencia de la hija, sugiriendo un contexto más dramático y de descontrol"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Detenida una joven de 22 años tras matar a puñaladas a su novio en San Blas",
+          "link": "https://www.elespanol.com/madrid/sociedad/20261116/joven-anos-muere-apunalado-novia-apartahotel-san-blas/1003744459399_0.html",
+          "position": 50,
+          "focus": "Se limita a describir la detención y el método, sin profundizar en causas"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Detenida una mujer de 22 años por matar a su novio a puñaladas en un apartahotel en Madrid",
+          "link": "https://www.20minutos.es/madrid/detenida-una-mujer-por-matar-su-novio-punaladas-un-apartahotel-madrid_7061433_0.html",
+          "position": 50,
+          "focus": "Reporta de forma escueta la detención y el método del crimen sin atribuir causa"
         }
       ],
       "rango": 65,
       "discrepancia": "alta",
       "silenciosos": [
-        "20minutos",
-        "El Espanol",
-        "El Pais",
+        "La Vanguardia",
         "eldiario.es"
       ]
     },
     {
-      "neutral_headline": "Controversia personal en torno al fundador de Nvidia, Jensen Huang, y repercusiones en la empresa",
-      "section": "Economia",
+      "neutral_headline": "Operación policial busca a 'El Ruso' en un tren de Rodalies cerca de Barcelona",
+      "section": "Sociedad",
       "facts": [
-        "El Mundo relaciona a Jensen Huang, fundador de Nvidia, con un club de élite en Shanghái frecuentado por magnates de la IA",
-        "El Mundo señala que una amante del fundador y su marido se relacionaban allí con esos magnates",
-        "La Vanguardia informa de más de 120.000 firmas, encabezadas por Elon Musk, pidiendo a Nvidia que devuelva a Huang al mando",
-        "El Español identifica a Lori Huang como ingeniera y esposa de Jensen Huang",
-        "El Español afirma que Lori Huang podría recibir 75.000 millones tras dos infidelidades del fundador"
+        "La Guardia Civil registró un tren de Rodalies buscando a 'El Ruso' (El Pais)",
+        "Hubo un despliegue policial en un tren cercano a Barcelona tras la denuncia de un pasajero (El Mundo)",
+        "El despliegue no logró localizar al fugitivo (El Mundo)",
+        "Existía sospecha de que 'El Ruso' viajaba en un tren con destino Barcelona (ABC)",
+        "La operación obligó a detener los trenes de las líneas R4 y R7 en Montcada (La Vanguardia)",
+        "'El Ruso' es señalado como fugitivo relacionado con una bomba en Oviedo (20minutos)"
       ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "Foco en el fundador y su entorno de élite/amante",
-        "polo_b": "Foco en la esposa como figura central y afectada",
-        "resumen": "Los medios eligen protagonistas distintos del mismo escándalo: unos centran la narrativa en el fundador y su amante en círculos de élite, otros en la esposa como víctima y posible beneficiaria económica"
-      },
+      "tipo_divergencia": "cronologica",
+      "eje": null,
       "frames": [
         {
+          "outlet": "El Pais",
+          "headline": "La Guardia Civil registra un tren en Rodalies en busca de El Ruso",
+          "link": "https://elpais.com/espana/catalunya/2026-11-16/la-guardia-civil-registra-un-tren-en-rodalies-en-busca-de-el-ruso.html",
+          "position": 50,
+          "focus": "Describe la acción policial en curso (registro del tren) sin indicar resultado"
+        },
+        {
           "outlet": "El Mundo",
-          "headline": "El club de la élite de Shanghái donde la amante del fundador de Nvidia (y su marido) se ganaban a los magnates de la IA",
-          "link": "https://www.elmundo.es/cronica/2026/11/14/6af766b8fc6c836b0f8b45b7.html",
-          "position": 15,
-          "focus": "Destaca el entorno de lujo y la red social de élite en Shanghái vinculada a la amante del fundador; omite a la esposa y las consecuencias corporativas"
+          "headline": "El despliegue policial para localizar a El Ruso en un tren cercano a Barcelona, tras la denuncia de un pasajero,  no da con el fugitivo",
+          "link": "https://www.elmundo.es/cataluna/2026/11/16/6afaf26921efa0b4068b45ab.html",
+          "position": 50,
+          "focus": "Actualiza con el resultado final: el despliegue no encontró al fugitivo, añade el origen de la alerta (denuncia de un pasajero)"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Despliegue policial ante la sospecha de que 'El Ruso' se encuentra en un tren con destino Barcelona",
+          "link": "https://www.abc.es/espana/cataluna/despliegue-policial-ante-posible-avistamiento-ruso-barcelona-20261116131115-nt.html",
+          "position": 50,
+          "focus": "Se centra en la fase inicial, la sospecha que motivó el despliegue, antes de conocerse el resultado"
         },
         {
           "outlet": "La Vanguardia",
-          "headline": "Más de 120.000 firmas encabezadas por Musk piden a Nvidia que devuelva a Huang al mando",
-          "link": "https://www.lavanguardia.com/economia/20261115/11684688/mas-120-000-firmas-encabezadas-musk-piden-nvidia-devuelva-huang-mando.html",
+          "headline": "Una operación en busca de 'El Ruso' obliga a parar los trenes de la R4 y la R7 en Montcada",
+          "link": "https://www.lavanguardia.com/local/barcelona/20261116/11685406/interrumpida-circulacion-r4-r7-rodalies-peticion-mossos.html",
           "position": 50,
-          "focus": "Centra el relato en la reacción corporativa y de accionistas (firmas, Musk) pidiendo el regreso de Huang; no aborda el aspecto personal/familiar"
+          "focus": "Destaca el efecto colateral de la operación: la paralización del servicio ferroviario en Montcada"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Inspeccionan un tren en Barcelona en el que podría estar el Ruso, el fugitivo de la bomba en Oviedo",
+          "link": "https://www.20minutos.es/cataluna/barcelona/guardia-civil-inspecciona-un-tren-barcelona-que-podria-estar-ruso-fugitivo-que-puso-bomba-oviedo_7061634_0.html",
+          "position": 50,
+          "focus": "Añade contexto sobre la identidad del fugitivo y el hecho delictivo previo (bomba en Oviedo)"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "El Espanol",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Repsol inicia acciones legales contra Iberdrola, Endesa, Naturgy y Red Eléctrica por el apagón de 2025",
+      "section": "Economia",
+      "facts": [
+        "Repsol ha iniciado una vía judicial o demanda contra varias compañías energéticas por el apagón de 2025",
+        "El Pais y El Mundo mencionan a Red Eléctrica, Iberdrola, Endesa y Naturgy como demandadas",
+        "eldiario.es menciona solo a Iberdrola, Endesa y Naturgy, sin incluir a Red Eléctrica",
+        "La Vanguardia usa el nombre Redeia en lugar de Red Eléctrica",
+        "El Espanol y 20minutos sitúan el apagón el 28 de abril de 2025 y mencionan daños causados"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Repsol inicia la vía judicial contra Red Eléctrica Iberdrola, Endesa y Naturgy por el apagón de 2025",
+          "link": "https://elpais.com/economia/2026-11-16/repsol-demanda-a-iberdrola-naturgy-y-endesa-por-el-apagon-electrico.html",
+          "position": 50,
+          "focus": "Destaca la vía judicial iniciada por Repsol, nombra a las cuatro compañías demandadas"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Repsol demanda a Iberdrola, Endesa, Naturgy y Red Eléctrica por los daños del apagón",
+          "link": "https://www.elmundo.es/economia/empresas/2026/11/16/6afaeae4e85ece2a028b457f.html",
+          "position": 50,
+          "focus": "Enfatiza los daños reclamados, nombra a las cuatro compañías demandadas"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Repsol demanda a Iberdrola, Endesa y Naturgy por el apagón de 2025",
+          "link": "https://www.eldiario.es/economia/repsol-demanda-iberdrola-endesa-naturgy-apagon-2025_1_13667104.html",
+          "position": 50,
+          "focus": "Reporta la demanda sin mencionar a Red Eléctrica entre los demandados"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Repsol demanda a Iberdrola, Naturgy, Endesa y Redeia por el gran apagón",
+          "link": "https://www.lavanguardia.com/dinero/20261116/11685377/repsol-demanda-iberdrola-naturgy-endesa-redeia-gran-apagon.html",
+          "position": 50,
+          "focus": "Usa el término 'gran apagón' y el nombre corporativo Redeia"
         },
         {
           "outlet": "El Espanol",
-          "headline": "Lori Huang: la ingeniera que dejó todo por el fundador de Nvidia y podría recibir 75.000 millones tras dos infidelidades",
-          "link": "https://www.elespanol.com/corazon/celebrities/20261114/lori-huang-ingeniera-dejo-fundador-nvidia-podria-recibir-millones-infidelidades/1003744458543_0.html",
-          "position": 85,
-          "focus": "Pone el foco en Lori Huang como esposa afectada por las infidelidades y su posible compensación millonaria, presentándola como protagonista moral de la historia"
+          "headline": "Repsol demanda a Iberdrola, Naturgy, Endesa y Red Eléctrica por el apagón del 28 de abril",
+          "link": "https://www.elespanol.com/invertia/empresas/energia/20261116/repsol-demanda-iberdrola-naturgy-endesa-red-electrica-solidariamente-apagon-refinerias/1003744459551_0.html",
+          "position": 50,
+          "focus": "Especifica la fecha exacta del apagón, 28 de abril"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Repsol demanda a Iberdrola, Naturgy, Endesa y Red Eléctrica por los daños del gran apagón",
+          "link": "https://www.20minutos.es/lainformacion/empresas/repsol-demanda-iberdrola-naturgy-endesa-red-electrica-por-los-danos-apagon_7061619_0.html",
+          "position": 50,
+          "focus": "Combina la fecha del apagón con el énfasis en los daños reclamados"
         }
       ],
-      "rango": 70,
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "ABC"
+      ]
+    },
+    {
+      "neutral_headline": "La justicia italiana interviene la filial de Revolut en el país por presuntas irregularidades relacionadas con el blanqueo de capitales",
+      "section": "Economia",
+      "facts": [
+        "La justicia italiana ha intervenido Revolut en Italia",
+        "El Pais y eldiario.es vinculan la intervencion a sospechas de blanqueo de capitales relacionado con clanes mafiosos",
+        "El Mundo y El Espanol atribuyen la intervencion a fallos en los sistemas o controles de prevencion del blanqueo",
+        "El Espanol precisa que la intervencion afecta a la sucursal de Revolut y que durara un ano"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "enfasis en crimen organizado/mafia",
+        "polo_b": "enfasis en fallos tecnicos/regulatorios de la empresa",
+        "resumen": "Los medios se dividen entre presentar el caso como una cuestion de blanqueo ligado a la mafia o como un problema de deficiencias en los controles internos de Revolut"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "La justicia italiana interviene el banco digital Revolut por sospechas de blanqueo y de operaciones de clanes mafiosos",
+          "link": "https://elpais.com/economia/2026-11-16/la-justicia-italiana-interviene-el-banco-digital-revolut-por-sospechas-de-blanqueo-y-de-operaciones-de-clanes-mafiosos.html",
+          "position": 10,
+          "focus": "Destaca la conexion con clanes mafiosos y el blanqueo, situando el foco en el crimen organizado; omite detalles tecnicos sobre los controles de Revolut"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "La Justicia italiana interviene a Revolut por fallos en sus sistemas de prevención del blanqueo",
+          "link": "https://www.elmundo.es/economia/empresas/2026/11/16/6afaf80ffc6c83b3158b4573.html",
+          "position": 85,
+          "focus": "Centra el titular en los fallos de los sistemas de prevencion de la empresa, presentando el caso como un problema regulatorio/tecnico; no menciona mafia"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "La justicia italiana interviene Revolut en el país tras detectar operaciones de blanqueo de la mafia",
+          "link": "https://www.eldiario.es/economia/justicia-italiana-interviene-revolut-pais-detectar-operaciones-blanqueo-mafia_1_13667596.html",
+          "position": 15,
+          "focus": "Enfatiza que las operaciones detectadas son de la mafia, reforzando el marco de crimen organizado; no detalla los fallos tecnicos"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "La Justicia italiana interviene la sucursal de Revolut durante un año por fallos en los controles antiblanqueo",
+          "link": "https://www.elespanol.com/invertia/empresas/banca/20261116/justicia-italiana-interviene-sucursal-revolut-ano-fallos-controles-antiblanqueo/1003744459919_0.html",
+          "position": 80,
+          "focus": "Pone el acento en los fallos de los controles antiblanqueo y añade el dato de la duracion de la intervencion (un año), sin mencionar la mafia"
+        }
+      ],
+      "rango": 75,
       "discrepancia": "alta",
       "silenciosos": [
         "20minutos",
         "ABC",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "El Ayuntamiento de Madrid denuncia por prevaricación al exdelegado del Gobierno por la acampada en Sol",
+      "section": "Politica",
+      "facts": [
+        "El Ayuntamiento de Madrid presento una denuncia por un presunto delito de prevaricacion contra el exdelegado del Gobierno en Madrid",
+        "El denunciado es Francisco Martin, segun identifica ABC",
+        "La denuncia se relaciona con la gestion de la acampada en la Puerta del Sol",
+        "El Mundo atribuye la denuncia a una iniciativa personal de Almeida",
+        "La denuncia senala la 'inaccion' del exdelegado ante la acampada, segun El Mundo",
+        "El exdelegado respondio a la denuncia, segun eldiario.es, diciendo 'No les saldra bien'"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "Accion institucional del Ayuntamiento",
+        "polo_b": "Accion personal de Almeida",
+        "resumen": "Los medios varian en si presentan la denuncia como un acto del Ayuntamiento como institucion o como una iniciativa personal de Almeida"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "El Ayuntamiento de Madrid denuncia al exdelegado del Gobierno por un delito de prevaricación por la acampada de Sol",
+          "link": "https://elpais.com/espana/madrid/2026-11-16/el-ayuntamiento-de-madrid-denuncia-al-exdelegado-del-gobierno-por-un-delito-de-prevaricacion-por-la-acampada-de-sol.html",
+          "position": 45,
+          "focus": "Presenta al Ayuntamiento como sujeto de la accion, sin personalizar en Almeida ni dar voz al denunciado"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Almeida presenta una denuncia contra el ex delegado del Gobierno en Madrid por prevaricación ante su \"inacción\" en la acampada de Sol",
+          "link": "https://www.elmundo.es/madrid/2026/11/16/6afacdc4e9cf4a301c8b45a6.html",
+          "position": 65,
+          "focus": "Pone a Almeida como protagonista explicito de la denuncia y enfatiza la 'inaccion' del exdelegado como causa"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "El Ayuntamiento denuncia al exdelegado, Francisco Martín, por prevaricación al permitir la acampada en Sol",
+          "link": "https://www.abc.es/espana/madrid/ayuntamiento-denuncia-exdelegado-francisco-martin-prevaricacion-permitir-20261116104040-nt.html",
+          "position": 45,
+          "focus": "Mantiene al Ayuntamiento como sujeto institucional pero identifica por nombre al denunciado, Francisco Martin"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "El Ayuntamiento de Madrid denuncia al exdelegado del Gobierno por la acampada de Sol y él responde: \"No les saldrá bien\"",
+          "link": "https://www.eldiario.es/madrid/somos/ayuntamiento-madrid-denuncia-exdelegado-gobierno-acampada-sol-responde-no-les-saldra_1_13666565.html",
+          "position": 40,
+          "focus": "Atribuye la accion al Ayuntamiento pero incorpora la respuesta del exdelegado, dando contrapeso a la version oficial"
+        }
+      ],
+      "rango": 25,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "El Espanol",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "La Guardia Civil afirma que la información del CNI sobre Ceuta fue insuficiente para dimensionar la amenaza",
+      "section": "Politica",
+      "facts": [
+        "La Guardia Civil cuestiona que el CNI realizara una 'alerta temprana' sobre la dimensión del asalto a Ceuta",
+        "La Guardia Civil califica la información recibida del CNI como 'parcial' e 'insuficiente' para dimensionar la amenaza"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "La Guardia Civil cuestiona la \"alerta temprana\" de los servicios de inteligencia: \"Lo que se recibió fue una información parcial insuficiente para dimensionar la amenaza\"",
+          "link": "https://www.elmundo.es/espana/2026/11/16/6afaee19e9cf4a93078b4577.html",
+          "position": 50,
+          "focus": "Cita textual de la Guardia Civil sobre la insuficiencia de la información"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "La Guardia Civil niega que el CNI realizase una «alerta temprana» que avisase de la «dimensión» de la invasión de Ceuta",
+          "link": "https://www.abc.es/espana/guardia-civil-niega-cni-realizase-alerta-temprana-20261116120849-nt.html",
+          "position": 50,
+          "focus": "Niega explícitamente que el CNI advirtiera de la dimensión de la invasión"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "La Guardia Civil rechaza que los avisos del CNI alertaran de la dimensión del asalto a Ceuta",
+          "link": "https://www.lavanguardia.com/politica/20261116/11685418/guardia-civil-rechaza-avisos-cni-alertaran-dimension-asalto-ceuta.html",
+          "position": 50,
+          "focus": "Rechaza que los avisos del CNI alertaran de la dimensión del asalto"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "La Guardia Civil tilda de \"insuficiente\" para \"dimensionar\" el asalto a Ceuta la información que le dio el CNI",
+          "link": "https://www.elespanol.com/espana/tribunales/20261116/guardia-civil-tilda-insuficiente-informacion-dio-cni-dimensionar-asalto-ceuta/1003744459662_0.html",
+          "position": 50,
+          "focus": "Usa el término 'insuficiente' para describir la información del CNI"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
         "El Pais",
         "eldiario.es"
       ]
