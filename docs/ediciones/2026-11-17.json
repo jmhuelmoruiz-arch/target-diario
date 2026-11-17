@@ -1,0 +1,544 @@
+{
+  "fecha": "2026-11-17T13:47:35.092932+00:00",
+  "esquema": 2,
+  "historias": [
+    {
+      "neutral_headline": "El Gobierno aprueba subir el SMI a 1.286 euros y el sueldo de los funcionarios un 4,5%",
+      "section": "Economia",
+      "facts": [
+        "El SMI sube a 1.286 euros al mes",
+        "Los funcionarios reciben una subida salarial del 4,5%",
+        "El Pais cifra la subida del SMI en un 5,3%",
+        "El Mundo y ABC senalan que la medida alcanza a mas de cinco millones de trabajadores",
+        "La Vanguardia indica que el SMI seguira sin tributar",
+        "20minutos afirma que es la mayor subida del SMI de la legislatura y el mayor alza a funcionarios en 35 anos",
+        "El Mundo, El Espanol y 20minutos situan el anuncio a 12 dias de las elecciones del 29-N"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "anuncio tecnico sin connotacion electoral",
+        "polo_b": "maniobra electoral explicita",
+        "resumen": "Algunos medios presentan la subida como una decision economica neutra mientras otros subrayan su cercania a las elecciones como posible calculo politico"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "El Gobierno aprueba subir el salario mínimo un 5,3% y el sueldo de los funcionarios un 4,5%",
+          "link": "https://elpais.com/economia/2026-11-17/el-gobierno-aprueba-subir-el-salario-minimo-un-53-y-el-sueldo-de-los-funcionarios-un-45.html",
+          "position": 20,
+          "focus": "Destaca las cifras concretas de ambas subidas sin mencionar el contexto electoral"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "El Gobierno lanza en plena campaña electoral la subida del salario mínimo a 1.286 euros y del 4,5% en el sueldo de los funcionarios y alcanza a más de cinco millones de trabajadores",
+          "link": "https://www.elmundo.es/economia/2026/11/17/6afc2279fc6c83ea548b45a1.html",
+          "position": 90,
+          "focus": "Enmarca explicitamente la medida como lanzada 'en plena campana electoral', sugiriendo calculo politico"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Subida de sueldo para cinco millones de trabajadores: las medidas aprobadas por el Gobierno",
+          "link": "https://www.abc.es/economia/cuentas-corrientes/subida-sueldo-cinco-millones-trabajadores-espana-medidas-20261117125039-nt.html",
+          "position": 25,
+          "focus": "Centra el foco en el numero de beneficiarios, sin mencionar el calendario electoral"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "El salario mínimo sube a 1.286 euros al mes: cuál es el neto, desde cuándo se cobra y quién lo recibe",
+          "link": "https://www.eldiario.es/economia/salario-minimo-sube-1-286-euros-mes-neto-cobra-recibe_1_13669825.html",
+          "position": 15,
+          "focus": "Enfoque de servicio practico: cuanto se cobra, desde cuando y quien lo recibe, sin mencion politica"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "El Gobierno ha aprobado la subida del SMI hasta los 1.286 euros y seguirá sin tributar",
+          "link": "https://www.lavanguardia.com/economia/20261117/11686354/gobierno-aprobado-subida-smi-1-286-euros-seguira-tributar.html",
+          "position": 20,
+          "focus": "Resalta el aspecto fiscal (no tributacion) sin vincularlo a elecciones"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "El Gobierno aprueba a 12 días del 29-N la subida del SMI y del sueldo de los funcionarios",
+          "link": "https://www.elespanol.com/invertia/economia/empleo/20261117/gobierno-aprueba-dias-subida-smi-sueldo-funcionarios/1003744461156_0.html",
+          "position": 70,
+          "focus": "Vincula la aprobacion con la proximidad de las elecciones del 29-N"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "El Gobierno aprueba la mayor subida del SMI de toda la legislatura y el mayor alza a los funcionarios en 35 años a solo doce días del 29N",
+          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/gobierno-aprueba-subida-salario-minimo-1-286-euros-mes-partir-2027_7062107_0.html",
+          "position": 65,
+          "focus": "Combina la proximidad electoral con un marco de logro historico (mayor subida en decadas)"
+        }
+      ],
+      "rango": 75,
+      "discrepancia": "alta",
+      "silenciosos": []
+    },
+    {
+      "neutral_headline": "Feijóo hace campaña en Eibar en medio de protestas y abucheos, acompañado por el candidato del PP Jon Echeverría",
+      "section": "Politica",
+      "facts": [
+        "Feijóo participó en un acto de campaña en Eibar (Guipúzcoa) junto a Jon Echeverría",
+        "El acto se desarrolló entre gritos, abucheos e insultos de manifestantes",
+        "Feijóo afirmó públicamente que no dará 'un paso atrás' en Euskadi ni en España",
+        "Echeverría ha evitado anunciar públicamente dónde hará campaña para evitar incidentes violentos",
+        "Feijóo acusó a Sánchez de 'justificar' la violencia al no condenar una agresión sufrida por Echeverría",
+        "El PP mantiene un pacto de gobierno con Vox en Gipuzkoa"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "Feijóo como víctima firme de la violencia",
+        "polo_b": "Feijóo cuestionado por su pacto con Vox",
+        "resumen": "Los medios difieren en si el foco debe estar en la firmeza de Feijóo ante la violencia o en el contexto político del pacto PP-Vox que genera las protestas"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Feijóo, junto a Echeverría, en Eibar: “No nos van a callar, no vamos a dar un paso atrás en Euskadi ni en ningún lugar de España”",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-11-17/feijoo-junto-a-echeverria-en-eibar-no-nos-van-a-callar-no-vamos-a-dar-un-paso-atras-en-euskadi-ni-en-ningun-lugar-de-espana.html",
+          "position": 15,
+          "focus": "Destaca la declaración de firmeza de Feijóo citando textualmente su desafío a los violentos; omite el contexto del pacto con Vox"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Feijóo se planta entre gritos e insultos ante los violentos en Guipúzcoa: \"¡Ni un paso atrás!\"",
+          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/17/6afc3a88e85ece1a3b8b458b.html",
+          "position": 10,
+          "focus": "Enfatiza el ambiente hostil ('gritos e insultos') y la postura desafiante de Feijóo como protagonista frente a 'los violentos'; no menciona el pacto PP-Vox"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Jon Echeverría no dirá dónde hace campaña para sortear la violencia: «Seguiremos recorriendo Guipúzcoa»",
+          "link": "https://www.abc.es/espana/pais-vasco/jon-echeverria-hara-campana-anunciar-sortear-violencia-20261117124427-nt.html",
+          "position": 35,
+          "focus": "Centra el relato en Echeverría y su estrategia de seguridad para evitar agresiones, con foco más operativo que en el enfrentamiento político"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Feijóo reivindica el pacto del PP con Vox en Gipuzkoa en la plaza de la república de Eibar y entre gritos y abucheos",
+          "link": "https://www.eldiario.es/euskadi/feijoo-reivindica-pacto-pp-vox-gipuzkoa-plaza-republica-eibar-gritos-abucheos_1_13670237.html",
+          "position": 85,
+          "focus": "Resalta el pacto PP-Vox como elemento central de la noticia y contextualiza los abucheos como reacción a ese pacto, minimizando el relato de victimización"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Feijóo acusa a Sánchez de “justificar” la violencia por “no condenar” la agresión a Echeverría",
+          "link": "https://www.lavanguardia.com/politica/20261117/11686419/feijoo-acusa-sanchez-justificar-violencia-condenar-incidente-violento-vivido-echeverria-gipuzkoa.html",
+          "position": 55,
+          "focus": "Traslada el eje hacia la acusación política contra Sánchez, introduciendo un juicio de responsabilidad que no aparece en los demás titulares"
+        }
+      ],
+      "rango": 75,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "El Espanol"
+      ]
+    },
+    {
+      "neutral_headline": "Huelga de maquinistas afecta a los servicios de Cercanías en Madrid y Rodalies en Barcelona",
+      "section": "Sociedad",
+      "facts": [
+        "Hay una huelga de maquinistas que afecta a Cercanías de Madrid y a Rodalies de Barcelona",
+        "No se cumplieron los servicios mínimos previstos",
+        "La Generalitat (segun El Mundo) y el Govern (segun La Vanguardia) advierten de posibles despidos",
+        "El Pais cifra en 40% los servicios minimos suspendidos en Rodalies",
+        "20minutos cifra en 97% los servicios minimos suprimidos en Madrid y en 40% en Barcelona"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "responsabilidad del Gobierno (promesas incumplidas)",
+        "polo_b": "responsabilidad de los maquinistas (incumplimiento de servicios minimos)",
+        "resumen": "Los medios difieren en si el origen del conflicto se situa en el Gobierno por incumplir promesas de seguridad o en los maquinistas por no respetar los servicios minimos pactados"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "La huelga del ferrocarril paraliza por completo Cercanías de Madrid y deja en Rodalies un 40% de los servicios mínimos suspendidos",
+          "link": "https://elpais.com/economia/2026-11-17/mas-de-15-millones-de-viajeros-en-tren-vuelven-a-estar-pendientes-de-24-horas-de-paro-sindical.html",
+          "position": 50,
+          "focus": "Describe el impacto concreto (paralisis total en Madrid, 40% suspendido en Rodalies) sin senalar causante"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Caos en Cercanías y Rodalies por el incumplimiento de los servicios mínimos: la Generalitat advierte de posibles despidos",
+          "link": "https://www.elmundo.es/economia/2026/11/17/6afbf4c2e9cf4a547f8b4577.html",
+          "position": 75,
+          "focus": "Centra el caos en el incumplimiento de servicios minimos y recoge la advertencia institucional de despidos, lo que responsabiliza a los huelguistas"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "La huelga de maquinistas colapsa Madrid y Barcelona tras no cumplirse los servicios mínimos previstos",
+          "link": "https://www.abc.es/economia/huelga-maquinistas-deja-cercanias-madrid-servicio-rodalies-20261117074616-nt.html",
+          "position": 65,
+          "focus": "Atribuye el colapso a la 'huelga de maquinistas' y al incumplimiento de minimos, aunque sin mencionar despidos"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Los maquinistas de Rodalies incumplen los servicios mínimos y el Govern avisa de posibles despidos",
+          "link": "https://www.lavanguardia.com/local/catalunya/20261117/11685350/trafico-carreteras-cortes-trenes-rodalies-accesos-barcelona-cataluna-martes-17-noviembre-en-directo.html",
+          "position": 80,
+          "focus": "Explicita que son los maquinistas quienes incumplen los servicios minimos y amplifica la amenaza de despidos del Govern"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "La huelga por las promesas incumplidas del Gobierno en seguridad ferroviaria paraliza la red de Cercanías en Madrid",
+          "link": "https://www.elespanol.com/invertia/observatorios/movilidad/20261117/arranca-huelga-ferroviaria-caos-cercanias-rodalies-servicios-minimos-no-cumpliendo/1003744460644_0.html",
+          "position": 15,
+          "focus": "Senala como causa raiz las promesas incumplidas del Gobierno en seguridad ferroviaria, no la conducta de los trabajadores"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "La nueva huelga de trenes suprime el 97% de servicios mínimos de los Cercanías en Madrid y el 40% en Barcelona",
+          "link": "https://www.20minutos.es/nacional/directo-huelga-trenes-lleva-miles-viajeros-coger-coche-colapsa-trafico-las-grandes-ciudades_7061956_0.html",
+          "position": 50,
+          "focus": "Se limita a cuantificar el porcentaje de servicios suprimidos en ambas ciudades sin atribuir responsabilidad"
+        }
+      ],
+      "rango": 65,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Un extrabajador de una cantera declara ante la jueza que el balasto usado por Adif en las vías de Adamuz era defectuoso",
+      "section": "Sociedad",
+      "facts": [
+        "Un extrabajador/testigo de una cantera de balasto declaró ante la jueza del caso Adamuz",
+        "El testigo afirma que el material usado por Adif en las obras previas al accidente era defectuoso",
+        "Segun 20minutos, el testigo asegura que el balasto incumple la norma de Adif"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Un extrabajador de la cantera del balasto de Adamuz da pistas a la jueza sobre material “defectuoso” en el punto del siniestro",
+          "link": "https://elpais.com/espana/2026-11-17/un-extrabajador-de-la-cantera-del-balasto-de-adamuz-da-pistas-a-la-jueza-sobre-material-defectuoso-en-el-punto-del-siniestro.html",
+          "position": 50,
+          "focus": "Centra en el testimonio del extrabajador y las pistas aportadas a la jueza sobre el material defectuoso, sin atribuir explícitamente responsabilidad a Adif en el titular"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Un ex empleado de una cantera denuncia a la juez que Adif usó material defectuoso en las obras previas al choque de trenes de Adamuz",
+          "link": "https://www.elmundo.es/andalucia/2026/11/17/6afbed45fdddffac5b8b45a2.html",
+          "position": 50,
+          "focus": "Destaca la denuncia del exempleado y vincula directamente el uso del material defectuoso a Adif en las obras previas al choque"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Un testigo alerta a la juez de Adamuz de que Adif instaló balasto defectuoso de su cantera en la vía del accidente",
+          "link": "https://www.elespanol.com/invertia/observatorios/movilidad/20261117/testigo-alerta-juez-adamuz-adif-instalo-balasto-defectuoso-cantera-via-accidente/1003744460863_0.html",
+          "position": 50,
+          "focus": "Enfatiza que fue Adif quien instaló el balasto defectuoso procedente de la cantera, situando a Adif como actor directo"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "La jueza del caso Adamuz recoge la denuncia de un exempleado que asegura que el balasto de las vías es \"defectuoso\" e \"incumple la norma de Adif\"",
+          "link": "https://www.20minutos.es/andalucia/cordoba/jueza-accidente-adamuz-incorpora-denuncia-un-exempleado-que-asegura-que-balasto-es-defectuoso_7062028_0.html",
+          "position": 50,
+          "focus": "Resalta la acción judicial (la jueza recoge la denuncia) y cita textualmente que el material incumple la norma de Adif"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "ABC",
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Ucrania ataca el puente de Crimea y destruye parte de su estructura",
+      "section": "Internacional",
+      "facts": [
+        "Ucrania atacó el puente que conecta Crimea con Rusia",
+        "El ataque destruyó parte de la estructura del puente",
+        "El Pais señala que el puente es símbolo de la anexión rusa impuesta por Putin",
+        "La Vanguardia indica que es el segundo día consecutivo de ataques al puente",
+        "El Mundo menciona que Ucrania y Rusia intercambiaron ataques a puentes estratégicos",
+        "El Espanol afirma que el ataque fue masivo, destruyó un tramo de la carretera y cortó el tráfico marítimo",
+        "20minutos describe el ataque como la mayor ofensiva de drones de Ucrania hasta el momento",
+        "eldiario.es confirma que Ucrania atacó y destruyó parte del puente"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "ataque unilateral ucraniano a símbolo de la anexión",
+        "polo_b": "intercambio mutuo de ataques entre Ucrania y Rusia",
+        "resumen": "La mayoría enmarca el hecho como una acción ofensiva de Ucrania contra un símbolo del dominio ruso, mientras El Mundo lo presenta como parte de un intercambio bélico recíproco entre ambos países."
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Ucrania destruye parte del puente de Crimea, símbolo de la anexión rusa impuesta por Putin",
+          "link": "https://elpais.com/internacional/2026-11-17/ucrania-destruye-e-inutiliza-parte-del-puente-de-crimea.html",
+          "position": 10,
+          "focus": "Destaca el valor simbólico del puente como emblema de la anexión rusa impuesta por Putin, centrando la narrativa en la acción ucraniana."
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Ucrania y Rusia intercambian ataques a puentes estratégicos: duro golpe al de Crimea",
+          "link": "https://www.elmundo.es/internacional/2026/11/17/6afc02ab21efa0e0158b458e.html",
+          "position": 70,
+          "focus": "Enmarca el hecho como parte de un intercambio bélico mutuo entre Ucrania y Rusia, difuminando la autoría unilateral del ataque."
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Ucrania ataca y destruye parte del puente que une Crimea con Rusia",
+          "link": "https://www.eldiario.es/internacional/ucrania-ataca-destruye-parte-puente-une-crimea-rusia_1_13669560.html",
+          "position": 15,
+          "focus": "Describe de forma directa y factual que Ucrania atacó y destruyó parte del puente, sin añadir carga simbólica adicional."
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Ucrania golpea por segundo día consecutivo el puente de Crimea, símbolo de las ambiciones de Putin",
+          "link": "https://www.lavanguardia.com/internacional/20261117/11686149/nuevo-ataque-drones-ucranianos-puente-crimea-deja-dos-muertos.html",
+          "position": 15,
+          "focus": "Subraya la continuidad de los ataques ucranianos (segundo día consecutivo) y refuerza el simbolismo ligado a las ambiciones de Putin."
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Un ataque ucraniano masivo al puente de Crimea destruye un tramo de la carretera y corta también el tráfico marítimo",
+          "link": "https://www.elespanol.com/mundo/europa/20261117/ataque-ucraniano-masivo-puente-crimea-destruye-tramo-carretera-corta-trafico-maritimo/1003744460864_0.html",
+          "position": 40,
+          "focus": "Pone el foco en la magnitud del ataque (masivo) y sus consecuencias logísticas, como el corte del tráfico marítimo, más que en el simbolismo político."
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Ucrania lanza su mayor ofensiva de drones y destruye parte del puente de Crimea, uno de los símbolos de la anexión de Rusia",
+          "link": "https://www.20minutos.es/internacional/ucrania-lanza-su-mayor-ofensiva-drones-destruye-parte-puente-crimea-simbolo-anexion-rusa_7062035_0.html",
+          "position": 15,
+          "focus": "Resalta la escala del ataque ucraniano (mayor ofensiva de drones) y mantiene la referencia al simbolismo de la anexión."
+        }
+      ],
+      "rango": 60,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "ABC"
+      ]
+    },
+    {
+      "neutral_headline": "Un exalto cargo de Adif declara sobre las llamadas de Pardo de Vera relacionadas con Jésica Rodríguez en Tragsatec",
+      "section": "Politica",
+      "facts": [
+        "Un ex alto cargo de Adif testificó sobre la situación laboral de Jésica Rodríguez en Tragsatec",
+        "El testigo niega haber dado un trato de favor o haber ordenado la contratación de Jésica Rodríguez",
+        "El testigo admite que Pardo de Vera lo llamó en relación con Jésica Rodríguez",
+        "El Mundo y ABC recogen que la llamada se debió a que estaban 'molestando' a Jésica Rodríguez",
+        "ABC añade que, según el testigo, el motivo de las llamadas a Jésica era que no fichaba",
+        "eldiario.es señala que el testigo niega que Pardo de Vera ordenara contratarla, pero reconoce gestiones para pedir que no la molestaran",
+        "El Español indica que, según el testigo, Pardo de Vera se quejó en nombre de Ábalos"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "foco en Pardo de Vera como responsable directa",
+        "polo_b": "foco en la implicación de Ábalos a través de Pardo de Vera",
+        "resumen": "Tres medios centran el relato en las llamadas de Pardo de Vera, mientras El Español subraya que esas gestiones se hicieron en nombre de Ábalos, apuntando mas arriba en la cadena de responsabilidad"
+      },
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "Un ex alto cargo de Adif niega haber enchufado a Jésica en Tragsatec pero admite que Pardo de Vera lo llamó porque la estaban \"molestando\"",
+          "link": "https://www.elmundo.es/espana/2026/11/17/6afc289ce4d4d8cf2d8b457b.html",
+          "position": 15,
+          "focus": "Destaca la negativa a haber enchufado a Jésica y centra la llamada de Pardo de Vera en el hecho de que la 'molestaban', sin mencionar a Ábalos"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Un exdirectivo de Adif declara que Pardo de Vera le dijo que «molestaban» a Jésica Rodríguez al llamarla porque no fichaba",
+          "link": "https://www.abc.es/espana/exdirectivo-adif-ignacio-zaldivar-declara-pardo-vera-20261117132424-nt.html",
+          "position": 20,
+          "focus": "Añade el detalle de que Jésica no fichaba como motivo de las llamadas, manteniendo el foco en Pardo de Vera y omitiendo cualquier mención a Ábalos"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Un excargo de Adif niega que Pardo de Vera ordenara contratar a Jésica Rodríguez pero reconoce gestiones para pedir que no la molestaran",
+          "link": "https://www.eldiario.es/politica/excargo-adif-niega-pardo-vera-ordenara-contratar-jesica-rodriguez-reconoce-gestiones-pedir-no-molestaran_1_13670106.html",
+          "position": 15,
+          "focus": "Enfatiza la negación de una orden directa de contratación por parte de Pardo de Vera, matizando que solo hubo gestiones para que no la molestaran"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Un exalto cargo de Adif dice que no dio \"trato de favor\" a Jésica pero admite que Pardo de Vera se quejó en nombre de Ábalos",
+          "link": "https://www.elespanol.com/espana/tribunales/20261117/exalto-cargo-adif-dice-no-dio-trato-favor-jesica-admite-pardo-vera-quejo-nombre-abalos/1003744461075_0.html",
+          "position": 80,
+          "focus": "Introduce explícitamente que la queja de Pardo de Vera se hizo en nombre de Ábalos, desplazando el foco de responsabilidad hacia el ministro"
+        }
+      ],
+      "rango": 65,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "El Pais",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "Investigación periodística vincula a Deutsche Bank con flujos financieros de distintos casos de corrupción y blanqueo",
+      "section": "Economia",
+      "facts": [
+        "Una investigación periodística señala a Deutsche Bank en relación con movimientos financieros de varios casos.",
+        "eldiario.es vincula al banco con empresas españolas investigadas por corrupción.",
+        "La Vanguardia vincula al banco con fondos relacionados con Jeffrey Epstein y oligarcas rusos.",
+        "El Español vincula al banco con las finanzas de la trama Epstein y con blanqueo en el entorno del grupo Trump."
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "Foco en corrupción empresarial española",
+        "polo_b": "Foco en trama internacional Epstein/Trump/oligarcas",
+        "resumen": "Los medios eligen protagonistas distintos de la misma investigación: uno centra el caso en España, los otros en la dimensión internacional ligada a Epstein y figuras rusas o del entorno Trump."
+      },
+      "frames": [
+        {
+          "outlet": "eldiario.es",
+          "headline": "El Deutsche Bank financió las operaciones de la lista negra de empresas españolas investigadas por corrupción",
+          "link": "https://www.eldiario.es/economia/deutsche-bank-financio-operaciones-lista-negra-empresas-espanolas-investigadas-corrupcion_1_13668563.html",
+          "position": 10,
+          "focus": "Destaca la implicación de Deutsche Bank en la financiación de empresas españolas corruptas, omitiendo la dimensión internacional del caso."
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Deutsche Bank procesó millones ligados a Jeffrey Epstein y a oligarcas rusos",
+          "link": "https://www.lavanguardia.com/dinero/20261117/11686248/deutsche-bank-proceso-mas-500-millones-euros-ligados-jeffrey-epstein.html",
+          "position": 85,
+          "focus": "Pone el acento en los fondos de Epstein y oligarcas rusos, dejando fuera la vertiente española."
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Una investigación periodística vincula a Deutsche Bank con las finanzas de la trama Epstein y el blanqueo en el grupo Trump",
+          "link": "https://www.elespanol.com/mundo/europa/20261117/investigacion-periodistica-vincula-deutsche-bank-finanzas-trama-epstein-blanqueo-grupo-trump/1003744461387_0.html",
+          "position": 90,
+          "focus": "Enfatiza la conexión con Epstein y el entorno de Trump, sin mencionar el caso de corrupción empresarial en España."
+        }
+      ],
+      "rango": 80,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Mundo",
+        "El Pais"
+      ]
+    },
+    {
+      "neutral_headline": "Fernando Alonso correrá el Dakar 2027 con Aston Martin",
+      "section": "Deportes",
+      "facts": [
+        "Fernando Alonso competirá en el Dakar",
+        "La edición será la de 2027",
+        "Lo hará con el equipo Aston Martin",
+        "Alonso declaró que tras decidir seguir en F1 quiso asumir el desafío por completo"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "Fernando Alonso correrá el Dakar con Aston Martin",
+          "link": "https://www.elmundo.es/deportes/mas-motor/2026/11/17/6afc22a521efa0154a8b4572.html",
+          "position": 50,
+          "focus": "Anuncia el hecho sin precisar el año, centrado en la asociación con Aston Martin"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Fernando Alonso correrá el Dakar 2027 con Aston Martin",
+          "link": "https://www.abc.es/deportes/formula-1/fernando-alonso-correra-dakar-2027-aston-martin-20261117101355-nt.html",
+          "position": 50,
+          "focus": "Anuncia el hecho con el año concreto 2027 y la marca Aston Martin"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Ya es oficial: Fernando Alonso vuelve al Dakar de la mano de Aston Martin",
+          "link": "https://www.lavanguardia.com/deportes/automovilismo/20261117/11686265/oficial-fernando-alonso-vuelve-dakar.html",
+          "position": 50,
+          "focus": "Enfatiza el regreso de Alonso al Dakar y la confirmación oficial, sin mencionar el año"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Fernando Alonso correrá el Dakar 2027 con Aston Martin: \"Tras decidir seguir en F1, quise asumir el desafío por completo\"",
+          "link": "https://www.elespanol.com/deportes/motor/20261117/fernando-alonso-correra-dakar-aston-martin-decidir-seguir-f1-quise-asumir-desafio-completo/1003744460939_0.html",
+          "position": 50,
+          "focus": "Incluye el año 2027 y una declaración textual de Alonso sobre su decisión"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "El Pais",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Bruselas mejora sus previsiones de crecimiento para España aunque advierte sobre la inflación y otros riesgos",
+      "section": "Economia",
+      "facts": [
+        "Bruselas mejora las previsiones económicas de España y la zona euro",
+        "El Mundo y La Vanguardia señalan que la mejora llega en plena campaña electoral",
+        "El Español y 20minutos citan un crecimiento del 2,6% para España este año",
+        "El Mundo y El Español/20minutos indican que la inflación se dispara o aumenta",
+        "El Español señala que la inflación y el paro están entre los peores de la UE",
+        "La Vanguardia señala riesgos relacionados con la vivienda",
+        "eldiario.es afirma que España crecerá el doble que la UE en 2026",
+        "eldiario.es afirma que España será el mayor creador de empleo entre las grandes economías europeas"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "enfasis en la mejora y el crecimiento positivo",
+        "polo_b": "enfasis en los riesgos y problemas (inflacion, paro, vivienda)",
+        "resumen": "los medios difieren en si subrayan el dato positivo de la mejora economica o los problemas que persisten (inflacion, paro, vivienda)"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Bruselas mejora las previsiones económicas de la zona euro y España pese a la guerra y la inflación",
+          "link": "https://elpais.com/economia/2026-11-17/bruselas-mejora-las-previsiones-economicas-de-la-zona-euro-y-espana-pese-a-la-guerra-y-la-inflacion.html",
+          "position": 15,
+          "focus": "destaca la mejora de previsiones pese al contexto adverso (guerra, inflacion), sin detallar los problemas especificos"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "La advertencia de Bruselas en plena campaña: mejora su previsión de crecimiento para España pero constata que los precios se disparan",
+          "link": "https://www.elmundo.es/economia/2026/11/17/6afc1a57e9cf4af8588b45ab.html",
+          "position": 60,
+          "focus": "enmarca la mejora como 'advertencia' en campaña y equipara el avance con el disparo de precios"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "España crecerá el doble que la UE en 2026 y será el mayor creador de empleo entre las grandes economías europeas",
+          "link": "https://www.eldiario.es/economia/espana-crecera-doble-ue-2026-sera-mayor-creador-empleo-grandes-economias-europeas_1_13669561.html",
+          "position": 10,
+          "focus": "destaca cifras muy positivas de crecimiento y empleo futuro, omite cualquier mencion a inflacion o riesgos"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Bruselas mejora las previsiones económicas de España pero avisa de los riesgos de la vivienda",
+          "link": "https://www.lavanguardia.com/economia/20261117/11686208/bruselas-mejora-previsiones-economicas-espana-avisa-riesgos-vivienda.html",
+          "position": 55,
+          "focus": "reconoce la mejora pero centra la atencion en el riesgo especifico de la vivienda"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Bruselas eleva hasta el 2,6% el crecimiento de España para este año pero con la inflación y el paro entre los peores de la UE",
+          "link": "https://www.elespanol.com/invertia/economia/macroeconomia/20261117/bruselas-eleva-crecimiento-espana-ano-inflacion-paro-peores-ue/1003744460909_0.html",
+          "position": 70,
+          "focus": "menciona la cifra de mejora pero enfatiza que inflacion y paro estan entre los peores de la UE"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Bruselas impulsa a España con matices: mejora su crecimiento al 2,6% para este año pero la inflación se dispara por la energía",
+          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/bruselas-impulsa-espana-con-matices-mejora-su-crecimiento-2-6-para-este-ano-pero-inflacion-se-dispara-por-factura-energetica_7061952_0.html",
+          "position": 55,
+          "focus": "equilibra la mejora del 2,6% con el aviso del disparo de la inflacion por la energia"
+        }
+      ],
+      "rango": 60,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "ABC"
+      ]
+    }
+  ]
+}
