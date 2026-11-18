@@ -1,0 +1,599 @@
+{
+  "fecha": "2026-11-18T13:23:27.916839+00:00",
+  "esquema": 2,
+  "historias": [
+    {
+      "neutral_headline": "Jornada de campaña electoral marcada por cruces entre PP y PSOE sobre eutanasia, violencia política, corrupción y voto",
+      "section": "Politica",
+      "facts": [
+        "Feijóo planteó una posible 'derogación total' de la ley de eutanasia (El País)",
+        "El Mundo relata agresiones a cargos del PP en el País Vasco durante un día de campaña de Feijóo",
+        "Feijóo atribuye la violencia a 'blanquear a Bildu' (El Mundo)",
+        "ABC afirma que Sánchez busca retener 'más de medio millón' de votantes que se van al PP",
+        "eldiario.es informa que Feijóo señala a Gamarra como responsable política de las reuniones del abogado del PP con Koldo",
+        "La Vanguardia recoge que Albiol pide un triunfo amplio del PP para impedir que Sánchez lidere la oposición",
+        "El Español destaca la pregunta de Susanna Griso a Sánchez sobre su posible dimisión, a la que respondió evasivamente",
+        "20minutos recoge que Sánchez dice haber asumido responsabilidades políticas por la corrupción y distingue casos 'reales y ficticios'"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "foco crítico hacia el PP",
+        "polo_b": "foco crítico hacia el PSOE/Sánchez",
+        "resumen": "Los medios difieren en si el protagonismo negativo de la jornada recae sobre el PP (eutanasia, Koldo) o sobre el PSOE/Sánchez (corrupción, resistencia a dimitir)"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Feijóo abre la puerta a una “derogación total” de la ley de la eutanasia",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-11-18/feijoo-abre-la-puerta-a-una-derogacion-total-de-la-ley-de-la-eutanasia.html",
+          "position": 15,
+          "focus": "El País destaca la propuesta radical de Feijóo sobre la eutanasia, situando al PP como foco de polémica ideológica"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Un día de campaña con Feijóo tras las agresiones a cargos del PP en el País Vasco: \"La violencia es consecuencia directa de blanquear a Bildu\"",
+          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/17/6afca35ce4d4d8b81f8b45ab.html",
+          "position": 85,
+          "focus": "El Mundo enmarca la violencia como responsabilidad de Bildu/PSOE, presentando al PP y Feijóo como víctimas"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Sánchez busca retener al más de medio millón de votantes que se va al PP",
+          "link": "https://www.abc.es/espana/sanchez-busca-retener-medio-millon-votantes-pp-20261117013708-nt.html",
+          "position": 70,
+          "focus": "ABC centra la noticia en la pérdida de apoyo del PSOE hacia el PP, con tono favorable al avance del PP"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Feijóo señala a Gamarra como responsable política de las reuniones del abogado del PP con Koldo",
+          "link": "https://www.eldiario.es/politica/feijoo-senala-gamarra-responsable-politica-reuniones-abogado-pp-koldo_1_13671009.html",
+          "position": 10,
+          "focus": "eldiario.es resalta un escándalo interno del PP (Koldo) y la responsabilidad de Gamarra, foco crítico hacia el PP"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Albiol pide un triunfo amplio del PP que impida que Sánchez lidere la oposición y el PSOE",
+          "link": "https://www.lavanguardia.com/politica/20261118/11687023/albiol-pide-triunfo-amplio-pp-impida-sanchez-lidere-oposicion-psoe.html",
+          "position": 80,
+          "focus": "La Vanguardia recoge un mensaje triunfalista del PP frente a Sánchez, reforzando el relato de debilidad del PSOE"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "\"¿Qué tiene que pasar para que usted dimita?\": la pregunta de Susanna Griso de la que Sánchez salió por la tangente",
+          "link": "https://www.elespanol.com/espana/politica/20261118/pasar-usted-dimita-pregunta-susanna-griso-sanchez-salio-tangente/1003744462600_0.html",
+          "position": 90,
+          "focus": "El Español subraya la evasiva de Sánchez ante una pregunta directa sobre dimisión, foco crítico hacia el PSOE"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Sánchez dice que ya ha asumido responsabilidades políticas por la corrupción y distingue casos \"reales y ficticios\"",
+          "link": "https://www.20minutos.es/nacional/sanchez-dice-que-ya-ha-asumido-responsabilidades-politicas-por-corrupcion-distingue-casos-reales-ficticios_7062500_0.html",
+          "position": 60,
+          "focus": "20minutos recoge la defensa de Sánchez sobre su gestión de la corrupción, con tono más neutral/defensivo hacia el PSOE"
+        }
+      ],
+      "rango": 80,
+      "discrepancia": "alta",
+      "silenciosos": []
+    },
+    {
+      "neutral_headline": "La Audiencia Nacional admite la querella contra Julio Iglesias por delitos contra la libertad sexual",
+      "section": "Sociedad",
+      "facts": [
+        "La Audiencia Nacional admitió a trámite una querella contra Julio Iglesias",
+        "La querella incluye delitos contra la libertad sexual",
+        "El Pais, eldiario.es, La Vanguardia y 20minutos añaden que también se imputan lesiones y trato degradante",
+        "ABC y El Espanol especifican que la querella fue presentada por dos extrabajadoras de Julio Iglesias",
+        "El Mundo añade que se cita a las querellantes para febrero"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "La Audiencia Nacional admite la querella contra Julio Iglesias por delitos contra la libertad sexual, lesiones y trato degradante",
+          "link": "https://elpais.com/sociedad/2026-11-18/la-audiencia-nacional-admite-la-querella-contra-julio-iglesias-por-delitos-contra-la-libertad-sexual-lesiones-y-trato-degradante.html",
+          "position": 50,
+          "focus": "Incluye los tres delitos imputados: libertad sexual, lesiones y trato degradante"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "La Audiencia Nacional admite la querella contra Julio Iglesias por delitos contra libertad sexual y cita a las querellantes en febrero",
+          "link": "https://www.elmundo.es/cultura/musica/2026/11/18/6afd91a2fc6c83fa228b4585.html",
+          "position": 50,
+          "focus": "Menciona delitos contra libertad sexual y añade el detalle de la citación en febrero"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "La Audiencia Nacional admite la querella presentada contra Julio Iglesias por dos de sus extrabajadoras",
+          "link": "https://www.abc.es/gente/audiencia-nacional-admite-querella-julio-iglesias-presentada-20261118124229-nt.html",
+          "position": 50,
+          "focus": "Centra el titular en que la querella fue presentada por dos extrabajadoras, sin detallar los delitos"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "La Audiencia Nacional abre una causa contra Julio Iglesias por delitos contra la libertad sexual, lesiones y trato degradante",
+          "link": "https://www.eldiario.es/politica/audiencia-nacional-abre-causa-julio-iglesias-delitos-libertad-sexual-lesiones-trato-degradante_1_13656802.html",
+          "position": 50,
+          "focus": "Usa 'abre una causa' e incluye los tres delitos imputados"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "El juez abre una causa contra Julio Iglesias por delitos contra libertad sexual, lesiones y trato degradante",
+          "link": "https://www.lavanguardia.com/gente/20261118/11687154/juez-abre-causa-julio-iglesias-delitos-libertad-sexual-lesiones-trato-degradante.html",
+          "position": 50,
+          "focus": "Atribuye la acción al juez en lugar de a la Audiencia Nacional, incluye los tres delitos"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "La Audiencia Nacional admite la querella por delitos sexuales contra Julio Iglesias presentada por dos de sus extrabajadoras",
+          "link": "https://www.elespanol.com/espana/tribunales/20261118/audiencia-nacional-admite-querella-agresion-sexual-julio-iglesias-presentada-extrabajadoras/1003744462775_0.html",
+          "position": 50,
+          "focus": "Combina delitos sexuales con el detalle de las dos extrabajadoras querellantes"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "La Audiencia Nacional admite la querella contra Julio Iglesias por delitos contra libertad sexual, lesiones y trato degradante",
+          "link": "https://www.20minutos.es/nacional/audiencia-nacional-admite-querella-contra-julio-iglesias-por-delitos-contra-libertad-sexual-lesiones-trato-degradante_7062604_0.html",
+          "position": 50,
+          "focus": "Incluye los tres delitos imputados: libertad sexual, lesiones y trato degradante"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": []
+    },
+    {
+      "neutral_headline": "La sonda Voyager 1 alcanza la distancia de un día luz de la Tierra",
+      "section": "Sociedad",
+      "facts": [
+        "La Voyager 1 se encuentra a una distancia de un día luz de la Tierra",
+        "La sonda lleva 49 años de viaje (El Mundo)",
+        "La señal tarda unas 48 horas en recibir respuesta (ABC)",
+        "La sonda todavía responde a las comunicaciones (El Mundo)"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "La humanidad cruza una nueva frontera: la ‘Voyager 1’ ya está a un día luz de la Tierra",
+          "link": "https://elpais.com/ciencia/2026-11-18/la-voyager-1-ya-esta-a-un-dia-luz-asi-se-mantiene-vivo-el-contacto-interestelar-de-la-humanidad.html",
+          "position": 50,
+          "focus": "Enmarca el hito como un hecho histórico para la humanidad, sin detalles tecnicos adicionales"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "La Voyager 1 alcanza un día luz de la Tierra: 49 años de viaje y todavía contesta",
+          "link": "https://www.elmundo.es/papel/historias/2026/11/17/6afc7feafc6c8338198b459a.html",
+          "position": 50,
+          "focus": "Añade el dato de los 49 años de viaje y destaca que la sonda sigue funcionando"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "La Voyager 1 se sitúa a un día luz de la Tierra: ¿qué significa y por qué tardamos 48 horas en recibir una respuesta?",
+          "link": "https://www.abc.es/ciencia/voyager-situa-dia-luz-tierra-significa-20261117111611-nt.html",
+          "position": 50,
+          "focus": "Explica el significado tecnico del hito y detalla el retraso de 48 horas en la comunicacion"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "El Espanol",
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Sánchez concede entrevista a la revista 'Lecturas' con declaraciones sobre su vida personal y la corrupción",
+      "section": "Politica",
+      "facts": [
+        "Sánchez concedió una entrevista a la revista 'Lecturas'",
+        "Sánchez defendió la 'fortaleza y humanidad' de Begoña Gómez y dijo que es un 'privilegio' tenerla a su lado",
+        "Sánchez afirmó que 'hay casos de corrupción que son reales y casos que son ficticios'",
+        "Sánchez relacionó la novela 'El amor en los tiempos del cólera' con su propia situación"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "normalización/defensa del gesto mediático",
+        "polo_b": "ridiculización/crítica del gesto mediático"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Sánchez defiende en ‘Lecturas’ la “fortaleza y humanidad” de Begoña Gómez: “Es un privilegio tenerla a mi lado”",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-11-18/sanchez-defiende-en-lecturas-la-fortaleza-y-humanidad-de-begona-gomez-es-un-privilegio-tenerla-a-mi-lado.html",
+          "position": 15,
+          "focus": "Destaca la defensa emotiva de Begoña Gómez por parte de Sánchez, presentándola de forma favorable; omite el contexto de la elección de medio o posibles críticas."
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Las mujeres que leen 'Lecturas' y más cosas",
+          "link": "https://www.eldiario.es/opinion/zona-critica/mujeres-leen-lecturas-cosas_129_13673076.html",
+          "position": 75,
+          "focus": "El titular irónico sugiere una crítica implícita hacia el tipo de público o medio elegido para la entrevista, sin detallar el contenido concreto de las declaraciones."
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Sánchez: “Hay casos de corrupción que son reales y casos que son ficticios”",
+          "link": "https://www.lavanguardia.com/politica/20261118/11687015/pedro-sanchez-hay-casos-corrupcion-son-reales-casos-son-ficticios.html",
+          "position": 50,
+          "focus": "Reporta de forma neutral una cita textual sobre la corrupción, sin calificarla ni contextualizarla con juicio editorial."
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Sánchez cree que 'El amor en los tiempos del cólera' habla de él: las frases más surrealistas de su entrevista con 'Lecturas'",
+          "link": "https://www.elespanol.com/espana/politica/20261118/sanchez-cree-amor-tiempos-colera-habla-frases-surrealistas-entrevista-lecturas/1003744462565_0.html",
+          "position": 90,
+          "focus": "Califica explícitamente las frases de Sánchez como 'surrealistas', enfatizando el tono burlesco y restando seriedad a la entrevista."
+        }
+      ],
+      "rango": 75,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Mundo"
+      ]
+    },
+    {
+      "neutral_headline": "Distintas piezas informativas: viralización de un encuentro político y declaraciones de Amaia Montero sobre su salud y las críticas al grupo",
+      "section": "Cultura",
+      "facts": [
+        "Existen dos vídeos distintos de un mismo encuentro entre Irene Montero y Vito Quiles, cada uno con millones de visualizaciones (El País)",
+        "Amaia Montero respondió a las críticas recibidas por La Oreja de Van Gogh y declaró estar sufriendo mucho (El Mundo)",
+        "Amaia Montero relató haber intentado quitarse la vida en dos ocasiones y haber estado ingresada en un centro psiquiátrico (ABC)"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Irene Montero y Vito Quiles o cómo una misma escena se convierte en dos vídeos antagónicos con millones de visitas",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-11-18/irene-montero-y-vito-quiles-o-como-una-misma-escena-se-convierte-en-dos-videos-antagonicos-con-millones-de-visitas.html",
+          "position": 50,
+          "focus": "Destaca la existencia de dos narrativas virales opuestas sobre un mismo encuentro político, sin tomar partido por ninguna versión."
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Amaia Montero, tras las críticas a La Oreja de Van Gogh: \"Estoy sufriendo mucho porque lo que hay dentro no tiene nada que ver con lo que se dice fuera\"",
+          "link": "https://www.elmundo.es/cultura/musica/2026/11/18/6afd8a9fe9cf4a7a038b4584.html",
+          "position": 50,
+          "focus": "Se centra en la reacción de Amaia Montero a las críticas hacia la banda, citando su malestar emocional."
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Amaia Montero, a corazón abierto: «Me he querido ir de este mundo en dos ocasiones y he estado en un psiquiátrico»",
+          "link": "https://www.abc.es/gente/amaia-montero-corazon-abierto-querido-mundo-dos-20261118130626-nt.html",
+          "position": 50,
+          "focus": "Profundiza en la confesión personal de Amaia Montero sobre intentos de suicidio e ingreso psiquiátrico, con un enfoque más íntimo y de salud mental."
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "El Espanol",
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Amaia Montero y La Oreja de Van Gogh responden públicamente a las críticas sobre sus conciertos",
+      "section": "Cultura",
+      "facts": [
+        "La Oreja de Van Gogh concedió una entrevista a El Pais en la que se habla de haber superado un periodo muy duro",
+        "En esa entrevista se menciona haber pasado siete años en la cama",
+        "Amaia Montero ha hecho declaraciones sobre las críticas recibidas por los conciertos",
+        "Según El Mundo, Amaia Montero dijo estar sufriendo mucho y que lo que hay dentro no tiene nada que ver con lo que se dice fuera",
+        "Según ABC, Amaia Montero dijo haber querido irse de este mundo en dos ocasiones y haber estado en un psiquiátrico",
+        "Según 20minutos, Amaia Montero dijo ser humana, sufrir y no creer merecer esas críticas"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "relato de superación colectiva",
+        "polo_b": "exposición de drama personal extremo",
+        "resumen": "Los medios eligen distintos fragmentos de las mismas declaraciones, desde el relato grupal de resiliencia hasta el detalle más dramático de la vida de Amaia Montero"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Entrevista con La Oreja de Van Gogh: “Cuando sales del puto infierno, cuando te tiras siete años en la cama… ya superarlo es la hostia”",
+          "link": "https://elpais.com/cultura/2026-11-18/entrevista-con-la-oreja-de-van-gogh-cuando-sales-del-puto-infierno-cuando-te-tiras-siete-anos-en-la-cama-ya-superarlo-es-la-hostia.html",
+          "position": 30,
+          "focus": "Destaca la voz colectiva de la banda y un lenguaje crudo centrado en la superación del grupo tras un periodo difícil; omite detalles clínicos individuales"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Amaia Montero, tras las críticas a La Oreja de Van Gogh: \"Estoy sufriendo mucho porque lo que hay dentro no tiene nada que ver con lo que se dice fuera\"",
+          "link": "https://www.elmundo.es/cultura/musica/2026/11/18/6afd8a9fe9cf4a7a038b4584.html",
+          "position": 45,
+          "focus": "Centra el foco en Amaia Montero defendiéndose de las críticas y señalando una brecha entre percepción pública y realidad interna, sin entrar en detalles extremos"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Amaia Montero, a corazón abierto: «Me he querido ir de este mundo en dos ocasiones y he estado en un psiquiátrico»",
+          "link": "https://www.abc.es/gente/amaia-montero-corazon-abierto-querido-mundo-dos-20261118130626-nt.html",
+          "position": 85,
+          "focus": "Resalta el testimonio más dramático: intentos de dejar el mundo y estancia en un psiquiátrico, priorizando el impacto emocional sobre el contexto de las críticas"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Amaia Montero, sobre las críticas a sus conciertos: \"Soy humana, sufro y no creo que me merezca eso\"",
+          "link": "https://www.20minutos.es/gente/amaia-montero-sobre-las-criticas-sus-conciertos-con-oreja-van-gogh-soy-humana-sufro-no-creo-que-me-merezca-eso_7062624_0.html",
+          "position": 40,
+          "focus": "Presenta una respuesta más contenida de Amaia Montero, apelando a su humanidad y al sufrimiento sin detallar episodios extremos"
+        }
+      ],
+      "rango": 55,
+      "discrepancia": "media",
+      "silenciosos": [
+        "El Espanol",
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Trump, Putin y Xi Jinping coinciden en la cumbre del APEC en China, con gestos de cercanía entre Xi y Trump y declaraciones de Putin contra Occidente",
+      "section": "Internacional",
+      "facts": [
+        "Trump y Putin fueron recibidos por Xi Jinping en China para la cumbre del APEC",
+        "Xi Jinping recibió a Trump con un abrazo a pie de pista, descrito como ruptura del protocolo habitual",
+        "Putin realizó declaraciones críticas sobre Occidente y, según 20minutos, sobre la 'humillante decadencia' de Europa",
+        "Según ABC, Xi y Putin criticaron las sanciones de EE.UU. antes de reunirse con Trump",
+        "El encuentro se produjo antes de una reunión conjunta descrita por La Vanguardia como un 'G-3' con Trump"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "Acercamiento Trump-Xi",
+        "polo_b": "Alianza Xi-Putin frente a EE.UU.",
+        "resumen": "Los medios difieren en si el foco de la cumbre es el gesto de cercanía entre Trump y Xi o la alianza combativa de Xi y Putin contra Occidente"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Trump y Putin se saludan tras ser recibidos por Xi Jinping a su llegada a China para participar en la cumbre del APEC",
+          "link": "https://elpais.com/internacional/2026-11-18/xi-jinping-y-putin-reivindican-su-firme-relacion-poco-antes-de-la-llegada-de-trump-a-la-cumbre-de-la-apec-en-china.html",
+          "position": 45,
+          "focus": "Describe el saludo entre los tres líderes sin inclinarse hacia ningún protagonista concreto"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "El abrazo de Xi a Trump: una bienvenida insólita en la China de los gestos medidos",
+          "link": "https://www.elmundo.es/internacional/2026/11/18/6afd898ee85ece744b8b4575.html",
+          "position": 15,
+          "focus": "Centra la noticia en el abrazo de Xi a Trump como gesto insólito, resaltando la cercanía bilateral"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Xi Jinping y Putin exhiben su alianza y critican las sanciones de EE.UU. antes de reunirse con Trump",
+          "link": "https://www.abc.es/internacional/jinping-critica-putin-unilateralismo-proteccionismo-campan-anchas-20261118122242-nt.html",
+          "position": 85,
+          "focus": "Pone el acento en la alianza Xi-Putin y su crítica conjunta a las sanciones de EE.UU., situando a Trump como contraparte"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Un Putin beligerante carga contra Occidente en su aparición con Xi antes del G-3 con Trump",
+          "link": "https://www.lavanguardia.com/internacional/20261118/11686902/xi-putin-esperan-trump-shenzhen.html",
+          "position": 90,
+          "focus": "Destaca el tono beligerante de Putin contra Occidente, enmarcando el encuentro como un enfrentamiento previo al 'G-3'"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Xi rompe el protocolo y recibe a Trump con un abrazo a pie de pista a su llegada a la cumbre de la APEC en Shenzhen",
+          "link": "https://www.elespanol.com/mundo/asia/20261118/xi-rompe-protocolo-recibe-trump-abrazo-pie-pista-llegada-cumbre-apec-shenzhen/1003744462653_0.html",
+          "position": 10,
+          "focus": "Resalta exclusivamente el gesto cálido de Xi hacia Trump, omitiendo la postura de Putin"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Xi da la bienvenida a Trump con un abrazo y Putin asegura que \"Europa está en humillante decadencia\" antes de la cumbre",
+          "link": "https://www.20minutos.es/internacional/xi-da-bienvenida-trump-con-un-abrazo-putin-dice-que-europa-esta-humillante-decadencia-antes-una-cumbre-historica_7062611_0.html",
+          "position": 55,
+          "focus": "Combina ambos elementos: el abrazo a Trump y la frase crítica de Putin sobre Europa, sin priorizar claramente uno sobre otro"
+        }
+      ],
+      "rango": 80,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Varios desarrollos de la guerra en Ucrania: evacuaciones en Donbás, ataques a refinerías rusas, el ataque al puente de Crimea y un nuevo crédito europeo",
+      "section": "Internacional",
+      "facts": [
+        "Civiles abandonan la región de Donbás ante el avance ruso, según El País",
+        "Una unidad ucraniana de élite ataca refinerías rusas, según El Mundo",
+        "Ucrania ejecutó un ataque contra el puente de Crimea, según eldiario.es",
+        "La Comisión Europea plantea un nuevo crédito de 45.000 millones de euros para Ucrania, según El Español",
+        "Alemania se enfrenta a Hungría, Chequia y Eslovaquia por ese crédito, según El Español"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Una mañana para poner la vida en una maleta y abandonar la región de Donbás, asediada por Rusia",
+          "link": "https://elpais.com/internacional/2026-11-18/una-manana-para-poner-la-vida-en-una-maleta-y-abandonar-la-region-de-donbas-asediada-por-rusia.html",
+          "position": 50,
+          "focus": "Centra el relato en la experiencia humana de la evacuación civil en Donbás, sin entrar en aspectos militares o políticos"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Con la unidad de élite que ataca las refinerías rusas: \"Cuando las vemos ardiendo, entendemos que nuestro trabajo tiene un impacto en la guerra\"",
+          "link": "https://www.elmundo.es/internacional/2026/11/17/6afc7781fdddff025c8b459a.html",
+          "position": 50,
+          "focus": "Destaca la perspectiva operativa y moral de una unidad militar ucraniana especializada en atacar infraestructura energética rusa"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "La intrahistoria del ataque al puente de Crimea: cómo golpeó Ucrania un símbolo del régimen de Putin",
+          "link": "https://www.eldiario.es/internacional/theguardian/intrahistoria-ataque-puente-crimea-golpeo-ucrania-simbolo-regimen-putin_1_13673120.html",
+          "position": 50,
+          "focus": "Reconstruye el proceso y planificación detrás del ataque al puente de Crimea como símbolo político"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Bruselas plantea otro crédito de 45.000 millones a Ucrania, que enfrenta a Alemania contra Hungría, Chequia y Eslovaquia",
+          "link": "https://www.elespanol.com/mundo/europa/20261118/bruselas-plantea-credito-millones-ucrania-enfrenta-alemania-hungria-chequia-eslovaquia/1003744462577_0.html",
+          "position": 50,
+          "focus": "Pone el foco en la dimensión política y financiera europea, destacando las tensiones internas sobre el nuevo crédito"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "CCOO anuncia acciones legales tras la actuación policial del 11N mientras continúa la huelga de maquinistas convocada para el 23N",
+      "section": "Politica",
+      "facts": [
+        "CCOO acudirá a los tribunales por la actuación policial durante la huelga general",
+        "CCOO afirma que buena parte de las personas golpeadas pertenecen a su sindicato",
+        "CCOO denunciará a Isabel Diaz Ayuso por llamarles 'mafia'",
+        "CCOO pide la destitución ('cabezas') al ministro Marlaska por las cargas policiales del 11N",
+        "Cuerpo (negociador de Renfe) alcanza un acuerdo con CCOO, UGT y SCF",
+        "El sindicato Semaf no acepta el acuerdo y mantiene la huelga de maquinistas del 23 de noviembre",
+        "Los controladores de circulacion en Adif desconvocan su huelga",
+        "Los maquinistas de Renfe mantienen la convocatoria de huelga del 23N"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "CC OO acudirá a los tribunales por la actuación policial en la huelga general: “Buena parte de las personas golpeadas son de nuestro sindicato”",
+          "link": "https://elpais.com/espana/2026-11-18/cc-oo-acudira-a-los-tribunales-por-la-actuacion-policial-en-la-huelga-general-buena-parte-de-las-personas-golpeadas-son-de-nuestro-sindicato.html",
+          "position": 50,
+          "focus": "Centra el hecho en la respuesta judicial de CCOO a la violencia policial, citando a sus afiliados golpeados"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "CCOO denunciará a Ayuso por sus insultos de \"mafia\" y pide \"cabezas\" a Marlaska por las cargas policiales el 11N",
+          "link": "https://www.eldiario.es/economia/ccoo-denunciara-ayuso-insultos-mafia-pide-cabezas-marlaska-cargas-policiales-11n_1_13673289.html",
+          "position": 50,
+          "focus": "Amplia el conflicto a un choque politico con Ayuso y una exigencia de responsabilidades a Marlaska"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Cuerpo convence a CCOO, UGT y SCF, pero no a Semaf: los maquinistas mantienen la huelga del 23 de noviembre",
+          "link": "https://www.elespanol.com/invertia/observatorios/movilidad/20261118/cuerpo-convence-ccoo-ugt-sfc-no-semaf-maquinistas-mantienen-huelga-noviembre/1003744462318_0.html",
+          "position": 50,
+          "focus": "Describe el acuerdo logrado con la mayoria de sindicatos y aisla a Semaf como el disidente que sostiene la huelga"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Los controladores en Adif desconvocan la huelga mientras los maquinistas de Renfe siguen con la del 23N",
+          "link": "https://www.20minutos.es/nacional/los-controladores-adif-desconvocan-huelga-este-jueves-mientras-los-maquinistas-renfe-mantienen-lunes_7062448_0.html",
+          "position": 50,
+          "focus": "Contrasta la desconvocatoria de los controladores de Adif con la continuidad de la huelga de maquinistas"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "ABC",
+        "El Mundo",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "Brasil documenta contacto con pueblo indígena aislado de la Amazonía tras tres décadas",
+      "section": "Internacional",
+      "facts": [
+        "Se registraron las primeras imágenes en 30 años de un pueblo indígena aislado de la Amazonía (ABC)",
+        "Brasil documentó por primera vez en tres décadas un contacto con indígenas aislados (El Mundo)",
+        "ABC describe a los indígenas como desnutridos y pidiendo comida",
+        "El Mundo señala que las autoridades brasileñas alertan sobre amenazas a la Amazonía",
+        "Cuatro nuevas víctimas denunciaron abusos en el internado San Juan de Dios de Canarias (El País), hecho no relacionado con el contacto indígena"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "foco en sufrimiento humano inmediato",
+        "polo_b": "foco en amenaza institucional/ambiental",
+        "resumen": "ABC centra la noticia en la precariedad física del pueblo indígena mientras El Mundo la encuadra como alerta sobre las amenazas estructurales a la Amazonía."
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Cuatro nuevas víctimas denuncian abusos en el internado San Juan de Dios de Canarias: “Era el terror”",
+          "link": "https://elpais.com/sociedad/2026-11-18/cuatro-nuevas-victimas-denuncian-abusos-en-el-internado-san-juan-de-dios-de-canarias-era-el-terror.html",
+          "position": 50,
+          "focus": "Trata un hecho distinto (abusos en un internado en Canarias); no es comparable con el eje editorial de las otras dos piezas sobre indígenas amazónicos."
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Primeras imágenes en 30 años de un pueblo indígena de la Amazonia: desnutridos y pidiendo comida",
+          "link": "https://www.abc.es/internacional/primeras-imagenes-anos-pueblo-indigena-amazonia-brasil-20261118123259-nt.html",
+          "position": 25,
+          "focus": "Destaca el estado de desnutrición y la petición de ayuda del pueblo indígena, enfatizando el drama humano inmediato; omite el contexto institucional de Brasil."
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Brasil documenta por primera vez en tres décadas un contacto con indígenas aislados y alerta sobre las amenazas a la Amazonía",
+          "link": "https://www.elmundo.es/internacional/2026/11/18/6afd83eefdddff2e238b4576.html",
+          "position": 65,
+          "focus": "Enmarca el hallazgo como un logro documental de Brasil y una advertencia sobre las amenazas a la Amazonía, con menor énfasis en el sufrimiento individual."
+        }
+      ],
+      "rango": 40,
+      "discrepancia": "media",
+      "silenciosos": [
+        "20minutos",
+        "El Espanol",
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Colisión entre dos autobuses en el Bus-Vao de la A-6 provoca heridos y retenciones",
+      "section": "Sociedad",
+      "facts": [
+        "Dos autobuses colisionaron en el carril Bus-Vao de la A-6, en la zona de Ciudad Universitaria",
+        "El Español cifra en 11 los heridos y en miles los viajeros afectados por el bloqueo",
+        "20minutos cifra en 8 los heridos y señala retenciones en el tramo de Ciudad Universitaria",
+        "El Mundo trata un hecho distinto: la responsabilidad contractual de Adif en la supervisión de material ferroviario relacionado con un accidente con 46 muertos en Adamuz"
+      ],
+      "tipo_divergencia": "cronologica",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "Adif debía por contrato supervisar el material bajo sospecha en la vía de los 46 muertos en Adamuz",
+          "link": "https://www.elmundo.es/andalucia/2026/11/17/6afc4531fdddff025c8b4587.html",
+          "position": 50,
+          "focus": "Se centra en un hecho distinto (accidente ferroviario en Adamuz y responsabilidad de Adif), no en la colisión de autobuses de la A-6"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "El aparatoso accidente entre dos autobuses en el Bus Vao de la A-6: 11 heridos y miles de viajeros bloqueados",
+          "link": "https://www.elespanol.com/madrid/sociedad/20261118/aparatoso-accidente-autobuses-bus-vao-a-6-heridos-miles-viajeros-bloqueados/1003744462705_0.html",
+          "position": 50,
+          "focus": "Destaca el número de heridos (11) y el impacto en miles de viajeros bloqueados"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "La colisión de dos autobuses en la A-6 deja ocho heridos y retenciones en el Bus-Vao en Ciudad Universitaria",
+          "link": "https://www.20minutos.es/madrid/colision-dos-autobuses-6-deja-dos-heridos-retenciones-bus-vao-ciudad-universitaria_7062499_0.html",
+          "position": 50,
+          "focus": "Reporta un número menor de heridos (8) y localiza las retenciones en Ciudad Universitaria"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "ABC",
+        "El Pais",
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    }
+  ]
+}
