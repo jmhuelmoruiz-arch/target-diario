@@ -1,0 +1,430 @@
+{
+  "fecha": "2026-11-19T13:47:17.020404+00:00",
+  "esquema": 2,
+  "historias": [
+    {
+      "neutral_headline": "Sánchez y Feijóo preparan el cara a cara previo a las elecciones",
+      "section": "Politica",
+      "facts": [
+        "Se celebra un cara a cara entre Pedro Sánchez y Alberto Núñez Feijóo",
+        "El Pais cita una encuesta en la que el PP aventaja al PSOE por dos puntos",
+        "Existe un precedente de debate en 2023 entre ambos candidatos",
+        "La Vanguardia recoge que Feijóo combinará un tono de moderación con exigencia hacia Sánchez",
+        "20minutos detalla la preparación logística del debate y los asesores de cada candidato"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "Feijóo llega fuerte/con ventaja",
+        "polo_b": "Feijóo llega debilitado/a la defensiva",
+        "resumen": "Los medios difieren en si el PP afronta el debate desde una posición de fortaleza o de repliegue de expectativas frente a un PSOE que busca revancha"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "90 minutos cara a cara: Sánchez busca remontar los dos puntos que le separan del PP y Feijóo repetir el éxito de 2023",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-11-19/90-minutos-cara-a-cara-sanchez-busca-remontar-los-dos-puntos-que-le-separan-del-pp-y-feijoo-repetir-el-exito-de-2023.html",
+          "position": 40,
+          "focus": "Presenta objetivos simétricos: Sánchez remontar la diferencia, Feijóo repetir su éxito de 2023, sin inclinarse claramente hacia ningún bando"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "El último cara a cara Sánchez-Feijóo: el PP rebaja sus expectativas y el líder del PSOE prepara la revancha de 2023",
+          "link": "https://www.eldiario.es/politica/ultimo-cara-cara-sanchez-feijoo-pp-rebaja-expectativas-lider-psoe-prepara-revancha-2023_1_13674800.html",
+          "position": 70,
+          "focus": "Destaca que el PP rebaja sus expectativas mientras Sánchez prepara una revancha, sugiriendo que Feijóo llega en posición más débil"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Feijóo combinará “moderación” con un tono “exigente” con Sánchez en el cara a cara",
+          "link": "https://www.lavanguardia.com/politica/20261119/11687548/feijoo-combinara-moderacion-tono-exigente-sanchez.html",
+          "position": 50,
+          "focus": "Se centra en la estrategia comunicativa de Feijóo (moderación y exigencia) sin comparar expectativas electorales"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Todo a punto para el cara a cara: cómo lo están preparando Feijóo y Sánchez... y quién les asesora",
+          "link": "https://www.20minutos.es/nacional/los-equipos-sanchez-feijoo-para-gran-debate-estos-son-los-asesores-que-les-estan-ayudando-preparar-cara-cara_7062975_0.html",
+          "position": 50,
+          "focus": "Enfoque logístico y de preparación técnica del debate, sin valorar posiciones de fuerza o debilidad"
+        }
+      ],
+      "rango": 30,
+      "discrepancia": "media",
+      "silenciosos": [
+        "ABC",
+        "El Espanol",
+        "El Mundo"
+      ]
+    },
+    {
+      "neutral_headline": "Puigdemont afirma en una entrevista que aprovechó la ambición de Sánchez para lograr sus objetivos políticos",
+      "section": "Politica",
+      "facts": [
+        "Puigdemont concedió una entrevista en la que declaró haber aprovechado 'la ambición desmedida' de Pedro Sánchez",
+        "Según El Espanol y La Vanguardia, Puigdemont usó la expresión 'para derrotar a España'",
+        "La Vanguardia señala que partidos políticos reaccionaron usando la entrevista como arma arrojadiza",
+        "El Espanol enmarca la entrevista como una 'venganza' de Puigdemont por 'promesas incumplidas'"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "cita literal sin interpretación añadida",
+        "polo_b": "interpretación motivacional del hecho (venganza/revancha)",
+        "resumen": "Los medios se dividen entre reproducir la declaración de Puigdemont de forma literal o enmarcarla como un ajuste de cuentas personal con Sánchez"
+      },
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "Puigdemont: \"Aproveché la ambición desmedida de Sánchez para derrotar a España\"",
+          "link": "https://www.elmundo.es/espana/2026/11/18/6afde4a4fc6c8315138b45b0.html",
+          "position": 20,
+          "focus": "Reproduce la cita textual de Puigdemont sin añadir interpretación sobre sus motivos"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Los partidos se lanzan como arma arrojadiza la entrevista de Puigdemont, en la que atribuye a Sánchez “una ambición desmedida”",
+          "link": "https://www.lavanguardia.com/politica/20261119/11688166/partidos-lanzan-arma-arrojadiza-entrevista-puigdemont-atribuye-sanchez-ambicion-desmedida.html",
+          "position": 40,
+          "focus": "Pone el foco en la reacción política a la entrevista, usándola como noticia de confrontación partidista más que en el contenido en sí"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "La venganza de Puigdemont por las promesas incumplidas: \"Aprovechamos la ambición desmedida de poder de Sánchez para derrotar a España\"",
+          "link": "https://www.elespanol.com/espana/politica/20261119/venganza-puigdemont-promesas-incumplidas-desvela-uso-ambicion-sanchez-derrotar-espana/1003744463868_0.html",
+          "position": 85,
+          "focus": "Enmarca la entrevista explícitamente como una 'venganza' por 'promesas incumplidas', añadiendo un juicio interpretativo sobre la motivación de Puigdemont"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Puigdemont: \"Nos hemos aprovechado de la ambición desmedida de Pedro Sánchez para derrotar a España\"",
+          "link": "https://www.20minutos.es/nacional/puigdemont-nos-hemos-aprovechado-ambicion-sanchez-para-derrotar-espana_7062922_0.html",
+          "position": 20,
+          "focus": "Reproduce la cita textual de Puigdemont de forma directa y descriptiva, sin interpretación añadida"
+        }
+      ],
+      "rango": 65,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "ABC",
+        "El Pais",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Trump, Putin y Xi se reúnen en cumbre trilateral en China",
+      "section": "Internacional",
+      "facts": [
+        "Trump, Putin y Xi Jinping participaron en una cumbre en China",
+        "El Pais recoge la declaracion: una guerra nuclear no se puede ganar y nunca debe librarse",
+        "El Mundo recoge la declaracion: compartimos la responsabilidad de mantener la paz mundial",
+        "ABC recoge la declaracion: juntos estamos eligiendo un camino diferente",
+        "20minutos afirma que los lideres se animaron a una reduccion de arsenales nucleares y a reformar la ONU",
+        "La Vanguardia afirma que la cumbre concluyo sin sustancia"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "cumbre sin resultados concretos",
+        "polo_b": "cumbre historica con logros sustanciales",
+        "resumen": "Los medios difieren en si la cumbre produjo acuerdos sustantivos o fue solo retorica sin contenido practico"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Xi, Trump y Putin, tras la cumbre de Shenzhen: “Una guerra nuclear no se puede ganar y nunca debe librarse”",
+          "link": "https://elpais.com/internacional/2026-11-19/trump-y-putin-interactuan-en-shenzhen-antes-de-las-reuniones-con-xi.html",
+          "position": 40,
+          "focus": "Destaca la declaracion conjunta sobre armas nucleares sin calificar el resultado global de la cumbre"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Trump, Putin y Xi Jinping se reúnen en China en una cumbre histórica: \"Compartimos la responsabilidad de mantener la paz mundial\"",
+          "link": "https://www.elmundo.es/internacional/2026/11/19/6afe5afa21efa0b2798b457b.html",
+          "position": 35,
+          "focus": "Enfatiza el caracter historico del encuentro y la frase sobre responsabilidad compartida de paz"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Histórica cumbre trilateral de Trump, Xi y Putin: «Juntos estamos eligiendo un camino diferente»",
+          "link": "https://www.abc.es/internacional/comienza-historica-cumbre-trilateral-trump-putin-20261119082357-nt.html",
+          "position": 20,
+          "focus": "Resalta el caracter historico y una frase que sugiere un cambio de rumbo significativo"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "La cumbre de Trump, Putin y Xi en China concluye sin sustancia",
+          "link": "https://www.lavanguardia.com/internacional/20261119/11687847/punto-yalta-2-0-rama-olivo-maletines-nucleares-alcance.html",
+          "position": 90,
+          "focus": "Cuestiona explicitamente el valor del encuentro al calificarlo de carente de sustancia"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Trump, Xi y Putin se animan a una reducción de arsenales nucleares y a \"reformar\" la ONU en la histórica cumbre",
+          "link": "https://www.20minutos.es/internacional/cumbre-trump-xi-amigo-putin-china_7062914_0.html",
+          "position": 15,
+          "focus": "Destaca compromisos concretos: reduccion de arsenales nucleares y reforma de la ONU"
+        }
+      ],
+      "rango": 75,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "El Espanol",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "La Corte Internacional de Justicia concluye que Myanmar cometió genocidio contra los rohinyás",
+      "section": "Internacional",
+      "facts": [
+        "La Corte Internacional de Justicia (CIJ), máximo tribunal de la ONU, concluyó que Myanmar (Birmania) cometió genocidio contra la minoría rohinyá",
+        "El Mundo añade que la CIJ ordenó indemnizar a las víctimas"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "El máximo tribunal de la ONU concluye que Myanmar cometió genocidio contra los rohinyás",
+          "link": "https://elpais.com/internacional/2026-11-19/el-tribunal-internacional-de-justicia-concluye-que-el-ejercito-de-myanmar-mato-a-miles-de-rohinyas-y-cometio-actos-de-violencia-extrema-contra-ellos.html",
+          "position": 50,
+          "focus": "Reporta el fallo del tribunal de la ONU sobre genocidio, sin mencionar indemnización"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "La CIJ declara a Birmania responsable del genocidio rohinyá y ordena indemnizar a las víctimas",
+          "link": "https://www.elmundo.es/internacional/2026/11/19/6afee72be85ece76148b457f.html",
+          "position": 50,
+          "focus": "Añade el dato de que la CIJ ordena indemnizar a las víctimas, además de declarar la responsabilidad"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Un fallo histórico del máximo tribunal de la ONU concluye que Myanmar cometió genocidio contra la minoría rohingya",
+          "link": "https://www.eldiario.es/internacional/tribunal-onu-concluye-myanmar-cometio-genocidio-minoria-rohingya-caso-historico_1_13675952.html",
+          "position": 50,
+          "focus": "Destaca el carácter histórico del fallo sobre genocidio contra los rohingya"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Birmania cometió genocidio contra los rohinyá según la Corte Internacional de Justicia",
+          "link": "https://www.lavanguardia.com/internacional/20261119/11687944/corte-internacional-justicia-birmania-cometio-genocidio-rohinya.html",
+          "position": 50,
+          "focus": "Reporta la conclusión del tribunal sobre genocidio, citando a la CIJ como fuente"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Myanmar cometió un genocidio contra la minoría musulmana rohinyá, según la Corte Internacional de Justicia",
+          "link": "https://www.elespanol.com/mundo/asia/20261119/myanmar-cometio-genocidio-minoria-musulmana-rohinya-corte-internacional-justicia/1003744464396_0.html",
+          "position": 50,
+          "focus": "Especifica que la minoría rohinyá es musulmana, sin mencionar indemnización"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "ABC"
+      ]
+    },
+    {
+      "neutral_headline": "Un hombre mata a su pareja en Parla y es detenido tras confesar el crimen",
+      "section": "Sociedad",
+      "facts": [
+        "El hecho ocurrió en Parla",
+        "Un hombre mató a su pareja/mujer",
+        "El agresor se entregó a la policía (El País, El Mundo, ABC)",
+        "El agresor fue detenido (eldiario.es, 20minutos)",
+        "La víctima tenía 47 años (El Mundo)",
+        "El agresor se llama Lenin (ABC)",
+        "El agresor habría dicho: 'He degollado a mi pareja/mujer, aquí están/tenéis las llaves' (El Mundo, ABC)",
+        "El método empleado fue degollamiento (El Mundo, ABC, 20minutos)",
+        "El caso se investiga como violencia machista (eldiario.es)"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "suceso individual sin etiqueta de género",
+        "polo_b": "violencia machista explícita",
+        "resumen": "Los medios difieren en si enmarcan el crimen explícitamente como violencia machista o lo presentan como un suceso criminal sin esa etiqueta."
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Un hombre asesina a su pareja en Parla y se entrega a la policía",
+          "link": "https://elpais.com/sociedad/2026-11-19/muere-una-mujer-en-parla-apunalada-por-un-hombre-con-el-que-mantenia-una-relacion.html",
+          "position": 45,
+          "focus": "Describe el crimen y la entrega a la policía de forma escueta, sin mencionar el marco de violencia machista ni dar detalles truculentos."
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Un hombre se entrega a la Policía tras matar a su mujer de 47 años en Parla: \"He degollado a mi pareja, aquí están las llaves\"",
+          "link": "https://www.elmundo.es/madrid/2026/11/19/6afe32c7fdddfffb2c8b457b.html",
+          "position": 40,
+          "focus": "Detalla la cita textual del agresor y la edad de la víctima, centrándose en la crudeza del relato más que en el contexto de género."
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Lenin, a la Policía tras matar a su pareja en Parla: «He degollado a mi mujer. Aquí tenéis las llaves»",
+          "link": "https://www.abc.es/espana/madrid/lenin-policia-tras-matar-pareja-parla-degollado-20261119111551-nt.html",
+          "position": 40,
+          "focus": "Identifica al agresor por su nombre y reproduce su confesión literal, priorizando el dramatismo del suceso sobre el encuadre de violencia machista."
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Detenido un hombre tras matar a su mujer en Parla en un caso que se investiga como violencia machista",
+          "link": "https://www.eldiario.es/madrid/mujer-asesinada-parla-caso-investiga-violencia-genero_1_13675727.html",
+          "position": 85,
+          "focus": "Enmarca explícitamente el caso como violencia machista en investigación, omitiendo detalles como la cita textual o el nombre del agresor."
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Un hombre degüella a su pareja y es detenido después de confesar el crimen",
+          "link": "https://www.20minutos.es/madrid/asesinada-una-mujer-47-anos-parla_7062897_0.html",
+          "position": 45,
+          "focus": "Resume el hecho y la detención de forma neutra, centrado en la acción (degollar, detener, confesar) sin etiquetar el crimen como violencia de género."
+        }
+      ],
+      "rango": 45,
+      "discrepancia": "media",
+      "silenciosos": [
+        "El Espanol",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "Emilio Delgado responde tras difundirse una foto suya en un hospital privado",
+      "section": "Politica",
+      "facts": [
+        "Ayuso difundio una foto de Emilio Delgado en un hospital privado",
+        "Delgado acudio a la sanidad privada acompanando a su pareja",
+        "Delgado respondio a las criticas de Ayuso",
+        "Delgado acuso a Ayuso de destruir lo publico",
+        "El Pais recoge que Delgado llamo cobarde a Ayuso"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "Delgado como denunciante de la hipocresia de Ayuso",
+        "polo_b": "Delgado como pillado en contradiccion y desafiante",
+        "resumen": "Los medios difieren en si el foco es la critica de Delgado hacia Ayuso o la contradiccion de Delgado al usar la sanidad privada"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Emilio Delgado llama “cobarde” a Ayuso por criticarlo por ir con su pareja a la sanidad privada: “Ustedes destruyen lo público”",
+          "link": "https://elpais.com/espana/madrid/2026-11-19/emilio-delgado-llama-cobarde-a-ayuso-por-criticarle-por-ir-con-su-pareja-a-la-sanidad-privada-ustedes-destruyen-lo-publico.html",
+          "position": 10,
+          "focus": "Destaca la acusacion de Delgado hacia Ayuso ('cobarde', 'destruyen lo publico'), situando a Ayuso como la criticada; omite el contexto de por que fue senalado"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Emilio Delgado, tras ser pillado en la sanidad privada: «Hago lo que me da la gana»",
+          "link": "https://www.abc.es/espana/madrid/emilio-delgado-pillado-sanidad-privada-hago-gana-20261119115749-nt.html",
+          "position": 85,
+          "focus": "Enfatiza que Delgado fue 'pillado' y su respuesta desafiante ('hago lo que me da la gana'), presentandolo como contradictorio; omite su critica a Ayuso"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Emilio Delgado, tras la difusión por parte de Ayuso de una foto suya en un hospital privado: \"Era para mi pareja, ustedes destruyen lo público\"",
+          "link": "https://www.eldiario.es/madrid/emilio-delgado-difusion-parte-ayuso-foto-hospital-privado-pareja-destruyen-publico_1_13676148.html",
+          "position": 25,
+          "focus": "Recoge la explicacion de Delgado (fue para su pareja) junto a su critica a Ayuso, con tono mas descriptivo que El Pais pero manteniendo el eje de denuncia hacia Ayuso"
+        }
+      ],
+      "rango": 75,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "El Espanol",
+        "El Mundo",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "Anthropic realiza su salida a bolsa con una valoración de 1,5 billones de dólares",
+      "section": "Economia",
+      "facts": [
+        "Anthropic ha salido a bolsa.",
+        "El Pais cifra su valoracion en 1,5 billones de dolares.",
+        "El Pais afirma que supera a SpaceX como la mayor salida a bolsa de la historia.",
+        "El Mundo senala que los siete fundadores de Anthropic estan a punto de convertirse en multimillonarios.",
+        "La Vanguardia plantea si los inversores se han perdido la mejor parte de la revalorizacion de la empresa."
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "celebracion del hito historico",
+        "polo_b": "critica al reparto de valor para los inversores",
+        "resumen": "Los medios difieren entre resaltar el logro record de la operacion y sus beneficiarios, o cuestionar si el mercado llego tarde a capturar el verdadero valor."
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Anthropic desbanca a SpaceX como la mayor salida a Bolsa de la historia y fija su valoración en 1,5 billones de dólares",
+          "link": "https://elpais.com/economia/2026-11-18/anthropic-desbanca-a-spacex-y-protagoniza-la-mayor-salida-a-bolsa-de-la-historia.html",
+          "position": 20,
+          "focus": "Destaca la cifra record de valoracion y el adelantamiento a SpaceX, sin cuestionar el reparto de beneficios."
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Los siete fundadores de Anthropic que están a punto de convertirse en multimillonarios",
+          "link": "https://www.elmundo.es/economia/2026/11/18/6afdbd2ee9cf4aae7a8b458b.html",
+          "position": 30,
+          "focus": "Centra la atencion en los fundadores y su enriquecimiento personal, con tono mas humano que critico."
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "OPV de Anthropic: ¿los inversores se han perdido lo mejor de la fiesta?",
+          "link": "https://www.lavanguardia.com/dinero/20261119/11688064/opv-anthropic-analistas-preguntan-inversores-han-perdido-mejor-fiesta.html",
+          "position": 75,
+          "focus": "Introduce una duda sobre si los inversores llegaron tarde a la revalorizacion, insinuando que el verdadero beneficio ya se repartio antes de la OPV."
+        }
+      ],
+      "rango": 55,
+      "discrepancia": "media",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Espanol",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "La Comisión Europea sufre un ciberataque",
+      "section": "Internacional",
+      "facts": [
+        "La Comisión Europea sufrió un ciberataque",
+        "El Pais y La Vanguardia señalan que se usó una herramienta de inteligencia artificial",
+        "El Pais indica que se accedió a servidores internos",
+        "20minutos indica que el ataque afectó a uno de sus programas internos"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Un ciberataque con una herramienta de IA accede a los servidores internos de la Comisión Europea",
+          "link": "https://elpais.com/internacional/2026-11-19/un-ciberataque-con-una-herramienta-de-ia-accede-a-los-servidores-internos-de-la-comision-europea.html",
+          "position": 50,
+          "focus": "Destaca el uso de IA como herramienta del ataque y el acceso a servidores internos; no detalla qué programa fue afectado."
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "La Comisión Europea sufre un ciberataque con IA",
+          "link": "https://www.lavanguardia.com/internacional/20261119/11688235/comision-europea-sufre-ciberataque-ia.html",
+          "position": 50,
+          "focus": "Resume el hecho central, mencionando el uso de IA sin precisar qué sistemas fueron vulnerados."
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "La Comisión Europea sufre un ciberataque contra uno de sus programas internos",
+          "link": "https://www.20minutos.es/internacional/comision-europea-sufre-un-ciberataque-un-programa-interno-pero-matiza-no-esta-claro-que-haya-habido-robo-datos_7063166_0.html",
+          "position": 50,
+          "focus": "Centra el relato en que el ataque afectó a un programa interno específico, sin mencionar el uso de IA."
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "ABC",
+        "El Espanol",
+        "El Mundo",
+        "eldiario.es"
+      ]
+    }
+  ]
+}
