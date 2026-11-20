@@ -1,0 +1,302 @@
+{
+  "fecha": "2026-11-20T13:30:16.373667+00:00",
+  "esquema": 2,
+  "historias": [
+    {
+      "neutral_headline": "Debate electoral del 29-N entre Feijóo y Sánchez: sondeos, audiencia y reacciones políticas",
+      "section": "Politica",
+      "facts": [
+        "Hubo un debate cara a cara entre Alberto Núñez Feijóo y Pedro Sánchez en campaña electoral del 29-N",
+        "El sondeo de 40dB para El País y la SER dio a Feijóo ganador con 10 puntos de ventaja sobre Sánchez",
+        "Una encuesta citada por El Mundo dio a Feijóo ganador con 20 puntos de distancia sobre Sánchez",
+        "El debate logró el segundo mejor share de la historia de los debates electorales, solo superado por el de Aznar y González en 1993",
+        "Según La Vanguardia, Feijóo arremetió contra Sánchez, que respondió con contención",
+        "El PSOE busca movilizar a indecisos tras el debate",
+        "El PP pide no confiarse para ampliar su mayoría, conteniendo la euforia"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Campaña electoral 29-N y actualidad política, en directo | Feijóo ganó a Sánchez en el cara a cara con 10 puntos de ventaja, según el sondeo de 40dB. para EL PAÍS y la SER",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-11-20/campana-electoral-29-n-y-actualidad-politica-en-directo.html",
+          "position": 50,
+          "focus": "Centra en el resultado del sondeo propio (40dB), destacando la ventaja de Feijóo; enmarcado dentro de cobertura en directo de la jornada electoral"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "La mayoría da por ganador del debate electoral al candidato 'popular' Alberto Núñez Feijóo, que se impuso por 20 puntos de distancia al socialista Pedro Sánchez",
+          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/20/6b000dbefdddfffd0b8b4577.html",
+          "position": 50,
+          "focus": "Centra en otro sondeo que muestra una ventaja mayor de Feijóo, sin mencionar audiencia ni tono del debate"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "El debate logra el segundo mejor 'share' de la historia tras el de Aznar y González en su cara a cara de 1993",
+          "link": "https://www.abc.es/play/television/noticias/cara-cara-feijoo-sanchez-convierte-sexto-visto-20261120084626-nt.html",
+          "position": 50,
+          "focus": "Destaca el dato de audiencia televisiva del debate, comparándolo históricamente, sin entrar en quién ganó"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Feijóo arremete contra Sánchez, que se defiende con contención",
+          "link": "https://www.lavanguardia.com/politica/20261120/11688596/feijoo-sale-fortalecido-cara-cara-sanchez-comedido.html",
+          "position": 50,
+          "focus": "Describe el tono y la dinámica del debate (ataque vs. contención), sin dar cifras de encuestas ni audiencia"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "El PSOE confía en movilizar a indecisos tras el debate mientras el PP contiene la euforia y pide no confiarse para ampliar su mayoría",
+          "link": "https://www.20minutos.es/nacional/psoe-confia-movilizar-indecisos-tras-debate-mientras-pp-contiene-euforia-pide-no-confiarse-para-ampliar-su-mayoria_7063349_0.html",
+          "position": 50,
+          "focus": "Se centra en las reacciones estratégicas de los partidos tras el debate, omitiendo resultados de encuestas o audiencia"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": []
+    },
+    {
+      "neutral_headline": "Rusia lanza ataques contra Ucrania mientras Polonia reporta posibles incursiones de misiles y un dron en su territorio",
+      "section": "Internacional",
+      "facts": [
+        "Rusia atacó puentes de Kiev e infraestructura energética de Ucrania tras una ofensiva en el estrecho de Kerch (El País)",
+        "Dos misiles rusos cayeron en territorio polaco, según El Mundo",
+        "Varsovia pedirá a la OTAN reforzar la defensa de la frontera oriental (El Mundo)",
+        "20minutos habla de alerta en Polonia por posibles incursiones de dos misiles rusos y un dron",
+        "Una fuente citada por 20minutos lo califica como 'uno de los mayores ataques desde el inicio de la guerra'"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "Foco en Ucrania como objetivo directo del ataque",
+        "polo_b": "Foco en la amenaza a Polonia y la OTAN",
+        "resumen": "Los medios eligen distinto protagonista: El País centra el relato en el ataque a infraestructura ucraniana, mientras El Mundo y 20minutos ponen el acento en la posible afectación a territorio polaco y la respuesta de la OTAN."
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Rusia ataca los puentes de Kiev y la infraestructura energética de Ucrania tras la ofensiva en el estrecho de Kerch",
+          "link": "https://elpais.com/internacional/2026-11-20/rusia-ataca-los-puentes-de-kiev-y-la-infraestructura-energetica-de-ucrania-tras-la-ofensiva-en-el-estrecho-de-kerch.html",
+          "position": 15,
+          "focus": "Destaca el ataque ruso a Kiev y su infraestructura, enmarcándolo como continuación de la ofensiva en Kerch; omite cualquier mención a Polonia"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Dos misiles rusos caen en territorio polaco y Varsovia pedirá a la OTAN reforzar la defensa de la frontera oriental",
+          "link": "https://www.elmundo.es/internacional/2026/11/20/6afff1b621efa002318b459c.html",
+          "position": 85,
+          "focus": "Centra la noticia en la caída de misiles en Polonia y la petición a la OTAN, dejando en segundo plano el ataque a Ucrania"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Alerta en Polonia por las posibles incursiones de dos misiles rusos y un dron: \"Uno de los mayores ataques desde el inicio de la guerra\"",
+          "link": "https://www.20minutos.es/internacional/alerta-polonia-por-las-posibles-incursiones-dos-misiles-rusos-un-dron-uno-los-mayores-ataques-desde-inicio-guerra_7063578_0.html",
+          "position": 80,
+          "focus": "Enfatiza la alerta en Polonia y cita la gravedad del incidente ('uno de los mayores ataques'), con foco en la posible escalada hacia la OTAN"
+        }
+      ],
+      "rango": 70,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "ABC",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "España se enfrentará a Francia en los cuartos de final de la Nations League",
+      "section": "Deportes",
+      "facts": [
+        "España jugará contra Francia en los cuartos de final de la Nations League",
+        "El equipo francés cuenta con jugadores como Mbappé, según El Mundo y ABC"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "informacion neutra del emparejamiento",
+        "polo_b": "dramatizacion del rival como amenaza",
+        "resumen": "Los medios varian entre presentar el cruce como un dato deportivo mas y presentarlo como un sorteo temido por la dificultad del rival"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "España se cita otra vez con Francia en los cuartos de final de la Nations League",
+          "link": "https://elpais.com/deportes/futbol/2026-11-20/espana-se-medira-ante-francia-en-los-cuartos-de-final-de-la-nations-league.html",
+          "position": 20,
+          "focus": "Se limita a anunciar el emparejamiento sin cargar tintas sobre la dificultad del rival"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "España se medirá a la Francia de Zidane y Mbappé en los cuartos de final de la Liga de Naciones",
+          "link": "https://www.elmundo.es/deportes/futbol/uefa-nations-league/2026/11/20/6b00239de85ecec80b8b457b.html",
+          "position": 45,
+          "focus": "Anade contexto sobre jugadores destacados de Francia, sin dramatizar en exceso"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "España se medirá a la Francia de Zidane y Mbappé en los cuartos de final de la Nations League",
+          "link": "https://www.abc.es/deportes/futbol/espana-medira-francia-zidane-mbappe-cuartos-final-20261120124832-nt.html",
+          "position": 45,
+          "focus": "Igual que El Mundo, menciona a jugadores concretos para contextualizar la fuerza del rival"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "España se encuentra de nuevo con Francia en los cuartos de final de la Nations",
+          "link": "https://www.lavanguardia.com/deportes/futbol/20261120/11689028/espana-encuentra-nuevo-francia-cuartos-final-nations.html",
+          "position": 20,
+          "focus": "Describe el reencuentro de forma factual, sin enfatizar la dificultad"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "España ya tiene rival para cuartos de final de Nations... y es el coco del sorteo",
+          "link": "https://www.20minutos.es/deportes/futbol/sorteo-nations-league-directo-rival-espana-los-cuartos-final-cruces-reacciones-ultima-hora_7063488_6.html",
+          "position": 85,
+          "focus": "Enmarca a Francia como el rival mas temido del sorteo, dramatizando la dificultad del cruce"
+        }
+      ],
+      "rango": 65,
+      "discrepancia": "alta",
+      "silenciosos": []
+    },
+    {
+      "neutral_headline": "Ayuso reconoce que la compra del ático fue un error por la forma en que se explicó",
+      "section": "Politica",
+      "facts": [
+        "Ayuso admite que la compra del ático en Chamberí fue 'un error'",
+        "Ayuso atribuye el error a 'cómo se explicó', no a la compra en sí",
+        "La Vanguardia añade que Ayuso no descarta dar el salto a la política nacional"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Ayuso admite por primera vez que el ático fue “un error”: “ No por lo que hicimos sino por cómo lo explicamos”",
+          "link": "https://elpais.com/espana/madrid/2026-11-20/ayuso-reconoce-que-su-explicacion-de-la-compra-del-atico-fue-un-error.html",
+          "position": 50,
+          "focus": "Cita textual de Ayuso distinguiendo el hecho de su explicación; se centra solo en el ático"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Ayuso reconoce que la compra del ático en Chamberí «fue un error» por cómo se explicó",
+          "link": "https://www.abc.es/espana/madrid/ayuso-reconoce-compra-atico-chamberi-error-explico-20261120113756-nt.html",
+          "position": 50,
+          "focus": "Misma cita y enfoque que El País, centrado exclusivamente en el reconocimiento del error de comunicación"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Ayuso admite “errores” en la compra del ático y no descarta saltar a la política nacional",
+          "link": "https://www.lavanguardia.com/politica/20261120/11689048/ayuso-admite-errores-compra-atico-salto-politica-nacional-feijoo.html",
+          "position": 50,
+          "focus": "Usa el plural 'errores' de forma más genérica y añade un dato adicional sobre su posible futuro político nacional"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "El Mundo"
+      ]
+    },
+    {
+      "neutral_headline": "La Audiencia Nacional deja en libertad al millonario estadounidense Chambers, reclamado por EE.UU., tras detectarse errores de traducción en la petición de extradición",
+      "section": "Politica",
+      "facts": [
+        "La Audiencia Nacional ha dejado en libertad a un millonario estadounidense apellidado Chambers",
+        "Chambers estaba reclamado por Estados Unidos mediante una petición de extradición",
+        "El Pais y El Mundo atribuyen la liberacion a errores de traduccion en la reclamacion/peticion de extradicion de EEUU",
+        "El Mundo califica los errores como 'sustanciales'",
+        "El Mundo senala que Chambers esta acusado de financiar a Hamas",
+        "El Pais describe a Chambers como 'propalestino'",
+        "ABC indica que Chambers queda en libertad a la espera de la decision sobre su extradicion a EEUU",
+        "La Vanguardia identifica al reclamado con el nombre completo James Cox Chambers",
+        "ABC usa el nombre 'Fergie Chambers' para referirse al mismo individuo"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "enfasis en la acusacion/motivacion politica (financiador de Hamas, propalestino)",
+        "polo_b": "identificacion neutra centrada solo en el nombre y el hecho judicial",
+        "resumen": "Los medios se dividen entre destacar la supuesta motivacion politica o acusacion contra Chambers y limitarse a identificarlo por su nombre sin calificativos ideologicos"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "La Audiencia deja en libertad al millonario propalestino Chambers tras los errores de traducción en la reclamación de EE UU",
+          "link": "https://elpais.com/espana/2026-11-20/la-audiencia-deja-en-libertad-al-millonario-propalestino-chambers-tras-los-errores-de-traduccion-en-la-reclamacion-de-ee-uu.html",
+          "position": 20,
+          "focus": "Destaca el perfil 'propalestino' del millonario junto al motivo tecnico de la liberacion (errores de traduccion), introduciendo un matiz sobre su identidad politica"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "La Audiencia deja libre al millonario americano acusado de financiar a Hamas por \"errores sustanciales\" en la traducción de la petición de extradición de EEUU",
+          "link": "https://www.elmundo.es/espana/2026/11/20/6b002a6421efa0631f8b4575.html",
+          "position": 15,
+          "focus": "Explicita que Chambers esta acusado de financiar a Hamas, el encuadre mas cargado politicamente, y detalla que los errores de traduccion fueron 'sustanciales'"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "La Audiencia Nacional deja en libertad a Fergie Chambers a la espera de la decisión sobre la extradición a EE.UU.",
+          "link": "https://www.abc.es/espana/audiencia-nacional-deja-libertad-fergie-chambers-espera-20261120113007-nt.html",
+          "position": 75,
+          "focus": "Usa el apodo personal 'Fergie Chambers' sin mencionar motivaciones politicas ni la acusacion de financiacion, centrandose en el proceso judicial pendiente de extradicion"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "La Audiencia Nacional deja libre al millonario James Cox Chambers reclamado por EE.UU.",
+          "link": "https://www.lavanguardia.com/politica/20261120/11689149/audiencia-nacional-pone-libertad-condicional-millonario-james-cox-chambers.html",
+          "position": 80,
+          "focus": "Identifica al reclamado por su nombre completo sin ningun calificativo ideologico ni mencion a Hamas, el encuadre mas aseptico de los cuatro"
+        }
+      ],
+      "rango": 65,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos"
+      ]
+    },
+    {
+      "neutral_headline": "El Gobierno aprueba el decreto de centros de datos y planificación eléctrica antes de las elecciones",
+      "section": "Politica",
+      "facts": [
+        "El Gobierno aprobó el decreto de centros de datos y la planificación eléctrica",
+        "El Pais sitúa la aprobación a una semana de las elecciones",
+        "El Mundo sitúa la aprobación a nueve días de las elecciones",
+        "La Vanguardia indica que el decreto busca evitar un impacto de 5.000 millones en la factura de la luz"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "decisión cuestionada/oportunismo electoral",
+        "polo_b": "decisión justificada técnicamente",
+        "resumen": "Los medios difieren en si el decreto se presenta como una maniobra política previa a las elecciones o como una medida necesaria para evitar costes económicos"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "El Gobierno aprueba el decreto de centros de datos y la planificación eléctrica a una semana de las elecciones",
+          "link": "https://elpais.com/economia/2026-11-20/el-gobierno-aprueba-este-viernes-el-decreto-de-centros-de-datos-y-la-planificacion-electrica.html",
+          "position": 40,
+          "focus": "Destaca la proximidad electoral de forma neutra, sin atribuir intenciones, y menciona ambos aspectos del decreto (centros de datos y planificación eléctrica)"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Sánchez desoye al sector y aprueba el decreto de centros de datos a nueve días de las elecciones",
+          "link": "https://www.elmundo.es/economia/empresas/2026/11/20/6b00340be85ecec7198b4571.html",
+          "position": 15,
+          "focus": "Enmarca la decisión como un desaire de Sánchez al sector, subrayando la cercanía a las elecciones como un elemento sospechoso, sin mencionar los beneficios económicos del decreto"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Luz verde al decreto de centros de datos para evitar “un impacto de 5.000 millones” en la luz",
+          "link": "https://www.lavanguardia.com/economia/20261120/11689142/gobierno-aprueba-polemico-decreto-centros-datos-evitar-impacto-5-000-tarifa-luz.html",
+          "position": 80,
+          "focus": "Justifica la medida citando el ahorro de 5.000 millones en la factura eléctrica, presentando la aprobación como una decisión positiva y necesaria, omitiendo la crítica de otros sectores"
+        }
+      ],
+      "rango": 65,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "ABC"
+      ]
+    }
+  ]
+}
