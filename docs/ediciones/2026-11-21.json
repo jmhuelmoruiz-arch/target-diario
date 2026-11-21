@@ -1,0 +1,493 @@
+{
+  "fecha": "2026-11-21T12:57:43.563660+00:00",
+  "esquema": 2,
+  "historias": [
+    {
+      "neutral_headline": "Feijóo celebra un mitin multitudinario en Valencia tras el debate con Sánchez mientras los sondeos muestran distintos matices",
+      "section": "Politica",
+      "facts": [
+        "Feijóo participó en un debate cara a cara con Sánchez",
+        "Feijóo celebró un mitin en la Plaza de Toros de Valencia",
+        "El Mundo cifra la asistencia en una plaza abarrotada",
+        "ABC cifra la asistencia en más de 10.000 personas",
+        "El Español cifra la asistencia en 12.000 espectadores",
+        "El País señala que la distancia entre PP y PSOE se estrecha al mínimo pese a la victoria de Feijóo en el debate",
+        "eldiario.es informa de que Moncloa intenta remontar tras el desconcierto por la estrategia del debate"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "Triunfo consolidado de Feijóo",
+        "polo_b": "Impacto limitado o cuestionado del debate",
+        "resumen": "Los medios difieren en si el mitin y el debate reflejan un ascenso claro de Feijóo o si su efecto electoral es modesto y cuestionable"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "La distancia entre el PP y el PSOE se estrecha al mínimo pese a la victoria de Feijóo en el debate",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-11-20/la-distancia-entre-el-pp-y-el-psoe-se-estrecha-al-minimo-pese-a-la-victoria-de-feijoo-en-el-debate.html",
+          "position": 60,
+          "focus": "Destaca que pese a la victoria en el debate, el PP no logra ampliar su ventaja sobre el PSOE, matizando el triunfalismo"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Feijóo abarrota la Plaza de Toros de Valencia y exige a los suyos la máxima movilización: \"No os fieis, son capaces de todo\"",
+          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/21/6b017ba7e85ece95298b456e.html",
+          "position": 15,
+          "focus": "Resalta la masiva asistencia y el llamamiento a la movilización, reforzando la narrativa de fuerza del PP"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Feijóo, ante más de 10.000 asistentes en la plaza de toros de Valencia: «España necesita un cambio y vamos a lograrlo»",
+          "link": "https://www.abc.es/espana/ganador-debate-cara-cara-sanchez-feijoo-directo-20261120074658-di.html",
+          "position": 10,
+          "focus": "Subraya la cifra de asistentes y la cita textual de Feijóo sobre el cambio, en tono claramente favorable"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Moncloa intenta remontar tras el desconcierto por la estrategia del debate: “Un cara a cara no es Operación Triunfo”",
+          "link": "https://www.eldiario.es/politica/moncloa-remontar-desconcierto-estrategia-debate-cara-cara-no-operacion-triunfo_1_13681455.html",
+          "position": 35,
+          "focus": "Centra el foco en la reacción defensiva de Moncloa, mostrando el debate como un problema para el PSOE"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "El PP mide su euforia tras el cara a cara en la plaza de toros de València, su icono electoral",
+          "link": "https://www.lavanguardia.com/local/valencia/20261121/11688927/pp-mide-euforia-cara-cara-plaza-toros-valencia-icono-electoral.html",
+          "position": 50,
+          "focus": "Describe el ambiente de euforia del PP pero con matiz de cautela ('mide su euforia'), sin inclinarse claramente"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "El anime del superhéroe Feijóo frente al malvado Sánchez enfervoriza a los 12.000 espectadores de Valencia",
+          "link": "https://www.elespanol.com/espana/20261121/anime-superheroe-feijoo-frente-malvado-sanchez-enfervoriza-espectadores-valencia/1003744467434_0.html",
+          "position": 75,
+          "focus": "Usa un tono irónico ('anime', 'superhéroe', 'malvado') que relativiza el entusiasmo del mitin como espectáculo"
+        }
+      ],
+      "rango": 65,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos"
+      ]
+    },
+    {
+      "neutral_headline": "El Gobierno anuncia la prórroga del impuesto a la banca hasta 2027 para financiar políticas de vivienda",
+      "section": "Economia",
+      "facts": [
+        "Sánchez anunció la prórroga del impuesto a la banca",
+        "La prórroga se extiende hasta 2027",
+        "Los fondos recaudados se destinarán a políticas de vivienda",
+        "El Mundo, El Español y 20minutos cifran la recaudación en 1.400 millones de euros al año",
+        "eldiario.es indica que el anuncio formal se hará el martes en el Consejo de Ministros",
+        "20minutos menciona que la decisión se tomará en el Consejo de Ministros"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "carga fiscal excesiva ('impuestazo')",
+        "polo_b": "medida fiscal neutra/descriptiva",
+        "resumen": "ABC usa el término peyorativo 'impuestazo', introduciendo un juicio de valor sobre la carga que supone el tributo, mientras el resto de medios describen la medida de forma neutra."
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "El Gobierno prorrogará el impuesto a la banca un año más para financiar políticas de vivienda",
+          "link": "https://elpais.com/economia/2026-11-21/el-gobierno-prorrogara-el-impuesto-a-la-banca-un-ano-mas-para-financiar-politicas-de-vivienda.html",
+          "position": 50,
+          "focus": "Describe la prórroga y su finalidad (vivienda) sin cargar el término del impuesto."
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Sánchez anuncia la prórroga del impuesto a la banca en 2027: ¿en qué consiste un tributo que recauda 1.400 millones al año?",
+          "link": "https://www.elmundo.es/economia/macroeconomia/2026/11/21/6b017050e9cf4ad5138b45a2.html",
+          "position": 50,
+          "focus": "Explica el contexto y cifra la recaudación en 1.400 millones, con tono informativo neutro."
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Sánchez anuncia que el Gobierno extenderá el 'impuestazo' a la banca hasta 2027",
+          "link": "https://www.abc.es/economia/sanchez-anuncia-gobierno-extendera-impuestazo-banca-2027-20261121094800-nt.html",
+          "position": 15,
+          "focus": "Usa 'impuestazo', un término peyorativo que implica juicio negativo sobre el tributo."
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Sánchez anuncia que el martes prorrogará el impuesto a la banca para destinarlo a vivienda",
+          "link": "https://www.eldiario.es/economia/sanchez-anuncia-prorroga-impuesto-banca-2027-politicas-vivienda_1_13682337.html",
+          "position": 50,
+          "focus": "Centra la noticia en el anuncio y el momento (el martes) de forma neutra."
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "El Gobierno prorrogará un año el impuesto a la banca para financiar políticas de vivienda",
+          "link": "https://www.lavanguardia.com/politica/20261121/11689766/sanchez-anuncia-destinara-vivienda-1-400-millones-prorroga-impuesto-banca.html",
+          "position": 50,
+          "focus": "Idéntico enfoque neutro al de El País, sin cifras ni adjetivos valorativos."
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Sánchez anuncia la prórroga del impuesto a la banca \"hasta 2027\": \"1.400 millones de euros para políticas de viviendas\"",
+          "link": "https://www.elespanol.com/espana/politica/20261121/sanchez-anuncia-prorroga-impuesto-banca-millones-euros-politicas-viviendas/1003744467356_0.html",
+          "position": 50,
+          "focus": "Cita textual de Sánchez con la cifra de 1.400 millones, tono informativo."
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Sánchez anuncia que el Consejo de Ministros prorrogará el impuesto a la banca hasta 2027: \"1.400 millones que se destinen a vivienda\"",
+          "link": "https://www.20minutos.es/nacional/sanchez-anuncia-que-consejo-ministros-prorrogara-impuesto-banca-hasta-2027-1-400-millones-que-se-destinen-vivienda_7063963_0.html",
+          "position": 50,
+          "focus": "Detalla el órgano decisorio (Consejo de Ministros) y la cifra citada, sin carga valorativa."
+        }
+      ],
+      "rango": 35,
+      "discrepancia": "media",
+      "silenciosos": []
+    },
+    {
+      "neutral_headline": "Distintos dirigentes de izquierda piden el voto ante el 29-N para evitar un gobierno de PP y Vox",
+      "section": "Politica",
+      "facts": [
+        "Ex miembros del primer Gobierno de Felipe González piden el voto para Pedro Sánchez",
+        "Yolanda Díaz participa en la campaña del Frente Amplio",
+        "Néstor Rego es candidato del BNG",
+        "Los tres mensajes apuntan a evitar un gobierno de PP y Vox"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "La plana mayor del primer Gobierno de Felipe González pide el voto para Pedro Sánchez: “Hay riesgo de involución y recorte de derechos”",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-11-21/la-plana-mayor-del-primer-gobierno-de-felipe-gonzalez-pide-el-voto-para-pedro-sanchez.html",
+          "position": 50,
+          "focus": "Centra el foco en los históricos del PSOE y el riesgo de involución democrática"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Yolanda Díaz entra en la campaña del Frente Amplio: \"El PSOE se equivoca si cree que el 29-N va de quedar primero y que gobiernen PP y Vox\"",
+          "link": "https://www.elmundo.es/cataluna/2026/11/21/6b015da4e4d4d8bb7e8b4591.html",
+          "position": 50,
+          "focus": "Centra el foco en Yolanda Díaz y su advertencia al PSOE sobre la estrategia electoral"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Néstor Rego, candidato del BNG: \"No damos ninguna batalla por perdida, trabajamos para que no haya gobierno de las derechas\"",
+          "link": "https://www.eldiario.es/galicia/nestor-rego-candidato-bng-no-damos-batalla-perdida-no-haya-gobierno-derechas_128_13679866.html",
+          "position": 50,
+          "focus": "Centra el foco en el candidato del BNG y su discurso de resistencia frente a las derechas"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Espanol",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "Exjefe de la Policía italiana aparece muerto tras ser investigado por el asesinato del juez Borsellino en 1992",
+      "section": "Internacional",
+      "facts": [
+        "Un exjefe de la Policía italiana ha aparecido muerto",
+        "El fallecido estaba siendo investigado en relación con un caso vinculado a la mafia",
+        "El caso se relaciona con el asesinato del juez Borsellino en 1992",
+        "El Pais, eldiario.es y La Vanguardia identifican la muerte como suicidio",
+        "La Vanguardia identifica al fallecido como Gianni De Gennaro",
+        "El Mundo y 20minutos informan de que fue hallado muerto sin precisar la causa"
+      ],
+      "tipo_divergencia": "cronologica",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Resurge en Italia el misterio de las masacres de la Mafia de 1992 con el suicidio de un exjefe de policía",
+          "link": "https://elpais.com/internacional/2026-11-21/resurge-en-italia-el-misterio-de-las-masacres-de-mafia-de-1992-con-el-suicidio-de-un-exjefe-de-policia.html",
+          "position": 50,
+          "focus": "Enmarca el hecho como reapertura del misterio histórico de las masacres de 1992, menciona suicidio"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Encuentran muerto al ex jefe de la policía italiana después de resultar investigado por un caso relacionado con la mafia",
+          "link": "https://www.elmundo.es/internacional/2026/11/21/6b0182e8fc6c8351418b4596.html",
+          "position": 50,
+          "focus": "Informa del hallazgo del cuerpo sin confirmar causa, centra en la investigación previa"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Un exjefe de Policía italiana se suicida acorralado por la investigación del asesinato de un juez por la mafia en 1992",
+          "link": "https://www.eldiario.es/internacional/exjefe-policia-italiana-suicida-acorralado-investigacion-asesinato-juez-mafia-1992_1_13682765.html",
+          "position": 50,
+          "focus": "Detalla el suicidio y lo vincula directamente al acoso de la investigación por el asesinato del juez"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Se suicida Gianni De Gennaro, exjefe de la Policía investigado por el caso Borsellino",
+          "link": "https://www.lavanguardia.com/internacional/20261121/11689790/suicida-gianni-gennaro-exjefe-policia-italiana-investigado-caso-borsellino.html",
+          "position": 50,
+          "focus": "Identifica por nombre al fallecido y confirma suicidio, vincula al caso Borsellino"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Hallan muerto al exjefe de la Policía italiana tras ser investigado por el atentado contra el juez Borsellino",
+          "link": "https://www.20minutos.es/internacional/hallan-muerto-exjefe-policia-italiana-gianni-gennaro-tras-ser-investigado-por-atentado-contra-juez-borsellino_7064029_0.html",
+          "position": 50,
+          "focus": "Reporta el hallazgo del cuerpo sin confirmar causa, menciona el atentado contra Borsellino"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "ABC",
+        "El Espanol"
+      ]
+    },
+    {
+      "neutral_headline": "LOS40 Music Awards Santander 2026 reúne a artistas, premios y declaraciones de los asistentes",
+      "section": "Cultura",
+      "facts": [
+        "Se celebraron LOS40 Music Awards Santander 2026",
+        "Rosalía, Aitana y Guitarricadelafuente fueron destacados como protagonistas de la gala (El País)",
+        "Lola Índigo respondió a Isabel Díaz Ayuso durante el evento con una frase sobre 'los garrapateros y el pueblo trabajador de Andalucía' (El Mundo)",
+        "Se destacaron los looks de varios artistas, incluidas las transparencias de Aitana y el vestido de pájaro de Rosalía (La Vanguardia)"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "foco artístico-estético",
+        "polo_b": "foco político-polémico",
+        "resumen": "Los medios eligen distintos protagonismos del mismo evento: unos priorizan la música y la moda, otro el cruce político con Ayuso"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Rosalía, Aitana y Guitarricadelafuente brillan en la gran noche de Los40 Music Awards Santander 2026",
+          "link": "https://elpais.com/cultura/2026-11-21/rosalia-aitana-y-guitarricadelafuente-brillan-en-la-gran-noche-de-los40-music-awards-santander-2026.html",
+          "position": 15,
+          "focus": "Resalta a los artistas y su actuación musical, sin mencionar la polémica política"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Lola Índigo responde a Isabel Díaz Ayuso en LOS40 Music Awards: \"Que vivan los garrapateros y el pueblo trabajador de Andalucía\"",
+          "link": "https://www.elmundo.es/cultura/2026/11/21/6b017ba0e4d4d81f368b4576.html",
+          "position": 85,
+          "focus": "Centra la noticia en la respuesta política de Lola Índigo a Ayuso, dejando en segundo plano el aspecto musical"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "De las transparencias de Aitana al pájaro de Rosalía: los mejores looks de LOS40 Music Awards",
+          "link": "https://www.lavanguardia.com/gente/20261121/11689779/transparencias-aitana-plumas-rosalia-mejores-looks-los40-music-awards.html",
+          "position": 15,
+          "focus": "Se enfoca en la estética y el vestuario de las artistas, omitiendo cualquier referencia política"
+        }
+      ],
+      "rango": 70,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Espanol",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Costa presenta su propuesta de presupuesto plurianual de la UE tras negociaciones con los países frugales",
+      "section": "Economia",
+      "facts": [
+        "Costa (presidente del Consejo Europeo) ha presentado una propuesta de presupuesto para la UE",
+        "eldiario.es cifra el recorte respecto al proyecto anterior en un 10,2%",
+        "El Espanol cifra el recorte en 204.000 millones de euros y atribuye su origen a Merz y los paises frugales",
+        "La Vanguardia senala que Costa propone un impuesto a las Big Tech como nueva fuente de ingresos",
+        "El Pais destaca que el gasto en ferrocarril y la seguridad en alta velocidad esta influyendo en los votos sobre el presupuesto"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "Frugales/Merz imponen el recorte (Costa cede)",
+        "polo_b": "Costa impulsa su propia agenda (nuevos ingresos, partidas propias)",
+        "resumen": "Los medios difieren en si el protagonismo de la negociacion recae en los paises frugales que fuerzan el recorte o en Costa, que presenta iniciativas propias como el impuesto a las Big Tech."
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Miles de millones para el ferrocarril: garantizar la seguridad en la alta velocidad decanta votos",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-11-21/miles-de-millones-para-el-ferrocarril-garantizar-la-seguridad-en-la-alta-velocidad-decanta-votos.html",
+          "position": 55,
+          "focus": "Se centra en una partida concreta (ferrocarril/alta velocidad) y como esta decanta votos, sin atribuir explicitamente el recorte a un bando; omite la cifra global y el papel de Costa o los frugales"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Costa se rinde ante los austeros y presenta un proyecto de presupuesto europeo con un recorte del 10,2%",
+          "link": "https://www.eldiario.es/economia/costa-rinde-austeros-presenta-proyecto-presupuesto-europeo-recorte-10-2_1_13682378.html",
+          "position": 15,
+          "focus": "Enfatiza que Costa 'se rinde' ante los austeros, presentando la decision como una capitulacion frente a los frugales; destaca la cifra del 10,2% de recorte"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Costa plantea un impuesto a las Big Tech como ingreso para el presupuesto de la UE",
+          "link": "https://www.lavanguardia.com/economia/20261121/11689797/costa-plantea-impuesto-big-tech-fuente-ingreso-presupuesto-ue.html",
+          "position": 85,
+          "focus": "Destaca la iniciativa propia de Costa (impuesto a las Big Tech) como solucion de ingresos, mostrandolo como agente activo en lugar de receptor pasivo de presiones"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Merz y los frugales logran imponer un recorte de 204.000 millones al presupuesto de la Unión Europea",
+          "link": "https://www.elespanol.com/invertia/economia/macroeconomia/20261121/merz-frugales-logran-imponer-recorte-millones-presupuesto-union-europea/1003744467395_0.html",
+          "position": 10,
+          "focus": "Atribuye explicitamente el resultado a Merz y los frugales como protagonistas que 'logran imponer' el recorte, con la cifra mas alta (204.000 millones) y enfoque en su victoria politica"
+        }
+      ],
+      "rango": 75,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Mundo"
+      ]
+    },
+    {
+      "neutral_headline": "Trump participa en cumbre trilateral con Putin y Xi en Shenzhen",
+      "section": "Internacional",
+      "facts": [
+        "Se celebró una cumbre trilateral en Shenzhen con Trump, Putin y Xi",
+        "Trump presume de coleccionar fotos históricas (El Mundo)",
+        "Putin respondió con misiles durante o tras la cumbre (El Mundo)",
+        "Kim Jong-un no participó o ignoró el encuentro (El Mundo)",
+        "El Pais describe a Xi como el beneficiario de la cumbre",
+        "ABC describe a Trump como debilitado y con pocos frutos obtenidos de la cumbre"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "Trump protagonista fuerte/triunfador",
+        "polo_b": "Trump debilitado/eclipsado por otros actores",
+        "resumen": "Los medios difieren en si Trump aparece como figura dominante o como líder debilitado frente a Putin, Xi y Kim"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Trilateral en Shenzhen: la cumbre donde Trump presumió, Putin volvió y Xi ganó",
+          "link": "https://elpais.com/internacional/2026-11-21/trilateral-en-shenzhen-la-cumbre-donde-trump-presumio-putin-volvio-y-xi-gano.html",
+          "position": 60,
+          "focus": "Destaca el triple resultado de la cumbre con Xi como ganador implícito, Putin que 'vuelve' y Trump que 'presume'; omite detalles sobre fracasos concretos de Trump"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Donald Trump presume de coleccionar fotos históricas mientras Putin le responde con misiles y Kim Jong-un le ignora (otra vez)",
+          "link": "https://www.elmundo.es/internacional/2026/11/20/6b005be521efa0a6788b4589.html",
+          "position": 70,
+          "focus": "Contrasta la actitud fanfarrona de Trump con la respuesta agresiva de Putin (misiles) y el desprecio de Kim, subrayando la irrelevancia de Trump ante otros líderes"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Un Trump debilitado saca pecho de su cumbre con Putin y Xi pese a sus pocos frutos",
+          "link": "https://www.abc.es/internacional/donald-trump-rueda-prensa-tras-gira-asia-20261120212436-nt.html",
+          "position": 85,
+          "focus": "Enfatiza explícitamente la debilidad de Trump y la escasez de resultados concretos de la cumbre, usando el adjetivo 'debilitado' directamente en el titular"
+        }
+      ],
+      "rango": 25,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "El Espanol",
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "El Real Madrid ratifica a Nadal en su Asamblea mientras Florentino Pérez se pronuncia sobre el caso Negreira",
+      "section": "Deportes",
+      "facts": [
+        "El Real Madrid ratificó el nombramiento de Rafael Nadal en su Asamblea",
+        "Nadal declaró que espera estar en el club 'muchos años'",
+        "Florentino Pérez se pronunció sobre el caso Negreira",
+        "Florentino calificó el caso como 'un asunto de extraordinaria gravedad' (La Vanguardia)",
+        "Florentino afirmó 'no voy a parar hasta que se depuren responsabilidades' y dirigió críticas a Tebas y LaLiga (El Español)"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "Foco en Negreira/el caso en sí",
+        "polo_b": "Foco en Tebas y LaLiga como destinatarios de la crítica",
+        "resumen": "La Vanguardia centra la declaración de Florentino en la gravedad del caso Negreira, mientras El Español la enmarca como un ataque directo a Tebas y LaLiga"
+      },
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "Rafa Nadal, un galáctico a la derecha de Florentino en la Asamblea del Madrid: \"Voy a estar aquí muchos años\"",
+          "link": "https://www.elmundo.es/deportes/futbol/2026/11/21/6b01646de85ecec7518b4581.html",
+          "position": 50,
+          "focus": "Destaca la figura de Nadal como 'galáctico' incorporado a la cúpula del club junto a Florentino; no aborda el caso Negreira"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "El Real Madrid ratifica el nombramiento de Rafael Nadal: «Espero estar aquí durante muchos años»",
+          "link": "https://www.abc.es/deportes/real-madrid/florentino-sienta-nadal-derecha-ovacion-unanime-orgullo-20261121103146-nt.html",
+          "position": 50,
+          "focus": "Informa de forma protocolaria sobre la ratificación del nombramiento de Nadal, con cita directa; no aborda el caso Negreira"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Florentino Pérez va con todo por Negreira: “Es un asunto de extraordinaria gravedad”",
+          "link": "https://www.lavanguardia.com/deportes/real-madrid/20261121/11689824/florentino-perez-negreira-parare-depuren-responsabilidades.html",
+          "position": 20,
+          "focus": "Pone el acento en la gravedad del caso Negreira en sí, citando a Florentino hablando del asunto como tal"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Florentino carga contra Tebas y LaLiga por el caso Negreira: \"No voy a parar hasta que se depuren responsabilidades\"",
+          "link": "https://www.elespanol.com/deportes/futbol/20261121/florentino-carga-tebas-laliga-caso-negreira-no-voy-parar-depuren-responsabilidades/1003744467369_0.html",
+          "position": 80,
+          "focus": "Enmarca las declaraciones de Florentino como una ofensiva contra Tebas y LaLiga, señalándolos como destinatarios de la crítica"
+        }
+      ],
+      "rango": 60,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "El Pais",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Rescatan a un hombre secuestrado y atado a una silla durante 15 horas en un chalé aislado",
+      "section": "Sociedad",
+      "facts": [
+        "Un hombre fue rescatado tras estar secuestrado 15 horas",
+        "La víctima estaba atada a una silla",
+        "El secuestro ocurrió en un chalé aislado",
+        "20minutos sitúa el chalé en Montserrat"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "Rescatan a un hombre en un chalé aislado tras 15 horas secuestrado y atado a una silla",
+          "link": "https://www.elmundo.es/comunidad-valenciana/2026/11/21/6b015e47fdddffaa378b45d8.html",
+          "position": 50,
+          "focus": "Describe el rescate y las condiciones del secuestro sin precisar ubicación"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Rescatan a un hombre en un chalé aislado tras 15 horas secuestrado y atado a una silla",
+          "link": "https://www.lavanguardia.com/local/valencia/20261121/11689768/rescatan-hombre-chale-aislado-15-horas-secuestrado-atado-silla.html",
+          "position": 50,
+          "focus": "Describe el rescate y las condiciones del secuestro sin precisar ubicación"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Rescatan a un hombre en un chalé aislado en Montserrat tras 15 horas secuestrado y atado a una silla",
+          "link": "https://www.20minutos.es/comunidad-valenciana/valencia/rescatan-un-hombre-un-chale-aislado-montserrat-tras-pasar-15-horas-secuestrado-atado-una-silla_7063976_0.html",
+          "position": 50,
+          "focus": "Añade la localización geográfica concreta (Montserrat) junto al resto de datos del rescate"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "ABC",
+        "El Espanol",
+        "El Pais",
+        "eldiario.es"
+      ]
+    }
+  ]
+}
