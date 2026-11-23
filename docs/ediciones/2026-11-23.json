@@ -1,0 +1,551 @@
+{
+  "fecha": "2026-11-23T15:14:30.525464+00:00",
+  "esquema": 2,
+  "historias": [
+    {
+      "neutral_headline": "Encuestas antes de las elecciones del 29N muestran distintos márgenes entre PSOE y PP",
+      "section": "Politica",
+      "facts": [
+        "El Pais cita un tracking de 40dB que muestra al PSOE acercandose al PP en empate tecnico",
+        "ABC, eldiario.es, La Vanguardia y 20minutos citan el ultimo barometro del CIS antes de las elecciones",
+        "ABC y 20minutos atribuyen el barometro a 'el CIS de Tezanos'",
+        "eldiario.es y La Vanguardia se refieren a 'el CIS' sin mencionar a su presidente",
+        "ABC senala una ventaja del PSOE de 10 puntos sobre el PP segun el CIS",
+        "eldiario.es senala una ventaja de casi diez puntos del PSOE sobre el PP segun el CIS",
+        "La Vanguardia senala una ventaja de diez puntos del PSOE sobre el PP segun el CIS",
+        "20minutos senala que el PSOE queda diez puntos por encima del PP segun el CIS",
+        "eldiario.es anade que PP y Vox juntos no sumarian mayoria absoluta",
+        "20minutos anade que Vox se desploma en el barometro del CIS",
+        "Las elecciones se celebran el 29N segun 20minutos"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "ventaja del PSOE moderada o incierta",
+        "polo_b": "ventaja del PSOE clara y amplia",
+        "resumen": "Los medios difieren en si la encuesta del dia marca un empate tecnico (El Pais, con otra fuente) o una ventaja neta del PSOE, y en si atribuyen el dato al CIS como institucion o lo personalizan en su presidente Tezanos"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "El PSOE acaricia el empate con el PP, según el ‘tracking’ de 40dB.",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-11-22/el-psoe-acaricia-el-empate-con-el-pp-segun-el-tracking-de-40db.html",
+          "position": 10,
+          "focus": "Usa el tracking de 40dB, no el CIS, y enfatiza que el PSOE solo 'acaricia' el empate con el PP, minimizando cualquier ventaja"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "El CIS de Tezanos da 10 puntos de ventaja al PSOE sobre el PP en el último barómetro antes de las elecciones",
+          "link": "https://www.abc.es/espana/cis-tezanos-puntos-ventaja-psoe-sobre-pp-20261123120259-nt.html",
+          "position": 65,
+          "focus": "Atribuye el resultado a 'el CIS de Tezanos', sugiriendo cuestionamiento de la neutralidad del organismo, aunque reconoce una ventaja clara de 10 puntos"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "El último CIS antes de las elecciones da al PSOE una ventaja de casi diez puntos sobre el PP, que con Vox no suma mayoría absoluta",
+          "link": "https://www.eldiario.es/politica/ultimo-cis-elecciones-da-psoe-ventaja-diez-puntos-pp-vox-no-suma-mayoria-absoluta_1_13685466.html",
+          "position": 55,
+          "focus": "Reporta el CIS sin personalizar en Tezanos, matiza la ventaja anadiendo que PP y Vox no sumarian mayoria absoluta"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "El CIS sitúa al PSOE en cabeza y diez puntos por delante del PP",
+          "link": "https://www.lavanguardia.com/politica/20261123/11691034/cis-situa-psoe-cabeza-diez-puntos-delante-pp.html",
+          "position": 60,
+          "focus": "Reporta el CIS de forma neutral, sin mencionar a Tezanos, centrandose solo en la cifra de ventaja"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "El CIS de Tezanos dispara al PSOE diez puntos por encima del PP a una semana del 29N y Vox se desploma",
+          "link": "https://www.20minutos.es/nacional/cis-tezanos-dispara-psoe-diez-puntos-por-encima-pp-solo-una-semana-las-urnas-mientras-vox-se-desploma_7064553_0.html",
+          "position": 70,
+          "focus": "Atribuye el resultado a 'el CIS de Tezanos' y usa lenguaje enfatico ('dispara', 'se desploma'), acentuando tanto la ventaja del PSOE como la caida de Vox"
+        }
+      ],
+      "rango": 60,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "El Espanol",
+        "El Mundo"
+      ]
+    },
+    {
+      "neutral_headline": "Nvidia reincorpora a Jensen Huang como consejero delegado tras su salida previa",
+      "section": "Economia",
+      "facts": [
+        "Nvidia reincorpora a Jensen Huang en su cargo de consejero delegado",
+        "El Mundo cita una declaracion de que Huang 'no representa ningun riesgo para la seguridad nacional'",
+        "El Espanol indica que Huang vuelve tambien como presidente y miembro del Consejo",
+        "ABC atribuye la salida previa de Huang a un escandalo extramatrimonial con una presunta espia china",
+        "eldiario.es atribuye la renuncia a una relacion con una espia china y con otras dos empleadas",
+        "20minutos señala que la accion de Nvidia se disparo en bolsa tras el anuncio"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "hecho corporativo sin mencion del escandalo",
+        "polo_b": "enfasis en el escandalo personal/seguridad",
+        "resumen": "Los medios difieren en si incluyen y como enmarcan el escandalo previo (seguridad nacional, infidelidad o multiples relaciones) que motivo la salida de Huang."
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Nvidia recupera a Jensen Huang como consejero delegado",
+          "link": "https://elpais.com/economia/2026-11-23/nvidia-recupera-a-jensen-huang-como-consejero-delegado.html",
+          "position": 15,
+          "focus": "Se limita al hecho empresarial del regreso de Huang, sin mencionar el escandalo que motivo su salida"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Nvidia restituye a Jensen Huang como presidente y consejero delegado: \"No representa ningún riesgo para la seguridad nacional\"",
+          "link": "https://www.elmundo.es/economia/empresas/2026/11/23/6b044cf5e4d4d8137c8b4591.html",
+          "position": 40,
+          "focus": "Menciona el regreso y añade una cita oficial que descarta riesgo de seguridad nacional, suavizando el trasfondo personal"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Jensen Huang vuelve al frente de Nvidia tras el escándalo extramatrimonial con una presunta espía china",
+          "link": "https://www.abc.es/economia/jensen-huang-vuelve-nvidia-ceo-tras-escandalo-20261123151229-nt.html",
+          "position": 85,
+          "focus": "Centra el titular en el escandalo extramatrimonial con una presunta espia china como contexto principal del regreso"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Nvidia recupera a Jensen Huang como CEO después de su renuncia por su relación con una espía china y con otras dos empleadas",
+          "link": "https://www.eldiario.es/economia/nvidia-recupera-jensen-huang-ceo-despues-haberlo-despedido-relacion-espia-china-empleadas_1_13686512.html",
+          "position": 90,
+          "focus": "Detalla la renuncia previa vinculandola a relaciones con una espia y otras dos empleadas, maximo enfasis en el escandalo"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Nvidia reincorpora a Jensen Huang como presidente, director ejecutivo y miembro del Consejo",
+          "link": "https://www.elespanol.com/invertia/empresas/20261123/consejo-administracion-nvidia-reincorpora-jensen-huang-presidente-director-ejecutivo-miembro/1003744468947_0.html",
+          "position": 15,
+          "focus": "Describe los cargos formales que recupera Huang sin mencionar el escandalo previo"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Nvidia restituye a Jensen Huang como CEO tras el escándalo de su infidelidad con una espía china y la acción se dispara en Bolsa",
+          "link": "https://www.20minutos.es/lainformacion/empresas/nvidia-rescata-ceo-despido-forzoso_7064648_0.html",
+          "position": 75,
+          "focus": "Combina la mencion del escandalo de infidelidad con el dato bursatil del alza de la accion"
+        }
+      ],
+      "rango": 75,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "El Supremo aplica la amnistía a Puigdemont y archiva la causa del procés",
+      "section": "Politica",
+      "facts": [
+        "El Tribunal Supremo aplica la ley de amnistía a Carles Puigdemont",
+        "La causa del procés queda archivada/cerrada tras la aplicación de la amnistía",
+        "El Mundo señala que la causa se abrió hace nueve años",
+        "El Español señala que Puigdemont ha estado nueve años prófugo",
+        "ABC indica que la amnistía extingue la responsabilidad penal de Puigdemont"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "El Supremo aplica la amnistía a Puigdemont y archiva definitivamente la causa del 'procés' nueve años después de su apertura",
+          "link": "https://www.elmundo.es/espana/2026/11/23/6b042ed9e4d4d8872c8b4579.html",
+          "position": 50,
+          "focus": "Destaca el cierre definitivo de la causa y su duración de nueve años; omite detalles sobre la situación personal de Puigdemont"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "El Supremo aplica la amnistía a Puigdemont y extingue su responsabilidad penal",
+          "link": "https://www.abc.es/espana/supremo-aplica-amnistia-puigdemont-extingue-responsabilidad-penal-20261123135034-nt.html",
+          "position": 50,
+          "focus": "Pone el foco en el efecto jurídico de la amnistía (extinción de responsabilidad penal); no menciona el tiempo transcurrido"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "El Supremo aplica la amnistía a Puigdemont y archiva la causa del procés",
+          "link": "https://www.eldiario.es/catalunya/supremo-aplica-amnistia-puigdemont-archiva-causa-proces_1_13676267.html",
+          "position": 50,
+          "focus": "Describe de forma neutra el archivo de la causa, sin añadir datos temporales adicionales"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "El Supremo aplica la amnistía a Puigdemont y cierra la causa del 'procés'",
+          "link": "https://www.lavanguardia.com/politica/20261123/11691225/supremo-amnistia-expresidente-catalan-carles-puigdemont.html",
+          "position": 50,
+          "focus": "Usa 'cierra' como sinónimo de archivo, sin detalles adicionales sobre el proceso"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Punto final a la causa del 'procés': el Supremo aplica la amnistía a Puigdemont tras nueve años prófugo",
+          "link": "https://www.elespanol.com/espana/tribunales/20261123/punto-final-causa-proces-supremo-aplica-amnistia-puigdemont-anos-profugo/1003744468681_0.html",
+          "position": 50,
+          "focus": "Enfatiza el carácter de 'punto final' y la condición de prófugo de Puigdemont durante nueve años"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "El Pais"
+      ]
+    },
+    {
+      "neutral_headline": "Felipe González responde con ironía a José Bono tras pedirle que vote al PSOE",
+      "section": "Politica",
+      "facts": [
+        "José Bono pidió a Felipe González que vote o siga votando al PSOE",
+        "Felipe González respondió: 'Yo ya he votado. Soy una persona seria, no como otros'",
+        "Felipe González también dijo sobre Bono: 'Sé que él lo hace pro bono'"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Felipe González responde a José Bono: “Yo ya he votado. Soy una persona seria, no como otros”",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-11-23/felipe-gonzalez-responde-a-jose-bono-yo-ya-he-votado-soy-una-persona-seria-no-como-otros.html",
+          "position": 50,
+          "focus": "Cita la frase sobre haber votado ya y ser 'una persona seria'"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "González responde con sarcasmo a Bono tras pedirle que vote al PSOE: \"Sé que él lo hace 'pro bono'\"",
+          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/23/6b042561e85eceed0a8b457d.html",
+          "position": 50,
+          "focus": "Cita el juego de palabras 'pro bono' como muestra de sarcasmo"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Felipe González responde a José Bono: «Yo ya he votado. Soy una persona seria, no como otros»",
+          "link": "https://www.abc.es/espana/felipe-gonzalez-responde-bono-votado-persona-20261123125434-nt.html",
+          "position": 50,
+          "focus": "Cita la misma frase que El País sobre ser 'una persona seria'"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Felipe González tira de ironía para responder a Bono tras pedirle que siga votando al PSOE: \"Sé que él lo hace 'pro bono'\"",
+          "link": "https://www.20minutos.es/nacional/felipe-gonzalez-tira-ironia-para-responder-bono-tras-pedirle-que-siga-votando-psoe-se-que-hace-pro-bono_7064613_0.html",
+          "position": 50,
+          "focus": "Cita el mismo juego de palabras 'pro bono' que El Mundo, enmarcándolo como ironía"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "El Espanol",
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Puigdemont recomienda un poema a sus \"enemigos\" tras el archivo judicial de su causa",
+      "section": "Politica",
+      "facts": [
+        "Puigdemont recomendó un poema dirigido a sus \"enemigos\" tras conocerse el archivo (carpetazo) judicial de su causa vinculado a la amnistía",
+        "El poema citado incluye la frase \"me muero de ganas de daros por el culo\" (citada también como \"por culo\" en algunas versiones)"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "“Para que me muera de ganas de daros por el culo”: el poema que cita Puigdemont tras conocer el carpetazo judicial",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-11-23/queridos-enemigos-mios-rezo-para-que-cada-dia-seais-mas-el-poema-que-cita-puigdemont-tras-conocer-el-carpetazo-judicial.html",
+          "position": 50,
+          "focus": "Centra el titular en la cita literal del poema y el momento del carpetazo judicial"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Puigdemont recomienda un poema \"a los enemigos\" tras la amnistía: \"Me muero de ganas de daros por el culo\"",
+          "link": "https://www.eldiario.es/catalunya/puigdemont-recomienda-poema-enemigos-amnistia-muero-ganas-daros-culo_1_13686211.html",
+          "position": 50,
+          "focus": "Destaca que la recomendación se da tras la amnistía, usando la misma cita literal"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "El expresident dedica un poema a sus “enemigos” tras ser amnistiado: “Me muero de ganas de daros por culo”",
+          "link": "https://www.lavanguardia.com/politica/20261123/11691278/puigdemont-cita-poema-dirigirse-enemigos-amnistiado-me-muero-ganas-daros-culo.html",
+          "position": 50,
+          "focus": "Resalta el gesto de dedicar el poema a los \"enemigos\" tras ser amnistiado"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Puigdemont reacciona al archivo de su causa y recomienda a sus \"enemigos\" un poema que dice: \"Me muero de ganas de daros por culo\"",
+          "link": "https://www.20minutos.es/nacional/puigdemont-recomienda-sus-enemigos-un-poema-que-dice-me-muero-ganas-daros-por-culo-para-celebrar-su-amnistia_7064623_0.html",
+          "position": 50,
+          "focus": "Enfatiza la reacción de Puigdemont al archivo de la causa, citando el poema"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "ABC",
+        "El Espanol",
+        "El Mundo"
+      ]
+    },
+    {
+      "neutral_headline": "Feijóo critica a RTVE y advierte sobre nuevas reglas de la UE en declaraciones públicas",
+      "section": "Politica",
+      "facts": [
+        "Feijóo calificó a TVE como una 'televisión norcoreana'",
+        "Feijóo dijo que los informativos de TVE son 'una vergüenza'",
+        "Feijóo denunció falta de 'equidad' hacia Sánchez en RTVE",
+        "Feijóo afirmó que no aceptará reglas más estrictas de la UE tras la actitud de Sánchez",
+        "Feijóo denunció que hay productoras 'forrándose con dinero público'"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "Foco en la crítica a RTVE",
+        "polo_b": "Foco en la crítica a la UE y Sánchez",
+        "resumen": "Los medios eligen distintas declaraciones de Feijóo como titular: unos priorizan su ataque a TVE, otro su postura sobre la regulación europea."
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Feijóo carga contra TVE: “Parece una televisión norcoreana y los informativos son una vergüenza”",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-11-23/feijoo-carga-contra-tve-parece-una-television-norcoreana-y-los-informativos-son-una-verguenza.html",
+          "position": 15,
+          "focus": "Destaca la comparación de TVE con una televisión norcoreana y la crítica a los informativos, omitiendo el tema de la UE."
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Feijóo: «No aceptaré reglas más estrictas de la UE tras mirar para otro lado con Sánchez»",
+          "link": "https://www.abc.es/espana/feijoo-puedo-fallar-tener-segunda-oportunidad-20261122014226-nt.html",
+          "position": 90,
+          "focus": "Centra el titular en la postura de Feijóo frente a la UE y Sánchez, dejando fuera la crítica directa a TVE."
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Feijóo define RTVE como una televisión “norcoreana” por la falta de “equidad” con Sánchez",
+          "link": "https://www.lavanguardia.com/politica/20261123/11690976/feijoo-define-rtve-television-norcoreana-falta-equidad-sanchez.html",
+          "position": 20,
+          "focus": "Resalta la calificación de 'norcoreana' y la falta de equidad hacia Sánchez, sin mencionar el tema europeo."
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Feijóo equipara TVE con la \"televisión norcoreana\" y denuncia que hay productoras \"forrándose con dinero público\"",
+          "link": "https://www.elespanol.com/espana/politica/20261123/feijoo-equipara-tve-television-norcoreana-denuncia-productoras-forrandose-dinero-publico/1003744468346_0.html",
+          "position": 25,
+          "focus": "Combina la crítica a TVE con la denuncia sobre productoras y dinero público, ampliando el foco económico pero manteniendo el eje de RTVE."
+        }
+      ],
+      "rango": 75,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "El Mundo",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Margarita Robles publica un vídeo de campaña citando la frase 'menudo pájaro' sobre Sánchez",
+      "section": "Politica",
+      "facts": [
+        "Margarita Robles ha publicado un vídeo en el marco de la campaña electoral",
+        "El vídeo incluye la frase 'Está guapo... ¡Menudo pájaro!' en referencia a Sánchez",
+        "La Vanguardia vincula el vídeo con una estrategia dirigida al voto femenino"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "cobertura descriptiva/neutral",
+        "polo_b": "cobertura con matiz critico sobre partidismo",
+        "resumen": "ABC enmarca la accion de Robles como una entrega partidista a la campaña del PSOE, mientras El Pais y La Vanguardia lo presentan de forma mas descriptiva, esta ultima anadiendo el objetivo de captar voto femenino"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Margarita Robles entra de lleno en campaña con un vídeo inesperado: “[Sánchez] está guapo… ¡Menudo pájaro!”",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-11-23/margarita-robles-entra-de-lleno-en-campana-con-un-video-inesperado-sanchez-esta-guapo-menudo-pajaro.html",
+          "position": 40,
+          "focus": "Destaca el caracter 'inesperado' del video y cita la frase, sin juicio sobre motivacion partidista"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Robles se entrega a la campaña del PSOE y 'responde' a Sánchez: «Menudo pájaro»",
+          "link": "https://www.abc.es/espana/robles-entrega-campana-psoe-responde-sanchez-portada-20261123103305-nt.html",
+          "position": 65,
+          "focus": "Enmarca la accion como 'entregarse' a la campaña del PSOE, con connotacion de implicacion partidista; usa comillas en 'responde' sugiriendo distancia critica"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Robles entra en campaña por el voto femenino: “Está guapo... ¡Menudo pájaro!”",
+          "link": "https://www.lavanguardia.com/politica/20261123/11690970/robles-entra-campana-voto-femenino-esta-guapo-menudo-pajaro.html",
+          "position": 45,
+          "focus": "Anade el dato de que la estrategia apunta al voto femenino, mas informativo que valorativo"
+        }
+      ],
+      "rango": 25,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "El Espanol",
+        "El Mundo",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Ucrania ataca con drones navales un buque de guerra ruso frente a la costa de Libia",
+      "section": "Internacional",
+      "facts": [
+        "Ucrania llevó a cabo un ataque con drones navales contra un buque de guerra ruso (una corbeta) frente a la costa de Libia",
+        "El Pais sitúa el ataque a unos 2.000 kilómetros de la línea de frente en Ucrania",
+        "ABC señala que el hundimiento es una reivindicación de Ucrania, sin confirmarlo como hecho verificado de forma independiente",
+        "eldiario.es precisa que el ataque se realizó mediante drones navales",
+        "La Vanguardia y El Español añaden que, junto a la corbeta, también se atacó un carguero ruso cerca de Libia",
+        "La Vanguardia atribuye la reivindicación directamente a Zelenski"
+      ],
+      "tipo_divergencia": "cronologica",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Ucrania golpea a la Armada rusa en Libia, a 2.000 kilómetros de la línea de frente",
+          "link": "https://elpais.com/internacional/2026-11-23/ucrania-asume-la-autoria-del-ataque-con-drones-que-hundio-en-libia-un-barco-de-guerra-ruso.html",
+          "position": 50,
+          "focus": "Destaca la distancia del ataque respecto al frente ucraniano, enfatizando el alcance operativo; omite el ataque al carguero"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Ucrania hunde una corbeta rusa en Libia y la guerra cruza el Mediterráneo",
+          "link": "https://www.elmundo.es/internacional/2026/11/23/6b03ddfde9cf4a5f188b4574.html",
+          "position": 50,
+          "focus": "Enfatiza la expansión geográfica del conflicto al Mediterráneo; no menciona el ataque al carguero"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Ucrania reivindica el hundimiento de un buque de guerra ruso frente a Libia",
+          "link": "https://www.abc.es/internacional/zelenski-reivindica-ataque-drones-corbeta-rusia-anclada-20261123090950-nt.html",
+          "position": 50,
+          "focus": "Presenta el hecho como reivindicación de Ucrania, marcando cautela sobre la confirmación; no detalla el método ni el carguero"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Ucrania hunde un buque de guerra ruso en la costa de Libia en un ataque con drones navales",
+          "link": "https://www.eldiario.es/internacional/ucrania-hunde-buque-guerra-ruso-costa-libia-ataque-drones-navales_1_13685008.html",
+          "position": 50,
+          "focus": "Detalla el método del ataque (drones navales) y la ubicación; no menciona el carguero"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Zelenski reivindica la destrucción de una corbeta rusa y el ataque a un carguero cerca de Libia",
+          "link": "https://www.lavanguardia.com/internacional/20261123/11690935/elevan-a-15-muertos-ataques-rusos-region-kyiv-zelenski-reivindica-ataques-buques-rusos-libia.html",
+          "position": 50,
+          "focus": "Atribuye la reivindicación a Zelenski personalmente y añade el dato del ataque al carguero"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "La guerra de Ucrania salta al Mediterráneo: Kiev hunde una corbeta y ataca un carguero rusos en la costa de Libia",
+          "link": "https://www.elespanol.com/mundo/europa/20261123/guerra-ucrania-salta-mediterraneo-kiev-hunde-corbeta-ataca-carguero-rusos-costa-libia/1003744468226_0.html",
+          "position": 50,
+          "focus": "Combina la expansión del conflicto al Mediterráneo con el doble ataque (corbeta y carguero)"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos"
+      ]
+    },
+    {
+      "neutral_headline": "Un hombre es tiroteado en la cabeza en el aparcamiento de un gimnasio de Valdebebas; la viuda de un capitán fallecido en una persecución relacionada con narcotráfico critica al Gobierno",
+      "section": "Sociedad",
+      "facts": [
+        "Un hombre recibió un disparo en la cabeza en el aparcamiento de un gimnasio del barrio de Valdebebas",
+        "El Pais y ABC identifican a la víctima como un narcotraficante colombiano apodado 'El Coleta'/'Coletas' establecido en Madrid",
+        "20minutos describe al herido como 'un hombre' en estado grave, sin identificarlo como narcotraficante",
+        "El Mundo recoge el testimonio de Inmaculada, viuda del capitán Jerónimo, quien murió mientras perseguía al narco",
+        "Según El Mundo, la viuda acusa al Gobierno de no haber costeado el funeral de su marido"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "foco en el narcotraficante como protagonista del suceso",
+        "polo_b": "foco en la víctima institucional (capitán) y la crítica al Gobierno",
+        "resumen": "Mientras tres medios centran la noticia en el narcotraficante herido, El Mundo desplaza el protagonismo hacia el capitán fallecido y la gestión gubernamental del caso"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Tiroteado en la cabeza El coleta, un narcotraficante colombiano establecido en Madrid",
+          "link": "https://elpais.com/espana/madrid/2026-11-23/un-hombre-de-53-anos-herido-de-bala-en-la-cabeza-en-el-barrio-de-valdebebas-de-madrid.html",
+          "position": 10,
+          "focus": "Centra el relato en la identidad del narcotraficante herido, su apodo y su asentamiento en Madrid; no menciona a ningún agente ni al Gobierno"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "El dolor de Inmaculada, viuda del capitán Jerónimo, muerto mientras perseguía al narco: \"Este Gobierno ruin ha sido incapaz de costear el funeral de mi marido\"",
+          "link": "https://www.elmundo.es/cronica/2026/11/22/6aff7543e4d4d89d3e8b4594.html",
+          "position": 95,
+          "focus": "Desplaza el foco hacia la viuda del capitán muerto en la persecución, dando voz a su dolor y a su crítica directa al Gobierno por no costear el funeral"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Tirotean en la cabeza al narco el 'Coletas' en el aparcamiento de un gimnasio en Valdebebas",
+          "link": "https://www.abc.es/espana/madrid/tirotean-cabeza-hombre-aparcamiento-gimnasio-valdebebas-20261123140724-nt.html",
+          "position": 12,
+          "focus": "Igual que El Pais, identifica al herido como el narco 'Coletas' y detalla el lugar exacto del tiroteo, sin referencia a víctimas policiales ni al Gobierno"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Herido grave un hombre tras recibir un disparo en la cabeza en un gimnasio del barrio de Valdebebas",
+          "link": "https://www.20minutos.es/madrid/herido-grave-un-hombre-tras-recibir-un-disparo-cabeza-un-gimnasio-valdebebas_7064641_0.html",
+          "position": 35,
+          "focus": "Describe el hecho de forma más neutra, como un disparo a 'un hombre' en estado grave, sin confirmar su identidad como narcotraficante ni mencionar al Gobierno"
+        }
+      ],
+      "rango": 85,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "El Espanol",
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Bruselas investiga a Coca-Cola por restringir el comercio de sus bebidas entre países de la UE",
+      "section": "Economia",
+      "facts": [
+        "La Comisión Europea ha abierto una investigación a Coca-Cola",
+        "La investigación se centra en posibles restricciones al comercio de sus bebidas entre países de la UE",
+        "El Español precisa que se trata de un expediente antimonopolio",
+        "La Vanguardia identifica a la empresa investigada como Coca-Cola EP",
+        "El Mundo señala a España como uno de los mercados afectados por las restricciones"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "Bruselas investiga a Coca-Cola por restringir el comercio de sus refrescos en España",
+          "link": "https://www.elmundo.es/economia/empresas/2026/11/23/6b042bfffdddfffa3e8b459a.html",
+          "position": 50,
+          "focus": "Pone el foco en España como mercado afectado por las restricciones"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "La CE investiga a Coca-Cola EP por restricciones al comercio de sus bebidas",
+          "link": "https://www.lavanguardia.com/dinero/20261123/11691267/ce-investiga-coca-cola-ep-restricciones-comercio-bebidas.html",
+          "position": 50,
+          "focus": "Identifica a la filial concreta investigada, Coca-Cola European Partners"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Bruselas abre un expediente antimonopolio a Coca-Cola por bloquear el comercio de sus bebidas entre países de la UE",
+          "link": "https://www.elespanol.com/invertia/empresas/20261123/bruselas-abre-expediente-antimonopolio-coca-cola-bloquear-comercio-bebidas-paises-ue/1003744468471_0.html",
+          "position": 50,
+          "focus": "Detalla la naturaleza jurídica de la acción, un expediente antimonopolio"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Pais",
+        "eldiario.es"
+      ]
+    }
+  ]
+}
