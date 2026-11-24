@@ -1,0 +1,572 @@
+{
+  "fecha": "2026-11-24T15:12:09.118321+00:00",
+  "esquema": 2,
+  "historias": [
+    {
+      "neutral_headline": "El Gobierno aprueba la ampliación del permiso por nacimiento y cuidado hasta las 20 semanas",
+      "section": "Politica",
+      "facts": [
+        "El Gobierno amplía el permiso por nacimiento y cuidado a 20 semanas",
+        "La medida se aprueba en el Consejo de Ministros",
+        "eldiario.es señala que supone una semana más que el permiso anterior",
+        "El Español y 20minutos señalan que la medida llega cinco días antes de las elecciones del 29 de noviembre"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "medida institucional neutra",
+        "polo_b": "maniobra electoral de Sánchez",
+        "resumen": "Algunos medios presentan la ampliación como una decisión institucional del Gobierno, mientras otros la enmarcan como un gesto político de Sánchez calculado antes de las elecciones del 29N"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "El Gobierno amplía el permiso por nacimiento y cuidado hasta las 20 semanas",
+          "link": "https://elpais.com/sociedad/2026-11-24/el-gobierno-amplia-el-permiso-por-nacimiento-que-podra-llegar-hasta-las-20-semanas.html",
+          "position": 20,
+          "focus": "Presenta la medida como acción del Gobierno, sin mencionar contexto electoral"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Sánchez amplía a 20 semanas el permiso por nacimiento",
+          "link": "https://www.abc.es/economia/cuentas-corrientes/gobierno-amplia-semanas-permiso-nacimiento-queda-normativa-20261124103515-nt.html",
+          "position": 35,
+          "focus": "Atribuye la decisión a Sánchez personalmente, sin vincularla a las elecciones"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "El Gobierno amplía una semana más hasta las 20 los permisos por nacimiento",
+          "link": "https://www.eldiario.es/economia/gobierno-eleva-20-semanas-permiso-nacimiento-34-semanas-familias-monomarentales_1_13688066.html",
+          "position": 15,
+          "focus": "Destaca el incremento gradual (una semana más) como dato técnico, institucional"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "El Gobierno amplía a 20 semanas el permiso por nacimiento",
+          "link": "https://www.lavanguardia.com/economia/20261124/11691915/consejo-ministras-aprobara-ampliar-20-semanas-permiso-nacimiento.html",
+          "position": 15,
+          "focus": "Describe la medida de forma neutra, centrada en el Gobierno como sujeto"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Sánchez echa el resto desde el Consejo de Ministros: amplía el permiso de maternidad a 20 semanas, 5 días antes del 29-N",
+          "link": "https://www.elespanol.com/invertia/economia/empleo/20261124/sanchez-echa-resto-consejo-ministros-amplia-permiso-maternidad-semanas-dias/1003744469658_0.html",
+          "position": 85,
+          "focus": "Enfatiza la figura de Sánchez y vincula explícitamente la medida con la proximidad de las elecciones del 29N, sugiriendo cálculo político"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "El Gobierno amplía hasta las 20 semanas el permiso por nacimiento a solo cinco días del 29N",
+          "link": "https://www.20minutos.es/nacional/gobierno-amplia-20-semanas-permiso-por-nacimiento_7064962_0.html",
+          "position": 65,
+          "focus": "Menciona la proximidad electoral como dato de contexto, pero mantiene al Gobierno como sujeto principal"
+        }
+      ],
+      "rango": 70,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "El Mundo"
+      ]
+    },
+    {
+      "neutral_headline": "Hacienda rebaja el IRPF a los autónomos y simplifica su gestión del IVA",
+      "section": "Economia",
+      "facts": [
+        "Hacienda rebaja el IRPF de los autónomos",
+        "Se simplifica o modifica la declaración/liquidación del IVA para autónomos",
+        "El Pais indica que se eliminan los pagos trimestrales del IVA para pequeños negocios",
+        "El Mundo cifra en 2,6 millones los autónomos beneficiados por la rebaja del IRPF",
+        "La Vanguardia y 20minutos cifran la rebaja del IRPF en 465 millones de euros",
+        "20minutos señala que se aprueba un nuevo régimen de IVA"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Hacienda rebaja el IRPF de los autónomos y elimina los pagos trimestrales del IVA para los pequeños negocios",
+          "link": "https://elpais.com/economia/2026-11-24/hacienda-rebaja-el-irpf-de-los-autonomos-y-elimina-los-pagos-trimestrales-del-iva-para-los-pequenos-negocios.html",
+          "position": 50,
+          "focus": "Destaca la eliminación de pagos trimestrales de IVA para pequeños negocios; omite cifras concretas de beneficiarios o importe"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "El Gobierno rebaja el IRPF a 2,6 millones de autónomos y simplifica la declaración del IVA",
+          "link": "https://www.elmundo.es/economia/2026/11/24/6b05811ae9cf4a280b8b4593.html",
+          "position": 50,
+          "focus": "Destaca el número de autónomos beneficiados (2,6 millones); omite el importe total de la rebaja"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Hacienda rebaja el IRPF a los autónomos en 465 millones y simplifica sus liquidaciones de IVA",
+          "link": "https://www.lavanguardia.com/economia/20261124/11692145/hacienda-rebaja-irpf-autonomos-465-millones-simplifica-liquidaciones-iva.html",
+          "position": 50,
+          "focus": "Destaca el importe económico de la rebaja (465 millones); omite el número de beneficiarios"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Hacienda aprueba una rebaja para los autónomos en el IRPF de 465 millones y un nuevo régimen de IVA",
+          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/hacienda-aprueba-una-rebaja-para-los-autonomos-irpf-465-millones-un-nuevo-regimen-iva_7065106_0.html",
+          "position": 50,
+          "focus": "Destaca el importe (465 millones) y el nuevo régimen de IVA; omite el número de beneficiarios"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "ABC",
+        "El Espanol",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "El Gobierno aprueba una serie de medidas sociales en su último Consejo de Ministros antes de las elecciones del 29-N",
+      "section": "Politica",
+      "facts": [
+        "Se trata del último Consejo de Ministros antes de las elecciones del 29-N",
+        "El paquete incluye medidas dirigidas a familias, mujeres, autónomos y vivienda",
+        "El Gobierno defiende las medidas como cumplimiento de su labor ('Cumplimos con nuestro deber', según El Pais)"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "medidas de gobierno legitimas",
+        "polo_b": "maniobra electoral",
+        "resumen": "Los medios varian en si enmarcan las medidas como gestion normal de gobierno o como estrategia de campana antes de las elecciones"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "El Gobierno reivindica su traca final de medidas sociales previas al 29-N: “Cumplimos con nuestro deber”",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-11-24/el-gobierno-reivindica-su-traca-final-con-impuesto-a-la-banca-rebaja-de-autonomos-aborto-y-permiso-por-fallecimiento-cumplimos-con-nuestro-deber-gobernamos.html",
+          "position": 35,
+          "focus": "Recoge la cita defensiva del Gobierno que enmarca las medidas como cumplimiento del deber, restando enfasis al calculo electoral"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Sánchez exprime su último Consejo de Ministros en campaña con una lluvia de medidas para las familias, las mujeres, los autónomos, más millones para vivienda...",
+          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/24/6b058aa3fc6c83f00a8b4582.html",
+          "position": 60,
+          "focus": "Usa el verbo 'exprime' y la expresion 'en campana', subrayando el caracter electoralista del momento elegido"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "El Gobierno echa el resto en el último Consejo de Ministros antes de las elecciones con una cascada de medidas sociales",
+          "link": "https://www.eldiario.es/economia/ultimo-consejo-ministros-elecciones-da-luz-verde-gran-paquete-permisos-ayudas-impuesto-banca_1_13688755.html",
+          "position": 50,
+          "focus": "Describe la acumulacion de medidas sin atribuir explicitamente una motivacion politica ni defender su legitimidad"
+        }
+      ],
+      "rango": 25,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Espanol",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "Feijóo expresa preocupación por posible fraude electoral en consulados de cara al 29-N",
+      "section": "Politica",
+      "facts": [
+        "Feijóo declaró: 'Sánchez y la limpieza electoral son dos conceptos contradictorios' (El País, 20minutos) / 'conceptos bastante contradictorios' (La Vanguardia)",
+        "Feijóo mencionó las 'urnas de cartón' en los consulados (La Vanguardia, 20minutos)",
+        "El Pais menciona que Ayuso también participa en estas declaraciones",
+        "Las declaraciones se producen en el contexto de la jornada electoral del 29-N"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "cobertura critica (fantasma del fraude)",
+        "polo_b": "cobertura neutral (preocupacion/inquietud)",
+        "resumen": "El Pais enmarca las declaraciones como alimentar un 'fantasma' infundado, mientras La Vanguardia y 20minutos las presentan como una preocupacion o inquietud legitima sin calificarla."
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Feijóo y Ayuso alimentan el fantasma del fraude el 29-N: “Sánchez y la limpieza electoral son dos conceptos contradictorios”",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-11-24/feijoo-y-ayuso-alimentan-el-fantasma-del-fraude-el-29-n-sanchez-y-la-limpieza-electoral-son-dos-conceptos-contradictorios.html",
+          "position": 20,
+          "focus": "Usa el termino 'alimentan el fantasma del fraude', sugiriendo que la acusacion carece de fundamento; incluye a Ayuso como corresponsable del mensaje"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Feijóo, preocupado por las “urnas de cartón” en los consulados: “Sánchez y la limpieza electoral son conceptos bastante contradictorios”",
+          "link": "https://www.lavanguardia.com/politica/20261124/11691943/feijoo-preocupado-urnas-carton-consulados-sanchez-limpieza-electoral-son-conceptos-contradictorios.html",
+          "position": 55,
+          "focus": "Presenta a Feijóo como 'preocupado', encuadre mas neutral centrado en la declaracion textual sin juicio sobre su veracidad"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Feijóo expresa \"inquietud\" por las urnas de cartón en consulados: \"Sánchez y la limpieza electoral son dos conceptos contradictorios\"",
+          "link": "https://www.20minutos.es/nacional/feijoo-critica-proceso-votacion-exterior-sanchez-limpieza-electoral-son-conceptos-bastante-contradictorios_7064948_0.html",
+          "position": 55,
+          "focus": "Usa 'inquietud' como marco descriptivo, reproduce la cita sin anadir valoracion editorial"
+        }
+      ],
+      "rango": 35,
+      "discrepancia": "media",
+      "silenciosos": [
+        "ABC",
+        "El Espanol",
+        "El Mundo",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "El TAS falla a favor de Senegal y le otorga el título de la Copa África 2025, revocando la victoria administrativa de Marruecos",
+      "section": "Deportes",
+      "facts": [
+        "El Tribunal de Arbitraje Deportivo (TAS) emitió un fallo sobre la Copa África de Naciones",
+        "El fallo favorece a Senegal como campeón",
+        "Marruecos pierde el título que tenía por la vía administrativa",
+        "El Espanol señala que la controversia se originó en la final disputada en Rabat",
+        "20minutos indica que la decisión llega un año después de los hechos"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "El TAS da la razón a Senegal y confirma su victoria en la Copa África de Naciones",
+          "link": "https://www.elmundo.es/deportes/2026/11/24/6b05a4a3fdddff57228b4578.html",
+          "position": 50,
+          "focus": "Centra el titular en Senegal como sujeto que recibe la razón del TAS, sin mencionar explícitamente a Marruecos"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "EL TAS devuelve la Copa África 2025 a Senegal y se la quita a Marruecos",
+          "link": "https://www.abc.es/deportes/futbol/senegal-recupera-copa-africa-tras-fallo-tas-20261124152445-nt.html",
+          "position": 50,
+          "focus": "Menciona a ambas partes explícitamente: Senegal recupera el título y Marruecos lo pierde"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "El TAS devuelve el título de la Copa África a Senegal en detrimento de Marruecos",
+          "link": "https://www.lavanguardia.com/deportes/futbol/20261124/11692312/tas-devuelve-titulo-copa-africa-senegal-detrimento-marruecos.html",
+          "position": 50,
+          "focus": "Enfatiza el título devuelto a Senegal 'en detrimento de' Marruecos, mencionando a ambos equipos"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "El TAS devuelve a Senegal la Copa África y anula la victoria administrativa de Marruecos tras la polémica final de Rabat",
+          "link": "https://www.elespanol.com/deportes/futbol/20261124/tas-devuelve-senegal-copa-africa-anula-victoria-administrativa-marruecos-polemica-final-rabat/1003744469791_0.html",
+          "position": 50,
+          "focus": "Añade contexto sobre la polémica final en Rabat y califica la victoria de Marruecos como 'administrativa', aportando más detalle del proceso"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "El TAS le quita la Copa África a Marruecos: le da la razón a Senegal y se la 'devuelve' un año después",
+          "link": "https://www.20minutos.es/deportes/futbol/tas-da-razon-senegal-confirma-su-victoria-copa-africa-2025_7065219_0.html",
+          "position": 50,
+          "focus": "Centra el titular en Marruecos como sujeto que pierde el título, con énfasis en el tiempo transcurrido ('un año después')"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "El Pais",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Cintia Rocho se ratifica ante el juez Pedraz y declara que un exjuez le pidió atacar a la magistrada Biedma",
+      "section": "Politica",
+      "facts": [
+        "Cintia Rocho se ratificó ante el juez Pedraz",
+        "Rocho declaró que un exjuez le propuso dañar o eliminar a la magistrada Biedma",
+        "El Mundo identifica al exjuez como Sáenz de Tejada",
+        "El Pais vincula a Rocho con el narcotráfico",
+        "ABC atribuye la petición a las 'cloacas' del PSOE",
+        "El Espanol vincula al exjuez con Leire Díez",
+        "20minutos relaciona al exjuez con el entramado de 'las cloacas'",
+        "Biedma es la jueza del caso relacionado con el hermano de Pedro Sánchez"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "responsabilidad individual del exjuez",
+        "polo_b": "responsabilidad institucional del PSOE/cloacas",
+        "resumen": "Los medios difieren en si enmarcan el encargo como la acción de un exjuez concreto o como una operación orquestada por el entorno político del PSOE"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Una mujer vinculada al narco declara que un exjuez le encargó “eliminar” a la magistrada Biedma",
+          "link": "https://elpais.com/espana/2026-11-24/una-mujer-vinculada-al-narco-insiste-ante-el-juez-que-le-encargaron-eliminar-a-la-magistrada-biedma.html",
+          "position": 20,
+          "focus": "Destaca el perfil criminal de Rocho (vinculada al narco) y la acción personal del exjuez, sin mencionar al PSOE"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Cintia Rocho se ratifica ante Pedraz: está \"muy segura\" de que fue el ex juez Sáenz de Tejada quien contactó con ella para producirle \"daño físico\" a la juez del 'hermanísimo'",
+          "link": "https://www.elmundo.es/espana/2026/11/24/6b056e6ce85ece73128b456e.html",
+          "position": 15,
+          "focus": "Identifica con nombre propio al exjuez Sáenz de Tejada, centrando la responsabilidad en un individuo"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Cintia Rocho ratifica ante el juez que las 'cloacas' del PSOE le pidieron ayuda para atacar a Biedma",
+          "link": "https://www.abc.es/espana/cintia-rocho-ratifica-ante-juez-cloacas-psoe-20261124120410-nt.html",
+          "position": 90,
+          "focus": "Atribuye la petición directamente a 'las cloacas del PSOE', enmarcando el hecho como una operación política institucional"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "La líder de 'Los Rocho' se ratifica ante Pedraz: declara que el socio de Leire Díez le propuso \"eliminar\" a la juez Biedma",
+          "link": "https://www.elespanol.com/espana/tribunales/20261124/lider-rocho-ratifica-juez-declara-socio-leire-propuso-eliminar-beatriz-biedma/1003744469863_0.html",
+          "position": 65,
+          "focus": "Vincula al exjuez con Leire Díez, sugiriendo conexión política sin usar el término 'cloacas'"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Cintia Rocho confirma que el exjuez ligado a las cloacas le llamó para \"eliminar\" a la jueza del caso David Sánchez",
+          "link": "https://www.20minutos.es/nacional/cintia-rocho-confirma-que-exjuez-ligado-las-cloacas-le-llamo-para-eliminar-jueza-biedma-yo-no-estaba-para-dar-palos-nadie_7065069_0.html",
+          "position": 55,
+          "focus": "Menciona que el exjuez está 'ligado a las cloacas' pero mantiene el foco en la figura individual"
+        }
+      ],
+      "rango": 75,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "El juez Pedraz reclama de nuevo al PSOE que aclare quién autorizó los pagos a sus abogados en el 'caso Leire Díez'",
+      "section": "Politica",
+      "facts": [
+        "El juez Pedraz investiga el 'caso Leire Díez'",
+        "El PSOE entregó información sobre sus abogados que el juez considera incompleta",
+        "Pedraz exige saber quién autorizó los pagos a los abogados",
+        "El Español señala que es el tercer requerimiento del juez al PSOE por este asunto"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "El juez del ‘caso Leire Díez’ reclama más información al PSOE para saber quién autorizó los pagos a sus abogados",
+          "link": "https://elpais.com/espana/2026-11-24/el-juez-del-caso-leire-diez-reclama-mas-informacion-al-psoe-para-saber-quien-autorizo-los-pagos-a-sus-abogados.html",
+          "position": 50,
+          "focus": "Centra el hecho en la petición de más información del juez al PSOE"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Pedraz dice que el PSOE entregó incompleta la información sobre sus abogados y exige saber quién autorizó los pagos",
+          "link": "https://www.eldiario.es/politica/pedraz-dice-psoe-entrego-incompleta-informacion-abogados-exige-autorizo-pagos_1_13689623.html",
+          "position": 50,
+          "focus": "Enfatiza que la información entregada por el PSOE fue incompleta"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "El juez constata que el PSOE ha incumplido la entrega de datos de sus contratos con abogados y le requiere por tercera vez",
+          "link": "https://www.elespanol.com/espana/tribunales/20261124/juez-constata-psoe-incumplido-entrega-datos-contratos-abogados-requiere-tercera-vez/1003744470351_0.html",
+          "position": 50,
+          "focus": "Añade el dato cronológico de que es el tercer requerimiento, subrayando el incumplimiento reiterado"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Mundo",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "Gisèle Pelicot denuncia el uso no autorizado de fotos íntimas suyas para promocionar un libro",
+      "section": "Sociedad",
+      "facts": [
+        "Gisèle Pelicot denunció que se usaron imágenes íntimas suyas sin autorización para promocionar un libro",
+        "El Mundo describe su reacción como estar 'en shock'",
+        "El País recoge la cita de Pelicot: 'Me siento profundamente conmocionada'",
+        "Se dio a conocer el testamento de Antoni Gaudí, según eldiario.es, que incluía 3.000 pesetas y una casa en el Park Güell"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Gisèle Pelicot denuncia el uso de imágenes íntimas sin su autorización para promocionar un libro: “Me siento profundamente conmocionada”",
+          "link": "https://elpais.com/sociedad/2026-11-24/gisele-pelicot-denuncia-el-uso-de-imagenes-intimas-sin-su-autorizacion-para-promocionar-un-libro-me-siento-profundamente-conmocionada.html",
+          "position": 50,
+          "focus": "Cita textual de Pelicot expresando conmoción, centrado en su reacción emocional"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Gisèle Pelicot \"en shock\" por el uso de fotos suyas desnuda para promocionar un libro",
+          "link": "https://www.elmundo.es/internacional/2026/11/24/6b057016e85ece05188b4599.html",
+          "position": 50,
+          "focus": "Misma denuncia, usa expresión 'en shock', mismo hecho sin variación editorial"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Sale a la luz el testamento de Antoni Gaudí: sólo 3.000 pesetas y una casa en el Park Güell",
+          "link": "https://www.eldiario.es/catalunya/sale-luz-testamento-antoni-gaudi-3-000-pesetas-casa-park-guell_1_13687149.html",
+          "position": 50,
+          "focus": "Hecho distinto e independiente: revelación del testamento de Gaudí con detalles patrimoniales"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Espanol",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "El regreso de Jensen Huang a Nvidia y el papel de Trump en el episodio",
+      "section": "Economia",
+      "facts": [
+        "Jensen Huang regresó o se consolidó al frente de Nvidia tras un episodio de presión política",
+        "Donald Trump tuvo un papel atribuido en el desenlace del caso",
+        "La Vanguardia cifra en unos 15 millones de dólares la ganancia de Trump con sus acciones de Nvidia tras el regreso de Huang",
+        "eldiario.es menciona el miedo a una burbuja de la IA como factor del desenlace"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "intervención de Trump como rescate justificado",
+        "polo_b": "favoritismo y beneficio personal de Trump",
+        "resumen": "Los medios difieren en si presentan la actuación de Trump como un rescate legítimo del CEO o como un trato de favor con beneficio propio"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Así fue el regreso de Jensen Huang a Nvidia en siete actos: de la presión de Trump al apoyo familiar",
+          "link": "https://elpais.com/economia/2026-11-24/asi-fue-el-regreso-de-jensen-huang-a-nvidia-en-siete-actos-de-la-presion-de-trump-al-apoyo-familiar.html",
+          "position": 50,
+          "focus": "Narra el episodio en clave de reportaje biográfico con múltiples factores (presión política y apoyo familiar), sin tomar partido claro"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Caída y auge de Jensen Huang: cómo y por qué Trump impuso el rescate del CEO de Nvidia",
+          "link": "https://www.abc.es/economia/caida-auge-jensen-huang-trump-impuso-rescate-20261124024940-nt.html",
+          "position": 20,
+          "focus": "Presenta a Trump como artífice decisivo que 'impuso' el rescate, enmarcando su intervención como necesaria y resolutiva"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Jensen Huang y 'los intocables' de la IA: Trump y el miedo a la burbuja indultan al emperador de Nvidia",
+          "link": "https://www.eldiario.es/tecnologia/jensen-huang-intocables-ia-trump-miedo-burbuja-indultan-emperador-nvidia_1_13686563.html",
+          "position": 85,
+          "focus": "Usa términos como 'intocables' e 'indultan al emperador', sugiriendo trato de favor y criticando el vínculo entre poder político y empresarial"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Trump gana unos 15 millones de dólares con sus acciones de Nvidia tras el regreso de Huang",
+          "link": "https://www.lavanguardia.com/economia/20261124/11692253/trump-gana-15-millones-dolares-acciones-nvidia-regreso-huang.html",
+          "position": 70,
+          "focus": "Centra el foco en el beneficio económico personal de Trump por sus acciones, insinuando un posible conflicto de interés"
+        }
+      ],
+      "rango": 65,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "El Espanol",
+        "El Mundo"
+      ]
+    },
+    {
+      "neutral_headline": "Miguel Ángel Gil Marín dimite como vicepresidente de LaLiga",
+      "section": "Deportes",
+      "facts": [
+        "Miguel Ángel Gil Marín dimite como vicepresidente de LaLiga",
+        "Según ABC y 20minutos, Gil Marín ocupaba el cargo desde hace seis años",
+        "Según El Español, la dimisión se vincula a la financiación que Javier Tebas dio a la Unión de Clubes Europeos"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "no se explicita causa de la dimisión",
+        "polo_b": "se atribuye la dimisión a la financiación de Tebas a la UCE",
+        "resumen": "El Español introduce una causa concreta y polémica para la dimisión que el resto de medios no mencionan en el titular"
+      },
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "Miguel Ángel Gil Marín dimite como vicepresidente de LaLiga",
+          "link": "https://www.elmundo.es/deportes/futbol/primera-division/2026/11/24/6b059319fdddfffa3e8b45cb.html",
+          "position": 10,
+          "focus": "Se limita a anunciar el hecho de la dimisión sin dar causa ni contexto temporal"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Gil Marín dimite como vicepresidente de LaLiga tras seis años al lado de Tebas",
+          "link": "https://www.abc.es/deportes/gil-marin-dimite-vicepresidente-laliga-tras-seis-20261124140907-nt.html",
+          "position": 15,
+          "focus": "Añade contexto temporal (seis años) y la relación con Tebas, pero no explicita una causa concreta de la salida"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Miguel Ángel Gil Marín dimite como vicepresidente de LaLiga por la financiación de Tebas a la Unión de Clubes Europeos",
+          "link": "https://www.elespanol.com/deportes/futbol/20261124/gil-marin-dimite-vicepresidente-laliga-financiacion-tebas-union-clubes-europeos-rival-efc/1003744470158_0.html",
+          "position": 90,
+          "focus": "Señala explícitamente una causa concreta y controvertida: la financiación de Tebas a la Unión de Clubes Europeos"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Miguel Ángel Gil Marín dimite como vicepresidente de LaLiga tras seis años",
+          "link": "https://www.20minutos.es/deportes/futbol/miguel-angel-gil-marin-dimite-como-vicepresidente-laliga_7065188_0.html",
+          "position": 15,
+          "focus": "Destaca la duración del cargo (seis años) sin atribuir causa a la dimisión"
+        }
+      ],
+      "rango": 80,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "El Pais",
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Sector del PSOE respalda a Sánchez tras el anuncio de Felipe González de no votarle",
+      "section": "Politica",
+      "facts": [
+        "Felipe González anunció que votará en blanco y no apoyará al PSOE",
+        "Un grupo de un centenar de veteranos socialistas sevillanos expresó su apoyo a Sánchez",
+        "Sánchez respondió públicamente a González con la frase: 'La ultraderecha se frena con el rojo, no con el blanco'",
+        "Sectores del PSOE histórico se posicionaron junto a Sánchez y pidieron el voto para el partido"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "foco en apoyo a Sánchez",
+        "polo_b": "foco en aislamiento de González",
+        "resumen": "Los medios difieren en si narran el hecho como un respaldo a Sánchez o como una desautorización/aislamiento de González dentro del PSOE"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Un centenar de veteranos socialistas sevillanos muestran su apoyo a Sánchez en respuesta al voto en blanco de Felipe González",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-11-24/un-centenar-de-veteranos-socialistas-sevillanos-muestran-su-apoyo-a-sanchez-en-respuesta-al-voto-en-blanco-de-felipe-gonzalez.html",
+          "position": 40,
+          "focus": "Destaca la movilización de veteranos socialistas en apoyo a Sánchez; omite cualquier valoración directa sobre González"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Sánchez responde a González tras su decisión de no votar al PSOE: \"La ultraderecha se frena con el rojo, no con el blanco\"",
+          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/24/6b054e7fe9cf4a54648b458c.html",
+          "position": 50,
+          "focus": "Se centra en la respuesta textual de Sánchez a González, de forma informativa sin enfatizar el aislamiento de ninguno"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "El viejo PSOE deja solo a Felipe González y cierra filas con Sánchez para pedir el voto",
+          "link": "https://www.eldiario.es/politica/viejo-psoe-deja-felipe-gonzalez-cierra-filas-sanchez-pedir-voto_1_13686944.html",
+          "position": 65,
+          "focus": "Enfatiza que el 'viejo PSOE' deja solo a González, subrayando su aislamiento dentro del partido"
+        }
+      ],
+      "rango": 25,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Espanol",
+        "La Vanguardia"
+      ]
+    }
+  ]
+}
