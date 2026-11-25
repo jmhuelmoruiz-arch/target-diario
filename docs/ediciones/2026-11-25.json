@@ -1,0 +1,517 @@
+{
+  "fecha": "2026-11-25T14:52:27.801155+00:00",
+  "esquema": 2,
+  "historias": [
+    {
+      "neutral_headline": "Puigdemont anuncia que regresará a Cataluña el 12 de diciembre tras la amnistía",
+      "section": "Politica",
+      "facts": [
+        "Puigdemont anunció que regresará a Barcelona/Cataluña el 12 de diciembre",
+        "La fecha coincide tras la aprobación de la ley de amnistía",
+        "Puigdemont declaró que regresará 'sin pedir perdón ni permiso' (variante citada por varios medios)",
+        "eldiario.es cita la frase como 'sin pedir perdón ni renunciar a nada'",
+        "El Mundo y El Español recogen declaraciones de Puigdemont sobre el 'fracaso' del Estado/España",
+        "La Vanguardia indica que Puigdemont acudirá al Parlament"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "cobertura institucional/descriptiva del regreso",
+        "polo_b": "narrativa de desafío y triunfo frente al Estado",
+        "resumen": "Algunos medios enmarcan el anuncio como un hecho institucional (regreso, agenda parlamentaria), mientras otros subrayan el tono desafiante y la proclama de 'fracaso' del Estado atribuida a Puigdemont"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Puigdemont anuncia que regresará a Barcelona el sábado 12 de diciembre “sin pedir perdón ni permiso”",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-11-25/puigdemont-anuncia-que-regresara-a-barcelona-el-sabado-12-de-diciembre.html",
+          "position": 45,
+          "focus": "Cita la frase de desafío pero mantiene un tono informativo centrado en el regreso"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Puigdemont volverá a España el 12 de diciembre tras la amnistía: \"El Estado ha fracasado, regresaré a mi país, a Cataluña, sin pedir perdón ni permiso\"",
+          "link": "https://www.elmundo.es/espana/2026/11/25/6b06b417fc6c83ba038b458e.html",
+          "position": 25,
+          "focus": "Destaca la declaración sobre el 'fracaso' del Estado junto al desafío personal"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Puigdemont anuncia que volverá el 12 de diciembre a Catalunya \"sin pedir perdón ni renunciar a nada\"",
+          "link": "https://www.eldiario.es/catalunya/puigdemont-anuncia-volvera-12-diciembre-catalunya-pedir-perdon-renunciar_1_13691159.html",
+          "position": 50,
+          "focus": "Usa una variante de la cita ('sin renunciar a nada') sin añadir juicio adicional"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Puigdemont confirma que regresará a Catalunya el 12 de diciembre y acudirá al Parlament",
+          "link": "https://www.lavanguardia.com/politica/20261125/11692596/puigdemont-confirma-regresara-catalunya-12-diciembre-acudira-parlament.html",
+          "position": 65,
+          "focus": "Omite la cita desafiante y se centra en el aspecto institucional: la agenda en el Parlament"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Un Puigdemont triunfante proclama el \"fracaso\" de España y que volverá a Cataluña el 12-D \"sin pedir permiso ni perdón\"",
+          "link": "https://www.elespanol.com/espana/politica/20261125/puigdemont-triunfante-proclama-fracaso-espana-volvera-cataluna-sin-pedir-permiso-perdon/1003744471388_0.html",
+          "position": 15,
+          "focus": "Enfatiza el tono 'triunfante' de Puigdemont y la proclama de 'fracaso' de España"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Puigdemont dice que regresará el 12 de diciembre a España: \"Volveré sin pedir permiso ni perdón\"",
+          "link": "https://www.20minutos.es/nacional/puigdemont-volvera-espana-12-diciembre-celebra-aministia-esta-es-derrota-represion_7065451_0.html",
+          "position": 45,
+          "focus": "Recoge la cita de desafío de forma directa sin contexto adicional sobre el 'fracaso'"
+        }
+      ],
+      "rango": 50,
+      "discrepancia": "media",
+      "silenciosos": [
+        "ABC"
+      ]
+    },
+    {
+      "neutral_headline": "Los peritos señalan una soldadura defectuosa y falta de revisión como causas del accidente ferroviario en Adamuz",
+      "section": "Sociedad",
+      "facts": [
+        "Los peritos investigan el accidente de Adamuz",
+        "Se identifica una soldadura en la vía como posible causa",
+        "El Español y 20minutos indican que la vía no fue revisada en dos meses pese a un bache creciente",
+        "ABC señala un bache sin control detectado dos meses antes",
+        "El País menciona también un hundimiento del terreno como causa",
+        "20minutos atribuye a Adif la falta de seguimiento de la vía"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "causa técnica/accidental (soldadura, terreno)",
+        "polo_b": "negligencia en el mantenimiento (responsabilidad de Adif)",
+        "resumen": "Los medios varían entre presentar el accidente como un fallo técnico imprevisible y presentarlo como una negligencia evitable por falta de mantenimiento"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Los peritos de Adamuz apuntan a un fallo en la soldadura y un hundimiento del terreno como causas del siniestro",
+          "link": "https://elpais.com/espana/2026-11-25/los-peritos-de-adamuz-apuntan-a-un-fallo-en-la-soldadura-y-un-hundimiento-del-terreno-como-causas-del-siniestro.html",
+          "position": 35,
+          "focus": "Combina causa técnica (soldadura) con causa natural (hundimiento del terreno), sin mencionar negligencia de mantenimiento"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "La Guardia Civil apunta a un bache sin control en el punto de rotura en Adamuz dos meses antes de la tragedia",
+          "link": "https://www.abc.es/espana/andalucia/cordoba/guardia-civil-apunta-bache-supervision-tres-meses-20261125113755-nts.html",
+          "position": 60,
+          "focus": "Destaca que el bache llevaba sin control dos meses, insinuando falta de supervisión sin nombrar directamente a Adif"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Peritos de Adamuz apuntan a la rotura de la soldadura como causa probable del accidente",
+          "link": "https://www.lavanguardia.com/vida/20261125/11693107/peritos-adamuz-apuntan-rotura-soldadura-causa-probable-accidente.html",
+          "position": 20,
+          "focus": "Se centra exclusivamente en la rotura de la soldadura como causa probable, sin mencionar mantenimiento ni responsables"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Los peritos de Adamuz apuntan como causa a una soldadura mal hecha: la vía no se revisó en 2 meses pese a crecer el bache",
+          "link": "https://www.elespanol.com/invertia/observatorios/movilidad/20261125/peritos-adamuz-apuntan-soldadura-mal-ejecutada-hundimiento-via-causas-accidente/1003744471400_0.html",
+          "position": 55,
+          "focus": "Combina el defecto técnico con la falta de revisión durante dos meses pese al crecimiento del bache, repartiendo la atención entre ambos factores"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Los peritos apuntan a un defecto \"significativo\" en la vía de Adamuz y a que Adif no hizo un \"seguimiento\"",
+          "link": "https://www.20minutos.es/nacional/los-peritos-judiciales-apuntan-un-defecto-significativo-via-adamuz-que-adif-no-hizo-un-seguimiento-su-evolucion_7065671_0.html",
+          "position": 75,
+          "focus": "Pone el foco en la falta de seguimiento por parte de Adif, señalando responsabilidad institucional explícita"
+        }
+      ],
+      "rango": 55,
+      "discrepancia": "media",
+      "silenciosos": [
+        "El Mundo",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Estados Unidos anuncia nuevos aranceles a varios socios comerciales, entre ellos China y la Unión Europea",
+      "section": "Economia",
+      "facts": [
+        "El Pais y eldiario.es indican que la propuesta afecta a 14 socios comerciales, incluidos China y la UE",
+        "El Mundo señala que los aranceles alcanzan a la Unión Europea, China, Japón y otra decena de países",
+        "La Vanguardia precisa que el plan incluye a China y a los 27 miembros de la UE",
+        "El Espanol indica que la medida afecta a la UE, China y otros 12 socios comerciales",
+        "20minutos cifra el arancel a Europa en un 15% y atribuye la medida a un 'exceso de capacidad'"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "anuncio o propuesta aun no vigente",
+        "polo_b": "medida ya impuesta",
+        "resumen": "Los medios difieren en si presentan la medida como una propuesta en negociacion o como un arancel ya aplicado"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "EE UU propone nuevos aranceles contra 14 socios comerciales, entre ellos China y la UE",
+          "link": "https://elpais.com/internacional/2026-11-25/ee-uu-anuncia-nuevos-aranceles-contra-14-socios-comerciales.html",
+          "position": 15,
+          "focus": "Usa 'propone', enfatizando que se trata de una iniciativa aun no efectiva; cita la cifra de 14 socios"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Trump reabre la guerra comercial e impone nuevos aranceles a la Unión Europea, China, Japón y otra decena de países",
+          "link": "https://www.elmundo.es/economia/2026/11/25/6b06ef89e4d4d8ad388b45b2.html",
+          "position": 90,
+          "focus": "Usa 'impone', tratando la medida como ya vigente; amplia la lista a UE, China, Japon y una decena mas"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Trump plantea nuevos aranceles contra 14 socios comerciales, incluida la Unión Europea y China",
+          "link": "https://www.eldiario.es/internacional/trump-plantea-nuevos-aranceles-14-socios-comerciales-incluida-union-europea-china_1_13692693.html",
+          "position": 15,
+          "focus": "Usa 'plantea', manteniendo el caracter de propuesta y repite la cifra de 14 socios"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Trump desvela un nuevo plan para imponer aranceles, incluidos China y los 27 miembros de la UE",
+          "link": "https://www.lavanguardia.com/economia/20261125/11693211/trump-desvela-nuevo-plan-imponer-aranceles-incluidos-china-27-miembros-ue.html",
+          "position": 30,
+          "focus": "Usa 'desvela un plan para imponer', reconociendo que aun es un plan pero detallando que incluye a los 27 de la UE"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "La Administración Trump anuncia una nueva tanda de aranceles para la UE, China y otros 12 socios comerciales",
+          "link": "https://www.elespanol.com/mundo/america/eeuu/20261125/administracion-trump-anuncia-nueva-tanda-aranceles-ue-china-socios-comerciales/1003744471916_0.html",
+          "position": 25,
+          "focus": "Usa 'anuncia', situandolo como paso previo a la imposicion, con 12 socios adicionales"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Trump impone nuevos aranceles del 15% a Europa y alega exceso de capacidad",
+          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/trump-impone-aranceles-europa-alega-exceso-capacidad_7065709_0.html",
+          "position": 90,
+          "focus": "Usa 'impone' y añade una cifra concreta (15%) y una justificacion (exceso de capacidad), tratando la medida como hecho consumado"
+        }
+      ],
+      "rango": 75,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "ABC"
+      ]
+    },
+    {
+      "neutral_headline": "Nueva llegada masiva de migrantes a El Hierro en cayucos, acumulando récord de rescates y embarcaciones",
+      "section": "Sociedad",
+      "facts": [
+        "190 personas llegaron en dos cayucos a El Hierro (El Pais)",
+        "Más de 1.900 inmigrantes fueron rescatados en El Hierro en 24 horas, cifra que bate récord (ABC)",
+        "El cementerio de cayucos en Frontera reúne ya más de 80 embarcaciones (El Espanol)",
+        "Según El Espanol, antes las embarcaciones se trituraban pero ahora no dan abasto"
+      ],
+      "tipo_divergencia": "cronologica",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Sin pausa en la ruta canaria: 190 personas más llegan en dos cayucos a El Hierro",
+          "link": "https://elpais.com/espana/2026-11-25/sin-pausa-en-la-ruta-canaria-190-personas-mas-llegan-en-dos-cayucos-a-el-hierro.html",
+          "position": 50,
+          "focus": "Centra en la llegada puntual de 190 personas en dos cayucos, sin dar cifra acumulada ni contexto de saturación"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Canarias bate su propio récord de llegadas con más de 1.900 inmigrantes rescatados en El Hierro en 24 horas",
+          "link": "https://www.abc.es/espana/canarias/madrugada-intensa-canarias-604-inmigrantes-rescatados-tres-20261124120137-nt.html",
+          "position": 50,
+          "focus": "Destaca el récord acumulado de más de 1.900 rescatados en 24 horas, enfatizando la magnitud del fenómeno migratorio"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "El cementerio de cayucos reúne ya más de 80 embarcaciones en Frontera: \"Antes se trituraban, pero no damos abasto\"",
+          "link": "https://www.elespanol.com/espana/politica/20261125/cementerio-cayucos-reune-embarcaciones-frontera-trituraban-no-damos-abasto/1003744470835_0.html",
+          "position": 50,
+          "focus": "Pone el foco en la consecuencia material acumulada: el cementerio de cayucos y la incapacidad de gestionar las embarcaciones"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "El Mundo",
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "La Audiencia Nacional revoca el tercer grado al etarra Henri Parot",
+      "section": "Politica",
+      "facts": [
+        "La Audiencia Nacional revoca el tercer grado concedido al etarra Henri Parot",
+        "ABC señala que Parot fue condenado por 39 asesinatos",
+        "La Vanguardia y 20minutos citan la 'extrema gravedad' de sus delitos como motivo de la decision",
+        "El Mundo indica que el tribunal plantea una reforma legal para que las victimas puedan recurrir este tipo de decisiones"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "La Audiencia Nacional revoca el tercer grado al etarra Henri Parot y plantea una reforma legal para que las víctimas puedan recurrir",
+          "link": "https://www.elmundo.es/espana/2026/11/25/6b06cf7a21efa0f96d8b457e.html",
+          "position": 50,
+          "focus": "Destaca ademas la propuesta de reforma legal para que las victimas puedan recurrir; no detalla el numero de asesinatos"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "La Audiencia Nacional revoca el tercer grado de Henri Parot, el etarra condenado por 39 asesinatos",
+          "link": "https://www.abc.es/espana/pais-vasco/juez-revoca-tercer-grado-dirigente-eta-henri-20261125132019-nt.html",
+          "position": 50,
+          "focus": "Enfatiza el historial criminal de Parot citando los 39 asesinatos; no menciona la reforma legal"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "La Audiencia Nacional revoca el tercer grado de Parot por la “extrema gravedad” de sus delitos",
+          "link": "https://www.lavanguardia.com/local/paisvasco/20261125/11693137/audiencia-nacional-revoca-tercer-grado-henri-parot-extrema-gravedad-delitos.html",
+          "position": 50,
+          "focus": "Centra el titular en el motivo oficial, la 'extrema gravedad' de los delitos, sin dar cifras ni mencionar la reforma"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "El juez revoca el tercer grado concedido al etarra Henri Parot ante la \"extrema gravedad\" de sus delitos",
+          "link": "https://www.20minutos.es/pais-vasco/juez-revoca-tercer-grado-concedido-por-gobierno-vasco-etarra-henri-parot-ante-extrema-gravedad-sus-delitos_7065653_0.html",
+          "position": 50,
+          "focus": "Replica el motivo de 'extrema gravedad' citado por el juez, sin anadir detalles sobre el numero de victimas ni la reforma legal"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "El Espanol",
+        "El Pais",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "PP y PSOE se acusan mutuamente de hipocresía en torno a la violencia machista",
+      "section": "Politica",
+      "facts": [
+        "El PSOE acusa al PP de usar a la mujer como 'moneda de cambio'",
+        "El PP critica la divergencia entre el discurso feminista en público y los comportamientos en privado, según El Mundo",
+        "El PP carga contra el Gobierno en el día contra la violencia machista con la frase 'Le pusieron un piso a una puta', según eldiario.es",
+        "Feijóo arremete contra la 'hipocresía' de Sánchez por el voto femenino, según La Vanguardia"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "PP acusado de hipocresía/agresor",
+        "polo_b": "PSOE/Sánchez acusado de hipocresía",
+        "resumen": "Los medios difieren en si el protagonista señalado como hipócrita es el PP o el PSOE/Sánchez."
+      },
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "El PSOE acusa al PP de usar a la mujer como \"moneda de cambio\" y los 'populares' critican la divergencia entre el \"discurso feminista en público y los comportamientos en privado\"",
+          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/25/6b06caf9fdddff78028b45a2.html",
+          "position": 50,
+          "focus": "Presenta las acusaciones cruzadas de ambos partidos sin inclinarse hacia uno"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "El PP utiliza el día contra la violencia machista para cargar contra el Gobierno: \"Le pusieron un piso a una puta\"",
+          "link": "https://www.eldiario.es/politica/pp-utiliza-dia-violencia-machista-cargar-gobierno-le-pusieron-piso-puta_1_13692754.html",
+          "position": 20,
+          "focus": "Se centra en la ofensiva verbal del PP contra el Gobierno, citando una frase polémica que retrata al PP como agresivo"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Feijóo arremete contra la “hipocresía” de Sánchez por el voto femenino",
+          "link": "https://www.lavanguardia.com/politica/20261124/11692568/feijoo-arremete-hipocresia-sanchez-voto-femenino.html",
+          "position": 80,
+          "focus": "Destaca la acusación de Feijóo hacia Sánchez, situando al PSOE como el hipócrita"
+        }
+      ],
+      "rango": 60,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Espanol",
+        "El Pais"
+      ]
+    },
+    {
+      "neutral_headline": "Buscan al presunto autor del asesinato a navajazos de una mujer de 32 años en Bullas (Murcia)",
+      "section": "Sociedad",
+      "facts": [
+        "Una mujer de 32 años fue asesinada a navajazos/cuchilladas en el municipio de Bullas (Murcia).",
+        "El presunto autor es su pareja o novio, que se dio a la fuga tras el crimen.",
+        "La Guardia Civil y la Policía buscan al sospechoso.",
+        "El suceso se produjo coincidiendo con el 25-N, Día Internacional contra la Violencia hacia las Mujeres (según eldiario.es y El Español).",
+        "eldiario.es y 20minutos califican el hecho como crimen o violencia machista.",
+        "El Español identifica al presunto autor con el nombre 'José El Gitano'.",
+        "La Vanguardia informa de un suceso distinto: la detención de un hombre por matar a su pareja, hallada semienterrada en octubre en Chiclana (Cádiz)."
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "relato como suceso/crimen individual sin etiqueta de género",
+        "polo_b": "encuadre explícito como violencia machista/crimen de género",
+        "resumen": "Los medios difieren en si etiquetan explícitamente el asesinato como 'violencia machista' o lo narran como un suceso criminal sin esa calificación."
+      },
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "La Guardia Civil investiga el asesinato a navajazos de una mujer de 32 años en el municipio de Bullas (Murcia)",
+          "link": "https://www.elmundo.es/murcia/2026/11/25/6b06dcb021efa05d2c8b4570.html",
+          "position": 35,
+          "focus": "El Mundo centra el titular en la investigación policial y el método del crimen, sin etiquetar el hecho como violencia de género."
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Un hombre mata a su pareja de 32 años en Bullas (Murcia) y se da a la fuga",
+          "link": "https://www.abc.es/espana/murcia/investigan-asesinato-mujer-anos-bullas-murcia-guardia-20261125140752-nt.html",
+          "position": 40,
+          "focus": "ABC identifica al autor como la pareja de la víctima y destaca su huida, pero evita el término 'machista'."
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "La Policía busca al presunto autor de un crimen machista en Bullas este 25N",
+          "link": "https://www.eldiario.es/murcia/sociedad/buscan-presunto-autor-crimen-machista-bullas-25n_1_13692363.html",
+          "position": 85,
+          "focus": "eldiario.es enmarca explícitamente el crimen como 'machista' y lo vincula al 25N, resaltando el contexto social."
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Detenido un hombre por matar a su pareja, una mujer hallada semienterrada en octubre en Chiclana",
+          "link": "https://www.lavanguardia.com/vida/20261125/11693043/detenido-hombre-matar-pareja-mujer-hallada-semienterrada-octubre-chiclana.html",
+          "position": 50,
+          "focus": "La Vanguardia narra un caso distinto (Chiclana), no comparable directamente con el de Bullas; no se inclina en este eje."
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "La Guardia Civil busca a José 'El Gitano', presunto autor del asesinato a cuchilladas de su pareja en Bullas en pleno 25-N",
+          "link": "https://www.elespanol.com/espana/20261125/guardia-civil-busca-autor-crimen-machista-bullas-murcia-mato-pareja-navajazos/1003744471882_0.html",
+          "position": 60,
+          "focus": "El Español identifica al sospechoso por nombre y apodo y menciona el 25-N, acercándose al encuadre de violencia de género sin usar el término explícito."
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Investigan como violencia machista el asesinato a navajazos de una mujer en Murcia: buscan a su novio",
+          "link": "https://www.20minutos.es/murcia/asesinan-navajazos-una-mujer-32-anos-murcia-pleno-25-n-buscan-su-novio_7065673_0.html",
+          "position": 80,
+          "focus": "20minutos usa directamente la etiqueta 'violencia machista' y pone el foco en la búsqueda del novio como sospechoso."
+        }
+      ],
+      "rango": 50,
+      "discrepancia": "media",
+      "silenciosos": [
+        "El Pais"
+      ]
+    },
+    {
+      "neutral_headline": "Jueza cita a Leire Díez y al exjefe de gabinete de Sánchez por presunta irregularidades en Correos",
+      "section": "Politica",
+      "facts": [
+        "Una jueza cita a Leire Díez y al exjefe de gabinete de Sánchez en el PSOE por presuntas irregularidades en Correos (El Pais)",
+        "La Audiencia de Madrid obliga a interrogar a Leire Díez y al expresidente de Correos (eldiario.es)",
+        "La denuncia que origina el proceso fue presentada por Vox (eldiario.es)",
+        "La jueza había archivado previamente la denuncia de Vox (eldiario.es)",
+        "Leire Díez y el exjefe de gabinete de Sánchez están investigados por 4 delitos más por supuestas irregularidades en Correos (El Espanol)"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "iniciativa judicial propia",
+        "polo_b": "orden forzada tras archivo previo",
+        "resumen": "Los medios difieren en si la citación es una decisión autónoma de la jueza o una orden impuesta por la Audiencia tras un archivo previo, lo que cambia el protagonismo del proceso judicial."
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Una jueza cita a Leire Díez y al exjefe de gabinete de Sánchez en el PSOE por presuntas irregularidades en Correos",
+          "link": "https://elpais.com/espana/2026-11-25/una-jueza-cita-a-leire-diez-y-al-exjefe-de-gabinete-de-sanchez-en-el-psoe-por-presuntas-irregularidades-en-correos.html",
+          "position": 20,
+          "focus": "Presenta la citación como acto directo de la jueza, sin mencionar archivo previo ni intervención de la Audiencia ni el origen en una denuncia de Vox"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "La Audiencia de Madrid obliga a interrogar a Leire Díez y al expresidente de Correos por una denuncia de Vox que la jueza archivó",
+          "link": "https://www.eldiario.es/politica/audiencia-madrid-obliga-interrogar-leire-diez-expresidente-correos-denuncia-vox-jueza-archivo_1_13691705.html",
+          "position": 90,
+          "focus": "Destaca que la Audiencia obligó a la jueza a actuar tras haber archivado la denuncia, y señala que esta fue presentada por Vox, enmarcando el proceso como forzado judicialmente"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Leire Díez y el exjefe de gabinete de Sánchez, investigados por 4 delitos más por supuestas irregularidades en Correos",
+          "link": "https://www.elespanol.com/espana/tribunales/20261125/leire-exjefe-gabinete-sanchez-investigados-delitos-supuestas-irregularidades-correos/1003744471232_0.html",
+          "position": 15,
+          "focus": "Enfatiza la ampliación de la investigación a 4 delitos más, sin mencionar el archivo previo ni la intervención de la Audiencia, reforzando la idea de una investigación en marcha por iniciativa judicial"
+        }
+      ],
+      "rango": 75,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Mundo",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "Kilmar Abrego García, deportado por EE.UU. y devuelto despues a una carcel en El Salvador, llega a España",
+      "section": "Internacional",
+      "facts": [
+        "Kilmar Abrego es un ciudadano salvadoreno deportado por la Administracion Trump",
+        "Abrego llego a España",
+        "ABC y El Espanol califican la deportacion como ilegal",
+        "eldiario.es señala que la deportacion a una megacarcel de Bukele fue un error de la Administracion Trump",
+        "El Espanol afirma que EE.UU. critico a España por permitir la entrada de Abrego",
+        "20minutos indica que el ICE ofrecio 3.000 dolares y un vuelo gratis si Abrego volvia a España",
+        "20minutos cita al ICE diciendo que 'el arresto es una eleccion'"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "Victima de una deportacion ilegal/error del Estado",
+        "polo_b": "Agente que decide voluntariamente su situacion",
+        "resumen": "Los medios difieren en si atribuyen la situacion de Abrego a un error/abuso de la Administracion Trump o a una decision propia del migrante."
+      },
+      "frames": [
+        {
+          "outlet": "ABC",
+          "headline": "Kilmar Abrego, el salvadoreño deportado ilegalmente por el ICE, aterriza en Madrid tras su salida voluntaria de EE.UU.",
+          "link": "https://www.abc.es/internacional/kilmar-abrego-salvadoreno-deportado-ice-aterriza-madrid-20261125125251-nt.html",
+          "position": 25,
+          "focus": "ABC menciona la deportacion ilegal por el ICE pero matiza con 'salida voluntaria', combinando responsabilidad estatal con cierta agencia del protagonista."
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Kilmar Abrego García, el migrante salvadoreño que la Administración Trump deportó por error a una megacárcel de Bukele, llega a España",
+          "link": "https://www.eldiario.es/internacional/kilmar-abrego-garcia-migrante-deportado-error-megacarcel-salvador-deja-eeuu-rumbo-espana_1_13690877.html",
+          "position": 10,
+          "focus": "eldiario.es enfatiza el error de la Administracion Trump y el envio a una megacarcel, subrayando la victimizacion de Abrego."
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Abrego García, símbolo de la resistencia a la represión de Trump, se autodeporta a España",
+          "link": "https://www.lavanguardia.com/internacional/20261125/11692783/abrego-garcia-simbolo-resistencia-represion-migratoria-trump-auto-deporta-espana.html",
+          "position": 30,
+          "focus": "La Vanguardia construye a Abrego como simbolo de resistencia frente a la represion de Trump, aunque usa 'autodeporta' que introduce cierta agencia personal."
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "EEUU carga contra España por permitir la entrada a Kilmar Abrego, el salvadoreño al que Trump deportó ilegalmente",
+          "link": "https://www.elespanol.com/mundo/america/eeuu/20261125/abrego-garcia-salvadoreno-deportado-trump-error-megacarcel-bukele-va-eeuu-rumbo-espana/1003744471122_0.html",
+          "position": 55,
+          "focus": "El Espanol desplaza el foco hacia el conflicto diplomatico, destacando las criticas de EE.UU. a España mas que la situacion de Abrego como victima."
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "El ICE ofrece 3.000 dólares y un vuelo gratis al estudiante arrestado si vuelve a España: \"El arresto es una elección\"",
+          "link": "https://www.20minutos.es/cataluna/ice-ofrece-3-000-dolares-un-vuelo-gratis-estudiante-catalan-arrestado-si-vuelve-espana-estar-detenido-es-una-eleccion_7065640_0.html",
+          "position": 85,
+          "focus": "20minutos reproduce la narrativa del ICE que presenta el arresto como una decision personal de Abrego, minimizando la responsabilidad estatal."
+        }
+      ],
+      "rango": 75,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "El Mundo",
+        "El Pais"
+      ]
+    }
+  ]
+}
