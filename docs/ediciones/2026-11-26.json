@@ -1,0 +1,559 @@
+{
+  "fecha": "2026-11-26T14:18:25.938088+00:00",
+  "esquema": 2,
+  "historias": [
+    {
+      "neutral_headline": "Pablo Hernández de Cos es elegido presidente del Banco Central Europeo",
+      "section": "Economia",
+      "facts": [
+        "Pablo Hernández de Cos ha sido elegido presidente del Banco Central Europeo",
+        "El Pais situa su toma de posesion en febrero y lo señala como el primer español en el cargo",
+        "El Mundo afirma que es el puesto europeo de mayor poder en la historia de España",
+        "ABC atribuye la eleccion a los lideres europeos",
+        "El Espanol afirma que vencio al candidato holandes Knot y lo describe como el puesto con mas poder de la Union Europea",
+        "20minutos indica que los paises del euro alcanzaron un acuerdo para sustituir a Lagarde"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "cronica factual del nombramiento",
+        "polo_b": "relato de poder y victoria politica",
+        "resumen": "Algunos medios narran el nombramiento como un tramite institucional mientras otros lo enmarcan como una conquista de poder o una pugna politica ganada"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Hernández de Cos se convertirá en febrero en el primer español en presidir el BCE",
+          "link": "https://elpais.com/economia/2026-11-26/hernandez-de-cos-se-convertira-en-febrero-en-el-primer-espanol-en-presidir-el-bce.html",
+          "position": 45,
+          "focus": "Destaca el dato de ser el primer español y la fecha de toma de posesion, sin enfatizar poder ni competicion"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Hernández de Cos será el próximo presidente del BCE y consigue el puesto europeo de mayor poder en la historia de España",
+          "link": "https://www.elmundo.es/economia/2026/11/26/6b083332fdddff741f8b4595.html",
+          "position": 80,
+          "focus": "Enfatiza que es el puesto europeo de mayor poder alcanzado por España, con tono de logro historico"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Los líderes europeos eligen a Hernández de Cos como nuevo presidente del BCE",
+          "link": "https://www.abc.es/economia/consejo-europeo-elige-pablo-hernandez-cos-nuevo-20261126142403-nt.html",
+          "position": 50,
+          "focus": "Describe la eleccion como decision colegiada de los lideres europeos, sin valoraciones adicionales"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "El español Pablo Hernández de Cos, elegido presidente del BCE",
+          "link": "https://www.eldiario.es/economia/lideres-europeos-eligen-espanol-pablo-hernandez-cos-presidente-bce_1_13694914.html",
+          "position": 45,
+          "focus": "Informa escuetamente de la eleccion sin añadir juicios de valor"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Hernández de Cos vence al halcón holandés Knot y presidirá el BCE, el puesto con más poder de la Unión Europea",
+          "link": "https://www.elespanol.com/invertia/economia/bancos-centrales/20261126/hernandez-cos-vence-halcon-holandes-knot-presidira-bce-puesto-poder-union-europea/1003744472828_0.html",
+          "position": 85,
+          "focus": "Enmarca el nombramiento como una victoria sobre un rival (el 'halcon' Knot) y resalta el poder del cargo"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "De Cos será el presidente del BCE: los países del euro alcanzan un acuerdo para sustituir a Lagarde",
+          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/hernandez-cos-sera-nuevo-presidente-bce-los-paises-euro-alcanzan-un-acuerdo-politico-para-que-se-convierta-sustituto-lagarde_7065967_0.html",
+          "position": 50,
+          "focus": "Centra el relato en el acuerdo entre países del euro y la sustitucion de Lagarde, en tono procedimental"
+        }
+      ],
+      "rango": 40,
+      "discrepancia": "media",
+      "silenciosos": [
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "Naufraga un buque cargado de combustible cerca de Ibiza y muere un marinero",
+      "section": "Sociedad",
+      "facts": [
+        "Un marinero murió tras el naufragio/hundimiento de un buque cerca de Ibiza",
+        "El buque transportaba combustible",
+        "Según ABC, el buque llevaba 1,2 millones de litros de combustible y el naufragio ocurrió a 40 km de Ibiza",
+        "Según La Vanguardia y 20minutos, el buque llevaba 7.000 toneladas de gasóleo/combustible",
+        "Según eldiario.es y El Español, el buque llevaba gasoil/gasóleo",
+        "El barco se llama Med Emre, según El Mundo",
+        "Según El Mundo, el armador del barco es turco y la ruta era 'habitual', señalando una diferencia crucial con el caso Prestige",
+        "Según El Español, el Gobierno activó el plan de contingencia por vertido contaminante"
+      ],
+      "tipo_divergencia": "cronologica",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Muere un marinero tras el naufragio de un buque cargado de combustible cerca de Ibiza",
+          "link": "https://elpais.com/espana/2026-11-26/muere-un-marinero-en-el-hundimiento-de-un-buque-cargado-de-combustible-cerca-de-ibiza.html",
+          "position": 50,
+          "focus": "Reporta el hecho esencial: muerte del marinero y naufragio con combustible, sin precisar cifras"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Un armador turco, una ruta \"habitual\" y una diferencia crucial con el Prestige: todas las claves del Med Emre, el barco volcado cerca de Ibiza",
+          "link": "https://www.elmundo.es/economia/empresas/2026/11/26/6b082435e85ecede028b4582.html",
+          "position": 50,
+          "focus": "Pieza de análisis/contexto: identifica el barco, el armador, la ruta y compara con el caso Prestige, sin centrarse en la víctima"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Un buque cargado con 1,2 millones de litros de combustible naufraga a 40 kilómetros de Ibiza",
+          "link": "https://www.abc.es/espana/baleares/muere-marino-tras-hundirse-cerca-ibiza-buque-20261126071415-nt.html",
+          "position": 50,
+          "focus": "Detalla la cantidad de combustible en litros y la distancia exacta a Ibiza, omite la mención a la víctima en el titular"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Muere un marinero tras volcar un barco cargado de gasoil junto a la costa de Ibiza",
+          "link": "https://www.eldiario.es/illes-balears/muerto-hundimiento-barco-cargado-gasoil-costa-ibiza_1_13694359.html",
+          "position": 50,
+          "focus": "Combina la muerte del marinero con el tipo de carga (gasoil), sin cifra concreta"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Muere un marinero en el naufragio de un barco con 7.000 toneladas de gasóleo cerca de Ibiza",
+          "link": "https://www.lavanguardia.com/local/baleares/20261126/11693714/muere-marinero-hundimiento-barco-cargado-1-2-millones-litros-crudo-cerca-eivissa.html",
+          "position": 50,
+          "focus": "Incluye cifra de toneladas de gasóleo junto con la muerte del marinero"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Muere un marinero al hundirse un buque lleno de gasóleo en Ibiza y el Gobierno activa el plan por vertido contaminante",
+          "link": "https://www.elespanol.com/espana/20261126/muere-marinero-hundirse-cerca-ibiza-buque-cisterna-cargado-millones-litros-combustible/1003744472778_0.html",
+          "position": 50,
+          "focus": "Añade la reacción institucional (plan por vertido contaminante) además de la muerte del marinero"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Muere un marinero tras el hundimiento de un buque cargado con 7.000 toneladas de combustible frente a Ibiza",
+          "link": "https://www.20minutos.es/baleares/muere-un-marinero-hundimiento-un-barco-cargado-combustible-cerca-ibiza_7065944_0.html",
+          "position": 50,
+          "focus": "Repite la cifra de 7.000 toneladas de combustible junto con la muerte del marinero"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": []
+    },
+    {
+      "neutral_headline": "Los cuatro principales candidatos a la presidencia se preparan para el debate electoral antes de las elecciones del 29N",
+      "section": "Politica",
+      "facts": [
+        "Sánchez, Feijóo, Abascal y Colau participan en un debate electoral a cuatro",
+        "Las elecciones se celebran el 29 de noviembre",
+        "Sánchez declaró estar cerca de una mayoría progresista",
+        "Feijóo declaró que el cambio significa recuperar la ambición del país",
+        "Se mencionan avisos sobre posible fraude electoral en el contexto de la campaña"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "protagonismo y narrativa centrada en Sánchez/izquierda",
+        "polo_b": "protagonismo y narrativa centrada en Feijóo-Abascal/derecha",
+        "resumen": "los medios difieren en qué candidato o bloque politico eligen como protagonista y en cómo enmarcan sus posibilidades de éxito"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Sánchez: “Estamos tocando con la yema de los dedos la mayoría progresista, si llegamos al 75% la podemos tener”",
+          "link": "https://elpais.com/espana/2026-11-26/sanchez-estamos-tocando-con-la-yema-de-los-dedos-la-mayoria-progresista-si-llegamos-al-75-la-podemos-tener.html",
+          "position": 10,
+          "focus": "destaca la cita optimista de Sánchez sobre alcanzar la mayoría progresista, omitiendo a los demás candidatos"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Feijóo: \"El cambio es recuperar la ambición del país y la esperanza de los jóvenes\"",
+          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/25/6b072540fdddff343c8b4586.html",
+          "position": 90,
+          "focus": "destaca la cita de Feijóo sobre el cambio y la ambición del país, omitiendo a los demás candidatos"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Feijóo y Abascal asisten a su primer debate en tándem para llegar juntos a la Moncloa frente a Sánchez y Colau",
+          "link": "https://www.eldiario.es/politica/feijoo-abascal-asisten-primer-debate-tandem-llegar-moncloa-frente-sanchez-colau_1_13693175.html",
+          "position": 65,
+          "focus": "enmarca a Feijóo y Abascal como un tándem unido frente a Sánchez y Colau, resaltando la estrategia de alianza de la derecha"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Tensión electoral: de los avisos sobre un posible fraude al último cartucho del debate a cuatro",
+          "link": "https://www.lavanguardia.com/politica/20261126/11693470/tension-electoral-avisos-sobre-posible-fraude-ultimo-cartucho-debate-cuatro.html",
+          "position": 50,
+          "focus": "centra la atención en la tensión electoral y los avisos de fraude, sin privilegiar a ningún candidato concreto"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Colau se juega la supervivencia del Frente Amplio en el 'debate a 4'; Feijóo y Sánchez ser el más votado; Abascal volver al alza",
+          "link": "https://www.elespanol.com/espana/politica/20261126/colau-juega-supervivencia-frente-amplio-debate-feijoo-sanchez-votado-abascal-volver-alza/1003744472462_0.html",
+          "position": 75,
+          "focus": "plantea a Feijóo y Sánchez empatados como más votados y destaca el auge de Abascal, dando protagonismo al bloque de derecha"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Sánchez, Feijóo, Abascal y Colau se enfrentan a tres días de un 29N que puede cambiar el rumbo",
+          "link": "https://www.20minutos.es/nacional/debate-definitivo-sanchez-feijoo-abascal-colau-se-enfrentan-tres-dias-un-29n-que-puede-cambiar-rumbo-politico-espana_7065783_0.html",
+          "position": 50,
+          "focus": "enumera a los cuatro candidatos de forma equilibrada sin resaltar a ninguno en particular"
+        }
+      ],
+      "rango": 80,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "ABC"
+      ]
+    },
+    {
+      "neutral_headline": "El Consejo de Administración de RTVE respalda a Silvia Intxaurrondo tras el expediente de la Junta Electoral Central",
+      "section": "Politica",
+      "facts": [
+        "La Junta Electoral Central (JEC) abrió un expediente a Silvia Intxaurrondo",
+        "El Consejo de Administración de RTVE emitió un comunicado de respaldo y solidaridad con Intxaurrondo",
+        "El Espanol afirma que el Consejo considera el expediente una 'anomalía' y que decidió que RTVE pague su defensa",
+        "20minutos recoge que el Consejo calificó el expediente de 'profundamente lesivo'"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Campaña electoral 29-N y actualidad política, en directo | El Consejo de Administración de RTVE respalda a Silvia Intxaurrondo ante el expediente de la JEC",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-11-26/campana-electoral-29-n-y-actualidad-politica-en-directo.html",
+          "position": 50,
+          "focus": "Enmarca la noticia dentro de la cobertura general de la campaña del 29-N, centrando el respaldo del Consejo como un hecho más del directo informativo"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "El Consejo de RTVE se lanza a defender a Silvia Intxaurrondo tras el expediente de la Junta Electoral Central",
+          "link": "https://www.abc.es/play/television/noticias/consejo-rtve-lanza-defender-silvia-intxaurrondo-tras-20261126124501-nt.html",
+          "position": 50,
+          "focus": "Destaca la acción proactiva del Consejo ('se lanza a defender') sin añadir detalles adicionales sobre medidas concretas"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "El Consejo de Administración de RTVE expresa su “respaldo y solidaridad” con Intxaurrondo tras expdientarla la JEC",
+          "link": "https://www.lavanguardia.com/television/20261126/11694039/consejo-administracion-rtve-expresa-respaldo-solidaridad-intxaurrondo-expdientarla-jec.html",
+          "position": 50,
+          "focus": "Cita textualmente la expresión del comunicado ('respaldo y solidaridad'), centrado en el lenguaje oficial del Consejo"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "El Consejo de RTVE considera una \"anomalía\" el expediente de la JEC a Intxaurrondo y decide que la cadena pague su defensa",
+          "link": "https://www.elespanol.com/invertia/medios/20261126/consejo-rtve-considera-anomalia-expediente-jec-intxaurrondo-decide-cadena-pague-defensa/1003744473176_0.html",
+          "position": 50,
+          "focus": "Añade el detalle de que RTVE pagará la defensa de Intxaurrondo y recoge el calificativo de 'anomalía' usado por el Consejo"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "El Consejo de RTVE apoya a Silvia Intxaurrondo tras el expediente de la JEC: \"Es profundamente lesivo\"",
+          "link": "https://www.20minutos.es/television/consejo-rtve-respalda-intxaurrondo-ante-expediente-junta-electoral-es-profundamente-lesivo-para-periodismo_7066183_0.html",
+          "position": 50,
+          "focus": "Incluye la cita textual 'Es profundamente lesivo' para enfatizar la contundencia del respaldo del Consejo"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "El Mundo",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "El cónsul de Tetuán declara ante la jueza Tardón que advirtió al embajador sobre la situación en la frontera de Ceuta antes de la entrada masiva",
+      "section": "Politica",
+      "facts": [
+        "El cónsul de España en Tetuán declaró ante la jueza Tardón sobre sus comunicaciones con el embajador antes de la entrada masiva de migrantes en Ceuta",
+        "El cónsul afirmó haber trasladado al embajador que la frontera de Ceuta estaba 'caliente' (El País, El Español, 20minutos)",
+        "Según El Mundo, el CNI había informado previamente al cónsul sobre la situación, la víspera de la oleada",
+        "Según El Español, el cónsul elevó la alerta al embajador 'el día antes' de la entrada masiva",
+        "Según ABC, el cónsul reconoce un encuentro en El Tarajal dos días antes de la entrada masiva",
+        "La jueza Tardón solicitó al cónsul los mensajes enviados al embajador, según El Mundo"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "El cónsul en Tetuán dice a la jueza que informó al embajador de que la frontera de Ceuta estaba “caliente”",
+          "link": "https://elpais.com/espana/2026-11-26/el-consul-en-tetuan-dice-a-la-jueza-que-informo-al-embajador-de-que-la-frontera-de-ceuta-estaba-caliente.html",
+          "position": 50,
+          "focus": "Centra en la declaración del cónsul sobre la advertencia al embajador, sin precisar fecha exacta"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "La juez Tardón pide al cónsul de Tetuán los mensajes que envió al embajador después de que el CNI le informara de la situación en la frontera la víspera de la oleada",
+          "link": "https://www.elmundo.es/espana/2026/11/26/6b082288fc6c831a088b4574.html",
+          "position": 50,
+          "focus": "Añade el dato del CNI como fuente de la información y la solicitud judicial de los mensajes"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "El cónsul de Tetuán reconoce el encuentro en El Tarajal de Ceuta dos días antes de la entrada masiva",
+          "link": "https://www.abc.es/espana/consul-tetuan-reconoce-visita-delegacion-gobierno-ceuta-20261126134747-nt.html",
+          "position": 50,
+          "focus": "Destaca el reconocimiento de un encuentro físico en El Tarajal, con una cronología de dos días antes"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "El cónsul de Tetuán dice que elevó al embajador el día antes de la invasión la alerta de que la frontera ceutí estaba \"caliente\"",
+          "link": "https://www.elespanol.com/espana/tribunales/20261126/consul-tetuan-dice-elevo-embajador-dia-invasion-alerta-frontera-ceuti-caliente/1003744473223_0.html",
+          "position": 50,
+          "focus": "Precisa que la alerta se elevó el día antes de la invasión, usando la cita textual 'caliente'"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "El cónsul de Tetuán declara que trasladó al embajador que había recibido avisos de que la frontera en Ceuta estaba \"caliente\"",
+          "link": "https://www.20minutos.es/nacional/consul-tetuan-declara-que-traslado-embajador-que-habia-recibido-avisos-que-frontera-ceuta-estaba-caliente_7066172_0.html",
+          "position": 50,
+          "focus": "Resume la declaración del cónsul sobre los avisos recibidos, sin detallar fecha exacta"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Resultados y contexto de las elecciones generales del 29-N",
+      "section": "Politica",
+      "facts": [
+        "El País afirma que Pablo ha ganado por goleada",
+        "El Mundo pregunta a los lectores qué partido político votaron el 29-N",
+        "eldiario.es señala que hay 47 escaños en disputa en las elecciones generales",
+        "eldiario.es indica que la batalla entre bloques se intensifica en la recta final"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "resultado decidido",
+        "polo_b": "contienda abierta",
+        "resumen": "Los medios difieren en si presentan la elección como un desenlace claro (victoria de Pablo) o como una disputa aún incierta entre bloques."
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "De cómo Pablo ha ganado por goleada",
+          "link": "https://elpais.com/economia/2026-11-26/de-como-pablo-ha-ganado-por-goleada.html",
+          "position": 10,
+          "focus": "Destaca la victoria contundente de un candidato (Pablo), dando por cerrado el resultado; omite la incertidumbre de otros escaños."
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "¿A qué partido político voto este 29-N?",
+          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/25/6b043899e85ecee5408b4597.html",
+          "position": 50,
+          "focus": "Plantea una pregunta abierta sobre el voto sin posicionarse sobre el resultado ni los bloques en disputa."
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "El mapa de los 47 escaños en disputa en la elecciones generales: la batalla entre bloques se intensifica en la recta final",
+          "link": "https://www.eldiario.es/politica/mapa-47-escanos-disputa-batalla-bloques-intensifica-recta-final_1_13688147.html",
+          "position": 85,
+          "focus": "Enfatiza la incertidumbre y la competencia entre bloques por los escaños restantes, sin dar un ganador claro."
+        }
+      ],
+      "rango": 75,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Espanol",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "El Congreso convalida decretos y el Gobierno convoca plazas de empleo público en la recta final de la legislatura",
+      "section": "Politica",
+      "facts": [
+        "El Congreso (Diputación Permanente) convalidó varios decretos en una misma sesión",
+        "El Pais señala que los decretos incluyen subidas salariales a funcionarios y mejoras fiscales",
+        "El Mundo señala que se convalidaron cinco decretos en ausencia de Vox, con críticas de algunos grupos al 'abuso' y 'electoralismo' del Gobierno",
+        "El Gobierno convocó 14.373 plazas de empleo público en la Administración General del Estado (eldiario.es y El Español)",
+        "El Español sitúa la convocatoria a tres días de las elecciones generales"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "gestión ordinaria",
+        "polo_b": "electoralismo/polémica",
+        "resumen": "Unos medios describen las medidas del Gobierno como gestión normal, mientras otros subrayan su cercanía a las elecciones y las críticas de 'abuso' o 'electoralismo'"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "El Congreso convalida más decretos sociales con subidas salariales a los funcionarios y mejoras fiscales",
+          "link": "https://elpais.com/espana/2026-11-26/el-congreso-convalida-mas-decretos-sociales-con-subidas-salariales-a-los-funcionarios-y-mejoras-fiscales.html",
+          "position": 20,
+          "focus": "El Pais destaca el contenido social y fiscal de los decretos (subidas salariales, mejoras fiscales) sin mencionar polémica ni contexto electoral"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "La Diputación Permanente convalida otros cinco decretos en ausencia de Vox y con críticas al \"abuso\" y \"electoralismo\" del Gobierno",
+          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/26/6b08047de4d4d8df058b4596.html",
+          "position": 90,
+          "focus": "El Mundo enmarca la convalidación en clave de conflicto político, resaltando la ausencia de Vox y las acusaciones de 'abuso' y 'electoralismo'"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "El Gobierno convoca 14.373 plazas de empleo público en la Administración General del Estado",
+          "link": "https://www.eldiario.es/economia/gobierno-convoca-14-373-plazas-empleo-publico-administracion-general_1_13694533.html",
+          "position": 20,
+          "focus": "eldiario.es describe la convocatoria de plazas de forma neutra, centrada en el dato administrativo sin vincularla a las elecciones"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "El Gobierno convoca 14.373 plazas de empleo público a tres días de las elecciones generales",
+          "link": "https://www.elespanol.com/invertia/economia/empleo/20261126/gobierno-convoca-plazas-empleo-publico-dias-elecciones-generales/1003744472931_0.html",
+          "position": 75,
+          "focus": "El Español vincula explícitamente la convocatoria con la proximidad de las elecciones generales, sugiriendo motivación electoral"
+        }
+      ],
+      "rango": 70,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "Distintas piezas politicas coinciden en el calendario del Dia contra la Violencia Machista, entre ellas una controversia sobre el negocio de los proxenetas que enfrenta a Begona Gomez y al PP",
+      "section": "Politica",
+      "facts": [
+        "Un juez en activo publico un video en redes sociales critico con el Gobierno, el PSOE y la periodista Silvia Intxaurrondo (El Pais).",
+        "El PP hizo referencia a la prostitucion coincidiendo con el Dia Internacional de la Eliminacion de la Violencia contra la Mujer (eldiario.es).",
+        "Begona Gomez difundio un mensaje de campana contra 'el negocio de los proxenetas', calificandolo de 'indecente' (El Espanol).",
+        "El PP respondio a Gomez alegando que ella era 'la contable' de ese negocio (El Espanol)."
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "El PP instrumentaliza la prostitucion como arma politica",
+        "polo_b": "Begona Gomez/el Gobierno estan implicados en el negocio de los proxenetas",
+        "resumen": "eldiario.es y El Espanol difieren en quien es el responsable o protagonista negativo de la polemica sobre el negocio de los proxenetas: el PP por usar el tema con fines politicos, o el entorno de Gomez por su presunta implicacion."
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Un juez en activo entra en “campaña” con un vídeo en redes contra el Gobierno, el PSOE y la periodista Silvia Intxaurrondo",
+          "link": "https://elpais.com/espana/2026-11-26/un-juez-en-activo-entra-en-campana-con-un-video-en-redes-contra-el-gobierno-el-psoe-y-la-periodista-silvia-intxaurrondo.html",
+          "position": 50,
+          "focus": "Se centra en un hecho distinto -el video de un juez contra el Gobierno y una periodista- sin relacion directa con la disputa sobre proxenetas, por lo que no se situa en este eje."
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "El PP recurre a las putas en el día de la violencia machista",
+          "link": "https://www.eldiario.es/politica/pp-recurre-putas-dia-violencia-machista_129_13692947.html",
+          "position": 15,
+          "focus": "Atribuye la iniciativa y la responsabilidad etica al PP, presentandolo como quien 'recurre a las putas' de forma oportunista en una fecha simbolica, sin mencionar la acusacion contra Gomez."
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Begoña Gómez hace campaña contra \"el negocio de los proxenetas\": \"Indecentes. Dicen que era la contable\", alega el PP",
+          "link": "https://www.elespanol.com/espana/20261126/begona-gomez-hace-campana-negocio-proxenetas-indecentes-dicen-contable-alega-pp/1003744472482_0.html",
+          "position": 75,
+          "focus": "Centra el relato en la campana de Begona Gomez contra los proxenetas pero da espacio destacado a la respuesta del PP, que la acusa de haber sido 'la contable' del negocio, introduciendo una sospecha sobre su implicacion."
+        }
+      ],
+      "rango": 60,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "El Mundo",
+        "La Vanguardia"
+      ]
+    },
+    {
+      "neutral_headline": "Tres piezas informativas sobre temas distintos: perfil de Hernández de Cos, investigación de la UCO sobre una obra pública en Navarra, y la relación entre Sánchez y Bono",
+      "section": "Politica",
+      "facts": [
+        "El Pais publica un perfil de Hernández de Cos describiéndolo como liberal pragmático experto en consensos",
+        "El Mundo informa que la UCO detecta posibles delitos en una obra en Navarra encargada por Chivite a un socio de Cerdán, valorada en 70 millones de euros según ese medio",
+        "El Espanol publica un reportaje sobre la relación entre Sánchez y Bono a lo largo de más de 15 años, incluyendo cartas enviadas por Bono"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Perfil | Hernández de Cos, un liberal pragmático experto en forjar consensos",
+          "link": "https://elpais.com/economia/2026-11-26/hernandez-de-cos-un-liberal-pragmatico-experto-en-forjar-consensos.html",
+          "position": 50,
+          "focus": "Perfil biográfico y profesional de Hernández de Cos, sin relación con los otros dos temas"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "La UCO detecta \"posibles delitos\" en la mayor obra de Navarra en décadas, que Chivite encargó al socio de Cerdán por 70 millones",
+          "link": "https://www.elmundo.es/espana/2026/11/26/6b080638fdddff29568b4579.html",
+          "position": 50,
+          "focus": "Investigación judicial sobre una obra pública en Navarra y posibles irregularidades"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Sánchez y Bono, una relación de amor-odio con más de 15 años: las cariñosas cartas que enviaba el diputado Pedro",
+          "link": "https://www.elespanol.com/eldigitalcastillalamancha/region/20261126/sanchez-bono-relacion-anos-cartas-carinosas-complicidad-desencuentros-politicos/1003744472922_0.html",
+          "position": 50,
+          "focus": "Relación personal y política histórica entre Sánchez y Bono"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "ABC",
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "Jon Echeverría es acosado antes de un acto de campaña del PP en la Universidad del País Vasco",
+      "section": "Politica",
+      "facts": [
+        "Jon Echeverría sufrió un episodio de acoso/hostigamiento antes de un discurso en la Universidad del País Vasco",
+        "El hecho ocurre en el marco de la campaña electoral del PP en Gipuzkoa",
+        "El Mundo recoge una cita atribuida a Echeverría: 'Si no está la Ertzaintza, nos apedrean'",
+        "ABC califica a los autores del acoso como 'radicales'",
+        "La Vanguardia describe el episodio como insultos y abucheos, y lo enmarca como un 'nuevo episodio de hostigamiento contra el PP en Gipuzkoa'"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "hecho descrito como hostigamiento verbal puntual, sin etiqueta política explícita",
+        "polo_b": "hecho descrito como acoso violento atribuido explícitamente al entorno abertzale",
+        "resumen": "los medios difieren en la intensidad atribuida al incidente (insultos/abucheos vs. violencia/apedreamiento) y en si etiquetan políticamente a los agresores como 'abertzales' o simplemente 'radicales'"
+      },
+      "frames": [
+        {
+          "outlet": "El Mundo",
+          "headline": "El acoso 'abertzale' persigue a Jon Echeverría hasta el final de la campaña del PP: \"Si no está la Ertzaintza, nos apedrean\"",
+          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/26/6b082e7621efa04a508b45a7.html",
+          "position": 90,
+          "focus": "El Mundo enfatiza la gravedad con el término 'acoso abertzale', lo enmarca como un patrón ('persigue... hasta el final de la campaña') y usa la cita directa sobre apedreamiento, maximizando la atribución política y la violencia del hecho"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Radicales acosan a Jon Echeverria antes de un discurso en la Universidad del País Vasco",
+          "link": "https://www.abc.es/espana/pais-vasco/ertzaintza-acordona-micro-abierto-jon-echeverria-universidad-20261126122648-nt.html",
+          "position": 65,
+          "focus": "ABC usa 'radicales' para nombrar a los agresores, un término más genérico que 'abertzale' pero más cargado que la versión neutra; se centra en el acoso antes del discurso sin profundizar en el patrón de campaña"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Nuevo episodio de hostigamiento contra el PP en Gipuzkoa: insultan y abuchean a Jon Echeverría en la Universidad del País Vasco",
+          "link": "https://www.lavanguardia.com/local/paisvasco/20261126/11694006/nuevo-episodio-hostigamiento-pp-gipuzkoa-insultan-abuchean-jon-echeverria-universidad-pais-vasco.html",
+          "position": 30,
+          "focus": "La Vanguardia minimiza la intensidad del hecho describiéndolo como insultos y abucheos, evita etiquetar políticamente a los agresores y lo encuadra como un episodio más dentro de una serie de hostigamientos al PP, sin personalizar tanto en Echeverría"
+        }
+      ],
+      "rango": 60,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos",
+        "El Espanol",
+        "El Pais",
+        "eldiario.es"
+      ]
+    }
+  ]
+}
