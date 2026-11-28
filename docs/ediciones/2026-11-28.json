@@ -1,0 +1,225 @@
+{
+  "fecha": "2026-11-28T13:29:08.654952+00:00",
+  "esquema": 2,
+  "historias": [
+    {
+      "neutral_headline": "Feijóo visita Ceuta durante la jornada de reflexión previa al 29-N",
+      "section": "Politica",
+      "facts": [
+        "Feijóo viaja a Ceuta en la jornada de reflexión previa a las elecciones del 29-N",
+        "El viaje se describe por varios medios como muestra de 'apoyo y solidaridad'",
+        "El Español señala que Feijóo cumple una promesa hecha a Vivas y que no hace campaña durante la visita",
+        "El Pais describe el viaje como parte de un intento de 'pelear los últimos votos'",
+        "La Vanguardia enmarca la visita de Feijóo a Ceuta dentro de un repaso más amplio de cómo distintos candidatos pasan la jornada de reflexión"
+      ],
+      "tipo_divergencia": "editorial",
+      "eje": {
+        "polo_a": "gesto de solidaridad sin campaña",
+        "polo_b": "maniobra electoral para sumar votos",
+        "resumen": "Los medios difieren en si interpretan la visita de Feijóo a Ceuta como un acto de solidaridad desligado de la campaña o como una estrategia para captar votos en la jornada de reflexión"
+      },
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "Feijóo viaja a Ceuta en la jornada de reflexión para pelear los últimos votos",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-11-28/feijoo-viaja-a-ceuta-en-la-jornada-de-reflexion-para-pelear-los-ultimos-votos.html",
+          "position": 75,
+          "focus": "El Pais enfatiza la dimensión electoral, sugiriendo que el viaje busca votos pese a ser jornada de reflexión"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Alberto Núñez Feijóo visita Ceuta en la jornada de reflexión del 29-N como muestra de \"apoyo y solidaridad\"",
+          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/28/6b0abb9921efa09a3f8b459a.html",
+          "position": 25,
+          "focus": "El Mundo recoge la justificación oficial de 'apoyo y solidaridad' sin cuestionar motivos electorales"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "El día de reflexión de los candidatos: Feijóo viaja a Ceuta a pasar parte de la jornada",
+          "link": "https://www.abc.es/espana/dia-reflexion-candidatos-feijoo-ceuta-20261128100308-nt.html",
+          "position": 50,
+          "focus": "ABC describe el hecho de forma neutra, centrado en que es parte de la jornada de reflexión de los candidatos, sin atribuir motivación"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "Feijóo visita Ceuta en la jornada de reflexión como muestra de \"apoyo y solidaridad\"",
+          "link": "https://www.eldiario.es/politica/feijoo-visita-ceuta-jornada-reflexion-muestra-apoyo-solidaridad_1_13701045.html",
+          "position": 25,
+          "focus": "eldiario.es reproduce la misma justificación de 'apoyo y solidaridad' que El Mundo, sin matizar intenciones electorales"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Ceuta, paseos por el campo y música electrónica: así pasan los candidatos la jornada de reflexión",
+          "link": "https://www.lavanguardia.com/politica/20261128/11695688/ceuta-paseos-campo-musica-electronica-asi-pasan-candidatos-jornada-reflexion.html",
+          "position": 50,
+          "focus": "La Vanguardia integra el viaje a Ceuta en un retrato general de cómo varios candidatos pasan el día, sin enfatizar motivación particular"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Feijóo cumple su promesa con Vivas: pasa el día de reflexión en Ceuta como acto de solidaridad pero sin hacer campaña",
+          "link": "https://www.elespanol.com/espana/politica/20261128/feijoo-cumple-promesa-vivas-pasa-dia-reflexion-ceuta-acto-solidaridad-sin-hacer-campana/1003744476022_0.html",
+          "position": 10,
+          "focus": "El Español subraya explícitamente que el acto es solidario y que Feijóo evita hacer campaña, descartando la lectura electoralista"
+        }
+      ],
+      "rango": 65,
+      "discrepancia": "alta",
+      "silenciosos": [
+        "20minutos"
+      ]
+    },
+    {
+      "neutral_headline": "Previsiones y resultados de las elecciones generales según distintos metodos",
+      "section": "Politica",
+      "facts": [
+        "El Pais presenta un calculo de probabilidades de mayoria segun encuestas",
+        "El Mundo pregunta a los lectores su intencion de voto para el 29-N",
+        "ABC presenta un resultado y ganador calculado mediante inteligencia artificial"
+      ],
+      "tipo_divergencia": "ninguna",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "¿Quién va a ganar las elecciones? La probabilidad de cada mayoría según las encuestas",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-11-26/quien-va-a-ganar-las-elecciones-la-probabilidad-de-cada-mayoria-segun-las-encuestas.html",
+          "position": 50,
+          "focus": "Encuadre basado en probabilidad estadistica de mayorias segun encuestas, sin declarar ganador"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "¿A qué partido político voto este 29-N?",
+          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/25/6b043899e85ecee5408b4597.html",
+          "position": 50,
+          "focus": "Formato interactivo que pregunta directamente la intencion de voto al lector, sin ofrecer prediccion propia"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Este es el resultado y ganador de las elecciones generales entre PSOE, PP y Vox, según la inteligencia artificial",
+          "link": "https://www.abc.es/recreo/resultado-ganador-elecciones-generales-psoe-pp-vox-20261128060000-nt.html",
+          "position": 50,
+          "focus": "Uso de inteligencia artificial para proyectar un resultado y senalar un ganador entre PSOE, PP y Vox"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "El Espanol",
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    },
+    {
+      "neutral_headline": "El Gobierno de Murcia busca frenar judicialmente el traslado a Cartagena del buque naufragado en Ibiza",
+      "section": "Sociedad",
+      "facts": [
+        "Un buque petrolero naufragó frente a Ibiza (Eivissa)",
+        "El Gobierno de Murcia pretende acudir a la Justicia para frenar o suspender el traslado del buque a Cartagena",
+        "Según ABC, el buque se llama Med Emre",
+        "Según eldiario.es, Cartagena es el único puerto viable para el traslado",
+        "Según La Vanguardia, el remolque del buque hacia Cartagena ya ha comenzado"
+      ],
+      "tipo_divergencia": "cronologica",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "El Gobierno de Murcia tratará de frenar el traslado del petrolero hundido en Ibiza en los tribunales",
+          "link": "https://elpais.com/espana/2026-11-28/el-gobierno-murciano-pedira-a-la-justicia-impedir-que-el-buque-naufragado-llegue-a-cartagena.html",
+          "position": 50,
+          "focus": "Centra el hecho en la intención del Gobierno murciano de recurrir a los tribunales"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "El Gobierno de Murcia pedirá a la Justicia que suspendan el traslado del buque Med Emre a Cartagena",
+          "link": "https://www.abc.es/espana/murcia/gobierno-murcia-pedira-justicia-suspendan-traslado-buque-20261128123549-nt.html",
+          "position": 50,
+          "focus": "Añade el nombre del buque (Med Emre) y precisa que se pedirá la suspensión judicial del traslado"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "El Gobierno de Murcia intenta que la Justicia frene el traslado del buque naufragado a Cartagena, el único puerto viable",
+          "link": "https://www.eldiario.es/murcia/gobierno-murcia-pedira-justicia-medidas-cautelarisimas-impedir-buque-naufragado-llegue-cartagena_1_13701200.html",
+          "position": 50,
+          "focus": "Incluye el dato de que Cartagena es el único puerto viable para el traslado"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Empiezan a remolcar destino a Cartagena el buque naufragado frente a Eivissa",
+          "link": "https://www.lavanguardia.com/vida/20261128/11695742/empiezan-remolcar-destino-cartagena-buque-naufragado-frente-eivissa.html",
+          "position": 50,
+          "focus": "Reporta un momento posterior: el remolque hacia Cartagena ya ha comenzado"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "El Gobierno de Murcia acudirá a la Justicia para tratar de impedir que el buque naufragado en Ibiza llegue a Cartagena",
+          "link": "https://www.elespanol.com/espana/20261128/gobierno-murcia-acudira-justicia-tratar-impedir-buque-naufragado-ibiza-llegue-cartagena/1003744476002_0.html",
+          "position": 50,
+          "focus": "Describe la intención del Gobierno murciano de impedir judicialmente la llegada del buque a Cartagena"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "20minutos",
+        "El Mundo"
+      ]
+    },
+    {
+      "neutral_headline": "España afronta las semifinales de Copa Davis ante Reino Unido con Jódar ganando el primer punto y Alcaraz disputando el segundo",
+      "section": "Deportes",
+      "facts": [
+        "Rafa Jódar venció a Cameron Norrie en el primer partido de la semifinal",
+        "España se acerca a la final de la Copa Davis tras ese triunfo",
+        "Carlos Alcaraz disputa el segundo partido ante Fery",
+        "El empate de España depende del resultado de Alcaraz"
+      ],
+      "tipo_divergencia": "cronologica",
+      "eje": null,
+      "frames": [
+        {
+          "outlet": "El Pais",
+          "headline": "España - Reino Unido en directo, las semifinales de la Copa Davis en vivo | Comienza el segundo partido entre Alcaraz y Fery",
+          "link": "https://elpais.com/deportes/2026-11-28/espana-reino-unido-en-directo-el-partido-de-la-copa-davis-en-vivo.html",
+          "position": 50,
+          "focus": "Cobertura en directo del encuentro, situa el inicio del segundo partido entre Alcaraz y Fery"
+        },
+        {
+          "outlet": "El Mundo",
+          "headline": "Jódar se desata ante Norrie y acerca a España a la final de la Copa Davis",
+          "link": "https://www.elmundo.es/deportes/tenis/copa-davis/2026/11/28/6b0ac861e85ece933a8b45aa.html",
+          "position": 50,
+          "focus": "Resalta la actuación de Jódar tras ganar a Norrie y el avance de España"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Jódar cumple a lo grande: primer punto contundente para España",
+          "link": "https://www.abc.es/deportes/tenis/jodar-20261128113032-nt.html",
+          "position": 50,
+          "focus": "Destaca el triunfo de Jódar como primer punto contundente para España"
+        },
+        {
+          "outlet": "El Espanol",
+          "headline": "Rafa Jódar se lleva el primer punto y pone a España a un paso de la final de la Copa Davis al batir a Cameron Norrie",
+          "link": "https://www.elespanol.com/deportes/tenis/20261128/rafa-jodar-lleva-primer-punto-pone-espana-paso-final-copa-davis-batir-cameron-norrie/1003744476021_0.html",
+          "position": 50,
+          "focus": "Informa que Jódar logra el primer punto batiendo a Norrie y acerca a España a la final"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Turno para Alcaraz: debuta en la Copa Davis para dar a España el pase a la final",
+          "link": "https://www.20minutos.es/deportes/tenis/espana-gran-bretana-las-copa-davis-directo-ultima-hora-carlos-alcaraz-rafa-jodar-granollers-merida-pedro-martinez_7066971_6.html",
+          "position": 50,
+          "focus": "Anuncia el debut de Alcaraz en la eliminatoria, centrando la atención en el segundo partido"
+        }
+      ],
+      "rango": 0,
+      "discrepancia": "baja",
+      "silenciosos": [
+        "La Vanguardia",
+        "eldiario.es"
+      ]
+    }
+  ]
+}

@@ -1,558 +1,222 @@
 {
-  "fecha": "2026-11-27T14:13:20.518734+00:00",
+  "fecha": "2026-11-28T13:29:08.654952+00:00",
   "esquema": 2,
   "historias": [
     {
-      "neutral_headline": "El PP denuncia ante la Junta Electoral irregularidades en el voto por correo y el reparto de propaganda electoral",
+      "neutral_headline": "Feijóo visita Ceuta durante la jornada de reflexión previa al 29-N",
       "section": "Politica",
       "facts": [
-        "El PP presentó una denuncia ante la Junta Electoral (Central/JEC)",
-        "La denuncia señala irregularidades en el voto por correo",
-        "La denuncia también menciona el reparto de propaganda electoral",
-        "eldiario.es precisa que se trata de 'retrasos' en el voto por correo y sobres de propaganda hallados tirados a la basura",
-        "20minutos sitúa el hecho a dos días de las elecciones generales del 29-N"
+        "Feijóo viaja a Ceuta en la jornada de reflexión previa a las elecciones del 29-N",
+        "El viaje se describe por varios medios como muestra de 'apoyo y solidaridad'",
+        "El Español señala que Feijóo cumple una promesa hecha a Vivas y que no hace campaña durante la visita",
+        "El Pais describe el viaje como parte de un intento de 'pelear los últimos votos'",
+        "La Vanguardia enmarca la visita de Feijóo a Ceuta dentro de un repaso más amplio de cómo distintos candidatos pasan la jornada de reflexión"
       ],
       "tipo_divergencia": "editorial",
       "eje": {
-        "polo_a": "transcripción neutral de la denuncia del PP",
-        "polo_b": "cuestionamiento del fundamento de la denuncia como alarmismo",
-        "resumen": "La mayoría de medios reproduce la denuncia del PP sin matizarla, mientras eldiario.es la enmarca como un intento de agitar el miedo al fraude"
+        "polo_a": "gesto de solidaridad sin campaña",
+        "polo_b": "maniobra electoral para sumar votos",
+        "resumen": "Los medios difieren en si interpretan la visita de Feijóo a Ceuta como un acto de solidaridad desligado de la campaña o como una estrategia para captar votos en la jornada de reflexión"
       },
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "Campaña elecciones generales 29-N, en directo | El PP denuncia ante la Junta Electoral presuntas irregularidades en el voto por correo y el reparto de la propaganda electoral",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-11-27/cierre-de-campana-de-las-elecciones-generales-del-29-n-en-directo.html",
-          "position": 45,
-          "focus": "Reporta la denuncia dentro de la cobertura en directo de la campaña, sin cuestionar su contenido"
+          "headline": "Feijóo viaja a Ceuta en la jornada de reflexión para pelear los últimos votos",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-11-28/feijoo-viaja-a-ceuta-en-la-jornada-de-reflexion-para-pelear-los-ultimos-votos.html",
+          "position": 75,
+          "focus": "El Pais enfatiza la dimensión electoral, sugiriendo que el viaje busca votos pese a ser jornada de reflexión"
         },
         {
           "outlet": "El Mundo",
-          "headline": "El PP denuncia ante la Junta Electoral \"irregularidades\" en el voto por correo y en el reparto de la propaganda electoral",
-          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/27/6b0968bbe85ece58048b45a9.html",
-          "position": 45,
-          "focus": "Transcribe literalmente los términos de la denuncia del PP entre comillas, sin valoración"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "El PP agita el fantasma del fraude con una denuncia ante la Junta Electoral por \"retrasos\" en el voto por correo y unos sobres de propaganda tirados a la basura",
-          "link": "https://www.eldiario.es/politica/pp-agita-fantasma-fraude-denuncia-junta-electoral-retrasos-voto-correo-sobres-propaganda-tirados-basura_1_13698792.html",
-          "position": 85,
-          "focus": "Enmarca la denuncia como una estrategia del PP para sembrar dudas sobre el fraude, detallando los hechos concretos (retrasos, sobres en la basura) de forma que relativiza la gravedad"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "El PP denuncia ante la JEC “irregularidades” en el voto por correo y en el reparto de propaganda",
-          "link": "https://www.lavanguardia.com/politica/20261127/11695068/pp-denuncia-jec-irregularidades-voto-correo-reparto-propaganda.html",
-          "position": 45,
-          "focus": "Recoge la denuncia de forma escueta y neutral, citando el organismo (JEC)"
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "El PP denuncia ante la Junta Electoral \"irregularidades\" en el voto por correo y el reparto de propaganda electoral",
-          "link": "https://www.elespanol.com/espana/politica/20261127/pp-denuncia-junta-electoral-irregularidades-graves-incidencias-voto-correo-reparto-propaganda-electoral/1003744474806_0.html",
-          "position": 45,
-          "focus": "Reproduce el mismo titular neutral que otros medios, sin interpretación añadida"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "El PP denuncia ante la Junta Electoral Central \"irregularidades\" en el voto por correo a dos días de los comicios",
-          "link": "https://www.20minutos.es/nacional/pp-denuncia-ante-junta-electoral-central-irregularidades-voto-por-correo-dos-dias-los-comicios_7066717_0.html",
-          "position": 50,
-          "focus": "Añade el dato temporal (a dos días de los comicios) sin introducir juicio sobre la validez de la denuncia"
-        }
-      ],
-      "rango": 40,
-      "discrepancia": "media",
-      "silenciosos": [
-        "ABC"
-      ]
-    },
-    {
-      "neutral_headline": "Feijóo responde a Colau con la frase 'calladita' durante la campaña y genera polémica",
-      "section": "Politica",
-      "facts": [
-        "Feijóo pronunció la frase 'y usted, calladita' dirigida a Colau",
-        "Feijóo también usó la expresión 'calladitos y calladitas' en otro contexto de campaña",
-        "El PP defendió la frase y acusó a otros de 'manosear el feminismo' (según eldiario.es)",
-        "Sánchez convirtió la frase en una acusación de machismo (según El Español)",
-        "Feijóo pidió votar 'en masa contra el miedo' y dijo que Sánchez 'ya no tiene nada que ofrecer'",
-        "Sánchez confía en revalidar un Gobierno progresista sin depender de Junts"
-      ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "crítica al comentario de Feijóo como machista",
-        "polo_b": "defensa de Feijóo y denuncia de manipulación de Sánchez",
-        "resumen": "Los medios se dividen entre presentar el 'calladita' como un exabrupto machista cuestionable o como una frase legítima que Sánchez manipuló políticamente"
-      },
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "Sánchez confía en revalidar el Gobierno progresista sin depender de Junts y Feijóo insiste en que los socios del PSOE han estado “calladitos y calladitas”",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-11-27/sanchez-confia-en-revalidar-el-gobierno-progresista-sin-depender-de-junts-y-feijoo-insiste-en-que-los-socios-del-psoe-han-estado-calladitos-y-calladitas.html",
-          "position": 45,
-          "focus": "Yuxtapone la confianza de Sánchez con la cita de Feijóo sin cargar las tintas en ningún sentido"
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "Feijóo pide \"votar en masa contra el miedo\" para asegurar el cambio en España: \"Sánchez ya no tiene nada que ofrecer\"",
-          "link": "https://www.elmundo.es/cataluna/2026/11/27/6b0982f621efa0f2578b45be.html",
-          "position": 55,
-          "focus": "Omite la polémica del 'calladita' y centra el titular en el mensaje de campaña de Feijóo contra Sánchez"
+          "headline": "Alberto Núñez Feijóo visita Ceuta en la jornada de reflexión del 29-N como muestra de \"apoyo y solidaridad\"",
+          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/28/6b0abb9921efa09a3f8b459a.html",
+          "position": 25,
+          "focus": "El Mundo recoge la justificación oficial de 'apoyo y solidaridad' sin cuestionar motivos electorales"
         },
         {
           "outlet": "ABC",
-          "headline": "Calladita",
-          "link": "https://www.abc.es/espana/juan-soto-ivars-calladita-20261127134029-nt.html",
-          "position": 65,
-          "focus": "Usa solo la palabra 'Calladita' como titular, sin contextualizar la controversia, normalizando la expresión"
+          "headline": "El día de reflexión de los candidatos: Feijóo viaja a Ceuta a pasar parte de la jornada",
+          "link": "https://www.abc.es/espana/dia-reflexion-candidatos-feijoo-ceuta-20261128100308-nt.html",
+          "position": 50,
+          "focus": "ABC describe el hecho de forma neutra, centrado en que es parte de la jornada de reflexión de los candidatos, sin atribuir motivación"
         },
         {
           "outlet": "eldiario.es",
-          "headline": "El “y usted, calladita” de Feijóo a Colau impacta en el final de la campaña y el PP lo defiende: “Manosean el feminismo\"",
-          "link": "https://www.eldiario.es/politica/pp-sale-defensa-feijoo-calladita-colau-manosean-feminismo-esparciendo-bulos_1_13698239.html",
-          "position": 15,
-          "focus": "Destaca el impacto negativo de la frase y recoge críticas de que el PP 'manosea el feminismo'"
+          "headline": "Feijóo visita Ceuta en la jornada de reflexión como muestra de \"apoyo y solidaridad\"",
+          "link": "https://www.eldiario.es/politica/feijoo-visita-ceuta-jornada-reflexion-muestra-apoyo-solidaridad_1_13701045.html",
+          "position": 25,
+          "focus": "eldiario.es reproduce la misma justificación de 'apoyo y solidaridad' que El Mundo, sin matizar intenciones electorales"
         },
         {
           "outlet": "La Vanguardia",
-          "headline": "“Calladitos y calladitas”",
-          "link": "https://www.lavanguardia.com/politica/20261127/11694474/calladitos-calladitas.html",
+          "headline": "Ceuta, paseos por el campo y música electrónica: así pasan los candidatos la jornada de reflexión",
+          "link": "https://www.lavanguardia.com/politica/20261128/11695688/ceuta-paseos-campo-musica-electronica-asi-pasan-candidatos-jornada-reflexion.html",
           "position": 50,
-          "focus": "Reproduce la cita textual sin valoración explícita"
+          "focus": "La Vanguardia integra el viaje a Ceuta en un retrato general de cómo varios candidatos pasan el día, sin enfatizar motivación particular"
         },
         {
           "outlet": "El Espanol",
-          "headline": "La manipulación del \"y usted calladita\": un reproche de Feijóo a Colau que Sánchez convirtió en una acusación de machismo",
-          "link": "https://www.elespanol.com/reportajes/20261127/bulo-usted-calladita-reproche-dana-feijoo-colau-sanchez-convirtio-acusacion-machismo/1003744474147_0.html",
-          "position": 85,
-          "focus": "Enmarca la polémica como una manipulación orquestada por Sánchez para acusar de machismo a Feijóo"
+          "headline": "Feijóo cumple su promesa con Vivas: pasa el día de reflexión en Ceuta como acto de solidaridad pero sin hacer campaña",
+          "link": "https://www.elespanol.com/espana/politica/20261128/feijoo-cumple-promesa-vivas-pasa-dia-reflexion-ceuta-acto-solidaridad-sin-hacer-campana/1003744476022_0.html",
+          "position": 10,
+          "focus": "El Español subraya explícitamente que el acto es solidario y que Feijóo evita hacer campaña, descartando la lectura electoralista"
         }
       ],
-      "rango": 70,
+      "rango": 65,
       "discrepancia": "alta",
       "silenciosos": [
         "20minutos"
       ]
     },
     {
-      "neutral_headline": "Medios difieren en quién resultó ganador del debate electoral a cuatro",
+      "neutral_headline": "Previsiones y resultados de las elecciones generales según distintos metodos",
       "section": "Politica",
       "facts": [
-        "Se celebró un debate electoral con cuatro participantes",
-        "El Pais señala que sus analistas se decantan por Ada Colau como ganadora",
-        "El Espanol cita una encuesta en la que el 40% considera que Feijóo ganó el debate",
-        "Segun El Espanol, Feijóo se impuso en todos los bloques salvo en el de Inmigración",
-        "Segun El Espanol, Abascal dominó el bloque de Inmigración",
-        "La Vanguardia plantea la pregunta de quién ganó sin aportar una respuesta"
-      ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "Colau ganadora del debate",
-        "polo_b": "Feijóo ganador del debate",
-        "resumen": "Los medios señalan a protagonistas distintos como vencedores del mismo debate, segun la fuente de evaluacion que citan"
-      },
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "¿Quién ha ganado el debate? Los analistas de EL PAÍS se decantan por Ada Colau",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-11-26/quien-ha-ganado-el-debate-los-analistas-de-el-pais-se-decantan-por-ada-colau.html",
-          "position": 10,
-          "focus": "Destaca el juicio de los analistas propios del medio, que eligen a Colau como ganadora; omite otras valoraciones o encuestas externas"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "¿Quién ha ganado el debate a cuatro?",
-          "link": "https://www.lavanguardia.com/politica/20261127/11694321/ganado-debate-cuatro.html",
-          "position": 50,
-          "focus": "Plantea la pregunta de quien gano sin inclinarse por ningun candidato, dejando abierta la respuesta"
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "El 40% dice que Feijóo ganó el debate y se impuso en todos los bloques salvo el de Inmigración, que dominó Abascal",
-          "link": "https://www.elespanol.com/espana/politica/20261127/dice-feijoo-gano-debate-impuso-bloques-salvo-inmigracion-domino-abascal/1003744474729_0.html",
-          "position": 90,
-          "focus": "Cita una encuesta donde Feijóo es el mas valorado y detalla su dominio por bloques tematicos, con la salvedad del bloque de Inmigracion ganado por Abascal"
-        }
-      ],
-      "rango": 80,
-      "discrepancia": "alta",
-      "silenciosos": [
-        "20minutos",
-        "ABC",
-        "El Mundo",
-        "eldiario.es"
-      ]
-    },
-    {
-      "neutral_headline": "Marc Márquez anuncia su retirada de MotoGP",
-      "section": "Deportes",
-      "facts": [
-        "Marc Márquez anuncia su retirada de MotoGP",
-        "Márquez menciona el miedo como factor en su decisión, vinculado a las lesiones"
+        "El Pais presenta un calculo de probabilidades de mayoria segun encuestas",
+        "El Mundo pregunta a los lectores su intencion de voto para el 29-N",
+        "ABC presenta un resultado y ganador calculado mediante inteligencia artificial"
       ],
       "tipo_divergencia": "ninguna",
       "eje": null,
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "Marc Márquez anuncia por sorpresa su retirada de MotoGP: “Siento el miedo, no a las motos, sino a las lesiones”",
-          "link": "https://elpais.com/deportes/2026-11-27/marc-marquez-anuncia-su-retirada-de-la-competicion.html",
+          "headline": "¿Quién va a ganar las elecciones? La probabilidad de cada mayoría según las encuestas",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-11-26/quien-va-a-ganar-las-elecciones-la-probabilidad-de-cada-mayoria-segun-las-encuestas.html",
           "position": 50,
-          "focus": "Incluye cita textual sobre el miedo a las lesiones, no a las motos"
+          "focus": "Encuadre basado en probabilidad estadistica de mayorias segun encuestas, sin declarar ganador"
         },
         {
           "outlet": "El Mundo",
-          "headline": "Marc Márquez, en su adiós: \"Empecé a sentir miedo\"",
-          "link": "https://www.elmundo.es/deportes/motociclismo/2026/11/27/6b097e1ffdddff48178b45b1.html",
+          "headline": "¿A qué partido político voto este 29-N?",
+          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/25/6b043899e85ecee5408b4597.html",
           "position": 50,
-          "focus": "Incluye cita textual breve sobre el miedo"
+          "focus": "Formato interactivo que pregunta directamente la intencion de voto al lector, sin ofrecer prediccion propia"
         },
         {
           "outlet": "ABC",
-          "headline": "Marc Márquez anuncia su retirada del motociclismo",
-          "link": "https://www.abc.es/deportes/motos/marc-marquez-anuncia-retirada-motociclismo-20261127105554-nt.html",
+          "headline": "Este es el resultado y ganador de las elecciones generales entre PSOE, PP y Vox, según la inteligencia artificial",
+          "link": "https://www.abc.es/recreo/resultado-ganador-elecciones-generales-psoe-pp-vox-20261128060000-nt.html",
           "position": 50,
-          "focus": "Anuncio escueto de la retirada, sin cita ni detalle sobre el miedo"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Marc Márquez anuncia por sorpresa su retirada de MotoGP",
-          "link": "https://www.lavanguardia.com/deportes/motociclismo/20261127/11694835/marc-marquez-motogp-ducati-reitrada.html",
-          "position": 50,
-          "focus": "Anuncio de la retirada por sorpresa, sin cita"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "Marc Márquez anuncia por sorpresa su retirada de MotoGP",
-          "link": "https://www.20minutos.es/deportes/deportes_motor/motogp/bombazo-motogp-marc-marquez-anuncia-por-sorpresa-su-retirada_7066595_0.html",
-          "position": 50,
-          "focus": "Anuncio de la retirada por sorpresa, sin cita"
+          "focus": "Uso de inteligencia artificial para proyectar un resultado y senalar un ganador entre PSOE, PP y Vox"
         }
       ],
       "rango": 0,
       "discrepancia": "baja",
       "silenciosos": [
+        "20minutos",
         "El Espanol",
+        "La Vanguardia",
         "eldiario.es"
       ]
     },
     {
-      "neutral_headline": "Las pensiones subirán un 3,5% en 2027",
-      "section": "Economia",
-      "facts": [
-        "Las pensiones subirán un 3,5% en 2027",
-        "El País y 20minutos vinculan la subida a que la inflación aumentó un 4,1% en noviembre",
-        "El Mundo señala que el anuncio del Gobierno se produce a dos días de las elecciones",
-        "El Mundo cifra el aumento en 775 euros más al año de media para los jubilados",
-        "El Español cifra la prestación media resultante en más de 1.427 euros al mes"
-      ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "anuncio tecnico-economico",
-        "polo_b": "anuncio politizado por el calendario electoral",
-        "resumen": "El Mundo enmarca la subida de pensiones en su proximidad a las elecciones, mientras el resto de medios la presenta como un dato tecnico ligado a la inflacion"
-      },
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "Las pensiones subirán un 3,5% en 2027 tras crecer la inflación el 4,1% en noviembre",
-          "link": "https://elpais.com/economia/2026-11-27/las-pensiones-subiran-un-35-en-2027.html",
-          "position": 50,
-          "focus": "Destaca la cifra de subida y su causa (inflacion de noviembre), sin mencionar contexto politico"
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "El Gobierno confirma que subirá las pensiones un 3,5% a dos días de las elecciones: 775 euros más al año de media para los jubilados",
-          "link": "https://www.elmundo.es/economia/2026/11/27/6b0935cb21efa0364f8b45a2.html",
-          "position": 90,
-          "focus": "Enmarca el anuncio en la cercania de las elecciones y añade la cifra concreta de aumento anual, sugiriendo posible calculo electoral"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "Las pensiones subirán un 3,5% en 2027",
-          "link": "https://www.eldiario.es/economia/pensiones-subiran-3-5-2027_1_13697886.html",
-          "position": 50,
-          "focus": "Titular escueto que solo recoge el hecho de la subida, sin causas ni contexto"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Las pensiones subirán un 3,5% en 2027",
-          "link": "https://www.lavanguardia.com/economia/20261127/11694722/pensiones-subiran-3-5-2027.html",
-          "position": 50,
-          "focus": "Idéntico enfoque que eldiario.es, solo el dato de la subida"
-        },
-        {
-          "outlet": "El Espanol",
-          "headline": "Las pensiones subirán un 3,5% en 2027 y la prestación media superará los 1.427 euros al mes",
-          "link": "https://www.elespanol.com/invertia/economia/macroeconomia/20261127/pensiones-subiran-prestacion-media-superara-euros-mes/1003744474421_0.html",
-          "position": 50,
-          "focus": "Añade la cifra de la prestación media resultante, sin mencionar causas ni contexto politico"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "Las pensiones subirán un 3,5% el año que viene tras conocerse que la inflación aumentó un 4,1% en noviembre",
-          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/las-pensiones-subiran-un-3-5-2027-tras-conocerse-que-inflacion-subio-un-4-1-noviembre_7066529_0.html",
-          "position": 50,
-          "focus": "Vincula la subida a la inflacion de noviembre, igual que El Pais, sin mencion electoral"
-        }
-      ],
-      "rango": 40,
-      "discrepancia": "media",
-      "silenciosos": [
-        "ABC"
-      ]
-    },
-    {
-      "neutral_headline": "Cobertura mediática del debate electoral a cuatro entre Sánchez, Feijóo, Abascal y Colau",
-      "section": "Politica",
-      "facts": [
-        "Participaron Sánchez, Feijóo, Abascal y Colau",
-        "El debate fue a cuatro candidatos",
-        "Se produjo un intercambio con la frase 'usted, calladita' de Feijóo a Colau",
-        "Se mencionó el tema de la mili de Sánchez",
-        "Se usaron expresiones como 'gran buitre', 'a otro perro con ese hueso', 'Peugeot de guarros', 'Cuentas y cuentos' y 'Robin Hood'",
-        "El debate se celebró de cara a elecciones del 29 de noviembre"
-      ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "fiscalización del contenido (verdad/mentira)",
-        "polo_b": "espectáculo y forma (estética, frases virales)",
-        "resumen": "Los medios se dividen entre quienes priorizan verificar lo dicho en el debate y quienes destacan su dimensión de espectáculo (looks, frases, momentos virales)"
-      },
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "Mentiras y medias verdades del debate electoral a cuatro entre Sánchez, Feijóo, Abascal y Colau",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-11-26/mentiras-y-medias-verdades-del-debate-electoral-a-cuatro-entre-sanchez-feijoo-abascal-y-colau.html",
-          "position": 0,
-          "focus": "Se centra en verificar la veracidad de las afirmaciones de los candidatos, con un enfoque de fact-checking; omite detalles de forma o espectáculo"
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "El \"gran buitre\", \"a otro perro con ese hueso\" y \"usted, calladita\": los 10 momentos más intensos del debate  de cuatro candidatos",
-          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/27/6b086e1d21efa0eb568b456d.html",
-          "position": 75,
-          "focus": "Destaca los momentos más intensos y frases llamativas como contenido noticioso principal, priorizando el espectáculo sobre el análisis de fondo"
-        },
-        {
-          "outlet": "ABC",
-          "headline": "Los looks del debate a cuatro: sastrería clásica, la corbata de Sánchez y el pin como accesorio protagonista",
-          "link": "https://www.abc.es/summum/estilo/moda/looks-debate-cuatro-sastreria-clasica-corbata-sanchez-20261127095738-nt.html",
-          "position": 90,
-          "focus": "Enfoca la cobertura en la estética y vestimenta de los candidatos, ignorando por completo el contenido político del debate"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "De la mili de Sánchez al \"usted calladita\" de Feijóo a Colau: los mejores vídeos del debate a cuatro",
-          "link": "https://www.eldiario.es/politica/mili-sanchez-calladita-feijoo-colau-mejores-videos-debate-cuatro_1_13697638.html",
-          "position": 55,
-          "focus": "Combina referencias a contenido sustantivo (la mili) con frases destacadas, en formato de vídeos recopilatorios, con un balance entre fondo y forma"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "\"Buitres\", \"Peugeot de guarros\", \"Cuentas y cuentos\", \"Robin Hood\"... las frases más destacadas que deja el debate a cuatro del 29N",
-          "link": "https://www.20minutos.es/nacional/buitres-peugeot-guarros-cuentas-cuentos-robin-hood-las-frases-mas-destacadas-que-deja-debate-cuatro-29n_7066470_0.html",
-          "position": 75,
-          "focus": "Recopila frases y expresiones llamativas del debate como eje central, priorizando lo anecdótico sobre la verificación de contenido"
-        }
-      ],
-      "rango": 90,
-      "discrepancia": "alta",
-      "silenciosos": [
-        "El Espanol",
-        "La Vanguardia"
-      ]
-    },
-    {
-      "neutral_headline": "Varios muertos en el naufragio de un cayuco cerca de El Hierro",
+      "neutral_headline": "El Gobierno de Murcia busca frenar judicialmente el traslado a Cartagena del buque naufragado en Ibiza",
       "section": "Sociedad",
       "facts": [
-        "El Pais reporta al menos seis muertos en el rescate de un cayuco en El Hierro",
-        "La Vanguardia reporta al menos diez muertos en un cayuco que se dirige a El Hierro",
-        "20minutos reporta al menos diez muertos y seis inmigrantes evacuados en helicoptero de un cayuco cerca de El Hierro"
+        "Un buque petrolero naufragó frente a Ibiza (Eivissa)",
+        "El Gobierno de Murcia pretende acudir a la Justicia para frenar o suspender el traslado del buque a Cartagena",
+        "Según ABC, el buque se llama Med Emre",
+        "Según eldiario.es, Cartagena es el único puerto viable para el traslado",
+        "Según La Vanguardia, el remolque del buque hacia Cartagena ya ha comenzado"
       ],
       "tipo_divergencia": "cronologica",
       "eje": null,
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "Al menos seis muertos en el rescate de un cayuco en El Hierro",
-          "link": "https://elpais.com/espana/2026-11-27/varios-muertos-en-el-rescate-de-un-cayuco-en-el-hierro.html",
+          "headline": "El Gobierno de Murcia tratará de frenar el traslado del petrolero hundido en Ibiza en los tribunales",
+          "link": "https://elpais.com/espana/2026-11-28/el-gobierno-murciano-pedira-a-la-justicia-impedir-que-el-buque-naufragado-llegue-a-cartagena.html",
           "position": 50,
-          "focus": "Centra en el rescate y da una cifra inicial de seis muertos, posiblemente un balance mas temprano"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Nuevo drama en la ruta canaria: al menos diez muertos en un cayuco que se dirige a El Hierro",
-          "link": "https://www.lavanguardia.com/local/canarias/20261127/11695005/evacuados-seis-migrantes-cayuco-iba-hierro-cadaveres-pasaje.html",
-          "position": 50,
-          "focus": "Actualiza la cifra a diez muertos, enfatizando la recurrencia del drama en la ruta canaria"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "Al menos diez muertos y seis inmigrantes evacuados en helicóptero de un cayuco cerca de El Hierro",
-          "link": "https://www.20minutos.es/canarias/seis-migrantes-evacuados-helicoptero-un-cayuco-cerca-hierro-que-lleva-varios-fallecidos-bordo_7066713_0.html",
-          "position": 50,
-          "focus": "Combina la cifra actualizada de diez muertos con el detalle de la evacuacion en helicoptero de seis supervivientes"
-        }
-      ],
-      "rango": 0,
-      "discrepancia": "baja",
-      "silenciosos": [
-        "ABC",
-        "El Espanol",
-        "El Mundo",
-        "eldiario.es"
-      ]
-    },
-    {
-      "neutral_headline": "Mujer de 34 años muere apuñalada en Bilbao a manos de su (ex)pareja, que tenía una orden de alejamiento",
-      "section": "Sociedad",
-      "facts": [
-        "Una mujer de 34 años fue apuñalada en Bilbao y murió, según El Mundo, en el hospital al día siguiente",
-        "El agresor tenía una orden de alejamiento, según El Mundo y 20minutos",
-        "El agresor es identificado como expareja, de 47 años, según eldiario.es",
-        "El ataque ocurrió en presencia de los hijos de la víctima, según La Vanguardia y 20minutos",
-        "El Pais sitúa el caso en el contexto de 50 mujeres asesinadas en lo que va de año y señala que ocurrió durante un debate de candidatos en campaña electoral"
-      ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "caso individual (crimen concreto)",
-        "polo_b": "fenómeno estructural/político (violencia machista como problema social y electoral)",
-        "resumen": "Mientras la mayoría de medios narra el crimen como un suceso individual con sus detalles judiciales y familiares, El Pais lo integra en el relato más amplio de la violencia machista y su peso en la campaña electoral"
-      },
-      "frames": [
-        {
-          "outlet": "El Pais",
-          "headline": "La violencia machista sacude el final de la campaña: 50 asesinadas en lo que va de año, la última mientras debatían los candidatos",
-          "link": "https://elpais.com/sociedad/2026-11-27/la-violencia-machista-sacude-el-final-de-la-campana-50-asesinadas-en-lo-que-va-de-ano-la-ultima-mientras-debatian-los-candidatos.html",
-          "position": 85,
-          "focus": "Enmarca el crimen dentro del fenómeno de la violencia machista y su impacto en la campaña electoral, aportando la cifra anual de víctimas; omite detalles concretos del caso como la edad del agresor o la presencia de los hijos"
-        },
-        {
-          "outlet": "El Mundo",
-          "headline": "Muere en el hospital la mujer de 34 años a la que su pareja, con una orden de alejamiento, acuchilló ayer en Bilbao",
-          "link": "https://www.elmundo.es/pais-vasco/2026/11/27/6b09266c21efa06d268b4592.html",
-          "position": 15,
-          "focus": "Se centra en los hechos concretos del caso: edad de la víctima, orden de alejamiento, desenlace en el hospital; no menciona el contexto social o electoral"
-        },
-        {
-          "outlet": "eldiario.es",
-          "headline": "Asesinada una mujer de 34 años en Bilbao a manos de su expareja, un hombre de 47 años",
-          "link": "https://www.eldiario.es/euskadi/asesinada-mujer-34-anos-bilbao-manos-expareja-hombre-47-anos_1_13697819.html",
-          "position": 20,
-          "focus": "Describe el hecho puntual identificando a la víctima y al agresor con sus edades; no vincula el caso a un contexto más amplio"
-        },
-        {
-          "outlet": "La Vanguardia",
-          "headline": "Un hombre mata a puñaladas a su expareja delante de sus hijos en Bilbao",
-          "link": "https://www.lavanguardia.com/sucesos/20261127/11694691/muere-mujer-apunalada-bilbao-expareja-delante-hijos.html",
-          "position": 20,
-          "focus": "Destaca la presencia de los hijos durante el ataque como elemento central; se centra en el suceso individual"
-        },
-        {
-          "outlet": "20minutos",
-          "headline": "Asesinada una mujer de 34 años en Bilbao por su expareja en presencia de sus hijos y pese a tener orden de alejamiento",
-          "link": "https://www.20minutos.es/pais-vasco/vizcaya/detenido-bilbao-por-herir-su-expareja-con-un-arma-blanca_7066457_0.html",
-          "position": 20,
-          "focus": "Combina los detalles del caso (hijos presentes, orden de alejamiento) sin conectar con un contexto social o político más amplio"
-        }
-      ],
-      "rango": 70,
-      "discrepancia": "alta",
-      "silenciosos": [
-        "ABC",
-        "El Espanol"
-      ]
-    },
-    {
-      "neutral_headline": "Un confidente declara ante la jueza que el jefe de Policía de Tetuán anunció con antelación la entrada masiva a Ceuta",
-      "section": "Politica",
-      "facts": [
-        "Un testigo protegido o confidente declaró ante la jueza que investiga los hechos",
-        "El jefe de Policía de Tetuán anunció con antelación la entrada masiva de migrantes a Ceuta",
-        "Según El Mundo, el jefe de Policía dijo textualmente: Ya viene el asalto final al final de mes y que se vayan todos a la mierda",
-        "Según ABC, el aviso se produjo tres semanas antes de la entrada masiva",
-        "Según El Español, el jefe de Policía se llama El Oualidi y el aviso fue 20 días antes, calificando la entrada como asalto masivo"
-      ],
-      "tipo_divergencia": "ninguna",
-      "eje": null,
-      "frames": [
-        {
-          "outlet": "El Mundo",
-          "headline": "Un testigo protegido declara a la juez que el jefe de Policía de Tetuán le anunció la oleada migratoria: \"Ya viene el asalto final al final de mes y que se vayan todos a la mierda\"",
-          "link": "https://www.elmundo.es/espana/2026/11/27/6b097a1c21efa0f4398b458d.html",
-          "position": 50,
-          "focus": "Destaca la cita textual atribuida al jefe de Policía, enfatizando su tono y lenguaje; omite el nombre del cargo y la cifra exacta de dias de antelacion"
+          "focus": "Centra el hecho en la intención del Gobierno murciano de recurrir a los tribunales"
         },
         {
           "outlet": "ABC",
-          "headline": "Un confidente declara que un jefe de Policía de Tetuán le avisó tres semanas antes de la entrada masiva a Ceuta",
-          "link": "https://www.abc.es/espana/confidente-declara-jefe-policia-tetuan-aviso-tres-20261127141932-nt.html",
+          "headline": "El Gobierno de Murcia pedirá a la Justicia que suspendan el traslado del buque Med Emre a Cartagena",
+          "link": "https://www.abc.es/espana/murcia/gobierno-murcia-pedira-justicia-suspendan-traslado-buque-20261128123549-nt.html",
           "position": 50,
-          "focus": "Destaca el plazo de tres semanas de antelacion; omite la cita textual y el nombre del jefe de Policía"
+          "focus": "Añade el nombre del buque (Med Emre) y precisa que se pedirá la suspensión judicial del traslado"
+        },
+        {
+          "outlet": "eldiario.es",
+          "headline": "El Gobierno de Murcia intenta que la Justicia frene el traslado del buque naufragado a Cartagena, el único puerto viable",
+          "link": "https://www.eldiario.es/murcia/gobierno-murcia-pedira-justicia-medidas-cautelarisimas-impedir-buque-naufragado-llegue-cartagena_1_13701200.html",
+          "position": 50,
+          "focus": "Incluye el dato de que Cartagena es el único puerto viable para el traslado"
+        },
+        {
+          "outlet": "La Vanguardia",
+          "headline": "Empiezan a remolcar destino a Cartagena el buque naufragado frente a Eivissa",
+          "link": "https://www.lavanguardia.com/vida/20261128/11695742/empiezan-remolcar-destino-cartagena-buque-naufragado-frente-eivissa.html",
+          "position": 50,
+          "focus": "Reporta un momento posterior: el remolque hacia Cartagena ya ha comenzado"
         },
         {
           "outlet": "El Espanol",
-          "headline": "Un confidente declara que el prefecto de Policía de Tetuán, El Oualidi, le anunció el \"asalto masivo\" a Ceuta 20 días antes",
-          "link": "https://www.elespanol.com/espana/tribunales/20261127/confidente-declara-prefecto-policia-tetuan-oualidi-anuncio-asalto-masivo-ceuta-dias/1003744474769_0.html",
+          "headline": "El Gobierno de Murcia acudirá a la Justicia para tratar de impedir que el buque naufragado en Ibiza llegue a Cartagena",
+          "link": "https://www.elespanol.com/espana/20261128/gobierno-murcia-acudira-justicia-tratar-impedir-buque-naufragado-ibiza-llegue-cartagena/1003744476002_0.html",
           "position": 50,
-          "focus": "Destaca la identidad del prefecto (El Oualidi) y el plazo de 20 dias; omite la cita textual literal"
+          "focus": "Describe la intención del Gobierno murciano de impedir judicialmente la llegada del buque a Cartagena"
         }
       ],
       "rango": 0,
       "discrepancia": "baja",
       "silenciosos": [
         "20minutos",
-        "El Pais",
-        "La Vanguardia",
-        "eldiario.es"
+        "El Mundo"
       ]
     },
     {
-      "neutral_headline": "Actualidad económica española: inflación, subida de pensiones y agenda del Banco de España",
-      "section": "Economia",
+      "neutral_headline": "España afronta las semifinales de Copa Davis ante Reino Unido con Jódar ganando el primer punto y Alcaraz disputando el segundo",
+      "section": "Deportes",
       "facts": [
-        "El Banco de España, bajo Hernández de Cos, enfrenta retos como Francia, la inflación, la IA y la integración europea (El País)",
-        "El Gobierno confirmó una subida de las pensiones del 3,5%, equivalente a 775 euros más al año de media para los jubilados (El Mundo)",
-        "El anuncio de la subida de pensiones se produjo a dos días de las elecciones (El Mundo)",
-        "La inflación se moderó hasta el 4,1% en noviembre por el abaratamiento de los combustibles (El Español)"
+        "Rafa Jódar venció a Cameron Norrie en el primer partido de la semifinal",
+        "España se acerca a la final de la Copa Davis tras ese triunfo",
+        "Carlos Alcaraz disputa el segundo partido ante Fery",
+        "El empate de España depende del resultado de Alcaraz"
       ],
-      "tipo_divergencia": "editorial",
-      "eje": {
-        "polo_a": "cobertura técnica/neutral",
-        "polo_b": "encuadre político-electoral",
-        "resumen": "El Mundo vincula explícitamente la medida económica al calendario electoral, mientras El País y El Español mantienen un enfoque técnico sin esa referencia"
-      },
+      "tipo_divergencia": "cronologica",
+      "eje": null,
       "frames": [
         {
           "outlet": "El Pais",
-          "headline": "De Francia a la inflación y de la IA a la integración europea: la larga lista de deberes de Hernández de Cos",
-          "link": "https://elpais.com/economia/2026-11-27/de-francia-a-la-inflacion-y-de-la-ia-a-la-integracion-europea-la-larga-lista-de-deberes-de-hernandez-de-cos.html",
-          "position": 15,
-          "focus": "Se centra en los desafíos técnicos e institucionales del Banco de España, sin mención alguna al contexto electoral"
+          "headline": "España - Reino Unido en directo, las semifinales de la Copa Davis en vivo | Comienza el segundo partido entre Alcaraz y Fery",
+          "link": "https://elpais.com/deportes/2026-11-28/espana-reino-unido-en-directo-el-partido-de-la-copa-davis-en-vivo.html",
+          "position": 50,
+          "focus": "Cobertura en directo del encuentro, situa el inicio del segundo partido entre Alcaraz y Fery"
         },
         {
           "outlet": "El Mundo",
-          "headline": "El Gobierno confirma que subirá las pensiones un 3,5% a dos días de las elecciones: 775 euros más al año de media para los jubilados",
-          "link": "https://www.elmundo.es/economia/2026/11/27/6b0935cb21efa0364f8b45a2.html",
-          "position": 85,
-          "focus": "Destaca explícitamente el momento electoral junto con la medida de subida de pensiones, sugiriendo un posible cálculo político; omite detalles técnicos del Banco de España"
+          "headline": "Jódar se desata ante Norrie y acerca a España a la final de la Copa Davis",
+          "link": "https://www.elmundo.es/deportes/tenis/copa-davis/2026/11/28/6b0ac861e85ece933a8b45aa.html",
+          "position": 50,
+          "focus": "Resalta la actuación de Jódar tras ganar a Norrie y el avance de España"
+        },
+        {
+          "outlet": "ABC",
+          "headline": "Jódar cumple a lo grande: primer punto contundente para España",
+          "link": "https://www.abc.es/deportes/tenis/jodar-20261128113032-nt.html",
+          "position": 50,
+          "focus": "Destaca el triunfo de Jódar como primer punto contundente para España"
         },
         {
           "outlet": "El Espanol",
-          "headline": "La inflación se modera hasta el 4,1% en noviembre por el abaratamiento de los combustibles",
-          "link": "https://www.elespanol.com/invertia/economia/20261127/inflacion-modera-noviembre-abaratamiento-combustibles/1003744474396_0.html",
-          "position": 20,
-          "focus": "Reporta el dato de inflación de forma neutral, centrado en la causa (combustibles) sin referencia política"
+          "headline": "Rafa Jódar se lleva el primer punto y pone a España a un paso de la final de la Copa Davis al batir a Cameron Norrie",
+          "link": "https://www.elespanol.com/deportes/tenis/20261128/rafa-jodar-lleva-primer-punto-pone-espana-paso-final-copa-davis-batir-cameron-norrie/1003744476021_0.html",
+          "position": 50,
+          "focus": "Informa que Jódar logra el primer punto batiendo a Norrie y acerca a España a la final"
+        },
+        {
+          "outlet": "20minutos",
+          "headline": "Turno para Alcaraz: debuta en la Copa Davis para dar a España el pase a la final",
+          "link": "https://www.20minutos.es/deportes/tenis/espana-gran-bretana-las-copa-davis-directo-ultima-hora-carlos-alcaraz-rafa-jodar-granollers-merida-pedro-martinez_7066971_6.html",
+          "position": 50,
+          "focus": "Anuncia el debut de Alcaraz en la eliminatoria, centrando la atención en el segundo partido"
         }
       ],
-      "rango": 70,
-      "discrepancia": "alta",
+      "rango": 0,
+      "discrepancia": "baja",
       "silenciosos": [
-        "20minutos",
-        "ABC",
         "La Vanguardia",
         "eldiario.es"
       ]
